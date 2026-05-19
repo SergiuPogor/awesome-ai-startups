@@ -7,21 +7,21 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (33)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (34)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (95)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (116)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (34)
-- [🎬 Video & Animation](#video-animation) (20)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (120)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (35)
+- [🎬 Video & Animation](#video-animation) (22)
 - [🎨 Image, Design & 3D](#image-design-3d) (36)
 - [✍️ Writing & Content](#writing-content) (20)
-- [📊 Analytics & Data](#analytics-data) (28)
-- [🗂 Productivity & Notes](#productivity-notes) (31)
+- [📊 Analytics & Data](#analytics-data) (29)
+- [🗂 Productivity & Notes](#productivity-notes) (33)
 - [🔎 Search & Discovery](#search-discovery) (9)
-- [🎓 Education & Learning](#education-learning) (7)
+- [🎓 Education & Learning](#education-learning) (8)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (5)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (11)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (24)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (6)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (27)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (8)
 - [👥 Social & Community](#social-community) (5)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (2)
 - [✨ Everything Else](#everything-else) (63)
@@ -61,6 +61,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Synter Media AI](https://syntermedia.ai) - Agentic AI advertising platform to plan, launch, and optimize cross-channel campaigns across Google Ads, Meta, LinkedIn, Reddit, and X.
 - [Searchad.ai](https://searchad.ai) - Cursor for Apple Search Ads.
 - [SocLeads](https://socleads.com) - 🚀 Scrape Emails from Instagram, Facebook, Linkedin, and Google Maps by keyword or #hashtag.
+- [Omnia](https://useomnia.com) - Omnia is an AI visibility tool that shows how AI sees your brand and helps you take action.
 
 ## 🤖 AI Agents & Assistants
 
@@ -279,6 +280,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Cline](https://cline.bot) - Cline’s recent launches, reviews, product updates, discussions, and more on Product Hunt.
 - [Wring](https://getwring.app) - Wring is an offline macOS menu bar app with 12 developer tools for JWTs, hashes, regex, JSON, Base64, timestamps, cron, colors, UUIDs, diffs, load monitoring, andenv secrets.
 - [Agentmemory](https://agent-memory.dev) - You can now give Hermes, Claude Code, and Codex infinite memory.
+- [ShioriCode](https://shiori.ai/code) - A desktop interface for the coding-agent CLIs you already use — Codex, Claude Code, Cursor, Gemini, Kimi, and a hosted Shiori provider.
+- [Haystack](https://haystackeditor.com) - Haystack helps engineering teams manage the growing volume of AI-generated pull requests.
+- [Cursor](https://cursor.com) - Built to make you extraordinarily productive, Cursor is the best way to code with AI.
+- [Drizz](https://www.drizz.dev) - Drizz is an AI-powered mobile test automation platform built around intent-based testing.
 
 ## 🎙 Audio, Voice & Music
 
@@ -316,6 +321,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Synci](https://app.synci.ai/app) - Synci is an all-in-one AI soundtrack platform built for content creators.
 - [Snaply](https://snaply.ai) - Snaply is free and private AI app for Mac.
 - [Voiser AI](https://voiser.ai/ai-voiceover) - Voiser helps creators, teams, and businesses turn text into the most human like AI voiceovers.
+- [PollyReach](https://pollyreach.ai) - Most AI phone tools are built for enterprises — APIs, workflows, sales automation.
 
 ## 🎬 Video & Animation
 
@@ -339,6 +345,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Edit Mind](https://edit-mind.com) - Built for content creators, video editors, journalists, and video production companies.
 - [Loova Agents](https://loova.ai/ai-agent/intro) - Tell Loova your idea in everyday words, and Loova agents act as your personal director to plan, direct, and generate your film.
 - [Vivago](https://vivago.ai) - Generate AI videos that captivate with stunning results, coupled with 4K Video Enhancement and beginner-friendly automatic prompt optimization, delivers an unparalleled video creation experience….
+- [Starchild-1 by Odyssey](https://odyssey.ml) - Starchild-1 is the first real-time multimodal world model that generates synchronized audio + video while responding live to user input.
+- [Motion](https://motion.so) - Motion is a frontier video agent for tasteful motion design.
 
 ## 🎨 Image, Design & 3D
 
@@ -434,6 +442,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Calculeaf](https://calculeaf.com) - Web-based engineering calculation worksheets with AI formula generation.
 - [Known Agents](https://knownagents.com) - Known Agents is "Google Analytics for bots".
 - [Polarity](https://polarity.so) - Polarity monitors every agent decision in production, surfaces failure patterns before users hit them, and turns trajectories into evals that compound your agent’s reliability over time!.
+- [Voker](https://voker.ai) - Voker is the Agent Analytics Platform for AI product teams.
 
 ## 🗂 Productivity & Notes
 
@@ -468,6 +477,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Raybeam](https://raybeam.live) - Raybeam is a macOS app for sharing a draggable, resizable region of your screen—perfect for ultra-wide and multi-monitor setups.
 - [Draft](https://draft.innosage.co) - Draft captures valuable answers from ChatGPT, Gemini, DeepSeek, vertical chatbots, then turns them into editable, searchable notes.
 - [Shadow](https://www.shadow.do) - Shadow is the AI interface for your Mac.
+- [AutoShelf](https://useautoshelf.com) - AutoShelf is a macOS app that watches your folders and auto-organizes files.
+- [​Monocle for macOS](https://www.heyiam.dk/monocle) - Monocle is a modern take on window dimming that elegantly blurs everything except your active window by simply shaking your cursor.
 
 ## 🔎 Search & Discovery
 
@@ -491,6 +502,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [How AI-pilled are you?](https://www.ai-pilled.com) - The P9 AI Fluency Index gives you an explainable grade in ~12 minutes, along with clear recommendations on how to reach the next level.
 - [Pickurai](https://pickurai.ai) - AI tool recommender that returns one best match, two alternatives, and one indie pick from a six-question quiz under 60 seconds.
 - [SUN](https://sunapp.ai) - SUN turns any topic into a personalized AI generated audio course you can listen to while living your life.
+- [LearnHouse](https://learnhouse.app) - LearnHouse enables you to start World-class Online Universities, Trainings, Bootcamps, Courses in any format you'd want and with LearnHouse AI, students can ask specific questions about your….
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -540,6 +552,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Composio](https://composio.dev) - Your AI agent knows what to do, Composio gives it the tools to actually do it.
 - [HasData](https://hasdata.com) - HasData is the managed web scraping service for data pipelines and AI agents.
 - [Files SDK](https://files-sdk.dev) - A unified storage SDK for object and blob backends.
+- [Papr.ai](https://www.papr.ai) - Ranked #1 on Stanford’s STaRK benchmark with 91%+ retrieval accuracy and <100ms, Papr unifies RAG + memory in one API that reduces AI hallucinations and powers personalized agents.
+- [imgproxy](https://imgproxy.net) - imgproxy is a fast and secure standalone server for resizing, processing, and converting images.
+- [CtrlOps](https://ctrlops.io) - Most devs manage servers from a spreadsheet of IPs and commands nobody remembers.
 
 ## 💬 Chatbots & Conversational
 
@@ -549,6 +564,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Upvotics](https://upvotics.com) - Upvotics is a competitive Intelligence and monitoring tool that tracks competitor website changes automatically and turns them into.
 - [LumiChats Offline](https://lumichats.com/docs) - Run powerful AI models entirely offline no internet, no GPU, no cloud.
 - [Auvylo](https://auvylo.com/product-hunt) - Auvylo turns Four Pillars and birth charts into AI personas you can talk to.
+- [Chert](https://www.trychert.com) - Build and deploy conversational iMessage agents for customer service, inbound lead capture, and more.
+- [Mantle Chat](https://mantle.chat) - Mantle Chat is an AI-powered platform that helps teams communicate, collaborate, solve problems, and work with AI together in one place.
 
 ## 👥 Social & Community
 
