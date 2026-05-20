@@ -7,23 +7,23 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (34)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (95)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (120)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (35)
-- [🎬 Video & Animation](#video-animation) (22)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (35)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (96)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (123)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (36)
+- [🎬 Video & Animation](#video-animation) (25)
 - [🎨 Image, Design & 3D](#image-design-3d) (36)
 - [✍️ Writing & Content](#writing-content) (20)
 - [📊 Analytics & Data](#analytics-data) (29)
-- [🗂 Productivity & Notes](#productivity-notes) (33)
-- [🔎 Search & Discovery](#search-discovery) (9)
-- [🎓 Education & Learning](#education-learning) (8)
+- [🗂 Productivity & Notes](#productivity-notes) (36)
+- [🔎 Search & Discovery](#search-discovery) (10)
+- [🎓 Education & Learning](#education-learning) (9)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (5)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (11)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (27)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (8)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (9)
 - [👥 Social & Community](#social-community) (5)
-- [🛒 E-commerce & Retail](#e-commerce-retail) (2)
+- [🛒 E-commerce & Retail](#e-commerce-retail) (3)
 - [✨ Everything Else](#everything-else) (63)
 
 ## 📣 Marketing, SEO & Sales
@@ -62,6 +62,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Searchad.ai](https://searchad.ai) - Cursor for Apple Search Ads.
 - [SocLeads](https://socleads.com) - 🚀 Scrape Emails from Instagram, Facebook, Linkedin, and Google Maps by keyword or #hashtag.
 - [Omnia](https://useomnia.com) - Omnia is an AI visibility tool that shows how AI sees your brand and helps you take action.
+- [mailX by mailwarm](https://themailx.com) - Your emails go to spam.
 
 ## 🤖 AI Agents & Assistants
 
@@ -160,6 +161,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Fulcrum Agents](https://fulcrumds.com/agents) - Fulcrum Agents provides your own dedicated AI agent without the setup headache.
 - [Triggered Agents by Adaptive](https://adaptive.ai/triggered-agents) - Adaptive lets you attach AI agents to events in your business tools so they act automatically when a trigger fires.
 - [LobeHub](https://lobehub.com) - LobeHub is a system built for human-agent collaboration, with CAO — your Chief Agent Operator — at the center.
+- [Viberia](https://getviberia.com) - Do you like your Claude/Codex pet but wish you had a zoo?.
 
 ## 💻 Coding & Developer Tools
 
@@ -284,6 +286,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Haystack](https://haystackeditor.com) - Haystack helps engineering teams manage the growing volume of AI-generated pull requests.
 - [Cursor](https://cursor.com) - Built to make you extraordinarily productive, Cursor is the best way to code with AI.
 - [Drizz](https://www.drizz.dev) - Drizz is an AI-powered mobile test automation platform built around intent-based testing.
+- [Layout.dev](https://layout.dev) - Layout is an AI-powered platform that helps founders and developers turn ideas into working software applications instantly.
+- [Runtime](https://runtm.com) - Turn coding agents into teammates anyone can use from Slack, Linear, CLI, API or your browser.
+- [Emdash](https://emdash.sh) - Emdash is an open-source desktop app for running multiple coding agents in parallel; one place to monitor sessions, review diffs, and turn issues into PRs.
 
 ## 🎙 Audio, Voice & Music
 
@@ -322,6 +327,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Snaply](https://snaply.ai) - Snaply is free and private AI app for Mac.
 - [Voiser AI](https://voiser.ai/ai-voiceover) - Voiser helps creators, teams, and businesses turn text into the most human like AI voiceovers.
 - [PollyReach](https://pollyreach.ai) - Most AI phone tools are built for enterprises — APIs, workflows, sales automation.
+- [Chromtuner](https://chromtuner.com) - A chromatic tuner for macOS.
 
 ## 🎬 Video & Animation
 
@@ -347,6 +353,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Vivago](https://vivago.ai) - Generate AI videos that captivate with stunning results, coupled with 4K Video Enhancement and beginner-friendly automatic prompt optimization, delivers an unparalleled video creation experience….
 - [Starchild-1 by Odyssey](https://odyssey.ml) - Starchild-1 is the first real-time multimodal world model that generates synchronized audio + video while responding live to user input.
 - [Motion](https://motion.so) - Motion is a frontier video agent for tasteful motion design.
+- [Insta 360](https://www.insta360.com) - The leader in 360 cameras Founded in 2014, Insta360 is the world leader in 360-degree cameras.
+- [Retina](https://blendpixel.com/products/retina) - Retina is a Mac screen recorder built for polished demos.
+- [ツSupercut](https://supercut.ai) - Video Messaging for the fastest teams that need to Move Work Forward.
 
 ## 🎨 Image, Design & 3D
 
@@ -479,6 +488,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Shadow](https://www.shadow.do) - Shadow is the AI interface for your Mac.
 - [AutoShelf](https://useautoshelf.com) - AutoShelf is a macOS app that watches your folders and auto-organizes files.
 - [​Monocle for macOS](https://www.heyiam.dk/monocle) - Monocle is a modern take on window dimming that elegantly blurs everything except your active window by simply shaking your cursor.
+- [Glia](https://glia-ai.vercel.app) - Glia is a 100% offline, open-source memory bridge.
+- [Contextberg](https://contextberg.com) - Contextberg is a local memory app for AI agents.
+- [GhostSnap](https://ghostsnap.app) - Taking multiple screenshots & pasting one by one, to share context with AI or any apps?.
 
 ## 🔎 Search & Discovery
 
@@ -491,6 +503,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ClayHog](https://clayhog.com) - See what ChatGPT, Gemini, Perplexity, Claude & AI Overviews really say about your brand.
 - [WhoAmILookingFor](https://www.whoamilookingfor.com) - WhoAmILookingFor turns your LinkedIn connection CSVs into a private semantic search engine.
 - [pixserp](https://pixserp.com/ph) - pixserp is the AI-native search engine for builders.
+- [Re](http://re.yomeshgupta.com) - Re is a Recommendation Engine which uses advanced machine learning techniques to curate a tailor made list of things that users might like.
 
 ## 🎓 Education & Learning
 
@@ -503,6 +516,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pickurai](https://pickurai.ai) - AI tool recommender that returns one best match, two alternatives, and one indie pick from a six-question quiz under 60 seconds.
 - [SUN](https://sunapp.ai) - SUN turns any topic into a personalized AI generated audio course you can listen to while living your life.
 - [LearnHouse](https://learnhouse.app) - LearnHouse enables you to start World-class Online Universities, Trainings, Bootcamps, Courses in any format you'd want and with LearnHouse AI, students can ask specific questions about your….
+- [Reader Alive](https://readeralive.pages.dev) - Reader Alive is an AI-powered ebook reader for iPhone and iPad.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -566,6 +580,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Auvylo](https://auvylo.com/product-hunt) - Auvylo turns Four Pillars and birth charts into AI personas you can talk to.
 - [Chert](https://www.trychert.com) - Build and deploy conversational iMessage agents for customer service, inbound lead capture, and more.
 - [Mantle Chat](https://mantle.chat) - Mantle Chat is an AI-powered platform that helps teams communicate, collaborate, solve problems, and work with AI together in one place.
+- [Owlish](https://owlish.bot) - Owlish turns your website, FAQs, docs, and PDFs into an AI customer support agent that answers common questions, cites sources, uses approved replies, and hands off to a human when needed.
 
 ## 👥 Social & Community
 
@@ -579,6 +594,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 - [Wafaa.io](https://wafaa.io) - Meet Wafaa, your new one-stop shop for digital contracts.
 - [MESA](https://www.getmesa.com) - For Shopify merchants buried in repetitive store operations, MESA turns plain-English requests into automations that work across their.
+- [StoreClaw](https://www.storeclaw.ai) - StoreClaw is the first AI commerce platform with agents that know how to sell, so you can make more money with less effort and less stress.
 
 ## ✨ Everything Else
 
