@@ -11,7 +11,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (96)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (123)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (36)
-- [🎬 Video & Animation](#video-animation) (25)
+- [🎬 Video & Animation](#video-animation) (24)
 - [🎨 Image, Design & 3D](#image-design-3d) (36)
 - [✍️ Writing & Content](#writing-content) (20)
 - [📊 Analytics & Data](#analytics-data) (29)
@@ -353,7 +353,6 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Vivago](https://vivago.ai) - Generate AI videos that captivate with stunning results, coupled with 4K Video Enhancement and beginner-friendly automatic prompt optimization, delivers an unparalleled video creation experience….
 - [Starchild-1 by Odyssey](https://odyssey.ml) - Starchild-1 is the first real-time multimodal world model that generates synchronized audio + video while responding live to user input.
 - [Motion](https://motion.so) - Motion is a frontier video agent for tasteful motion design.
-- [Insta 360](https://www.insta360.com) - The leader in 360 cameras Founded in 2014, Insta360 is the world leader in 360-degree cameras.
 - [Retina](https://blendpixel.com/products/retina) - Retina is a Mac screen recorder built for polished demos.
 - [ツSupercut](https://supercut.ai) - Video Messaging for the fastest teams that need to Move Work Forward.
 
