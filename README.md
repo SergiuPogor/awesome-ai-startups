@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (35)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (96)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (123)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (36)
-- [🎬 Video & Animation](#video-animation) (24)
-- [🎨 Image, Design & 3D](#image-design-3d) (36)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (36)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (97)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (125)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (37)
+- [🎬 Video & Animation](#video-animation) (25)
+- [🎨 Image, Design & 3D](#image-design-3d) (37)
 - [✍️ Writing & Content](#writing-content) (20)
-- [📊 Analytics & Data](#analytics-data) (29)
-- [🗂 Productivity & Notes](#productivity-notes) (36)
+- [📊 Analytics & Data](#analytics-data) (30)
+- [🗂 Productivity & Notes](#productivity-notes) (38)
 - [🔎 Search & Discovery](#search-discovery) (10)
 - [🎓 Education & Learning](#education-learning) (9)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (5)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (6)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (11)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (27)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (29)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (9)
 - [👥 Social & Community](#social-community) (5)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (3)
-- [✨ Everything Else](#everything-else) (63)
+- [✨ Everything Else](#everything-else) (64)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -63,6 +63,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SocLeads](https://socleads.com) - 🚀 Scrape Emails from Instagram, Facebook, Linkedin, and Google Maps by keyword or #hashtag.
 - [Omnia](https://useomnia.com) - Omnia is an AI visibility tool that shows how AI sees your brand and helps you take action.
 - [mailX by mailwarm](https://themailx.com) - Your emails go to spam.
+- [WarmIntro](https://tools.crustdata.com/warmintro) - Cold outreach doesn't work.
 
 ## 🤖 AI Agents & Assistants
 
@@ -162,6 +163,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Triggered Agents by Adaptive](https://adaptive.ai/triggered-agents) - Adaptive lets you attach AI agents to events in your business tools so they act automatically when a trigger fires.
 - [LobeHub](https://lobehub.com) - LobeHub is a system built for human-agent collaboration, with CAO — your Chief Agent Operator — at the center.
 - [Viberia](https://getviberia.com) - Do you like your Claude/Codex pet but wish you had a zoo?.
+- [Tycoon AI](https://tycoon.us) - Tycoon.us enables you to run an entire company with AI agents, powered by Astra, an AI CEO, and 10+ ready-to-use AI agents you can choose from, from CMO who manages X to CTO who codes. Astra also….
 
 ## 💻 Coding & Developer Tools
 
@@ -289,6 +291,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Layout.dev](https://layout.dev) - Layout is an AI-powered platform that helps founders and developers turn ideas into working software applications instantly.
 - [Runtime](https://runtm.com) - Turn coding agents into teammates anyone can use from Slack, Linear, CLI, API or your browser.
 - [Emdash](https://emdash.sh) - Emdash is an open-source desktop app for running multiple coding agents in parallel; one place to monitor sessions, review diffs, and turn issues into PRs.
+- [AppSignal](https://appsignal.com) - Over 1,500 development teams trust AppSignal, an all-in-one APM for Ruby, Elixir, Node.js, Python, and front-end JavaScript applications. AppSignal provides real-time performance monitoring, error….
+- [WeWeb.io](https://www.weweb.io) - Most AI builders get you 80% of the way there.
 
 ## 🎙 Audio, Voice & Music
 
@@ -328,6 +332,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Voiser AI](https://voiser.ai/ai-voiceover) - Voiser helps creators, teams, and businesses turn text into the most human like AI voiceovers.
 - [PollyReach](https://pollyreach.ai) - Most AI phone tools are built for enterprises — APIs, workflows, sales automation.
 - [Chromtuner](https://chromtuner.com) - A chromatic tuner for macOS.
+- [TongueType for macOS](https://tonguetype.app) - TongueType is a macOS voice dictation app powered by Whisper AI running locally on Apple Silicon.
 
 ## 🎬 Video & Animation
 
@@ -355,6 +360,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Motion](https://motion.so) - Motion is a frontier video agent for tasteful motion design.
 - [Retina](https://blendpixel.com/products/retina) - Retina is a Mac screen recorder built for polished demos.
 - [ツSupercut](https://supercut.ai) - Video Messaging for the fastest teams that need to Move Work Forward.
+- [Slideshot](https://slideshot.ai) - Give your AI agent a product flow to record.
 
 ## 🎨 Image, Design & 3D
 
@@ -395,6 +401,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Kirki](https://kirki.com) - Kirki gives WordPress designers a freeform infinite canvas — design freely without structure imposed.
 - [Krea](https://www.krea.ai) - KREA is a website where you can use AI to make images and videos.
 - [ReactVision Studio](https://reactvision.xyz/studio) - A browser-based visual editor for building AR & VR scenes.
+- [Attention Insight](https://www.attentioninsight.com) - A predictive eye-tracking tool for design and marketing teams testing websites, ad creatives, packaging, and video ads.
 
 ## ✍️ Writing & Content
 
@@ -451,6 +458,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Known Agents](https://knownagents.com) - Known Agents is "Google Analytics for bots".
 - [Polarity](https://polarity.so) - Polarity monitors every agent decision in production, surfaces failure patterns before users hit them, and turns trajectories into evals that compound your agent’s reliability over time!.
 - [Voker](https://voker.ai) - Voker is the Agent Analytics Platform for AI product teams.
+- [Mixpanel](http://mixpanel.com) - The always-on product intelligence system that helps teams ship faster and smarter by understanding how people use their products.
 
 ## 🗂 Productivity & Notes
 
@@ -490,6 +498,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Glia](https://glia-ai.vercel.app) - Glia is a 100% offline, open-source memory bridge.
 - [Contextberg](https://contextberg.com) - Contextberg is a local memory app for AI agents.
 - [GhostSnap](https://ghostsnap.app) - Taking multiple screenshots & pasting one by one, to share context with AI or any apps?.
+- [Novi Notes](https://rhcwlq89.github.io/en/novi-note) - Novi Notes isn't just a note app — it's a local AI memory layer for your Mac.
+- [Ente Locker](https://ente.com/locker) - Most storage apps are incredibly complex and built for you while you're alive.
 
 ## 🔎 Search & Discovery
 
@@ -524,6 +534,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ZeroHuman.](https://zerohuman.inc) - Start or grow your business while you sleep.
 - [DogBase](https://dogbase.co) - DogBase is the AI-powered training and team management platform built for professional working dog teams — K9 SAR, law enforcement, dog.
 - [Naptick AI](https://launch.naptick.com) - Naptick is a smart bedside AI sleep companion designed for founders, professionals, light sleepers, and anyone struggling with nighttime stress or doomscrolling.
+- [Tacet](https://www.downloadtacet.com) - You track your steps.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -568,6 +579,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Papr.ai](https://www.papr.ai) - Ranked #1 on Stanford’s STaRK benchmark with 91%+ retrieval accuracy and <100ms, Papr unifies RAG + memory in one API that reduces AI hallucinations and powers personalized agents.
 - [imgproxy](https://imgproxy.net) - imgproxy is a fast and secure standalone server for resizing, processing, and converting images.
 - [CtrlOps](https://ctrlops.io) - Most devs manage servers from a spreadsheet of IPs and commands nobody remembers.
+- [InstaVM](https://instavm.io) - The production control plane for AI agents.
+- [CatchAll by NewsCatcher](https://platform.newscatcherapi.com/catchall/try) - CatchAll is a web search API that builds structured datasets from the open web.
 
 ## 💬 Chatbots & Conversational
 
@@ -660,6 +673,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [M5Stack PaperColor](https://shop.m5stack.com/products/m5paper-color-esp32s3-dev-kit) - PaperColor features 4-inch full-color E Ink, ESP32-S3, Wi-Fi, sensor and audio.
 - [SizzleAir](https://www.sizzleair.app) - SizzleAir is a tiny macOS thermal assistant built specifically for fanless MacBook Airs.
 - [Origio](https://www.findorigio.com) - Most relocation tools give you generic city comparisons.
+- [Vivaldi](https://vivaldi.com) - It’s a web browser.
 
 ## Contributing
 
