@@ -7,22 +7,22 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (36)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (37)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (97)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (125)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (37)
-- [🎬 Video & Animation](#video-animation) (25)
-- [🎨 Image, Design & 3D](#image-design-3d) (37)
-- [✍️ Writing & Content](#writing-content) (20)
-- [📊 Analytics & Data](#analytics-data) (30)
-- [🗂 Productivity & Notes](#productivity-notes) (38)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (128)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (38)
+- [🎬 Video & Animation](#video-animation) (26)
+- [🎨 Image, Design & 3D](#image-design-3d) (38)
+- [✍️ Writing & Content](#writing-content) (22)
+- [📊 Analytics & Data](#analytics-data) (31)
+- [🗂 Productivity & Notes](#productivity-notes) (39)
 - [🔎 Search & Discovery](#search-discovery) (10)
 - [🎓 Education & Learning](#education-learning) (9)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (6)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (11)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (29)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (32)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (9)
-- [👥 Social & Community](#social-community) (5)
+- [👥 Social & Community](#social-community) (6)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (3)
 - [✨ Everything Else](#everything-else) (64)
 
@@ -64,6 +64,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Omnia](https://useomnia.com) - Omnia is an AI visibility tool that shows how AI sees your brand and helps you take action.
 - [mailX by mailwarm](https://themailx.com) - Your emails go to spam.
 - [WarmIntro](https://tools.crustdata.com/warmintro) - Cold outreach doesn't work.
+- [Auto Posts](https://autoposts.io) - Stop wasting your time manually posting on every social platform.
 
 ## 🤖 AI Agents & Assistants
 
@@ -293,6 +294,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Emdash](https://emdash.sh) - Emdash is an open-source desktop app for running multiple coding agents in parallel; one place to monitor sessions, review diffs, and turn issues into PRs.
 - [AppSignal](https://appsignal.com) - Over 1,500 development teams trust AppSignal, an all-in-one APM for Ruby, Elixir, Node.js, Python, and front-end JavaScript applications. AppSignal provides real-time performance monitoring, error….
 - [WeWeb.io](https://www.weweb.io) - Most AI builders get you 80% of the way there.
+- [buildpipe](https://www.buildpipe.com) - A local-first pipeline automation app for developers powered by AI, running natively on your machine.
+- [Zero Assist](https://zeroassist.in) - Detect Parakeet AI, Final Round AI, Cluely & 20+ AI cheating tools in real time.
+- [TestSprite](http://testsprite.com) - TestSprite is the easiest AI agent for frontend and backend software testing, automating the entire testing workflow—from test planning and code generation to execution and debugging.
 
 ## 🎙 Audio, Voice & Music
 
@@ -333,6 +337,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PollyReach](https://pollyreach.ai) - Most AI phone tools are built for enterprises — APIs, workflows, sales automation.
 - [Chromtuner](https://chromtuner.com) - A chromatic tuner for macOS.
 - [TongueType for macOS](https://tonguetype.app) - TongueType is a macOS voice dictation app powered by Whisper AI running locally on Apple Silicon.
+- [JAMtime.ai](https://jamtime.ai) - Tweaking knobs is a time-honored tradition in sound design.
 
 ## 🎬 Video & Animation
 
@@ -361,6 +366,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Retina](https://blendpixel.com/products/retina) - Retina is a Mac screen recorder built for polished demos.
 - [ツSupercut](https://supercut.ai) - Video Messaging for the fastest teams that need to Move Work Forward.
 - [Slideshot](https://slideshot.ai) - Give your AI agent a product flow to record.
+- [Motionvid.ai](https://www.motionvid.ai) - Motion design just got radically easier.
 
 ## 🎨 Image, Design & 3D
 
@@ -402,6 +408,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Krea](https://www.krea.ai) - KREA is a website where you can use AI to make images and videos.
 - [ReactVision Studio](https://reactvision.xyz/studio) - A browser-based visual editor for building AR & VR scenes.
 - [Attention Insight](https://www.attentioninsight.com) - A predictive eye-tracking tool for design and marketing teams testing websites, ad creatives, packaging, and video ads.
+- [Shuffle Design CLI](https://shuffle.dev/design-cli) - Shuffle’s Design CLI lets you generate landing pages and redesign websites directly from your terminal.
 
 ## ✍️ Writing & Content
 
@@ -425,6 +432,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Mac Pet](https://mac-pet.com) - Transform your menu bar — or MacBook notch — into a cozy home for an adorable pixel pet that helps you stay focused.
 - [Bouquin & Ink](https://www.bouquinandink.com) - Bouquin & Ink is a manuscript editor built for writers.
 - [Riffly](https://tryriffly.app) - Riffly is an AI presentation builder you talk to instead of click through.
+- [Prosed](https://tryprosed.com) - You've spent years creating—newsletters, podcasts, LinkedIn posts, courses.
+- [WordPress 7.0](https://wordpress.org/download/releases/7.0) - WordPress 7.0 marks the start of a new era, laying the foundation for AI across the WordPress experience. Greeting you with a modern, more intuitive dashboard, 7.0 introduces enhanced….
 
 ## 📊 Analytics & Data
 
@@ -459,6 +468,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Polarity](https://polarity.so) - Polarity monitors every agent decision in production, surfaces failure patterns before users hit them, and turns trajectories into evals that compound your agent’s reliability over time!.
 - [Voker](https://voker.ai) - Voker is the Agent Analytics Platform for AI product teams.
 - [Mixpanel](http://mixpanel.com) - The always-on product intelligence system that helps teams ship faster and smarter by understanding how people use their products.
+- [Nugget AI](https://nggt.ai) - Nugget AI turns customer interviews into product evidence.
 
 ## 🗂 Productivity & Notes
 
@@ -500,6 +510,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [GhostSnap](https://ghostsnap.app) - Taking multiple screenshots & pasting one by one, to share context with AI or any apps?.
 - [Novi Notes](https://rhcwlq89.github.io/en/novi-note) - Novi Notes isn't just a note app — it's a local AI memory layer for your Mac.
 - [Ente Locker](https://ente.com/locker) - Most storage apps are incredibly complex and built for you while you're alive.
+- [Cleo](https://trycleo.ai) - Cleo is the AI product manager for founders and lean teams.
 
 ## 🔎 Search & Discovery
 
@@ -581,6 +592,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [CtrlOps](https://ctrlops.io) - Most devs manage servers from a spreadsheet of IPs and commands nobody remembers.
 - [InstaVM](https://instavm.io) - The production control plane for AI agents.
 - [CatchAll by NewsCatcher](https://platform.newscatcherapi.com/catchall/try) - CatchAll is a web search API that builds structured datasets from the open web.
+- [DCP](https://dcpagent.com) - Today, many agents read keys and sensitive info from dotenv files, configs, or memory.
+- [SuprSend](https://www.suprsend.com) - SuprSend is a notification infrastructure to build and manage product notifications across all channels.
+- [General Compute](https://generalcompute.com) - GPUs are built for training, not inference.
 
 ## 💬 Chatbots & Conversational
 
@@ -601,6 +615,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Morsel](https://apps.apple.com/us/app/morsel-cook-share-eat/id6756082004) - Morsel is the social networking app for cooking.
 - [Show Me a Leaderboard](https://showmealeaderboard.com) - Show Me a Leaderboard helps companies, nonprofits and friend groups easily launch friendly (or intense!) competitions, with custom.
 - [Flare](https://heyflare.app) - Flare is an AI-native voice-first social app for Gen Z.
+- [moop](https://moop.to) - Social media without media.
 
 ## 🛒 E-commerce & Retail
 
