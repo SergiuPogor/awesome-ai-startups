@@ -7,15 +7,15 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (37)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (38)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (97)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (128)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (129)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (38)
 - [🎬 Video & Animation](#video-animation) (26)
-- [🎨 Image, Design & 3D](#image-design-3d) (38)
+- [🎨 Image, Design & 3D](#image-design-3d) (39)
 - [✍️ Writing & Content](#writing-content) (22)
-- [📊 Analytics & Data](#analytics-data) (31)
-- [🗂 Productivity & Notes](#productivity-notes) (39)
+- [📊 Analytics & Data](#analytics-data) (32)
+- [🗂 Productivity & Notes](#productivity-notes) (44)
 - [🔎 Search & Discovery](#search-discovery) (10)
 - [🎓 Education & Learning](#education-learning) (9)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (6)
@@ -24,7 +24,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [💬 Chatbots & Conversational](#chatbots-conversational) (9)
 - [👥 Social & Community](#social-community) (6)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (3)
-- [✨ Everything Else](#everything-else) (64)
+- [✨ Everything Else](#everything-else) (65)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -65,6 +65,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [mailX by mailwarm](https://themailx.com) - Your emails go to spam.
 - [WarmIntro](https://tools.crustdata.com/warmintro) - Cold outreach doesn't work.
 - [Auto Posts](https://autoposts.io) - Stop wasting your time manually posting on every social platform.
+- [SignalLEMO - Ai Outreach Made Simple](https://signallemo.com) - SignalLEMO gives MSPs, AV integrators, low-voltage contractors, and subcontractors pre-scored leads, AI-generated outreach emails, and an automated pipeline — all in one platform.
 
 ## 🤖 AI Agents & Assistants
 
@@ -297,6 +298,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [buildpipe](https://www.buildpipe.com) - A local-first pipeline automation app for developers powered by AI, running natively on your machine.
 - [Zero Assist](https://zeroassist.in) - Detect Parakeet AI, Final Round AI, Cluely & 20+ AI cheating tools in real time.
 - [TestSprite](http://testsprite.com) - TestSprite is the easiest AI agent for frontend and backend software testing, automating the entire testing workflow—from test planning and code generation to execution and debugging.
+- [Vibedock](https://vibedock.dev) - Every MCP server you have configured injects its tool definitions into your context window on every single message — whether you use it that session or not.
 
 ## 🎙 Audio, Voice & Music
 
@@ -409,6 +411,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ReactVision Studio](https://reactvision.xyz/studio) - A browser-based visual editor for building AR & VR scenes.
 - [Attention Insight](https://www.attentioninsight.com) - A predictive eye-tracking tool for design and marketing teams testing websites, ad creatives, packaging, and video ads.
 - [Shuffle Design CLI](https://shuffle.dev/design-cli) - Shuffle’s Design CLI lets you generate landing pages and redesign websites directly from your terminal.
+- [RetroMac](https://myretromac.app) - RetroMac turns your modern Mac into a live retro machine: CRT, classic Macintosh, VHS, Game Boy and more.
 
 ## ✍️ Writing & Content
 
@@ -469,6 +472,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Voker](https://voker.ai) - Voker is the Agent Analytics Platform for AI product teams.
 - [Mixpanel](http://mixpanel.com) - The always-on product intelligence system that helps teams ship faster and smarter by understanding how people use their products.
 - [Nugget AI](https://nggt.ai) - Nugget AI turns customer interviews into product evidence.
+- [Forsy](https://forsy.ai) - Forsy captures workflow data from the agents you already use (OpenClaw, Claude, Codex, Hermes, etc.) and turns it into sellable structured data. It creates a marketplace for authentic,….
 
 ## 🗂 Productivity & Notes
 
@@ -511,6 +515,11 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Novi Notes](https://rhcwlq89.github.io/en/novi-note) - Novi Notes isn't just a note app — it's a local AI memory layer for your Mac.
 - [Ente Locker](https://ente.com/locker) - Most storage apps are incredibly complex and built for you while you're alive.
 - [Cleo](https://trycleo.ai) - Cleo is the AI product manager for founders and lean teams.
+- [Coca 2.0](https://coca.cammalleri.dev) - Keep your Mac from falling asleep, with one click!.
+- [Kosshi](https://kosshi.app) - Kosshi is a simple native outliner for macOS and iOS.
+- [Bulkmark](https://bulkmark.io) - Stop losing saved tweets.
+- [note.md](https://www.notemd.org) - note.md is a private, local-first markdown based workspace for macOS built for focused writing, research, and structured thought.
+- [Memdex](https://memdex.ai) - Memdex is a Chrome extension that turns every AI conversation into reusable memory.
 
 ## 🔎 Search & Discovery
 
@@ -689,6 +698,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SizzleAir](https://www.sizzleair.app) - SizzleAir is a tiny macOS thermal assistant built specifically for fanless MacBook Airs.
 - [Origio](https://www.findorigio.com) - Most relocation tools give you generic city comparisons.
 - [Vivaldi](https://vivaldi.com) - It’s a web browser.
+- [Finderlock](https://finderlock.com) - Native macOS file protection with Touch ID integration.
 
 ## Contributing
 
