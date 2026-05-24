@@ -8,14 +8,14 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (38)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (97)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (129)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (98)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (130)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (38)
-- [🎬 Video & Animation](#video-animation) (26)
-- [🎨 Image, Design & 3D](#image-design-3d) (39)
+- [🎬 Video & Animation](#video-animation) (27)
+- [🎨 Image, Design & 3D](#image-design-3d) (40)
 - [✍️ Writing & Content](#writing-content) (22)
 - [📊 Analytics & Data](#analytics-data) (32)
-- [🗂 Productivity & Notes](#productivity-notes) (44)
+- [🗂 Productivity & Notes](#productivity-notes) (45)
 - [🔎 Search & Discovery](#search-discovery) (10)
 - [🎓 Education & Learning](#education-learning) (9)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (6)
@@ -24,7 +24,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [💬 Chatbots & Conversational](#chatbots-conversational) (9)
 - [👥 Social & Community](#social-community) (6)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (3)
-- [✨ Everything Else](#everything-else) (65)
+- [✨ Everything Else](#everything-else) (66)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -166,6 +166,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [LobeHub](https://lobehub.com) - LobeHub is a system built for human-agent collaboration, with CAO — your Chief Agent Operator — at the center.
 - [Viberia](https://getviberia.com) - Do you like your Claude/Codex pet but wish you had a zoo?.
 - [Tycoon AI](https://tycoon.us) - Tycoon.us enables you to run an entire company with AI agents, powered by Astra, an AI CEO, and 10+ ready-to-use AI agents you can choose from, from CMO who manages X to CTO who codes. Astra also….
+- [Freu AI](https://freu.ai) - Freu AI is an AI agent for Mac that automates any desktop app with natural language.
 
 ## 💻 Coding & Developer Tools
 
@@ -299,6 +300,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Zero Assist](https://zeroassist.in) - Detect Parakeet AI, Final Round AI, Cluely & 20+ AI cheating tools in real time.
 - [TestSprite](http://testsprite.com) - TestSprite is the easiest AI agent for frontend and backend software testing, automating the entire testing workflow—from test planning and code generation to execution and debugging.
 - [Vibedock](https://vibedock.dev) - Every MCP server you have configured injects its tool definitions into your context window on every single message — whether you use it that session or not.
+- [ModelHub](https://studio.consciousengines.com/model-hub) - ModelHub is a native macOS menu bar app for developers working with local LLMs.
 
 ## 🎙 Audio, Voice & Music
 
@@ -369,6 +371,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ツSupercut](https://supercut.ai) - Video Messaging for the fastest teams that need to Move Work Forward.
 - [Slideshot](https://slideshot.ai) - Give your AI agent a product flow to record.
 - [Motionvid.ai](https://www.motionvid.ai) - Motion design just got radically easier.
+- [Runway Agent](https://app.runwayml.com/agent) - Runway Agent is a conversational AI that takes a brief and outputs finished, sound-designed, edited videos for ads, shorts, and social content.
 
 ## 🎨 Image, Design & 3D
 
@@ -412,6 +415,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Attention Insight](https://www.attentioninsight.com) - A predictive eye-tracking tool for design and marketing teams testing websites, ad creatives, packaging, and video ads.
 - [Shuffle Design CLI](https://shuffle.dev/design-cli) - Shuffle’s Design CLI lets you generate landing pages and redesign websites directly from your terminal.
 - [RetroMac](https://myretromac.app) - RetroMac turns your modern Mac into a live retro machine: CRT, classic Macintosh, VHS, Game Boy and more.
+- [Stitch by Google](https://stitch.withgoogle.com) - For founders and PMs who can't afford to waste a week on mockups.
 
 ## ✍️ Writing & Content
 
@@ -520,6 +524,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Bulkmark](https://bulkmark.io) - Stop losing saved tweets.
 - [note.md](https://www.notemd.org) - note.md is a private, local-first markdown based workspace for macOS built for focused writing, research, and structured thought.
 - [Memdex](https://memdex.ai) - Memdex is a Chrome extension that turns every AI conversation into reusable memory.
+- [DockFlow](https://dockflow.appitstudio.com) - DockFlow is a Dock utility that lets you save and swap between different macOS Dock presets.
 
 ## 🔎 Search & Discovery
 
@@ -699,6 +704,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Origio](https://www.findorigio.com) - Most relocation tools give you generic city comparisons.
 - [Vivaldi](https://vivaldi.com) - It’s a web browser.
 - [Finderlock](https://finderlock.com) - Native macOS file protection with Touch ID integration.
+- [WhatCable](https://www.whatcable.uk) - Why is my MacBook charging slowly?.
 
 ## Contributing
 
