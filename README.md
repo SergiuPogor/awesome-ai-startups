@@ -9,20 +9,20 @@ The goal: make useful indie AI products easier to find, share, and support.
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (38)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (98)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (130)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (38)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (132)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (39)
 - [🎬 Video & Animation](#video-animation) (27)
 - [🎨 Image, Design & 3D](#image-design-3d) (40)
-- [✍️ Writing & Content](#writing-content) (22)
-- [📊 Analytics & Data](#analytics-data) (32)
-- [🗂 Productivity & Notes](#productivity-notes) (45)
-- [🔎 Search & Discovery](#search-discovery) (10)
-- [🎓 Education & Learning](#education-learning) (9)
+- [✍️ Writing & Content](#writing-content) (23)
+- [📊 Analytics & Data](#analytics-data) (35)
+- [🗂 Productivity & Notes](#productivity-notes) (48)
+- [🔎 Search & Discovery](#search-discovery) (11)
+- [🎓 Education & Learning](#education-learning) (10)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (6)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (11)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (32)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (33)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (9)
-- [👥 Social & Community](#social-community) (6)
+- [👥 Social & Community](#social-community) (7)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (3)
 - [✨ Everything Else](#everything-else) (66)
 
@@ -301,6 +301,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [TestSprite](http://testsprite.com) - TestSprite is the easiest AI agent for frontend and backend software testing, automating the entire testing workflow—from test planning and code generation to execution and debugging.
 - [Vibedock](https://vibedock.dev) - Every MCP server you have configured injects its tool definitions into your context window on every single message — whether you use it that session or not.
 - [ModelHub](https://studio.consciousengines.com/model-hub) - ModelHub is a native macOS menu bar app for developers working with local LLMs.
+- [MashuPack](https://mashupack.com) - Select the exact parts of a repository and compile them into one clean text file for ChatGPT and Claude or Gemini.
+- [Pi Coding Agent](https://pi.dev) - Pi is a minimal terminal coding harness.
 
 ## 🎙 Audio, Voice & Music
 
@@ -342,6 +344,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Chromtuner](https://chromtuner.com) - A chromatic tuner for macOS.
 - [TongueType for macOS](https://tonguetype.app) - TongueType is a macOS voice dictation app powered by Whisper AI running locally on Apple Silicon.
 - [JAMtime.ai](https://jamtime.ai) - Tweaking knobs is a time-honored tradition in sound design.
+- [Orchestria](https://orchestria.tech) - Existing music AIs are black boxes.
 
 ## 🎬 Video & Animation
 
@@ -441,6 +444,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Riffly](https://tryriffly.app) - Riffly is an AI presentation builder you talk to instead of click through.
 - [Prosed](https://tryprosed.com) - You've spent years creating—newsletters, podcasts, LinkedIn posts, courses.
 - [WordPress 7.0](https://wordpress.org/download/releases/7.0) - WordPress 7.0 marks the start of a new era, laying the foundation for AI across the WordPress experience. Greeting you with a modern, more intuitive dashboard, 7.0 introduces enhanced….
+- [Tiny CV](https://tiny.cv) - Tiny CV turns markdown into one-page resumes that look right as PDFs and clean public links.
 
 ## 📊 Analytics & Data
 
@@ -477,6 +481,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Mixpanel](http://mixpanel.com) - The always-on product intelligence system that helps teams ship faster and smarter by understanding how people use their products.
 - [Nugget AI](https://nggt.ai) - Nugget AI turns customer interviews into product evidence.
 - [Forsy](https://forsy.ai) - Forsy captures workflow data from the agents you already use (OpenClaw, Claude, Codex, Hermes, etc.) and turns it into sellable structured data. It creates a marketplace for authentic,….
+- [Fred - The User Research Shepherd](https://meet-fred.com) - Fred streamlines the entire UX research workflow from planning to actionable insights.
+- [Databerry](https://www.databerry.app) - Track revenue, analytics, meetings, and more from a single dashboard.
+- [Supaboard AI](https://supaboard.ai) - Ask questions in plain English.
 
 ## 🗂 Productivity & Notes
 
@@ -525,6 +532,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [note.md](https://www.notemd.org) - note.md is a private, local-first markdown based workspace for macOS built for focused writing, research, and structured thought.
 - [Memdex](https://memdex.ai) - Memdex is a Chrome extension that turns every AI conversation into reusable memory.
 - [DockFlow](https://dockflow.appitstudio.com) - DockFlow is a Dock utility that lets you save and swap between different macOS Dock presets.
+- [tweet.md](https://tweet.md) - tweet.md is a developer and research utility that converts X posts into clean, readable Markdown. Instead of scraping HTML or pasting messy embeds into an AI assistant, users can swap `x.com` for….
+- [Yansu](https://yansu.app) - Yanshu learns from the work you already do.
+- [Unabyss](https://unabyss.com) - Set it up once and never re-explain yourself to AI again.
 
 ## 🔎 Search & Discovery
 
@@ -538,6 +548,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [WhoAmILookingFor](https://www.whoamilookingfor.com) - WhoAmILookingFor turns your LinkedIn connection CSVs into a private semantic search engine.
 - [pixserp](https://pixserp.com/ph) - pixserp is the AI-native search engine for builders.
 - [Re](http://re.yomeshgupta.com) - Re is a Recommendation Engine which uses advanced machine learning techniques to curate a tailor made list of things that users might like.
+- [Rixx](https://rixx.in) - Most tools solve one part of thinking.
 
 ## 🎓 Education & Learning
 
@@ -551,6 +562,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SUN](https://sunapp.ai) - SUN turns any topic into a personalized AI generated audio course you can listen to while living your life.
 - [LearnHouse](https://learnhouse.app) - LearnHouse enables you to start World-class Online Universities, Trainings, Bootcamps, Courses in any format you'd want and with LearnHouse AI, students can ask specific questions about your….
 - [Reader Alive](https://readeralive.pages.dev) - Reader Alive is an AI-powered ebook reader for iPhone and iPad.
+- [The Incident Challenge](https://theincidentchallenge.com) - Compete in realistic incident simulations where you find the root cause, fix the system, and race the leaderboard.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -609,6 +621,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [DCP](https://dcpagent.com) - Today, many agents read keys and sensitive info from dotenv files, configs, or memory.
 - [SuprSend](https://www.suprsend.com) - SuprSend is a notification infrastructure to build and manage product notifications across all channels.
 - [General Compute](https://generalcompute.com) - GPUs are built for training, not inference.
+- [LLMTest](https://llmtest.io) - "OpenRouter + Intelligence" LLMTest helps devs and vibe coders automatically: ✅ Pick better models for AI-powered features (faster, cheaper, better, sometimes all 3 combined) ↪️ Automatically add….
 
 ## 💬 Chatbots & Conversational
 
@@ -630,6 +643,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Show Me a Leaderboard](https://showmealeaderboard.com) - Show Me a Leaderboard helps companies, nonprofits and friend groups easily launch friendly (or intense!) competitions, with custom.
 - [Flare](https://heyflare.app) - Flare is an AI-native voice-first social app for Gen Z.
 - [moop](https://moop.to) - Social media without media.
+- [own.page](https://own.page) - own.page helps creators and founders build a beautiful link-in-bio that feels alive - more like a personal website than just a list of links. Build a page in under a minute, customize it your way,….
 
 ## 🛒 E-commerce & Retail
 
