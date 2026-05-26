@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (38)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (41)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (98)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (132)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (39)
-- [🎬 Video & Animation](#video-animation) (27)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (134)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (41)
+- [🎬 Video & Animation](#video-animation) (28)
 - [🎨 Image, Design & 3D](#image-design-3d) (40)
 - [✍️ Writing & Content](#writing-content) (23)
-- [📊 Analytics & Data](#analytics-data) (35)
-- [🗂 Productivity & Notes](#productivity-notes) (48)
+- [📊 Analytics & Data](#analytics-data) (36)
+- [🗂 Productivity & Notes](#productivity-notes) (50)
 - [🔎 Search & Discovery](#search-discovery) (11)
-- [🎓 Education & Learning](#education-learning) (10)
+- [🎓 Education & Learning](#education-learning) (11)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (6)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (11)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (33)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (35)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (9)
 - [👥 Social & Community](#social-community) (7)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (3)
-- [✨ Everything Else](#everything-else) (66)
+- [✨ Everything Else](#everything-else) (68)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -66,6 +66,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [WarmIntro](https://tools.crustdata.com/warmintro) - Cold outreach doesn't work.
 - [Auto Posts](https://autoposts.io) - Stop wasting your time manually posting on every social platform.
 - [SignalLEMO - Ai Outreach Made Simple](https://signallemo.com) - SignalLEMO gives MSPs, AV integrators, low-voltage contractors, and subcontractors pre-scored leads, AI-generated outreach emails, and an automated pipeline — all in one platform.
+- [Ormedo](https://www.ormedo.tech) - → Agent reads your site, builds your buyer profile, and finds leads worth reaching.
+- [Bond](https://www.askbond.ai) - Bond is your AI GTM Engineer.
+- [Brew](https://brew.new) - Brew is the fastest way to design and send beautiful, on-brand emails and automations that render perfectly in every inbox.
 
 ## 🤖 AI Agents & Assistants
 
@@ -303,6 +306,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ModelHub](https://studio.consciousengines.com/model-hub) - ModelHub is a native macOS menu bar app for developers working with local LLMs.
 - [MashuPack](https://mashupack.com) - Select the exact parts of a repository and compile them into one clean text file for ChatGPT and Claude or Gemini.
 - [Pi Coding Agent](https://pi.dev) - Pi is a minimal terminal coding harness.
+- [marpy.io](https://marpy.io) - Marpy is a web-based IDE and AI coding assistant built specifically for the Python stack.
+- [Rezonant](https://www.rezonant.app) - Rezonant is the product workspace for teams that build with coding agents.
 
 ## 🎙 Audio, Voice & Music
 
@@ -345,6 +350,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [TongueType for macOS](https://tonguetype.app) - TongueType is a macOS voice dictation app powered by Whisper AI running locally on Apple Silicon.
 - [JAMtime.ai](https://jamtime.ai) - Tweaking knobs is a time-honored tradition in sound design.
 - [Orchestria](https://orchestria.tech) - Existing music AIs are black boxes.
+- [Willow Voice](https://willowvoice.com) - Willow is an AI-powered voice dictation tool that lets you write anywhere on your computer using your voice.
+- [Parrot Speech-to-text API](https://www.ringg.ai/models/speech-to-text/v1) - Introducing Parrot: Ringg’s speech-to-text model for production-grade voice agents.
 
 ## 🎬 Video & Animation
 
@@ -375,6 +382,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Slideshot](https://slideshot.ai) - Give your AI agent a product flow to record.
 - [Motionvid.ai](https://www.motionvid.ai) - Motion design just got radically easier.
 - [Runway Agent](https://app.runwayml.com/agent) - Runway Agent is a conversational AI that takes a brief and outputs finished, sound-designed, edited videos for ads, shorts, and social content.
+- [Avaturn Live](https://avaturn.live) - Human-like AI avatars you can talk to instantly.
 
 ## 🎨 Image, Design & 3D
 
@@ -484,6 +492,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Fred - The User Research Shepherd](https://meet-fred.com) - Fred streamlines the entire UX research workflow from planning to actionable insights.
 - [Databerry](https://www.databerry.app) - Track revenue, analytics, meetings, and more from a single dashboard.
 - [Supaboard AI](https://supaboard.ai) - Ask questions in plain English.
+- [DodoForm](https://www.dodoform.com) - Voice, photos, messy notes — DodoForm turns however people communicate into clean structured data.
 
 ## 🗂 Productivity & Notes
 
@@ -535,6 +544,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [tweet.md](https://tweet.md) - tweet.md is a developer and research utility that converts X posts into clean, readable Markdown. Instead of scraping HTML or pasting messy embeds into an AI assistant, users can swap `x.com` for….
 - [Yansu](https://yansu.app) - Yanshu learns from the work you already do.
 - [Unabyss](https://unabyss.com) - Set it up once and never re-explain yourself to AI again.
+- [Kept](https://kept.work) - Kept: is an AI chat and productivity tool on your local archive.
+- [QuakPit](https://quakpit.app) - Quakpit is a macOS menu bar app that connects to your calendar and sends an animal-piloted plane flying across your screen before your meetings start.
 
 ## 🔎 Search & Discovery
 
@@ -563,6 +574,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [LearnHouse](https://learnhouse.app) - LearnHouse enables you to start World-class Online Universities, Trainings, Bootcamps, Courses in any format you'd want and with LearnHouse AI, students can ask specific questions about your….
 - [Reader Alive](https://readeralive.pages.dev) - Reader Alive is an AI-powered ebook reader for iPhone and iPad.
 - [The Incident Challenge](https://theincidentchallenge.com) - Compete in realistic incident simulations where you find the root cause, fix the system, and race the leaderboard.
+- [LangPanda](https://langpanda.com) - LangPanda helps you learn 36 languages by watching your favorite shows.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -622,6 +634,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SuprSend](https://www.suprsend.com) - SuprSend is a notification infrastructure to build and manage product notifications across all channels.
 - [General Compute](https://generalcompute.com) - GPUs are built for training, not inference.
 - [LLMTest](https://llmtest.io) - "OpenRouter + Intelligence" LLMTest helps devs and vibe coders automatically: ✅ Pick better models for AI-powered features (faster, cheaper, better, sometimes all 3 combined) ↪️ Automatically add….
+- [crunr](https://crunr.com) - crunr — run it, ghost it.
+- [Parsewise](https://parsewise.ai/api) - With a single call, you can provide multiple input documents, a desired output, and get back a response with resolved values, lineage across documents / pages, contradiction detection and bounding….
 
 ## 💬 Chatbots & Conversational
 
@@ -719,6 +733,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Vivaldi](https://vivaldi.com) - It’s a web browser.
 - [Finderlock](https://finderlock.com) - Native macOS file protection with Touch ID integration.
 - [WhatCable](https://www.whatcable.uk) - Why is my MacBook charging slowly?.
+- [Ferrari Luce](https://www.ferrari.com/auto/ferrari-luce) - The Ferrari Luce is a project designed to deliver an unmistakable Ferrari character, where performance, thrills, design, and life on board come together in a new way of driving.
+- [SelectPrism](https://selectprism.ai/agentic-ai-interview) - SelectPrism helps hiring teams meet their strongest candidates without getting buried in the process of finding them.
 
 ## Contributing
 
