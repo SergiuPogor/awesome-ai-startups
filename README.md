@@ -7,21 +7,21 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (41)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (98)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (134)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (41)
-- [🎬 Video & Animation](#video-animation) (28)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (42)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (100)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (137)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (42)
+- [🎬 Video & Animation](#video-animation) (30)
 - [🎨 Image, Design & 3D](#image-design-3d) (40)
 - [✍️ Writing & Content](#writing-content) (23)
-- [📊 Analytics & Data](#analytics-data) (36)
-- [🗂 Productivity & Notes](#productivity-notes) (50)
-- [🔎 Search & Discovery](#search-discovery) (11)
+- [📊 Analytics & Data](#analytics-data) (37)
+- [🗂 Productivity & Notes](#productivity-notes) (52)
+- [🔎 Search & Discovery](#search-discovery) (12)
 - [🎓 Education & Learning](#education-learning) (11)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (6)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (7)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (11)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (35)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (9)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (37)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (10)
 - [👥 Social & Community](#social-community) (7)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (3)
 - [✨ Everything Else](#everything-else) (68)
@@ -69,6 +69,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Ormedo](https://www.ormedo.tech) - → Agent reads your site, builds your buyer profile, and finds leads worth reaching.
 - [Bond](https://www.askbond.ai) - Bond is your AI GTM Engineer.
 - [Brew](https://brew.new) - Brew is the fastest way to design and send beautiful, on-brand emails and automations that render perfectly in every inbox.
+- [Octolane](https://octolane.com) - Octolane is chat-first Self-driving AI CRM: say "follow up with David" or "show me stuck deals" and it does the thing.
 
 ## 🤖 AI Agents & Assistants
 
@@ -170,6 +171,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Viberia](https://getviberia.com) - Do you like your Claude/Codex pet but wish you had a zoo?.
 - [Tycoon AI](https://tycoon.us) - Tycoon.us enables you to run an entire company with AI agents, powered by Astra, an AI CEO, and 10+ ready-to-use AI agents you can choose from, from CMO who manages X to CTO who codes. Astra also….
 - [Freu AI](https://freu.ai) - Freu AI is an AI agent for Mac that automates any desktop app with natural language.
+- [Krater](https://www.krater.ai) - Krater is the last AI app you'll need.
+- [Coworker AI](https://coworker.ai) - Same AI.
 
 ## 💻 Coding & Developer Tools
 
@@ -308,6 +311,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pi Coding Agent](https://pi.dev) - Pi is a minimal terminal coding harness.
 - [marpy.io](https://marpy.io) - Marpy is a web-based IDE and AI coding assistant built specifically for the Python stack.
 - [Rezonant](https://www.rezonant.app) - Rezonant is the product workspace for teams that build with coding agents.
+- [Phasr](https://phasr.sh) - Phasr is a workspace orchestration platform for engineers and AI-assisted development.
+- [Archi-Flow](https://archi-flow.onrender.com) - Archi-Flow brings your cloud architecture to life.
+- [BaseBuddy](https://basebuddycms.com) - BaseBuddy is an open-source Supabase CMS and self-hosted editor for existing Supabase and Postgres databases.
 
 ## 🎙 Audio, Voice & Music
 
@@ -352,6 +358,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Orchestria](https://orchestria.tech) - Existing music AIs are black boxes.
 - [Willow Voice](https://willowvoice.com) - Willow is an AI-powered voice dictation tool that lets you write anywhere on your computer using your voice.
 - [Parrot Speech-to-text API](https://www.ringg.ai/models/speech-to-text/v1) - Introducing Parrot: Ringg’s speech-to-text model for production-grade voice agents.
+- [Pawse.ai](https://pawse.ai) - Most dogs left alone for four or more hours show measurable stress responses.
 
 ## 🎬 Video & Animation
 
@@ -383,6 +390,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Motionvid.ai](https://www.motionvid.ai) - Motion design just got radically easier.
 - [Runway Agent](https://app.runwayml.com/agent) - Runway Agent is a conversational AI that takes a brief and outputs finished, sound-designed, edited videos for ads, shorts, and social content.
 - [Avaturn Live](https://avaturn.live) - Human-like AI avatars you can talk to instantly.
+- [baz.studio](https://www.baz.studio) - A library of open-source video skills for your AI agent.
+- [Layers](https://www.newcreative.studio/layers) - Layers is a free web-based tool that empowers anyone to create beautiful, animated code snippet videos.
 
 ## 🎨 Image, Design & 3D
 
@@ -493,6 +502,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Databerry](https://www.databerry.app) - Track revenue, analytics, meetings, and more from a single dashboard.
 - [Supaboard AI](https://supaboard.ai) - Ask questions in plain English.
 - [DodoForm](https://www.dodoform.com) - Voice, photos, messy notes — DodoForm turns however people communicate into clean structured data.
+- [Extend](https://www.extend.ai) - Parse, extract, and split your hardest documents with unmatched accuracy.
 
 ## 🗂 Productivity & Notes
 
@@ -546,6 +556,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Unabyss](https://unabyss.com) - Set it up once and never re-explain yourself to AI again.
 - [Kept](https://kept.work) - Kept: is an AI chat and productivity tool on your local archive.
 - [QuakPit](https://quakpit.app) - Quakpit is a macOS menu bar app that connects to your calendar and sends an animal-piloted plane flying across your screen before your meetings start.
+- [Mojito](https://mojito.wells.ee) - Autocomplete :emoji: everywhere on macOS.
+- [Bluedot](https://www.bluedothq.com) - Bluedot captures, transcribes, and summarises every meeting, online or in-person.
 
 ## 🔎 Search & Discovery
 
@@ -560,6 +572,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [pixserp](https://pixserp.com/ph) - pixserp is the AI-native search engine for builders.
 - [Re](http://re.yomeshgupta.com) - Re is a Recommendation Engine which uses advanced machine learning techniques to curate a tailor made list of things that users might like.
 - [Rixx](https://rixx.in) - Most tools solve one part of thinking.
+- [Oasis Browser](https://kahana.co) - Fall in love with the privacy-first ai browser that you can train.
 
 ## 🎓 Education & Learning
 
@@ -584,6 +597,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [DogBase](https://dogbase.co) - DogBase is the AI-powered training and team management platform built for professional working dog teams — K9 SAR, law enforcement, dog.
 - [Naptick AI](https://launch.naptick.com) - Naptick is a smart bedside AI sleep companion designed for founders, professionals, light sleepers, and anyone struggling with nighttime stress or doomscrolling.
 - [Tacet](https://www.downloadtacet.com) - You track your steps.
+- [CircadiaOS](https://circadiaos.com) - CircadiaOS is software-only sleep optimization.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -636,6 +650,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [LLMTest](https://llmtest.io) - "OpenRouter + Intelligence" LLMTest helps devs and vibe coders automatically: ✅ Pick better models for AI-powered features (faster, cheaper, better, sometimes all 3 combined) ↪️ Automatically add….
 - [crunr](https://crunr.com) - crunr — run it, ghost it.
 - [Parsewise](https://parsewise.ai/api) - With a single call, you can provide multiple input documents, a desired output, and get back a response with resolved values, lineage across documents / pages, contradiction detection and bounding….
+- [zero.xyz](https://zero.xyz) - **Product Hunt: Claim $5 at zero.xyz, the free power tool for AI agents** Zero unblocks your agents so they can discover services to accomplish tasks, no APIs keys or config. Works with Claude….
+- [Powabase](https://powabase.ai) - Powabase is a backend-as-a-service for AI-native applications, combining Postgres, RAG, agents, memory, workflows, and automation primitives in one platform.
 
 ## 💬 Chatbots & Conversational
 
@@ -648,6 +664,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Chert](https://www.trychert.com) - Build and deploy conversational iMessage agents for customer service, inbound lead capture, and more.
 - [Mantle Chat](https://mantle.chat) - Mantle Chat is an AI-powered platform that helps teams communicate, collaborate, solve problems, and work with AI together in one place.
 - [Owlish](https://owlish.bot) - Owlish turns your website, FAQs, docs, and PDFs into an AI customer support agent that answers common questions, cites sources, uses approved replies, and hands off to a human when needed.
+- [Chat Skills for AI Agents](https://www.cometchat.com/agent-chat-skills) - Add fully functional chat to your React app using AI agent skills.
 
 ## 👥 Social & Community
 
