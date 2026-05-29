@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (45)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (49)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (102)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (138)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (42)
-- [🎬 Video & Animation](#video-animation) (31)
-- [🎨 Image, Design & 3D](#image-design-3d) (40)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (139)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (43)
+- [🎬 Video & Animation](#video-animation) (32)
+- [🎨 Image, Design & 3D](#image-design-3d) (41)
 - [✍️ Writing & Content](#writing-content) (25)
 - [📊 Analytics & Data](#analytics-data) (37)
-- [🗂 Productivity & Notes](#productivity-notes) (54)
+- [🗂 Productivity & Notes](#productivity-notes) (56)
 - [🔎 Search & Discovery](#search-discovery) (13)
 - [🎓 Education & Learning](#education-learning) (11)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (8)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (12)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (39)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (42)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (10)
 - [👥 Social & Community](#social-community) (7)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (4)
-- [✨ Everything Else](#everything-else) (68)
+- [✨ Everything Else](#everything-else) (70)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -73,6 +73,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Buffer API](https://buffer.com/api) - Buffer's API lets you publish and manage content across 10 social platforms through a single endpoint.
 - [Pitch](https://pitch.com) - Pitch is the AI presentation workspace where professionals collaborate on, create, and deliver winning slide decks — all while staying on brand.
 - [SpotsNow](https://spotsnow.io) - Track who's advertising on every podcast, what they're spending, and where their campaigns are running — then buy open inventory directly from publishers, all in one place.
+- [Firecoach AI](https://firecoach.ai) - FireCoach.ai is the fastest way to clone your sales methodology and coach every rep on your team — at scale, without adding headcount. Build custom AI sales bots trained on your playbook, run rep….
+- [Ava Studio](https://www.avastudio.com) - Ava Studio researches your product, develops hooks and creative angles, then generates 50+ editable short-form ad variants ready for TikTok, Reels, Meta, and any platform you want to ship on.
+- [Ahrefs](https://ahrefs.com) - You don't have to be an SEO pro to rank higher and get more traffic.
+- [Ava 2.0](https://artisan.co) - Ava is an AI BDR that runs your entire outbound on autopilot.
 
 ## 🤖 AI Agents & Assistants
 
@@ -320,6 +324,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Archi-Flow](https://archi-flow.onrender.com) - Archi-Flow brings your cloud architecture to life.
 - [BaseBuddy](https://basebuddycms.com) - BaseBuddy is an open-source Supabase CMS and self-hosted editor for existing Supabase and Postgres databases.
 - [Revolte](http://revolte.ai) - Revolte is for engineering teams to turn intent into production-ready software faster, safer, and with more control.
+- [MoDev](https://modev.app) - The AI dev environment built for your phone.
 
 ## 🎙 Audio, Voice & Music
 
@@ -365,6 +370,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Willow Voice](https://willowvoice.com) - Willow is an AI-powered voice dictation tool that lets you write anywhere on your computer using your voice.
 - [Parrot Speech-to-text API](https://www.ringg.ai/models/speech-to-text/v1) - Introducing Parrot: Ringg’s speech-to-text model for production-grade voice agents.
 - [Pawse.ai](https://pawse.ai) - Most dogs left alone for four or more hours show measurable stress responses.
+- [Coffee Piano](https://coffeepiano.com) - Most harmony tools are too theoretical or too simple.
 
 ## 🎬 Video & Animation
 
@@ -399,6 +405,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [baz.studio](https://www.baz.studio) - A library of open-source video skills for your AI agent.
 - [Layers](https://www.newcreative.studio/layers) - Layers is a free web-based tool that empowers anyone to create beautiful, animated code snippet videos.
 - [Stage](https://usestage.app) - Record your product walkthrough with screen, camera, audio, cursor, and keystrokes all in sync.
+- [Clipline](https://t.me/clipline_bot) - Clipline is an AI-powered Telegram bot that turns any long video (YouTube, file) into short, engaging clips in 90 seconds.
 
 ## 🎨 Image, Design & 3D
 
@@ -443,6 +450,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Shuffle Design CLI](https://shuffle.dev/design-cli) - Shuffle’s Design CLI lets you generate landing pages and redesign websites directly from your terminal.
 - [RetroMac](https://myretromac.app) - RetroMac turns your modern Mac into a live retro machine: CRT, classic Macintosh, VHS, Game Boy and more.
 - [Stitch by Google](https://stitch.withgoogle.com) - For founders and PMs who can't afford to waste a week on mockups.
+- [Screen Ruler](https://www.screen-ruler.com) - Screen Ruler is the perfect companion for web developers and designers.
 
 ## ✍️ Writing & Content
 
@@ -569,6 +577,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Bluedot](https://www.bluedothq.com) - Bluedot captures, transcribes, and summarises every meeting, online or in-person.
 - [AccountyCat](https://www.accountycat.com) - AccountyCat is a focus companion for macOS that reads context instead of blocking lists.
 - [Granite](https://granite.co) - Drop your paperwork.
+- [Notchy](https://notchy.dev) - Notchy is the free, native macOS notch app that turns your MacBook notch into a fluid Dynamic Island — music, timers, clipboard, file drops, cluely, HUDs.
+- [Linear](https://linear.app) - Linear is a new species of product tool.
 
 ## 🔎 Search & Discovery
 
@@ -668,6 +678,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Powabase](https://powabase.ai) - Powabase is a backend-as-a-service for AI-native applications, combining Postgres, RAG, agents, memory, workflows, and automation primitives in one platform.
 - [Compartment](https://compartment.dev) - Compartment is a self-hosted open-source runtime for AI-built internal apps.
 - [Memori](https://memorilabs.ai) - Memori launched its new agent-native memory infrastructure, enabling agents to create structured, long-term memory directly from agent trace — including execution paths, tool results, workflow….
+- [Integuru](https://integuru.com) - Integuru generates fast, reliable APIs for any platform, without browsers or RPA.
+- [MCP Bridge by Appfactor](https://mcp-bridge.ai) - Point MCP Bridge at any REST, GraphQL, SOAP, or gRPC API.
+- [Firecrawl](https://www.firecrawl.dev) - The API to search, scrape, and interact with the web at scale.
 
 ## 💬 Chatbots & Conversational
 
@@ -769,6 +782,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [WhatCable](https://www.whatcable.uk) - Why is my MacBook charging slowly?.
 - [Ferrari Luce](https://www.ferrari.com/auto/ferrari-luce) - The Ferrari Luce is a project designed to deliver an unmistakable Ferrari character, where performance, thrills, design, and life on board come together in a new way of driving.
 - [SelectPrism](https://selectprism.ai/agentic-ai-interview) - SelectPrism helps hiring teams meet their strongest candidates without getting buried in the process of finding them.
+- [RabbitTravel](https://rabbittravel.site) - RabbitTravel is an AI-powered travel planning platform that builds optimized itineraries for any destination worldwide.
+- [Sinalytica](https://sinalytica.com) - Sina Rajaeeian — Software Engineer and ML engineer.
 
 ## Contributing
 
