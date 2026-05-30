@@ -9,18 +9,18 @@ The goal: make useful indie AI products easier to find, share, and support.
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (49)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (102)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (139)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (140)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (43)
 - [🎬 Video & Animation](#video-animation) (32)
 - [🎨 Image, Design & 3D](#image-design-3d) (41)
 - [✍️ Writing & Content](#writing-content) (25)
-- [📊 Analytics & Data](#analytics-data) (37)
+- [📊 Analytics & Data](#analytics-data) (39)
 - [🗂 Productivity & Notes](#productivity-notes) (56)
 - [🔎 Search & Discovery](#search-discovery) (13)
 - [🎓 Education & Learning](#education-learning) (11)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (8)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (12)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (42)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (44)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (10)
 - [👥 Social & Community](#social-community) (7)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (4)
@@ -325,6 +325,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [BaseBuddy](https://basebuddycms.com) - BaseBuddy is an open-source Supabase CMS and self-hosted editor for existing Supabase and Postgres databases.
 - [Revolte](http://revolte.ai) - Revolte is for engineering teams to turn intent into production-ready software faster, safer, and with more control.
 - [MoDev](https://modev.app) - The AI dev environment built for your phone.
+- [Wandesk](https://wandesk.ai) - Wandesk is an AI desktop.
 
 ## 🎙 Audio, Voice & Music
 
@@ -520,6 +521,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Supaboard AI](https://supaboard.ai) - Ask questions in plain English.
 - [DodoForm](https://www.dodoform.com) - Voice, photos, messy notes — DodoForm turns however people communicate into clean structured data.
 - [Extend](https://www.extend.ai) - Parse, extract, and split your hardest documents with unmatched accuracy.
+- [Exstats](https://exstats.com) - Exstats unifies browser extension analytics and market research across Chrome, Edge, and Firefox.
+- [Wingbits AI](https://wingbits.ai) - Create agents that monitor airspace activity 24/7 - military aircraft in a region, private or government jets, a GPS-jamming spike, or a travelling friend or family member - and get alerts the….
 
 ## 🗂 Productivity & Notes
 
@@ -681,6 +684,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Integuru](https://integuru.com) - Integuru generates fast, reliable APIs for any platform, without browsers or RPA.
 - [MCP Bridge by Appfactor](https://mcp-bridge.ai) - Point MCP Bridge at any REST, GraphQL, SOAP, or gRPC API.
 - [Firecrawl](https://www.firecrawl.dev) - The API to search, scrape, and interact with the web at scale.
+- [Stepfun](https://www.stepfun.com) - StepFun is a frontier AI platform building powerful, actionable intelligence with the Step series of models.
+- [OpenStatus](https://www.openstatus.dev) - OpenStatus is an open-source uptime and synthetic monitoring platform.
 
 ## 💬 Chatbots & Conversational
 
