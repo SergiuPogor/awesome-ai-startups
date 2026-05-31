@@ -15,16 +15,16 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [🎨 Image, Design & 3D](#image-design-3d) (41)
 - [✍️ Writing & Content](#writing-content) (25)
 - [📊 Analytics & Data](#analytics-data) (39)
-- [🗂 Productivity & Notes](#productivity-notes) (56)
-- [🔎 Search & Discovery](#search-discovery) (13)
+- [🗂 Productivity & Notes](#productivity-notes) (57)
+- [🔎 Search & Discovery](#search-discovery) (14)
 - [🎓 Education & Learning](#education-learning) (11)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (8)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (9)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (12)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (44)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (10)
 - [👥 Social & Community](#social-community) (7)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (4)
-- [✨ Everything Else](#everything-else) (70)
+- [✨ Everything Else](#everything-else) (71)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -582,6 +582,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Granite](https://granite.co) - Drop your paperwork.
 - [Notchy](https://notchy.dev) - Notchy is the free, native macOS notch app that turns your MacBook notch into a fluid Dynamic Island — music, timers, clipboard, file drops, cluely, HUDs.
 - [Linear](https://linear.app) - Linear is a new species of product tool.
+- [Marqly](https://www.marqly.com) - Marqly lets you save, customize and manage all your bookmarks and highlighted texts online like a breeze.
 
 ## 🔎 Search & Discovery
 
@@ -598,6 +599,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Rixx](https://rixx.in) - Most tools solve one part of thinking.
 - [Oasis Browser](https://kahana.co) - Fall in love with the privacy-first ai browser that you can train.
 - [Angel Match](https://www.angelmatch.io) - Angel Match is a database of 125k+ investors that frees you from tedious process of searching for the right investors for your startup.🌟 We’ve compiled investor names, investment focuses, past….
+- [Clipto](https://clipto.com/?via=producthunt) - Like Google Photos, but fully local.
 
 ## 🎓 Education & Learning
 
@@ -624,6 +626,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Tacet](https://www.downloadtacet.com) - You track your steps.
 - [CircadiaOS](https://circadiaos.com) - CircadiaOS is software-only sleep optimization.
 - [Kim Personal Health Assistant](https://www.oculimedical.com) - Meet Kim, a personal health assistant that turns your health data into simple conversations and personal experiments, helping you understand what actually works for your body.
+- [Oura](http://www.ouraring.com) - The most accurate sleep and activity tracker is all about you: it measures the physiological signals of your body, understands your lifestyle, and guides you to make your own optimal daily choices.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -789,6 +792,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SelectPrism](https://selectprism.ai/agentic-ai-interview) - SelectPrism helps hiring teams meet their strongest candidates without getting buried in the process of finding them.
 - [RabbitTravel](https://rabbittravel.site) - RabbitTravel is an AI-powered travel planning platform that builds optimized itineraries for any destination worldwide.
 - [Sinalytica](https://sinalytica.com) - Sina Rajaeeian — Software Engineer and ML engineer.
+- [TabTasker](https://tabtasker.com) - A free web toolbox running 100% offline in your browser.
 
 ## Contributing
 
