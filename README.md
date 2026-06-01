@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (49)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (51)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (102)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (140)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (43)
 - [🎬 Video & Animation](#video-animation) (32)
-- [🎨 Image, Design & 3D](#image-design-3d) (41)
-- [✍️ Writing & Content](#writing-content) (25)
+- [🎨 Image, Design & 3D](#image-design-3d) (42)
+- [✍️ Writing & Content](#writing-content) (26)
 - [📊 Analytics & Data](#analytics-data) (39)
-- [🗂 Productivity & Notes](#productivity-notes) (57)
-- [🔎 Search & Discovery](#search-discovery) (14)
-- [🎓 Education & Learning](#education-learning) (11)
+- [🗂 Productivity & Notes](#productivity-notes) (59)
+- [🔎 Search & Discovery](#search-discovery) (15)
+- [🎓 Education & Learning](#education-learning) (12)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (9)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (12)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (44)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (10)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (45)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (11)
 - [👥 Social & Community](#social-community) (7)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (4)
-- [✨ Everything Else](#everything-else) (71)
+- [✨ Everything Else](#everything-else) (72)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -77,6 +77,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Ava Studio](https://www.avastudio.com) - Ava Studio researches your product, develops hooks and creative angles, then generates 50+ editable short-form ad variants ready for TikTok, Reels, Meta, and any platform you want to ship on.
 - [Ahrefs](https://ahrefs.com) - You don't have to be an SEO pro to rank higher and get more traffic.
 - [Ava 2.0](https://artisan.co) - Ava is an AI BDR that runs your entire outbound on autopilot.
+- [Trippple Club](https://trippple.club) - Trippple Club is the first Meta ads collective for small businesses.
+- [SocialEcho 2.0](https://www.socialecho.net) - SocialEcho is an AI social media copilot for teams running sophisticated campaigns across multiple brands.
 
 ## 🤖 AI Agents & Assistants
 
@@ -452,6 +454,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [RetroMac](https://myretromac.app) - RetroMac turns your modern Mac into a live retro machine: CRT, classic Macintosh, VHS, Game Boy and more.
 - [Stitch by Google](https://stitch.withgoogle.com) - For founders and PMs who can't afford to waste a week on mockups.
 - [Screen Ruler](https://www.screen-ruler.com) - Screen Ruler is the perfect companion for web developers and designers.
+- [Paint By JSON | Figma API Client](https://www.paintbyjson.com) - A Figma plugin that binds layers to live REST endpoints.
 
 ## ✍️ Writing & Content
 
@@ -480,6 +483,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Tiny CV](https://tiny.cv) - Tiny CV turns markdown into one-page resumes that look right as PDFs and clean public links.
 - [Growati](https://growati.com) - Generate personalised YouTube titles, descriptions, and thumbnails in minutes and update them based on video performance — built for creators exhausted by post-production work.
 - [Marked 3 - Markdown Preview for Mac](http://markedapp.com) - Marked 3 is the biggest update to Marked in over a decade.
+- [Typeahead](https://typeahead.ai) - Typeahead is the writing assistant that writes with you, not for you.
 
 ## 📊 Analytics & Data
 
@@ -583,6 +587,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Notchy](https://notchy.dev) - Notchy is the free, native macOS notch app that turns your MacBook notch into a fluid Dynamic Island — music, timers, clipboard, file drops, cluely, HUDs.
 - [Linear](https://linear.app) - Linear is a new species of product tool.
 - [Marqly](https://www.marqly.com) - Marqly lets you save, customize and manage all your bookmarks and highlighted texts online like a breeze.
+- [Presentify](https://presentifyapp.com) - Presentify is a macOS app for annotating your screen, highlighting your cursor, spotlighting important areas, and zooming in for a closer look.
+- [Mina Meeting Assistant](https://getmina.ai) - Mina is an AI meeting assistant that actively participates in meetings, responds in real time, pulls context from your tools, and helps move work forward while the conversation is still happening.
 
 ## 🔎 Search & Discovery
 
@@ -600,6 +606,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Oasis Browser](https://kahana.co) - Fall in love with the privacy-first ai browser that you can train.
 - [Angel Match](https://www.angelmatch.io) - Angel Match is a database of 125k+ investors that frees you from tedious process of searching for the right investors for your startup.🌟 We’ve compiled investor names, investment focuses, past….
 - [Clipto](https://clipto.com/?via=producthunt) - Like Google Photos, but fully local.
+- [Stella](https://trystella.co) - You know the file exists.
 
 ## 🎓 Education & Learning
 
@@ -615,6 +622,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Reader Alive](https://readeralive.pages.dev) - Reader Alive is an AI-powered ebook reader for iPhone and iPad.
 - [The Incident Challenge](https://theincidentchallenge.com) - Compete in realistic incident simulations where you find the root cause, fix the system, and race the leaderboard.
 - [LangPanda](https://langpanda.com) - LangPanda helps you learn 36 languages by watching your favorite shows.
+- [Skylive](https://skylive.world) - SkyLive is creating the world's first community-powered network of sky cameras.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -689,6 +697,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Firecrawl](https://www.firecrawl.dev) - The API to search, scrape, and interact with the web at scale.
 - [Stepfun](https://www.stepfun.com) - StepFun is a frontier AI platform building powerful, actionable intelligence with the Step series of models.
 - [OpenStatus](https://www.openstatus.dev) - OpenStatus is an open-source uptime and synthetic monitoring platform.
+- [Tokenwise](https://tokenwisehq.com) - Tokenwise is a one-line LLM proxy (OpenAI-compatible baseURL) for makers and small teams.
 
 ## 💬 Chatbots & Conversational
 
@@ -702,6 +711,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Mantle Chat](https://mantle.chat) - Mantle Chat is an AI-powered platform that helps teams communicate, collaborate, solve problems, and work with AI together in one place.
 - [Owlish](https://owlish.bot) - Owlish turns your website, FAQs, docs, and PDFs into an AI customer support agent that answers common questions, cites sources, uses approved replies, and hands off to a human when needed.
 - [Chat Skills for AI Agents](https://www.cometchat.com/agent-chat-skills) - Add fully functional chat to your React app using AI agent skills.
+- [folk](https://getfolk.app) - Folk is your AI friend that lives in any messaging app: iMessage, Telegram, Discord, and more.
 
 ## 👥 Social & Community
 
@@ -793,6 +803,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [RabbitTravel](https://rabbittravel.site) - RabbitTravel is an AI-powered travel planning platform that builds optimized itineraries for any destination worldwide.
 - [Sinalytica](https://sinalytica.com) - Sina Rajaeeian — Software Engineer and ML engineer.
 - [TabTasker](https://tabtasker.com) - A free web toolbox running 100% offline in your browser.
+- [Sentinel](https://www.avearobotics.com) - Avea's Sentinel is the fastest remote teleoperation software on the market, so you can control your robots from anywhere in the world.
 
 ## Contributing
 
