@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (51)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (52)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (102)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (140)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (143)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (43)
 - [🎬 Video & Animation](#video-animation) (32)
-- [🎨 Image, Design & 3D](#image-design-3d) (42)
+- [🎨 Image, Design & 3D](#image-design-3d) (43)
 - [✍️ Writing & Content](#writing-content) (26)
-- [📊 Analytics & Data](#analytics-data) (39)
-- [🗂 Productivity & Notes](#productivity-notes) (59)
+- [📊 Analytics & Data](#analytics-data) (40)
+- [🗂 Productivity & Notes](#productivity-notes) (63)
 - [🔎 Search & Discovery](#search-discovery) (15)
 - [🎓 Education & Learning](#education-learning) (12)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (9)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (12)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (10)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (13)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (45)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (11)
 - [👥 Social & Community](#social-community) (7)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (4)
-- [✨ Everything Else](#everything-else) (72)
+- [✨ Everything Else](#everything-else) (74)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -79,6 +79,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Ava 2.0](https://artisan.co) - Ava is an AI BDR that runs your entire outbound on autopilot.
 - [Trippple Club](https://trippple.club) - Trippple Club is the first Meta ads collective for small businesses.
 - [SocialEcho 2.0](https://www.socialecho.net) - SocialEcho is an AI social media copilot for teams running sophisticated campaigns across multiple brands.
+- [Fundraisly](https://fundraisly.com) - Fundraisly: ultimate AI agent for fundraising.
 
 ## 🤖 AI Agents & Assistants
 
@@ -328,6 +329,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Revolte](http://revolte.ai) - Revolte is for engineering teams to turn intent into production-ready software faster, safer, and with more control.
 - [MoDev](https://modev.app) - The AI dev environment built for your phone.
 - [Wandesk](https://wandesk.ai) - Wandesk is an AI desktop.
+- [Moxie Docs](https://moxiedocs.com) - Moxie Docs indexes your GitHub repo once, then puts that understanding where the work happens: repo context inside your AI agents over MCP, a searchable docs workspace, and PR checks that keep….
+- [Gigacatalyst](https://gigacatalyst.com) - Gigacatalyst.com's AI builder learns your APIs and embeds in your product, so your sales and CS teams can build missing features that customers need to your platform. When your software adapts to….
+- [Vokal](https://vokal.team) - Your Codex and my Codex can’t talk, so we play human telephone in Slack: copy prompts, paste summaries, ask for reviews, and lose the run.
 
 ## 🎙 Audio, Voice & Music
 
@@ -455,6 +459,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Stitch by Google](https://stitch.withgoogle.com) - For founders and PMs who can't afford to waste a week on mockups.
 - [Screen Ruler](https://www.screen-ruler.com) - Screen Ruler is the perfect companion for web developers and designers.
 - [Paint By JSON | Figma API Client](https://www.paintbyjson.com) - A Figma plugin that binds layers to live REST endpoints.
+- [Branda](https://branda.co) - Branda turns a name and idea into a complete brand identity in minutes: strategy, logo, palette, type, and full brand kit.
 
 ## ✍️ Writing & Content
 
@@ -527,6 +532,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Extend](https://www.extend.ai) - Parse, extract, and split your hardest documents with unmatched accuracy.
 - [Exstats](https://exstats.com) - Exstats unifies browser extension analytics and market research across Chrome, Edge, and Firefox.
 - [Wingbits AI](https://wingbits.ai) - Create agents that monitor airspace activity 24/7 - military aircraft in a region, private or government jets, a GPS-jamming spike, or a travelling friend or family member - and get alerts the….
+- [ConnectWizard](https://connectwizard.app) - App Store Connect only shows a fraction of the data Apple actually collects about your app.
 
 ## 🗂 Productivity & Notes
 
@@ -589,6 +595,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Marqly](https://www.marqly.com) - Marqly lets you save, customize and manage all your bookmarks and highlighted texts online like a breeze.
 - [Presentify](https://presentifyapp.com) - Presentify is a macOS app for annotating your screen, highlighting your cursor, spotlighting important areas, and zooming in for a closer look.
 - [Mina Meeting Assistant](https://getmina.ai) - Mina is an AI meeting assistant that actively participates in meetings, responds in real time, pulls context from your tools, and helps move work forward while the conversation is still happening.
+- [choclift](https://www.choclift.com) - Think beyond the keyboard, trackpad, and mouse: choclift is the third interface for interacting with your Mac.
+- [PawPause](https://miladsafarzadeh1.github.io/PawPause-mac) - A tiny macOS menu bar app that detects when your cat is on the keyboard and pauses input system-wide.
+- [Paste](https://pasteapp.io) - Paste is a time machine for your clipboard that lets you instantly find anything you've ever copied and use it whenever you need it again.
+- [Brief](https://briefhq.ai/?promo=PRODUCTHUNT) - AI agents can ship quickly, but without the right product context, they're often flying blind.
 
 ## 🔎 Search & Discovery
 
@@ -635,6 +645,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [CircadiaOS](https://circadiaos.com) - CircadiaOS is software-only sleep optimization.
 - [Kim Personal Health Assistant](https://www.oculimedical.com) - Meet Kim, a personal health assistant that turns your health data into simple conversations and personal experiments, helping you understand what actually works for your body.
 - [Oura](http://www.ouraring.com) - The most accurate sleep and activity tracker is all about you: it measures the physiological signals of your body, understands your lifestyle, and guides you to make your own optimal daily choices.
+- [GlowPulse](https://glowpulse.cc) - GlowPulse measures your heart rate from your Mac's built-in camera using rPPG – no watch, no chest strap, no wearable.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -650,6 +661,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Vela Partners](https://vela.partners) - Leading quant VC: Turning art into science through AI.
 - [Fere AI](https://www.fereai.xyz) - Unlike generic crypto research assistants, Fere turns market signals into autonomous trading workflows.
 - [Robinhood](http://robinhood.com) - Robinhood, a pioneer of commission-free investing, gives you more ways to make your money work harder.
+- [Co-Invest](https://coinvest.ai) - Co-Invest by Liquid lets you research and place real trades inside ChatGPT or Claude.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -804,6 +816,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Sinalytica](https://sinalytica.com) - Sina Rajaeeian — Software Engineer and ML engineer.
 - [TabTasker](https://tabtasker.com) - A free web toolbox running 100% offline in your browser.
 - [Sentinel](https://www.avearobotics.com) - Avea's Sentinel is the fastest remote teleoperation software on the market, so you can control your robots from anywhere in the world.
+- [Kompassify](https://kompassify.com) - Whether you’re launching a new feature or guiding new users to their “aha” moment, Kompassify let you build and customize the user onboarding experiences in minutes instead of weeks.
+- [Enshittifier](https://enshittifier.wells.ee) - The Mac app started as a dumb question: can you use font ligatures to turn AI into 💩?.
 
 ## Contributing
 
