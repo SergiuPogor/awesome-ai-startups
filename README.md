@@ -7,22 +7,22 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (52)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (102)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (143)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (54)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (103)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (147)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (43)
 - [🎬 Video & Animation](#video-animation) (32)
-- [🎨 Image, Design & 3D](#image-design-3d) (43)
-- [✍️ Writing & Content](#writing-content) (26)
+- [🎨 Image, Design & 3D](#image-design-3d) (44)
+- [✍️ Writing & Content](#writing-content) (29)
 - [📊 Analytics & Data](#analytics-data) (40)
-- [🗂 Productivity & Notes](#productivity-notes) (63)
+- [🗂 Productivity & Notes](#productivity-notes) (64)
 - [🔎 Search & Discovery](#search-discovery) (15)
 - [🎓 Education & Learning](#education-learning) (12)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (10)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (13)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (45)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (48)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (11)
-- [👥 Social & Community](#social-community) (7)
+- [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (4)
 - [✨ Everything Else](#everything-else) (74)
 
@@ -80,6 +80,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Trippple Club](https://trippple.club) - Trippple Club is the first Meta ads collective for small businesses.
 - [SocialEcho 2.0](https://www.socialecho.net) - SocialEcho is an AI social media copilot for teams running sophisticated campaigns across multiple brands.
 - [Fundraisly](https://fundraisly.com) - Fundraisly: ultimate AI agent for fundraising.
+- [Brandfetch](https://brandfetch.com) - Brandfetch is the brand identity platform.
+- [Elentaria](https://elentaria.ai) - Elentaria is the AI operator for B2B: it analyzes your business, scores 22 channels, ships the plan that fits, and learns what moved revenue so it can make the next week sharper.
 
 ## 🤖 AI Agents & Assistants
 
@@ -185,6 +187,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Coworker AI](https://coworker.ai) - Same AI.
 - [Crew44](https://crew44.io) - Crew44 — a crew of specialist AI agents in one local-first workspace.
 - [Pancake](https://getpancake.ai) - Every other AI product is a tool that makes you more productive.
+- [Kalcend](https://kalcend.ai) - Kalcend allows you to build and deploy custom AI employees in minutes just by describing the role in plain English.
 
 ## 💻 Coding & Developer Tools
 
@@ -332,6 +335,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Moxie Docs](https://moxiedocs.com) - Moxie Docs indexes your GitHub repo once, then puts that understanding where the work happens: repo context inside your AI agents over MCP, a searchable docs workspace, and PR checks that keep….
 - [Gigacatalyst](https://gigacatalyst.com) - Gigacatalyst.com's AI builder learns your APIs and embeds in your product, so your sales and CS teams can build missing features that customers need to your platform. When your software adapts to….
 - [Vokal](https://vokal.team) - Your Codex and my Codex can’t talk, so we play human telephone in Slack: copy prompts, paste summaries, ask for reviews, and lose the run.
+- [Forward](https://forward.codeongrass.com) - Forward is an AI forward-deployed engineer that integrates your API directly into your customers' codebases.
+- [Devin by Cognition](https://www.cognition-labs.com/blog) - Devin is the new state-of-the-art on the SWE-Bench coding benchmark, has successfully passed practical engineering interviews from leading AI companies, and has even completed real jobs on Upwork.
+- [Replicas](https://tryreplicas.com) - Run background coding agents from anywhere.
+- [superlog](https://superlog.sh) - Superlog is an open-source autonomous observability tool.
 
 ## 🎙 Audio, Voice & Music
 
@@ -460,6 +467,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Screen Ruler](https://www.screen-ruler.com) - Screen Ruler is the perfect companion for web developers and designers.
 - [Paint By JSON | Figma API Client](https://www.paintbyjson.com) - A Figma plugin that binds layers to live REST endpoints.
 - [Branda](https://branda.co) - Branda turns a name and idea into a complete brand identity in minutes: strategy, logo, palette, type, and full brand kit.
+- [RadianceKit](https://www.radiancekit.de) - RadianceKit is the first native macOS app for 3D Gaussian Splatting.
 
 ## ✍️ Writing & Content
 
@@ -489,6 +497,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Growati](https://growati.com) - Generate personalised YouTube titles, descriptions, and thumbnails in minutes and update them based on video performance — built for creators exhausted by post-production work.
 - [Marked 3 - Markdown Preview for Mac](http://markedapp.com) - Marked 3 is the biggest update to Marked in over a decade.
 - [Typeahead](https://typeahead.ai) - Typeahead is the writing assistant that writes with you, not for you.
+- [Carbone](https://carbone.io) - Automate the generation of documents from a universal templating engine.
+- [Composer](https://usecomposer.md) - Composer is a real-time, multiplayer markdown editor where people and agents can work side-by-side.
+- [Uselink](https://uselink.app) - uselink turns any HTML or Markdown into a clean link you control.
 
 ## 📊 Analytics & Data
 
@@ -599,6 +610,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PawPause](https://miladsafarzadeh1.github.io/PawPause-mac) - A tiny macOS menu bar app that detects when your cat is on the keyboard and pauses input system-wide.
 - [Paste](https://pasteapp.io) - Paste is a time machine for your clipboard that lets you instantly find anything you've ever copied and use it whenever you need it again.
 - [Brief](https://briefhq.ai/?promo=PRODUCTHUNT) - AI agents can ship quickly, but without the right product context, they're often flying blind.
+- [Town](https://town.com) - Town is the unusually helpful AI assistant.
 
 ## 🔎 Search & Discovery
 
@@ -710,6 +722,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Stepfun](https://www.stepfun.com) - StepFun is a frontier AI platform building powerful, actionable intelligence with the Step series of models.
 - [OpenStatus](https://www.openstatus.dev) - OpenStatus is an open-source uptime and synthetic monitoring platform.
 - [Tokenwise](https://tokenwisehq.com) - Tokenwise is a one-line LLM proxy (OpenAI-compatible baseURL) for makers and small teams.
+- [Nous Research](https://nousresearch.com) - Nous Research develops world-class open source AI models & harness.
+- [SurrealDB](https://surrealdb.com) - SurrealDB is a Rust multi-model database and context layer for AI agents: documents, graphs, vectors, time-series, and relations are native in one ACID engine, no stitched stores.
+- [InsForge](https://insforge.dev) - InsForge is the agent-native alternative to AWS.
 
 ## 💬 Chatbots & Conversational
 
@@ -734,6 +749,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Flare](https://heyflare.app) - Flare is an AI-native voice-first social app for Gen Z.
 - [moop](https://moop.to) - Social media without media.
 - [own.page](https://own.page) - own.page helps creators and founders build a beautiful link-in-bio that feels alive - more like a personal website than just a list of links. Build a page in under a minute, customize it your way,….
+- [Franz Messenger](http://meetfranz.com) - Franz is a messaging app for WhatsApp, Facebook Messenger, Telegram, Slack and more.
 
 ## 🛒 E-commerce & Retail
 
