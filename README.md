@@ -7,20 +7,20 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (54)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (56)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (103)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (147)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (43)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (151)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (45)
 - [🎬 Video & Animation](#video-animation) (32)
-- [🎨 Image, Design & 3D](#image-design-3d) (44)
+- [🎨 Image, Design & 3D](#image-design-3d) (45)
 - [✍️ Writing & Content](#writing-content) (29)
-- [📊 Analytics & Data](#analytics-data) (40)
-- [🗂 Productivity & Notes](#productivity-notes) (64)
+- [📊 Analytics & Data](#analytics-data) (41)
+- [🗂 Productivity & Notes](#productivity-notes) (65)
 - [🔎 Search & Discovery](#search-discovery) (15)
-- [🎓 Education & Learning](#education-learning) (12)
+- [🎓 Education & Learning](#education-learning) (14)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (10)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (13)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (48)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (49)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (11)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (4)
@@ -82,6 +82,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Fundraisly](https://fundraisly.com) - Fundraisly: ultimate AI agent for fundraising.
 - [Brandfetch](https://brandfetch.com) - Brandfetch is the brand identity platform.
 - [Elentaria](https://elentaria.ai) - Elentaria is the AI operator for B2B: it analyzes your business, scores 22 channels, ships the plan that fits, and learns what moved revenue so it can make the next week sharper.
+- [Deliveryman.ai](https://deliveryman.ai) - Deliveryman.ai automates the hardest parts of cold email infrastructure mailbox setup, DNS records, warmup, email verification, sending systems, blacklist monitoring, reply management, and….
+- [Mailwarm](https://www.mailwarm.com) - Mailwarm increases your email deliverability by raising your sender reputation.
 
 ## 🤖 AI Agents & Assistants
 
@@ -339,6 +341,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Devin by Cognition](https://www.cognition-labs.com/blog) - Devin is the new state-of-the-art on the SWE-Bench coding benchmark, has successfully passed practical engineering interviews from leading AI companies, and has even completed real jobs on Upwork.
 - [Replicas](https://tryreplicas.com) - Run background coding agents from anywhere.
 - [superlog](https://superlog.sh) - Superlog is an open-source autonomous observability tool.
+- [Boxes.dev](https://boxes.dev) - Cloud dev environments for agentic coding.
+- [Keen Code](https://mochow13.github.io/keen-code) - Keen Code is an open-source, context-aware and efficient CLI coding agent written in Go.
+- [AppWizzy](https://appwizzy.com) - AppWizzy gives you a private VM with Codex installed where you build, run, and host production web apps by chatting with AI.
+- [Empromptu AI](https://empromptu.ai) - Empromptu empowers businesses to build full-stack, AI-native applications in minutes—no code required—by combining a conversational builder with powerful agents that handle data ingestion, logic,….
 
 ## 🎙 Audio, Voice & Music
 
@@ -385,6 +391,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Parrot Speech-to-text API](https://www.ringg.ai/models/speech-to-text/v1) - Introducing Parrot: Ringg’s speech-to-text model for production-grade voice agents.
 - [Pawse.ai](https://pawse.ai) - Most dogs left alone for four or more hours show measurable stress responses.
 - [Coffee Piano](https://coffeepiano.com) - Most harmony tools are too theoretical or too simple.
+- [Sun](https://www.getsun.io) - Sun is a voice first AI model built specifically for real‑time collaborative voice interaction, not just one‑on‑one chat.
+- [Carbon Voice](https://getcarbon.app/desktop) - The fastest way to record a voice message and get a shareable link (transcript included).
 
 ## 🎬 Video & Animation
 
@@ -468,6 +476,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Paint By JSON | Figma API Client](https://www.paintbyjson.com) - A Figma plugin that binds layers to live REST endpoints.
 - [Branda](https://branda.co) - Branda turns a name and idea into a complete brand identity in minutes: strategy, logo, palette, type, and full brand kit.
 - [RadianceKit](https://www.radiancekit.de) - RadianceKit is the first native macOS app for 3D Gaussian Splatting.
+- [Gather](https://gatherit.app) - Easily find any design references!.
 
 ## ✍️ Writing & Content
 
@@ -544,6 +553,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Exstats](https://exstats.com) - Exstats unifies browser extension analytics and market research across Chrome, Edge, and Firefox.
 - [Wingbits AI](https://wingbits.ai) - Create agents that monitor airspace activity 24/7 - military aircraft in a region, private or government jets, a GPS-jamming spike, or a travelling friend or family member - and get alerts the….
 - [ConnectWizard](https://connectwizard.app) - App Store Connect only shows a fraction of the data Apple actually collects about your app.
+- [Novus](https://novus.pendo.io/register) - Novus is the product agent built for teams that ship fast.
 
 ## 🗂 Productivity & Notes
 
@@ -611,6 +621,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Paste](https://pasteapp.io) - Paste is a time machine for your clipboard that lets you instantly find anything you've ever copied and use it whenever you need it again.
 - [Brief](https://briefhq.ai/?promo=PRODUCTHUNT) - AI agents can ship quickly, but without the right product context, they're often flying blind.
 - [Town](https://town.com) - Town is the unusually helpful AI assistant.
+- [TimeTuna](https://timetuna.com) - TimeTuna is on a mission to help 400 million people to enjoy scheduling and rescheduling.
 
 ## 🔎 Search & Discovery
 
@@ -645,6 +656,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [The Incident Challenge](https://theincidentchallenge.com) - Compete in realistic incident simulations where you find the root cause, fix the system, and race the leaderboard.
 - [LangPanda](https://langpanda.com) - LangPanda helps you learn 36 languages by watching your favorite shows.
 - [Skylive](https://skylive.world) - SkyLive is creating the world's first community-powered network of sky cameras.
+- [Brilliant](https://brilliant.org) - Brilliant is your superintelligent math and coding tutor.
+- [Build Club](https://www.buildclub.ai) - The Most Collaborative AI Learning Community in the World · Grow with a community that has your back · Free AI Learning Ecosystem for All.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -725,6 +738,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Nous Research](https://nousresearch.com) - Nous Research develops world-class open source AI models & harness.
 - [SurrealDB](https://surrealdb.com) - SurrealDB is a Rust multi-model database and context layer for AI agents: documents, graphs, vectors, time-series, and relations are native in one ACID engine, no stitched stores.
 - [InsForge](https://insforge.dev) - InsForge is the agent-native alternative to AWS.
+- [Astra Security](https://www.getastra.com) - Astra Security helps modern enterprises find and fix vulnerabilities before attackers do.
 
 ## 💬 Chatbots & Conversational
 
