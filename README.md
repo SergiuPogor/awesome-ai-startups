@@ -9,21 +9,21 @@ The goal: make useful indie AI products easier to find, share, and support.
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (56)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (103)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (151)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (152)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (45)
 - [🎬 Video & Animation](#video-animation) (32)
-- [🎨 Image, Design & 3D](#image-design-3d) (45)
-- [✍️ Writing & Content](#writing-content) (29)
-- [📊 Analytics & Data](#analytics-data) (41)
-- [🗂 Productivity & Notes](#productivity-notes) (65)
-- [🔎 Search & Discovery](#search-discovery) (15)
+- [🎨 Image, Design & 3D](#image-design-3d) (48)
+- [✍️ Writing & Content](#writing-content) (31)
+- [📊 Analytics & Data](#analytics-data) (42)
+- [🗂 Productivity & Notes](#productivity-notes) (67)
+- [🔎 Search & Discovery](#search-discovery) (16)
 - [🎓 Education & Learning](#education-learning) (14)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (10)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (13)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (49)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (11)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (14)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (50)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (11)
 - [👥 Social & Community](#social-community) (8)
-- [🛒 E-commerce & Retail](#e-commerce-retail) (4)
+- [🛒 E-commerce & Retail](#e-commerce-retail) (5)
 - [✨ Everything Else](#everything-else) (74)
 
 ## 📣 Marketing, SEO & Sales
@@ -345,6 +345,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Keen Code](https://mochow13.github.io/keen-code) - Keen Code is an open-source, context-aware and efficient CLI coding agent written in Go.
 - [AppWizzy](https://appwizzy.com) - AppWizzy gives you a private VM with Codex installed where you build, run, and host production web apps by chatting with AI.
 - [Empromptu AI](https://empromptu.ai) - Empromptu empowers businesses to build full-stack, AI-native applications in minutes—no code required—by combining a conversational builder with powerful agents that handle data ingestion, logic,….
+- [Recursi](https://recursi.dev) - An extremely powerful environment for vibe coding, allowing you to use web based chatbots (Claude/Gemini via aistudio/ChatGPT, etc) extremely efficiently while staying firmly in their terms of service.
 
 ## 🎙 Audio, Voice & Music
 
@@ -477,6 +478,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Branda](https://branda.co) - Branda turns a name and idea into a complete brand identity in minutes: strategy, logo, palette, type, and full brand kit.
 - [RadianceKit](https://www.radiancekit.de) - RadianceKit is the first native macOS app for 3D Gaussian Splatting.
 - [Gather](https://gatherit.app) - Easily find any design references!.
+- [MAI](https://microsoft.ai) - Microsoft AI is pioneering the future of what AI can do and what technology can be.
+- [FloatPic](https://floatpic.app) - FloatPic is the ultra-minimalist macOS native image viewer.
+- [Ideogram 4.0](https://ideogram.ai/models/4.0) - Ideogram 4.0 is an open-weight text-to-image model trained from scratch, with bounding-box layout control, multilingual text rendering, and native 2K output. For developers and enterprises….
 
 ## ✍️ Writing & Content
 
@@ -509,6 +513,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Carbone](https://carbone.io) - Automate the generation of documents from a universal templating engine.
 - [Composer](https://usecomposer.md) - Composer is a real-time, multiplayer markdown editor where people and agents can work side-by-side.
 - [Uselink](https://uselink.app) - uselink turns any HTML or Markdown into a clean link you control.
+- [Clarafy](https://useclarafy.com) - Most tools force you to edit.
+- [Lumo Studios](https://studio.lumotechnology.com) - Great ideas deserve great slides.
 
 ## 📊 Analytics & Data
 
@@ -554,6 +560,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Wingbits AI](https://wingbits.ai) - Create agents that monitor airspace activity 24/7 - military aircraft in a region, private or government jets, a GPS-jamming spike, or a travelling friend or family member - and get alerts the….
 - [ConnectWizard](https://connectwizard.app) - App Store Connect only shows a fraction of the data Apple actually collects about your app.
 - [Novus](https://novus.pendo.io/register) - Novus is the product agent built for teams that ship fast.
+- [Veltrix AI](https://veltrix.com) - See your whole business in one place.
 
 ## 🗂 Productivity & Notes
 
@@ -622,6 +629,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Brief](https://briefhq.ai/?promo=PRODUCTHUNT) - AI agents can ship quickly, but without the right product context, they're often flying blind.
 - [Town](https://town.com) - Town is the unusually helpful AI assistant.
 - [TimeTuna](https://timetuna.com) - TimeTuna is on a mission to help 400 million people to enjoy scheduling and rescheduling.
+- [VisionSync](https://visionsync.com) - Existing tools help you write a strategic plan.
+- [Shram](https://www.shram.ai) - Every cold conversation is a missed deal, delayed project, or broken trust.
 
 ## 🔎 Search & Discovery
 
@@ -640,6 +649,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Angel Match](https://www.angelmatch.io) - Angel Match is a database of 125k+ investors that frees you from tedious process of searching for the right investors for your startup.🌟 We’ve compiled investor names, investment focuses, past….
 - [Clipto](https://clipto.com/?via=producthunt) - Like Google Photos, but fully local.
 - [Stella](https://trystella.co) - You know the file exists.
+- [Moodloom](https://moodloom.xyz) - Moodloom is an ad-free visual discovery platform for those fed up of Pinterest.
 
 ## 🎓 Education & Learning
 
@@ -671,6 +681,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Kim Personal Health Assistant](https://www.oculimedical.com) - Meet Kim, a personal health assistant that turns your health data into simple conversations and personal experiments, helping you understand what actually works for your body.
 - [Oura](http://www.ouraring.com) - The most accurate sleep and activity tracker is all about you: it measures the physiological signals of your body, understands your lifestyle, and guides you to make your own optimal daily choices.
 - [GlowPulse](https://glowpulse.cc) - GlowPulse measures your heart rate from your Mac's built-in camera using rPPG – no watch, no chest strap, no wearable.
+- [Treadmill Pro](https://treadmillpro.app) - Connect your treadmill via Bluetooth and control speed, incline, timer and stats right from your iPhone.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -687,6 +698,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Fere AI](https://www.fereai.xyz) - Unlike generic crypto research assistants, Fere turns market signals into autonomous trading workflows.
 - [Robinhood](http://robinhood.com) - Robinhood, a pioneer of commission-free investing, gives you more ways to make your money work harder.
 - [Co-Invest](https://coinvest.ai) - Co-Invest by Liquid lets you research and place real trades inside ChatGPT or Claude.
+- [Leni](https://leni.co) - Leni is the most accurate and verifiable AI for serious investment work.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -739,6 +751,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SurrealDB](https://surrealdb.com) - SurrealDB is a Rust multi-model database and context layer for AI agents: documents, graphs, vectors, time-series, and relations are native in one ACID engine, no stitched stores.
 - [InsForge](https://insforge.dev) - InsForge is the agent-native alternative to AWS.
 - [Astra Security](https://www.getastra.com) - Astra Security helps modern enterprises find and fix vulnerabilities before attackers do.
+- [Arena](https://www.arena.ai) - Arena is an open platform to evaluate, benchmark, compare, and test frontier AI models.
 
 ## 💬 Chatbots & Conversational
 
@@ -771,6 +784,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MESA](https://www.getmesa.com) - For Shopify merchants buried in repetitive store operations, MESA turns plain-English requests into automations that work across their.
 - [StoreClaw](https://www.storeclaw.ai) - StoreClaw is the first AI commerce platform with agents that know how to sell, so you can make more money with less effort and less stress.
 - [SoMerch](https://somerch.co) - Managing merch for a distributed team is messier than it looks - multiple vendors, no shared history, manual shipping to individual addresses across Europe, a process that restarts every order.
+- [SellerClaw](https://sellerai.com) - Running even one online store is a full-time job.
 
 ## ✨ Everything Else
 
