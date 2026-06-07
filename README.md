@@ -8,23 +8,23 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (56)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (103)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (104)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (152)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (45)
 - [🎬 Video & Animation](#video-animation) (32)
 - [🎨 Image, Design & 3D](#image-design-3d) (48)
 - [✍️ Writing & Content](#writing-content) (31)
 - [📊 Analytics & Data](#analytics-data) (42)
-- [🗂 Productivity & Notes](#productivity-notes) (67)
+- [🗂 Productivity & Notes](#productivity-notes) (68)
 - [🔎 Search & Discovery](#search-discovery) (16)
 - [🎓 Education & Learning](#education-learning) (14)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (11)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (14)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (50)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (51)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (11)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (5)
-- [✨ Everything Else](#everything-else) (74)
+- [✨ Everything Else](#everything-else) (75)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -190,6 +190,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Crew44](https://crew44.io) - Crew44 — a crew of specialist AI agents in one local-first workspace.
 - [Pancake](https://getpancake.ai) - Every other AI product is a tool that makes you more productive.
 - [Kalcend](https://kalcend.ai) - Kalcend allows you to build and deploy custom AI employees in minutes just by describing the role in plain English.
+- [Wave](https://wave.mxv.sh) - Wave lets you invoke an AI model anywhere on macOS using just your voice.
 
 ## 💻 Coding & Developer Tools
 
@@ -631,6 +632,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [TimeTuna](https://timetuna.com) - TimeTuna is on a mission to help 400 million people to enjoy scheduling and rescheduling.
 - [VisionSync](https://visionsync.com) - Existing tools help you write a strategic plan.
 - [Shram](https://www.shram.ai) - Every cold conversation is a missed deal, delayed project, or broken trust.
+- [Smmall Cloud](https://smmall.cloud) - Say goodbye to bloated, expensive platforms that are trying to do everything.
 
 ## 🔎 Search & Discovery
 
@@ -752,6 +754,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [InsForge](https://insforge.dev) - InsForge is the agent-native alternative to AWS.
 - [Astra Security](https://www.getastra.com) - Astra Security helps modern enterprises find and fix vulnerabilities before attackers do.
 - [Arena](https://www.arena.ai) - Arena is an open platform to evaluate, benchmark, compare, and test frontier AI models.
+- [Job Postings API](https://bluedoor.sh/apis/job-postings) - A free, hosted job listings API with 1.8M+ listings across 60k companies. Get comprehensive active and historical job data from 30+ applicant tracking systems, with companies spanning industries….
 
 ## 💬 Chatbots & Conversational
 
@@ -862,6 +865,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Sentinel](https://www.avearobotics.com) - Avea's Sentinel is the fastest remote teleoperation software on the market, so you can control your robots from anywhere in the world.
 - [Kompassify](https://kompassify.com) - Whether you’re launching a new feature or guiding new users to their “aha” moment, Kompassify let you build and customize the user onboarding experiences in minutes instead of weeks.
 - [Enshittifier](https://enshittifier.wells.ee) - The Mac app started as a dumb question: can you use font ligatures to turn AI into 💩?.
+- [CabinLink](https://vishrutjha.com/cabinlink) - CabinLink reads supported in-flight Wi-Fi manifests and turns them into a native flight dashboard.
 
 ## Contributing
 
