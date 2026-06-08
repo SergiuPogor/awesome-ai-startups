@@ -9,16 +9,16 @@ The goal: make useful indie AI products easier to find, share, and support.
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (56)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (104)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (152)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (45)
-- [🎬 Video & Animation](#video-animation) (32)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (154)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (46)
+- [🎬 Video & Animation](#video-animation) (33)
 - [🎨 Image, Design & 3D](#image-design-3d) (48)
 - [✍️ Writing & Content](#writing-content) (31)
 - [📊 Analytics & Data](#analytics-data) (42)
-- [🗂 Productivity & Notes](#productivity-notes) (68)
+- [🗂 Productivity & Notes](#productivity-notes) (69)
 - [🔎 Search & Discovery](#search-discovery) (16)
-- [🎓 Education & Learning](#education-learning) (14)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (11)
+- [🎓 Education & Learning](#education-learning) (15)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (12)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (14)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (51)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (11)
@@ -347,6 +347,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AppWizzy](https://appwizzy.com) - AppWizzy gives you a private VM with Codex installed where you build, run, and host production web apps by chatting with AI.
 - [Empromptu AI](https://empromptu.ai) - Empromptu empowers businesses to build full-stack, AI-native applications in minutes—no code required—by combining a conversational builder with powerful agents that handle data ingestion, logic,….
 - [Recursi](https://recursi.dev) - An extremely powerful environment for vibe coding, allowing you to use web based chatbots (Claude/Gemini via aistudio/ChatGPT, etc) extremely efficiently while staying firmly in their terms of service.
+- [The Virtual OS Museum](https://virtualosmuseum.org) - Over 1,700 pre-installed operating systems spanning 1948 to today, in a single Linux VM.
+- [Browserbase](https://browserbase.com) - Browserbase makes the web as reliable and programmable as APIs.
 
 ## 🎙 Audio, Voice & Music
 
@@ -395,6 +397,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Coffee Piano](https://coffeepiano.com) - Most harmony tools are too theoretical or too simple.
 - [Sun](https://www.getsun.io) - Sun is a voice first AI model built specifically for real‑time collaborative voice interaction, not just one‑on‑one chat.
 - [Carbon Voice](https://getcarbon.app/desktop) - The fastest way to record a voice message and get a shareable link (transcript included).
+- [Vaani](https://vaani.media) - Vaani is a voice-preserving AI dubbing tool to help you dub in 40+ languages, in one go, at a fraction of the cost of a traditional dub session.
 
 ## 🎬 Video & Animation
 
@@ -430,6 +433,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Layers](https://www.newcreative.studio/layers) - Layers is a free web-based tool that empowers anyone to create beautiful, animated code snippet videos.
 - [Stage](https://usestage.app) - Record your product walkthrough with screen, camera, audio, cursor, and keystrokes all in sync.
 - [Clipline](https://t.me/clipline_bot) - Clipline is an AI-powered Telegram bot that turns any long video (YouTube, file) into short, engaging clips in 90 seconds.
+- [NTSC-RS](https://ntsc.rs) - ntsc-rs is a free, open-source VHS and analog TV video effect.
 
 ## 🎨 Image, Design & 3D
 
@@ -633,6 +637,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [VisionSync](https://visionsync.com) - Existing tools help you write a strategic plan.
 - [Shram](https://www.shram.ai) - Every cold conversation is a missed deal, delayed project, or broken trust.
 - [Smmall Cloud](https://smmall.cloud) - Say goodbye to bloated, expensive platforms that are trying to do everything.
+- [Supaste](https://supaste.com) - Supaste is a local-first clipboard and screenshot history app for Mac.
 
 ## 🔎 Search & Discovery
 
@@ -670,6 +675,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Skylive](https://skylive.world) - SkyLive is creating the world's first community-powered network of sky cameras.
 - [Brilliant](https://brilliant.org) - Brilliant is your superintelligent math and coding tutor.
 - [Build Club](https://www.buildclub.ai) - The Most Collaborative AI Learning Community in the World · Grow with a community that has your back · Free AI Learning Ecosystem for All.
+- [Honen](https://honen.com) - Create employee training that keeps up with your company.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -684,6 +690,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Oura](http://www.ouraring.com) - The most accurate sleep and activity tracker is all about you: it measures the physiological signals of your body, understands your lifestyle, and guides you to make your own optimal daily choices.
 - [GlowPulse](https://glowpulse.cc) - GlowPulse measures your heart rate from your Mac's built-in camera using rPPG – no watch, no chest strap, no wearable.
 - [Treadmill Pro](https://treadmillpro.app) - Connect your treadmill via Bluetooth and control speed, incline, timer and stats right from your iPhone.
+- [Tamadoggo](https://tamadoggo.com) - Most pet apps are clinical trackers.
 
 ## 💰 Finance, Crypto & Payments
 
