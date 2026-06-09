@@ -8,19 +8,19 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (56)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (104)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (154)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (46)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (105)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (156)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (47)
 - [🎬 Video & Animation](#video-animation) (33)
-- [🎨 Image, Design & 3D](#image-design-3d) (48)
+- [🎨 Image, Design & 3D](#image-design-3d) (49)
 - [✍️ Writing & Content](#writing-content) (31)
 - [📊 Analytics & Data](#analytics-data) (42)
-- [🗂 Productivity & Notes](#productivity-notes) (69)
-- [🔎 Search & Discovery](#search-discovery) (16)
+- [🗂 Productivity & Notes](#productivity-notes) (73)
+- [🔎 Search & Discovery](#search-discovery) (17)
 - [🎓 Education & Learning](#education-learning) (15)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (12)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (14)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (51)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (15)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (52)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (11)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (5)
@@ -191,6 +191,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pancake](https://getpancake.ai) - Every other AI product is a tool that makes you more productive.
 - [Kalcend](https://kalcend.ai) - Kalcend allows you to build and deploy custom AI employees in minutes just by describing the role in plain English.
 - [Wave](https://wave.mxv.sh) - Wave lets you invoke an AI model anywhere on macOS using just your voice.
+- [AgentOS](https://sapienx.app/agentos) - Run AI agents like a company.
 
 ## 💻 Coding & Developer Tools
 
@@ -349,6 +350,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Recursi](https://recursi.dev) - An extremely powerful environment for vibe coding, allowing you to use web based chatbots (Claude/Gemini via aistudio/ChatGPT, etc) extremely efficiently while staying firmly in their terms of service.
 - [The Virtual OS Museum](https://virtualosmuseum.org) - Over 1,700 pre-installed operating systems spanning 1948 to today, in a single Linux VM.
 - [Browserbase](https://browserbase.com) - Browserbase makes the web as reliable and programmable as APIs.
+- [agentcad](https://agentcad.dev) - Give your coding agent the ability to design real, manufacturable parts.
+- [Uiverse.io](https://uiverse.io) - Website for developers featuring hundreds of community-made CSS and HTML UI elements like buttons, inputs, checkboxes, and cards.
 
 ## 🎙 Audio, Voice & Music
 
@@ -398,6 +401,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Sun](https://www.getsun.io) - Sun is a voice first AI model built specifically for real‑time collaborative voice interaction, not just one‑on‑one chat.
 - [Carbon Voice](https://getcarbon.app/desktop) - The fastest way to record a voice message and get a shareable link (transcript included).
 - [Vaani](https://vaani.media) - Vaani is a voice-preserving AI dubbing tool to help you dub in 40+ languages, in one go, at a fraction of the cost of a traditional dub session.
+- [prostir zvuku](https://prostirzvuku.app) - Build a quiet room around you for focus, rest, and sleep.
 
 ## 🎬 Video & Animation
 
@@ -486,6 +490,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MAI](https://microsoft.ai) - Microsoft AI is pioneering the future of what AI can do and what technology can be.
 - [FloatPic](https://floatpic.app) - FloatPic is the ultra-minimalist macOS native image viewer.
 - [Ideogram 4.0](https://ideogram.ai/models/4.0) - Ideogram 4.0 is an open-weight text-to-image model trained from scratch, with bounding-box layout control, multilingual text rendering, and native 2K output. For developers and enterprises….
+- [Reve 2.0](https://blog.reve.com/posts/the-layout-bet) - Reve 2.0 generates and edits 4K images using a layout-first model that segments each image into addressable regions. For designers, marketers, and creative teams who need precise compositional control.
 
 ## ✍️ Writing & Content
 
@@ -638,6 +643,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Shram](https://www.shram.ai) - Every cold conversation is a missed deal, delayed project, or broken trust.
 - [Smmall Cloud](https://smmall.cloud) - Say goodbye to bloated, expensive platforms that are trying to do everything.
 - [Supaste](https://supaste.com) - Supaste is a local-first clipboard and screenshot history app for Mac.
+- [Mic Drop](https://getmicdrop.com) - Ever been in a video call and needed to turn off your microphone, but couldn’t find the mute button quickly enough?.
+- [Limelight](https://limelightmac.com) - Limelight makes everything you do on screen easy to follow.
+- [hora Calendar](https://horacal.app) - hora Calendar is a native Mac app for Google Calendar.
+- [BooBar](https://boobar.app) - BooBar is a local-first AI Dynamic Island for Mac that brings file organization, download progress, email codes, browser context, GitHub panels, and Codex/Claude tasks into one calm menu bar workspace.
 
 ## 🔎 Search & Discovery
 
@@ -657,6 +666,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Clipto](https://clipto.com/?via=producthunt) - Like Google Photos, but fully local.
 - [Stella](https://trystella.co) - You know the file exists.
 - [Moodloom](https://moodloom.xyz) - Moodloom is an ad-free visual discovery platform for those fed up of Pinterest.
+- [TravelMind](https://travelmindapp.com) - You land in a new city.
 
 ## 🎓 Education & Learning
 
@@ -708,6 +718,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Robinhood](http://robinhood.com) - Robinhood, a pioneer of commission-free investing, gives you more ways to make your money work harder.
 - [Co-Invest](https://coinvest.ai) - Co-Invest by Liquid lets you research and place real trades inside ChatGPT or Claude.
 - [Leni](https://leni.co) - Leni is the most accurate and verifiable AI for serious investment work.
+- [VC Boom](https://vcboom.com) - VC Boom scores your pitch deck in under 90 seconds and tells you the single fastest fix, matches you with the right investors from 47,000+ (each with a one-line reason they fit), then drafts….
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -762,6 +773,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Astra Security](https://www.getastra.com) - Astra Security helps modern enterprises find and fix vulnerabilities before attackers do.
 - [Arena](https://www.arena.ai) - Arena is an open platform to evaluate, benchmark, compare, and test frontier AI models.
 - [Job Postings API](https://bluedoor.sh/apis/job-postings) - A free, hosted job listings API with 1.8M+ listings across 60k companies. Get comprehensive active and historical job data from 30+ applicant tracking systems, with companies spanning industries….
+- [ZeroGPU](https://zerogpu.ai) - The world can't build compute fast enough to keep up with AI demand.
 
 ## 💬 Chatbots & Conversational
 
