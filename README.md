@@ -8,17 +8,17 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (56)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (105)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (156)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (109)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (160)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (47)
-- [🎬 Video & Animation](#video-animation) (33)
-- [🎨 Image, Design & 3D](#image-design-3d) (49)
+- [🎬 Video & Animation](#video-animation) (34)
+- [🎨 Image, Design & 3D](#image-design-3d) (51)
 - [✍️ Writing & Content](#writing-content) (31)
-- [📊 Analytics & Data](#analytics-data) (42)
+- [📊 Analytics & Data](#analytics-data) (44)
 - [🗂 Productivity & Notes](#productivity-notes) (73)
 - [🔎 Search & Discovery](#search-discovery) (17)
-- [🎓 Education & Learning](#education-learning) (15)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (12)
+- [🎓 Education & Learning](#education-learning) (16)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (13)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (15)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (52)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (11)
@@ -192,6 +192,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Kalcend](https://kalcend.ai) - Kalcend allows you to build and deploy custom AI employees in minutes just by describing the role in plain English.
 - [Wave](https://wave.mxv.sh) - Wave lets you invoke an AI model anywhere on macOS using just your voice.
 - [AgentOS](https://sapienx.app/agentos) - Run AI agents like a company.
+- [Onpilot](https://www.onpilot.ai) - Onpilot creates specialized AI workers customized to your systems, workflows, and processes.
+- [Slashspace AI](https://www.slashspace.ai) - An AI native user today copy-pastes prompts across a dozen apps.
+- [Asmi AI](https://asmiai.com/product-hunt) - Asmi calls you every morning.
+- [Bond](https://www.bondapp.io) - Bond is an AI Chief of Staff for executives.
 
 ## 💻 Coding & Developer Tools
 
@@ -352,6 +356,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Browserbase](https://browserbase.com) - Browserbase makes the web as reliable and programmable as APIs.
 - [agentcad](https://agentcad.dev) - Give your coding agent the ability to design real, manufacturable parts.
 - [Uiverse.io](https://uiverse.io) - Website for developers featuring hundreds of community-made CSS and HTML UI elements like buttons, inputs, checkboxes, and cards.
+- [Cloudskill](https://www.cloudskill.com) - Bring order to the AI agent skills your team depends on.
+- [SlimSnap](https://slimsnap.ai) - The AI reads your screenshot as a pixel blob and guesses which button you meant.
+- [Terminal Mode by Even Realities](https://evenrealities.com/terminal) - Terminal Mode by Even Realities unlocks an ambient terminal on Even G2 smart glasses.
+- [Respan](https://respan.ai) - Respan makes it dead simple to build production-ready LLM applications.
 
 ## 🎙 Audio, Voice & Music
 
@@ -438,6 +446,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Stage](https://usestage.app) - Record your product walkthrough with screen, camera, audio, cursor, and keystrokes all in sync.
 - [Clipline](https://t.me/clipline_bot) - Clipline is an AI-powered Telegram bot that turns any long video (YouTube, file) into short, engaging clips in 90 seconds.
 - [NTSC-RS](https://ntsc.rs) - ntsc-rs is a free, open-source VHS and analog TV video effect.
+- [OwnClip](https://ownclip.io) - A high-performance, native macOS screen recorder built for speed.
 
 ## 🎨 Image, Design & 3D
 
@@ -491,6 +500,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [FloatPic](https://floatpic.app) - FloatPic is the ultra-minimalist macOS native image viewer.
 - [Ideogram 4.0](https://ideogram.ai/models/4.0) - Ideogram 4.0 is an open-weight text-to-image model trained from scratch, with bounding-box layout control, multilingual text rendering, and native 2K output. For developers and enterprises….
 - [Reve 2.0](https://blog.reve.com/posts/the-layout-bet) - Reve 2.0 generates and edits 4K images using a layout-first model that segments each image into addressable regions. For designers, marketers, and creative teams who need precise compositional control.
+- [Airbrush Studio](https://airbrush.com/airbrush-studio) - Airbrush Studio is an AI-powered photo editor built for creators and photographers who want professional-quality results without the complexity of manual editing.
+- [PixelForge](https://pixel-forge.net) - Turn one photo into a recognizable RPG character that actually walks - a 4-direction sprite pack (4x4 sheet, 16 transparent PNG frames, walk GIFs) ready for Godot, Unity, or the web.
 
 ## ✍️ Writing & Content
 
@@ -571,6 +582,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ConnectWizard](https://connectwizard.app) - App Store Connect only shows a fraction of the data Apple actually collects about your app.
 - [Novus](https://novus.pendo.io/register) - Novus is the product agent built for teams that ship fast.
 - [Veltrix AI](https://veltrix.com) - See your whole business in one place.
+- [Lium AI](https://app.lium.ai) - Lium is a collaborative AI platform that helps domain experts get reliable answers from messy, massive, multimodal datasets.
+- [Crustdata](https://crustdata.com) - Live Company and People Data via APIs Search, enrich, or watch a person or company in real-time.
 
 ## 🗂 Productivity & Notes
 
@@ -686,6 +699,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Brilliant](https://brilliant.org) - Brilliant is your superintelligent math and coding tutor.
 - [Build Club](https://www.buildclub.ai) - The Most Collaborative AI Learning Community in the World · Grow with a community that has your back · Free AI Learning Ecosystem for All.
 - [Honen](https://honen.com) - Create employee training that keeps up with your company.
+- [Journey Now](https://journey.now) - Journey Now turns anything you want to learn or master into a personalized, step-by-step plan — with daily guidance, reflection, and a view of how friends are progressing too.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -701,6 +715,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [GlowPulse](https://glowpulse.cc) - GlowPulse measures your heart rate from your Mac's built-in camera using rPPG – no watch, no chest strap, no wearable.
 - [Treadmill Pro](https://treadmillpro.app) - Connect your treadmill via Bluetooth and control speed, incline, timer and stats right from your iPhone.
 - [Tamadoggo](https://tamadoggo.com) - Most pet apps are clinical trackers.
+- [Juno](https://junocompanion.com) - Juno is an AI personal health companion for the 1B+ people living with chronic illness.
 
 ## 💰 Finance, Crypto & Payments
 
