@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (56)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (57)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (109)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (160)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (165)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (47)
-- [🎬 Video & Animation](#video-animation) (34)
+- [🎬 Video & Animation](#video-animation) (35)
 - [🎨 Image, Design & 3D](#image-design-3d) (51)
 - [✍️ Writing & Content](#writing-content) (31)
-- [📊 Analytics & Data](#analytics-data) (44)
+- [📊 Analytics & Data](#analytics-data) (45)
 - [🗂 Productivity & Notes](#productivity-notes) (73)
 - [🔎 Search & Discovery](#search-discovery) (17)
 - [🎓 Education & Learning](#education-learning) (16)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (13)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (15)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (52)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (15)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (18)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (53)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (11)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (5)
-- [✨ Everything Else](#everything-else) (75)
+- [✨ Everything Else](#everything-else) (77)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -84,6 +84,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Elentaria](https://elentaria.ai) - Elentaria is the AI operator for B2B: it analyzes your business, scores 22 channels, ships the plan that fits, and learns what moved revenue so it can make the next week sharper.
 - [Deliveryman.ai](https://deliveryman.ai) - Deliveryman.ai automates the hardest parts of cold email infrastructure mailbox setup, DNS records, warmup, email verification, sending systems, blacklist monitoring, reply management, and….
 - [Mailwarm](https://www.mailwarm.com) - Mailwarm increases your email deliverability by raising your sender reputation.
+- [Customer.io](http://customer.io) - Customer.io unifies data, messaging, and AI into one platform so every customer interaction gets smarter over time. Teams use it to build personalized campaigns across email, SMS, push, in-app,….
 
 ## 🤖 AI Agents & Assistants
 
@@ -360,6 +361,11 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SlimSnap](https://slimsnap.ai) - The AI reads your screenshot as a pixel blob and guesses which button you meant.
 - [Terminal Mode by Even Realities](https://evenrealities.com/terminal) - Terminal Mode by Even Realities unlocks an ambient terminal on Even G2 smart glasses.
 - [Respan](https://respan.ai) - Respan makes it dead simple to build production-ready LLM applications.
+- [LocIn AI](https://locin.dev) - Translate your app with tone-aware AI, automated localization workflows, CLI integration, and instant API access.
+- [SeaTicket](https://seaticket.ai) - Software teams are drowning in a sea of fragmented issues across GitHub, Discourse and emails.
+- [ShellMate](https://shellmate.net) - ShellMate is a modern, ultra-fast, and secure SSH client featuring a zero-knowledge encrypted vault, cross-device sync, and advanced team workspace collaboration.
+- [Bob's CLI](https://www.npmjs.com/package/@bobsworkshop/cli) - Bob's CLI runs on your own hardware with zero API costs, zero data leaving your machine.
+- [Qursor](https://qursor.xyz) - I kept wasting AI tokens describing UI changes to agents that edited the wrong element.
 
 ## 🎙 Audio, Voice & Music
 
@@ -447,6 +453,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Clipline](https://t.me/clipline_bot) - Clipline is an AI-powered Telegram bot that turns any long video (YouTube, file) into short, engaging clips in 90 seconds.
 - [NTSC-RS](https://ntsc.rs) - ntsc-rs is a free, open-source VHS and analog TV video effect.
 - [OwnClip](https://ownclip.io) - A high-performance, native macOS screen recorder built for speed.
+- [CueBuddy](https://cuebuddy.cn) - CueBuddy is a voice-following teleprompter for iPhone and iPad.
 
 ## 🎨 Image, Design & 3D
 
@@ -584,6 +591,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Veltrix AI](https://veltrix.com) - See your whole business in one place.
 - [Lium AI](https://app.lium.ai) - Lium is a collaborative AI platform that helps domain experts get reliable answers from messy, massive, multimodal datasets.
 - [Crustdata](https://crustdata.com) - Live Company and People Data via APIs Search, enrich, or watch a person or company in real-time.
+- [NODUS PH Radar for Product Hunt](https://nodus-ai.app/ph-radar) - NODUS PH Radar helps makers analyze Product Hunt launches beyond the daily rankings.
 
 ## 🗂 Productivity & Notes
 
@@ -716,6 +724,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Treadmill Pro](https://treadmillpro.app) - Connect your treadmill via Bluetooth and control speed, incline, timer and stats right from your iPhone.
 - [Tamadoggo](https://tamadoggo.com) - Most pet apps are clinical trackers.
 - [Juno](https://junocompanion.com) - Juno is an AI personal health companion for the 1B+ people living with chronic illness.
+- [Medicyn](https://medicyn.vercel.app) - The only health app that keeps your medical history completely private—on your device, offline, with no accounts or tracking.
+- [HyperSleep](https://hypersleep.app) - Every screen-time app fails for the same reason: you have to turn it on and at 1am, you won't.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -734,6 +744,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Co-Invest](https://coinvest.ai) - Co-Invest by Liquid lets you research and place real trades inside ChatGPT or Claude.
 - [Leni](https://leni.co) - Leni is the most accurate and verifiable AI for serious investment work.
 - [VC Boom](https://vcboom.com) - VC Boom scores your pitch deck in under 90 seconds and tells you the single fastest fix, matches you with the right investors from 47,000+ (each with a one-line reason they fit), then drafts….
+- [Meet Warren](https://meetwarren.co.uk) - Warren is AI agent that helps you build a long term financial plan for your future.
+- [KOSH Money](https://koshmoney.com) - KOSH is a USD account built specifically for freelancers and creators across Asia.
+- [Pond](https://joinpond.ai) - Pond is the market infrastructure for the new startup economy.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -789,6 +802,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Arena](https://www.arena.ai) - Arena is an open platform to evaluate, benchmark, compare, and test frontier AI models.
 - [Job Postings API](https://bluedoor.sh/apis/job-postings) - A free, hosted job listings API with 1.8M+ listings across 60k companies. Get comprehensive active and historical job data from 30+ applicant tracking systems, with companies spanning industries….
 - [ZeroGPU](https://zerogpu.ai) - The world can't build compute fast enough to keep up with AI demand.
+- [Firma.dev](https://firma.dev) - At €0.029 per envelope (about 3¢), Firma.dev runs about 99% cheaper than DocuSign's API pricing. Pay-as-you-go, no minimums, no contracts. It's built developer-first for startups and SaaS….
 
 ## 💬 Chatbots & Conversational
 
@@ -900,6 +914,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Kompassify](https://kompassify.com) - Whether you’re launching a new feature or guiding new users to their “aha” moment, Kompassify let you build and customize the user onboarding experiences in minutes instead of weeks.
 - [Enshittifier](https://enshittifier.wells.ee) - The Mac app started as a dumb question: can you use font ligatures to turn AI into 💩?.
 - [CabinLink](https://vishrutjha.com/cabinlink) - CabinLink reads supported in-flight Wi-Fi manifests and turns them into a native flight dashboard.
+- [pleNx — Plex client for Nintendo Switch](https://thcolin.github.io/pleNx) - pleNx is a free, open-source, native Plex client for the Nintendo Switch.
+- [Clutch Alarm](https://clutchalarm.com) - The World Cup is in North America, so for fans in Europe the big matches kick off at 3 AM.
 
 ## Contributing
 
