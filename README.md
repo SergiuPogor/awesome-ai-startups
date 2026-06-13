@@ -11,12 +11,12 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (109)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (165)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (47)
-- [🎬 Video & Animation](#video-animation) (35)
+- [🎬 Video & Animation](#video-animation) (36)
 - [🎨 Image, Design & 3D](#image-design-3d) (51)
 - [✍️ Writing & Content](#writing-content) (31)
 - [📊 Analytics & Data](#analytics-data) (45)
 - [🗂 Productivity & Notes](#productivity-notes) (73)
-- [🔎 Search & Discovery](#search-discovery) (17)
+- [🔎 Search & Discovery](#search-discovery) (18)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (15)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (18)
@@ -454,6 +454,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [NTSC-RS](https://ntsc.rs) - ntsc-rs is a free, open-source VHS and analog TV video effect.
 - [OwnClip](https://ownclip.io) - A high-performance, native macOS screen recorder built for speed.
 - [CueBuddy](https://cuebuddy.cn) - CueBuddy is a voice-following teleprompter for iPhone and iPad.
+- [Avatars in ElevenCreative](https://elevenlabs.io/app/image-video?modality=video) - The best AI voices, now with a face.
 
 ## 🎨 Image, Design & 3D
 
@@ -688,6 +689,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Stella](https://trystella.co) - You know the file exists.
 - [Moodloom](https://moodloom.xyz) - Moodloom is an ad-free visual discovery platform for those fed up of Pinterest.
 - [TravelMind](https://travelmindapp.com) - You land in a new city.
+- [NomNak](https://nomnak.com) - NomNak helps you find restaurants through people you trust.
 
 ## 🎓 Education & Learning
 
