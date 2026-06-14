@@ -8,23 +8,23 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (57)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (109)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (165)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (110)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (167)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (47)
 - [🎬 Video & Animation](#video-animation) (36)
-- [🎨 Image, Design & 3D](#image-design-3d) (51)
+- [🎨 Image, Design & 3D](#image-design-3d) (52)
 - [✍️ Writing & Content](#writing-content) (31)
-- [📊 Analytics & Data](#analytics-data) (45)
-- [🗂 Productivity & Notes](#productivity-notes) (73)
+- [📊 Analytics & Data](#analytics-data) (46)
+- [🗂 Productivity & Notes](#productivity-notes) (75)
 - [🔎 Search & Discovery](#search-discovery) (18)
 - [🎓 Education & Learning](#education-learning) (16)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (15)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (16)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (18)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (53)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (11)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (5)
-- [✨ Everything Else](#everything-else) (77)
+- [✨ Everything Else](#everything-else) (79)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -197,6 +197,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Slashspace AI](https://www.slashspace.ai) - An AI native user today copy-pastes prompts across a dozen apps.
 - [Asmi AI](https://asmiai.com/product-hunt) - Asmi calls you every morning.
 - [Bond](https://www.bondapp.io) - Bond is an AI Chief of Staff for executives.
+- [Memoriq](https://memoriq.me) - Memoriq is your private AI memory for ChatGPT, Claude, Gemini and Grok.
 
 ## 💻 Coding & Developer Tools
 
@@ -366,6 +367,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ShellMate](https://shellmate.net) - ShellMate is a modern, ultra-fast, and secure SSH client featuring a zero-knowledge encrypted vault, cross-device sync, and advanced team workspace collaboration.
 - [Bob's CLI](https://www.npmjs.com/package/@bobsworkshop/cli) - Bob's CLI runs on your own hardware with zero API costs, zero data leaving your machine.
 - [Qursor](https://qursor.xyz) - I kept wasting AI tokens describing UI changes to agents that edited the wrong element.
+- [Conan](https://conan.sh) - Conan is a native macOS app that wraps Claude Code in a live HUD — every prompt, tool call, skill, and token, surfaced as it happens.
+- [Cloudback](https://cloudback.it) - Automatic daily backups and restores for GitHub, GitLab, Azure DevOps, and Linear.
 
 ## 🎙 Audio, Voice & Music
 
@@ -510,6 +513,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Reve 2.0](https://blog.reve.com/posts/the-layout-bet) - Reve 2.0 generates and edits 4K images using a layout-first model that segments each image into addressable regions. For designers, marketers, and creative teams who need precise compositional control.
 - [Airbrush Studio](https://airbrush.com/airbrush-studio) - Airbrush Studio is an AI-powered photo editor built for creators and photographers who want professional-quality results without the complexity of manual editing.
 - [PixelForge](https://pixel-forge.net) - Turn one photo into a recognizable RPG character that actually walks - a 4-direction sprite pack (4x4 sheet, 16 transparent PNG frames, walk GIFs) ready for Godot, Unity, or the web.
+- [Taste Lab](https://tastelab.xyz) - Point your AI agent at any website.
 
 ## ✍️ Writing & Content
 
@@ -593,6 +597,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Lium AI](https://app.lium.ai) - Lium is a collaborative AI platform that helps domain experts get reliable answers from messy, massive, multimodal datasets.
 - [Crustdata](https://crustdata.com) - Live Company and People Data via APIs Search, enrich, or watch a person or company in real-time.
 - [NODUS PH Radar for Product Hunt](https://nodus-ai.app/ph-radar) - NODUS PH Radar helps makers analyze Product Hunt launches beyond the daily rankings.
+- [Athenic AI](https://www.athenic.com) - Athenic AI is an agentic data analyst built for teams.
 
 ## 🗂 Productivity & Notes
 
@@ -669,6 +674,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Limelight](https://limelightmac.com) - Limelight makes everything you do on screen easy to follow.
 - [hora Calendar](https://horacal.app) - hora Calendar is a native Mac app for Google Calendar.
 - [BooBar](https://boobar.app) - BooBar is a local-first AI Dynamic Island for Mac that brings file organization, download progress, email codes, browser context, GitHub panels, and Codex/Claude tasks into one calm menu bar workspace.
+- [Pool](https://pool.day) - Save anything with a screenshot!.
+- [Slashy](https://slashy.com) - Slashy is an AI-native email client and assistant that drafts replies in your voice, triages what matters, and makes sure no follow-up slips, so you spend less time in your inbox and more time on….
 
 ## 🔎 Search & Discovery
 
@@ -728,6 +735,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Juno](https://junocompanion.com) - Juno is an AI personal health companion for the 1B+ people living with chronic illness.
 - [Medicyn](https://medicyn.vercel.app) - The only health app that keeps your medical history completely private—on your device, offline, with no accounts or tracking.
 - [HyperSleep](https://hypersleep.app) - Every screen-time app fails for the same reason: you have to turn it on and at 1am, you won't.
+- [Allergo](https://www.getallergo.com) - Allergo helps you create allergy translation cards for 75+ languages/countries.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -918,6 +926,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [CabinLink](https://vishrutjha.com/cabinlink) - CabinLink reads supported in-flight Wi-Fi manifests and turns them into a native flight dashboard.
 - [pleNx — Plex client for Nintendo Switch](https://thcolin.github.io/pleNx) - pleNx is a free, open-source, native Plex client for the Nintendo Switch.
 - [Clutch Alarm](https://clutchalarm.com) - The World Cup is in North America, so for fans in Europe the big matches kick off at 3 AM.
+- [Tinfoil Pigeons](https://tinfoilpigeons.com) - What plane is flying over my house?.
+- [Permute](http://software.charliemonroe.net/permute) - A powerful yet easy-to-use media converter for macOS.
 
 ## Contributing
 
