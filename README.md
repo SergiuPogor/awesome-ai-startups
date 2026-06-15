@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (57)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (110)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (59)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (111)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (167)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (47)
-- [🎬 Video & Animation](#video-animation) (36)
-- [🎨 Image, Design & 3D](#image-design-3d) (52)
-- [✍️ Writing & Content](#writing-content) (31)
-- [📊 Analytics & Data](#analytics-data) (46)
-- [🗂 Productivity & Notes](#productivity-notes) (75)
+- [🎬 Video & Animation](#video-animation) (37)
+- [🎨 Image, Design & 3D](#image-design-3d) (54)
+- [✍️ Writing & Content](#writing-content) (32)
+- [📊 Analytics & Data](#analytics-data) (47)
+- [🗂 Productivity & Notes](#productivity-notes) (76)
 - [🔎 Search & Discovery](#search-discovery) (18)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (16)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (18)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (53)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (56)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (11)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (5)
-- [✨ Everything Else](#everything-else) (79)
+- [✨ Everything Else](#everything-else) (80)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -85,6 +85,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Deliveryman.ai](https://deliveryman.ai) - Deliveryman.ai automates the hardest parts of cold email infrastructure mailbox setup, DNS records, warmup, email verification, sending systems, blacklist monitoring, reply management, and….
 - [Mailwarm](https://www.mailwarm.com) - Mailwarm increases your email deliverability by raising your sender reputation.
 - [Customer.io](http://customer.io) - Customer.io unifies data, messaging, and AI into one platform so every customer interaction gets smarter over time. Teams use it to build personalized campaigns across email, SMS, push, in-app,….
+- [Sulsaly](https://sulsaly.com) - Sulsaly is MENA's first Agentic AI sales intelligence platform.
+- [Kickbacks.ai](https://kickbacks.ai) - Kickbacks.ai helps developers get paid for AI-agent wait states. Advertisers bid for a tiny sponsored status line; users get 50% of ad revenue.
 
 ## 🤖 AI Agents & Assistants
 
@@ -198,6 +200,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Asmi AI](https://asmiai.com/product-hunt) - Asmi calls you every morning.
 - [Bond](https://www.bondapp.io) - Bond is an AI Chief of Staff for executives.
 - [Memoriq](https://memoriq.me) - Memoriq is your private AI memory for ChatGPT, Claude, Gemini and Grok.
+- [Fonda](https://fonda.co) - 90% of startups fail.
 
 ## 💻 Coding & Developer Tools
 
@@ -458,6 +461,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [OwnClip](https://ownclip.io) - A high-performance, native macOS screen recorder built for speed.
 - [CueBuddy](https://cuebuddy.cn) - CueBuddy is a voice-following teleprompter for iPhone and iPad.
 - [Avatars in ElevenCreative](https://elevenlabs.io/app/image-video?modality=video) - The best AI voices, now with a face.
+- [AutoEdit](https://www.autoeditai.net) - AutoEdit helps content creators edit their videos 10x faster by turning raw footage into a clean rough cut in minutes.
 
 ## 🎨 Image, Design & 3D
 
@@ -514,6 +518,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Airbrush Studio](https://airbrush.com/airbrush-studio) - Airbrush Studio is an AI-powered photo editor built for creators and photographers who want professional-quality results without the complexity of manual editing.
 - [PixelForge](https://pixel-forge.net) - Turn one photo into a recognizable RPG character that actually walks - a 4-direction sprite pack (4x4 sheet, 16 transparent PNG frames, walk GIFs) ready for Godot, Unity, or the web.
 - [Taste Lab](https://tastelab.xyz) - Point your AI agent at any website.
+- [Dropmatico](https://dropmatico.com) - Dropmatico is the image workflow tool that resizes, compresses, and converts in one pass, across 90+ presets and 34 platforms (Instagram, LinkedIn, X, Snapchat, Substack, Amazon, Etsy, Noon,….
+- [Sketch to Image AI Generator Online Free](https://fastimage.ai/sketch-to-image) - Transform any sketch into a detailed, realistic AI image in seconds with Fast Image AI.
 
 ## ✍️ Writing & Content
 
@@ -548,6 +554,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Uselink](https://uselink.app) - uselink turns any HTML or Markdown into a clean link you control.
 - [Clarafy](https://useclarafy.com) - Most tools force you to edit.
 - [Lumo Studios](https://studio.lumotechnology.com) - Great ideas deserve great slides.
+- [Notra](https://www.usenotra.com) - Notra connects to GitHub and Linear to turn shipped work into ready-to-publish changelogs, blog posts, marketing assets and social updates.
 
 ## 📊 Analytics & Data
 
@@ -598,6 +605,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Crustdata](https://crustdata.com) - Live Company and People Data via APIs Search, enrich, or watch a person or company in real-time.
 - [NODUS PH Radar for Product Hunt](https://nodus-ai.app/ph-radar) - NODUS PH Radar helps makers analyze Product Hunt launches beyond the daily rankings.
 - [Athenic AI](https://www.athenic.com) - Athenic AI is an agentic data analyst built for teams.
+- [Reignat](https://reignat.com) - Reignat is a privacy-friendly web analytics platform built for founders, startups, and indie makers who want clear insights without the complexity of traditional analytics tools.
 
 ## 🗂 Productivity & Notes
 
@@ -676,6 +684,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [BooBar](https://boobar.app) - BooBar is a local-first AI Dynamic Island for Mac that brings file organization, download progress, email codes, browser context, GitHub panels, and Codex/Claude tasks into one calm menu bar workspace.
 - [Pool](https://pool.day) - Save anything with a screenshot!.
 - [Slashy](https://slashy.com) - Slashy is an AI-native email client and assistant that drafts replies in your voice, triages what matters, and makes sure no follow-up slips, so you spend less time in your inbox and more time on….
+- [Synopsule](https://synopsule.com) - Synopsule records and transcribes your conversations on your Mac or iPhone with Whisper, labels every speaker, and only summarizes when you ask.
 
 ## 🔎 Search & Discovery
 
@@ -813,6 +822,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Job Postings API](https://bluedoor.sh/apis/job-postings) - A free, hosted job listings API with 1.8M+ listings across 60k companies. Get comprehensive active and historical job data from 30+ applicant tracking systems, with companies spanning industries….
 - [ZeroGPU](https://zerogpu.ai) - The world can't build compute fast enough to keep up with AI demand.
 - [Firma.dev](https://firma.dev) - At €0.029 per envelope (about 3¢), Firma.dev runs about 99% cheaper than DocuSign's API pricing. Pay-as-you-go, no minimums, no contracts. It's built developer-first for startups and SaaS….
+- [AEVS](https://aevs.fetch.ai) - AEVS (Agent Execution Verification System) is a drop-in SDK that records every AI agent tool call and gives agents verifiable execution receipts.
+- [PandaProbe Cloud](https://www.pandaprobe.com/platform/cloud) - PandaProbe Cloud gives your team full-stack tracing, evals, and monitoring for agents with zero infrastructure to manage.
+- [Novu](https://novu.co) - Novu simplifies all your communication channels into a simple workflow of Emails, SMSs, Push notifications, and In-app notifications.
 
 ## 💬 Chatbots & Conversational
 
@@ -928,6 +940,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Clutch Alarm](https://clutchalarm.com) - The World Cup is in North America, so for fans in Europe the big matches kick off at 3 AM.
 - [Tinfoil Pigeons](https://tinfoilpigeons.com) - What plane is flying over my house?.
 - [Permute](http://software.charliemonroe.net/permute) - A powerful yet easy-to-use media converter for macOS.
+- [Wobo AI](https://www.wobo.ai) - Meet Wobo: Your AI-powered job search assistant.
 
 ## Contributing
 
