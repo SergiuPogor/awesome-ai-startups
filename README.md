@@ -7,21 +7,21 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (59)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (111)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (167)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (62)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (113)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (171)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (47)
 - [🎬 Video & Animation](#video-animation) (37)
 - [🎨 Image, Design & 3D](#image-design-3d) (54)
-- [✍️ Writing & Content](#writing-content) (32)
-- [📊 Analytics & Data](#analytics-data) (47)
+- [✍️ Writing & Content](#writing-content) (33)
+- [📊 Analytics & Data](#analytics-data) (48)
 - [🗂 Productivity & Notes](#productivity-notes) (76)
 - [🔎 Search & Discovery](#search-discovery) (18)
 - [🎓 Education & Learning](#education-learning) (16)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (16)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (18)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (18)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (56)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (11)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (13)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (5)
 - [✨ Everything Else](#everything-else) (80)
@@ -87,6 +87,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Customer.io](http://customer.io) - Customer.io unifies data, messaging, and AI into one platform so every customer interaction gets smarter over time. Teams use it to build personalized campaigns across email, SMS, push, in-app,….
 - [Sulsaly](https://sulsaly.com) - Sulsaly is MENA's first Agentic AI sales intelligence platform.
 - [Kickbacks.ai](https://kickbacks.ai) - Kickbacks.ai helps developers get paid for AI-agent wait states. Advertisers bid for a tiny sponsored status line; users get 50% of ad revenue.
+- [Lasso](https://getlasso.co) - Lasso is the new way to grow your affiliate income using CTR-boosting modern product displays, bonus commissions, broken link alerts, keyword monetization, and more.
+- [ClientJam](https://clientjam.app) - Most lead generation apps tell you who a business is.
+- [Tadka](https://tadkai.io) - Tadka turns one brief into hundreds of on-brand, audience-tuned ad creatives in minutes, then learns which ones win.
 
 ## 🤖 AI Agents & Assistants
 
@@ -201,6 +204,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Bond](https://www.bondapp.io) - Bond is an AI Chief of Staff for executives.
 - [Memoriq](https://memoriq.me) - Memoriq is your private AI memory for ChatGPT, Claude, Gemini and Grok.
 - [Fonda](https://fonda.co) - 90% of startups fail.
+- [MakersClaw](https://www.makersclaw.com) - Hire AI employees that run 24/7 in their own container with their own memory.
+- [Invoko](https://invoko.ai) - Invoko is an AI desktop helper you can talk to while you work.
 
 ## 💻 Coding & Developer Tools
 
@@ -372,6 +377,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Qursor](https://qursor.xyz) - I kept wasting AI tokens describing UI changes to agents that edited the wrong element.
 - [Conan](https://conan.sh) - Conan is a native macOS app that wraps Claude Code in a live HUD — every prompt, tool call, skill, and token, surfaced as it happens.
 - [Cloudback](https://cloudback.it) - Automatic daily backups and restores for GitHub, GitLab, Azure DevOps, and Linear.
+- [Avocado](https://www.avocadostudio.dev) - Bring AI-native editing, content operations, and agentic workflows to your existing Next.js stack — without replacing your CMS, DAM, or design system. Self-hostable. BYO AI models. Live demo:….
+- [Revyl](https://revyl.com) - Revyl gives mobile teams full observability into how their app actually behaves on live cloud devices.
+- [Stride](https://www.stride.page) - Stride is the AI-native workspace for the whole build: plan, design, verify, and ship.
+- [GitHits beta 0.9](https://githits.com) - GitHits gives coding agents access to the open-source code your app depends on.
 
 ## 🎙 Audio, Voice & Music
 
@@ -555,6 +564,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Clarafy](https://useclarafy.com) - Most tools force you to edit.
 - [Lumo Studios](https://studio.lumotechnology.com) - Great ideas deserve great slides.
 - [Notra](https://www.usenotra.com) - Notra connects to GitHub and Linear to turn shipped work into ready-to-publish changelogs, blog posts, marketing assets and social updates.
+- [Goldfish](https://goldfish.sh) - Most AI tools make you explain the context before they can help.
 
 ## 📊 Analytics & Data
 
@@ -606,6 +616,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [NODUS PH Radar for Product Hunt](https://nodus-ai.app/ph-radar) - NODUS PH Radar helps makers analyze Product Hunt launches beyond the daily rankings.
 - [Athenic AI](https://www.athenic.com) - Athenic AI is an agentic data analyst built for teams.
 - [Reignat](https://reignat.com) - Reignat is a privacy-friendly web analytics platform built for founders, startups, and indie makers who want clear insights without the complexity of traditional analytics tools.
+- [MindReader v1](https://mindreaderai.vercel.app) - How do you feel?.
 
 ## 🗂 Productivity & Notes
 
@@ -745,6 +756,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Medicyn](https://medicyn.vercel.app) - The only health app that keeps your medical history completely private—on your device, offline, with no accounts or tracking.
 - [HyperSleep](https://hypersleep.app) - Every screen-time app fails for the same reason: you have to turn it on and at 1am, you won't.
 - [Allergo](https://www.getallergo.com) - Allergo helps you create allergy translation cards for 75+ languages/countries.
+- [Kraina](https://kraina.cc) - Kraina turns outdoor movement into a living territory map.
+- [PeakRoutine](https://www.peakroutinehealth.com) - PeakRoutine connects your sleep, sunlight, exercise, calories, nutrition, mood, hydration, and more — correlates them against each other — then tells you exactly what it means for your body.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -839,6 +852,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Owlish](https://owlish.bot) - Owlish turns your website, FAQs, docs, and PDFs into an AI customer support agent that answers common questions, cites sources, uses approved replies, and hands off to a human when needed.
 - [Chat Skills for AI Agents](https://www.cometchat.com/agent-chat-skills) - Add fully functional chat to your React app using AI agent skills.
 - [folk](https://getfolk.app) - Folk is your AI friend that lives in any messaging app: iMessage, Telegram, Discord, and more.
+- [Chatwoot](http://www.chatwoot.com) - Chatwoot is a modern AI-powered, customer support platform that brings all customer conversations into one place.
+- [SparrowDesk](https://www.sparrowdesk.com) - SparrowDesk is the AI-first help desk built for scale.
 
 ## 👥 Social & Community
 
