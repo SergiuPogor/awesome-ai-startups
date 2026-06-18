@@ -7,18 +7,18 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (62)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (113)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (171)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (47)
-- [🎬 Video & Animation](#video-animation) (37)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (66)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (114)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (173)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (48)
+- [🎬 Video & Animation](#video-animation) (38)
 - [🎨 Image, Design & 3D](#image-design-3d) (54)
 - [✍️ Writing & Content](#writing-content) (33)
 - [📊 Analytics & Data](#analytics-data) (48)
-- [🗂 Productivity & Notes](#productivity-notes) (76)
+- [🗂 Productivity & Notes](#productivity-notes) (79)
 - [🔎 Search & Discovery](#search-discovery) (18)
 - [🎓 Education & Learning](#education-learning) (16)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (18)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (19)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (18)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (56)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (13)
@@ -90,6 +90,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Lasso](https://getlasso.co) - Lasso is the new way to grow your affiliate income using CTR-boosting modern product displays, bonus commissions, broken link alerts, keyword monetization, and more.
 - [ClientJam](https://clientjam.app) - Most lead generation apps tell you who a business is.
 - [Tadka](https://tadkai.io) - Tadka turns one brief into hundreds of on-brand, audience-tuned ad creatives in minutes, then learns which ones win.
+- [Ploy.ai](https://ploy.ai) - Ploy is an agentic marketing platform that powers all your digital channels, starting with your website.
+- [Jesse](https://agentjesse.ai) - Sales teams have been stuck with stale databases for 15 years.
+- [Honestly](https://usehonestly.com) - Honestly surfaces real conversations about your product from across social media, verifies they're authentic, and turns them into insights you can act on in minutes.
+- [TryPost.it](https://trypost.it) - Use TryPost to plan, create, and schedule your social media in one place, so you can post everywhere, consistently.
 
 ## 🤖 AI Agents & Assistants
 
@@ -206,6 +210,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Fonda](https://fonda.co) - 90% of startups fail.
 - [MakersClaw](https://www.makersclaw.com) - Hire AI employees that run 24/7 in their own container with their own memory.
 - [Invoko](https://invoko.ai) - Invoko is an AI desktop helper you can talk to while you work.
+- [Adapt](https://adapt.com) - Transform your Slack into an AI workspace with a shared company brain.
 
 ## 💻 Coding & Developer Tools
 
@@ -381,6 +386,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Revyl](https://revyl.com) - Revyl gives mobile teams full observability into how their app actually behaves on live cloud devices.
 - [Stride](https://www.stride.page) - Stride is the AI-native workspace for the whole build: plan, design, verify, and ship.
 - [GitHits beta 0.9](https://githits.com) - GitHits gives coding agents access to the open-source code your app depends on.
+- [Locofy.ai](https://www.locofy.ai) - Go from designs to developer-friendly frontend code in a flash without changing your tech stack or workflows.
+- [Otty](https://otty.sh) - Otty is a native, GPU-accelerated terminal, designed for anyone who cares about the feel of every keystroke — minimal, fast, and beautiful.
 
 ## 🎙 Audio, Voice & Music
 
@@ -431,6 +438,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Carbon Voice](https://getcarbon.app/desktop) - The fastest way to record a voice message and get a shareable link (transcript included).
 - [Vaani](https://vaani.media) - Vaani is a voice-preserving AI dubbing tool to help you dub in 40+ languages, in one go, at a fraction of the cost of a traditional dub session.
 - [prostir zvuku](https://prostirzvuku.app) - Build a quiet room around you for focus, rest, and sleep.
+- [Juno](https://usejuno.co) - Juno is a local, open-source voice writing app for Mac.
 
 ## 🎬 Video & Animation
 
@@ -471,6 +479,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [CueBuddy](https://cuebuddy.cn) - CueBuddy is a voice-following teleprompter for iPhone and iPad.
 - [Avatars in ElevenCreative](https://elevenlabs.io/app/image-video?modality=video) - The best AI voices, now with a face.
 - [AutoEdit](https://www.autoeditai.net) - AutoEdit helps content creators edit their videos 10x faster by turning raw footage into a clean rough cut in minutes.
+- [D-ID](https://d-id.com) - D-ID is a key building block of the Generative AI ecosystem.
 
 ## 🎨 Image, Design & 3D
 
@@ -696,6 +705,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pool](https://pool.day) - Save anything with a screenshot!.
 - [Slashy](https://slashy.com) - Slashy is an AI-native email client and assistant that drafts replies in your voice, triages what matters, and makes sure no follow-up slips, so you spend less time in your inbox and more time on….
 - [Synopsule](https://synopsule.com) - Synopsule records and transcribes your conversations on your Mac or iPhone with Whisper, labels every speaker, and only summarizes when you ask.
+- [Cliptop](https://cliptop.app) - Cliptop is a fast, local-first clipboard manager for Mac.
+- [Elvin](https://www.tryelvin.com) - Stop acting as the routing layer between AI and your actual work.
+- [Upstream](https://www.upstream.do) - Finally, an inbox you'll look forward to.
 
 ## 🔎 Search & Discovery
 
@@ -758,6 +770,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Allergo](https://www.getallergo.com) - Allergo helps you create allergy translation cards for 75+ languages/countries.
 - [Kraina](https://kraina.cc) - Kraina turns outdoor movement into a living territory map.
 - [PeakRoutine](https://www.peakroutinehealth.com) - PeakRoutine connects your sleep, sunlight, exercise, calories, nutrition, mood, hydration, and more — correlates them against each other — then tells you exactly what it means for your body.
+- [Tiles: Map Your Adventures](https://tiles.sinuk.dev) - Tiles turns Apple Health workouts, GPX, FIT, CSV, and photos into one local-first private exploration map.
 
 ## 💰 Finance, Crypto & Payments
 
