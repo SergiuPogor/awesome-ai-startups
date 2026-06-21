@@ -9,22 +9,22 @@ The goal: make useful indie AI products easier to find, share, and support.
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (66)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (114)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (173)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (175)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (48)
 - [🎬 Video & Animation](#video-animation) (38)
 - [🎨 Image, Design & 3D](#image-design-3d) (54)
 - [✍️ Writing & Content](#writing-content) (33)
 - [📊 Analytics & Data](#analytics-data) (48)
-- [🗂 Productivity & Notes](#productivity-notes) (79)
+- [🗂 Productivity & Notes](#productivity-notes) (81)
 - [🔎 Search & Discovery](#search-discovery) (18)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (19)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (18)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (56)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (58)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (13)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (5)
-- [✨ Everything Else](#everything-else) (80)
+- [✨ Everything Else](#everything-else) (81)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -388,6 +388,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [GitHits beta 0.9](https://githits.com) - GitHits gives coding agents access to the open-source code your app depends on.
 - [Locofy.ai](https://www.locofy.ai) - Go from designs to developer-friendly frontend code in a flash without changing your tech stack or workflows.
 - [Otty](https://otty.sh) - Otty is a native, GPU-accelerated terminal, designed for anyone who cares about the feel of every keystroke — minimal, fast, and beautiful.
+- [Laguna by Poolside](https://poolside.ai) - Poolside is a foundation model company bringing intelligence to everywhere work gets done.
+- [Backgrind](https://backgrind.com) - Your AI agent shouldn't chain you to a terminal.
 
 ## 🎙 Audio, Voice & Music
 
@@ -708,6 +710,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Cliptop](https://cliptop.app) - Cliptop is a fast, local-first clipboard manager for Mac.
 - [Elvin](https://www.tryelvin.com) - Stop acting as the routing layer between AI and your actual work.
 - [Upstream](https://www.upstream.do) - Finally, an inbox you'll look forward to.
+- [Notchkin](https://notchkin.app) - Your MacBook's notch just sits there doing nothing.
+- [oioi](https://vishesh9131.github.io/oioi-site) - oioi is a minimalist clipboard overlay that appears instantly when you press Option + V.
 
 ## 🔎 Search & Discovery
 
@@ -851,6 +855,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AEVS](https://aevs.fetch.ai) - AEVS (Agent Execution Verification System) is a drop-in SDK that records every AI agent tool call and gives agents verifiable execution receipts.
 - [PandaProbe Cloud](https://www.pandaprobe.com/platform/cloud) - PandaProbe Cloud gives your team full-stack tracing, evals, and monitoring for agents with zero infrastructure to manage.
 - [Novu](https://novu.co) - Novu simplifies all your communication channels into a simple workflow of Emails, SMSs, Push notifications, and In-app notifications.
+- [Atomic Mail Agentic](https://atomicmail.io/agents) - Atomic Mail Agentic gives autonomous AI agents their own real @atomicmail.ai inbox to manage fully without human setup, verification, or ongoing intervention. Built on JMAP (RFC 8620), the….
+- [Agent 37 Cloud](https://www.agent37.com/cloud) - Agent 37 is managed hosting for persistent agents like Hermes, OpenClaw and ClaudeCode.
 
 ## 💬 Chatbots & Conversational
 
@@ -969,6 +975,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Tinfoil Pigeons](https://tinfoilpigeons.com) - What plane is flying over my house?.
 - [Permute](http://software.charliemonroe.net/permute) - A powerful yet easy-to-use media converter for macOS.
 - [Wobo AI](https://www.wobo.ai) - Meet Wobo: Your AI-powered job search assistant.
+- [Plansera AI](https://plansera.ai) - An AI E-2 Visa Agent interviews, reads their evidence (bank statements, leases, invoices), checks the core E-2 eligibility standards, and produces a submission-ready plan with real 5-year….
 
 ## Contributing
 
