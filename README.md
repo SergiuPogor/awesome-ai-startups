@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (66)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (114)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (175)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (67)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (116)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (178)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (48)
 - [🎬 Video & Animation](#video-animation) (38)
-- [🎨 Image, Design & 3D](#image-design-3d) (54)
+- [🎨 Image, Design & 3D](#image-design-3d) (57)
 - [✍️ Writing & Content](#writing-content) (33)
-- [📊 Analytics & Data](#analytics-data) (48)
-- [🗂 Productivity & Notes](#productivity-notes) (81)
+- [📊 Analytics & Data](#analytics-data) (49)
+- [🗂 Productivity & Notes](#productivity-notes) (83)
 - [🔎 Search & Discovery](#search-discovery) (18)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (19)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (18)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (58)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (13)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (14)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (5)
-- [✨ Everything Else](#everything-else) (81)
+- [✨ Everything Else](#everything-else) (83)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -94,6 +94,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Jesse](https://agentjesse.ai) - Sales teams have been stuck with stale databases for 15 years.
 - [Honestly](https://usehonestly.com) - Honestly surfaces real conversations about your product from across social media, verifies they're authentic, and turns them into insights you can act on in minutes.
 - [TryPost.it](https://trypost.it) - Use TryPost to plan, create, and schedule your social media in one place, so you can post everywhere, consistently.
+- [uwait](https://www.uwait.co) - Every time you use ChatGPT or Claude, you wait.
 
 ## 🤖 AI Agents & Assistants
 
@@ -211,6 +212,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MakersClaw](https://www.makersclaw.com) - Hire AI employees that run 24/7 in their own container with their own memory.
 - [Invoko](https://invoko.ai) - Invoko is an AI desktop helper you can talk to while you work.
 - [Adapt](https://adapt.com) - Transform your Slack into an AI workspace with a shared company brain.
+- [Clawd](https://meetclawd.com) - Meet Clawd, the context-aware browser pet that truly understands your vibe.
+- [AgentX - Multi-agent and eval framework](https://www.agentx.so) - AgentX - AI Workforce is a multi-agent system that scales your operations by organizing AI agents into collaborative, hierarchical teams.
 
 ## 💻 Coding & Developer Tools
 
@@ -390,6 +393,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Otty](https://otty.sh) - Otty is a native, GPU-accelerated terminal, designed for anyone who cares about the feel of every keystroke — minimal, fast, and beautiful.
 - [Laguna by Poolside](https://poolside.ai) - Poolside is a foundation model company bringing intelligence to everywhere work gets done.
 - [Backgrind](https://backgrind.com) - Your AI agent shouldn't chain you to a terminal.
+- [MD+HTML Reader](https://indieseek.co/apps/md-html-reader) - AI coding tools produce useful docs, but reviewing them can get messy.
+- [Selector Forge](https://selectorforge.ai) - Browser extension to create reliable CSS and XPath selectors using AI.
+- [Skybridge](https://www.skybridge.tech) - MCP apps are the new website: they're real, interactive apps that run right inside AI assistants like ChatGPT and Claude.
 
 ## 🎙 Audio, Voice & Music
 
@@ -540,6 +546,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Taste Lab](https://tastelab.xyz) - Point your AI agent at any website.
 - [Dropmatico](https://dropmatico.com) - Dropmatico is the image workflow tool that resizes, compresses, and converts in one pass, across 90+ presets and 34 platforms (Instagram, LinkedIn, X, Snapchat, Substack, Amazon, Etsy, Noon,….
 - [Sketch to Image AI Generator Online Free](https://fastimage.ai/sketch-to-image) - Transform any sketch into a detailed, realistic AI image in seconds with Fast Image AI.
+- [Photoroom](https://photoroom.com) - Complete AI product photography solution for e-commerce sellers, marketplaces, and brands.
+- [OnBrand by SlideSpeak](https://slidespeak.co/features/onbrand) - OnBrand gives AI agents design context through MCP.
+- [Alai](https://getalai.com) - Effortless AI design for presentations, social posts, infographics, ads and more.
 
 ## ✍️ Writing & Content
 
@@ -628,6 +637,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Athenic AI](https://www.athenic.com) - Athenic AI is an agentic data analyst built for teams.
 - [Reignat](https://reignat.com) - Reignat is a privacy-friendly web analytics platform built for founders, startups, and indie makers who want clear insights without the complexity of traditional analytics tools.
 - [MindReader v1](https://mindreaderai.vercel.app) - How do you feel?.
+- [Agentic Document Extraction](https://landing.ai) - LandingAI is on a mission to make the world's documents computable.
 
 ## 🗂 Productivity & Notes
 
@@ -712,6 +722,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Upstream](https://www.upstream.do) - Finally, an inbox you'll look forward to.
 - [Notchkin](https://notchkin.app) - Your MacBook's notch just sits there doing nothing.
 - [oioi](https://vishesh9131.github.io/oioi-site) - oioi is a minimalist clipboard overlay that appears instantly when you press Option + V.
+- [AirJelly](https://www.airjelly.ai) - AirJelly is an always-on desktop AI agent that proactively captures your intent, organizes your tasks, and gets things done.
+- [readywhen](https://www.readywhen.ai) - Your team’s work lives in project management tools and CRMs.
 
 ## 🔎 Search & Discovery
 
@@ -873,6 +885,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [folk](https://getfolk.app) - Folk is your AI friend that lives in any messaging app: iMessage, Telegram, Discord, and more.
 - [Chatwoot](http://www.chatwoot.com) - Chatwoot is a modern AI-powered, customer support platform that brings all customer conversations into one place.
 - [SparrowDesk](https://www.sparrowdesk.com) - SparrowDesk is the AI-first help desk built for scale.
+- [Fin](https://fin.ai) - Fin is a single Customer Agent that can take on different roles, depending on what the conversation needs.
 
 ## 👥 Social & Community
 
@@ -976,6 +989,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Permute](http://software.charliemonroe.net/permute) - A powerful yet easy-to-use media converter for macOS.
 - [Wobo AI](https://www.wobo.ai) - Meet Wobo: Your AI-powered job search assistant.
 - [Plansera AI](https://plansera.ai) - An AI E-2 Visa Agent interviews, reads their evidence (bank statements, leases, invoices), checks the core E-2 eligibility standards, and produces a submission-ready plan with real 5-year….
+- [AlgoFly AI](https://algofly.ai) - AlgoFly is an AI consulting company that helps businesses build and deploy AI solutions.
+- [HAQQ Legal AI on Mobile](https://haqq.ai/mobile-app) - We built HAQQ because understanding legal situations shouldn’t depend on who you know or whether you can afford to “just ask a lawyer.” Today, HAQQ Legal AI is available on mobile. Upload a….
 
 ## Contributing
 
