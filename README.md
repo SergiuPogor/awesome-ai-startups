@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (67)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (116)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (178)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (68)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (117)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (179)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (48)
 - [🎬 Video & Animation](#video-animation) (38)
 - [🎨 Image, Design & 3D](#image-design-3d) (57)
 - [✍️ Writing & Content](#writing-content) (33)
-- [📊 Analytics & Data](#analytics-data) (49)
-- [🗂 Productivity & Notes](#productivity-notes) (83)
-- [🔎 Search & Discovery](#search-discovery) (18)
+- [📊 Analytics & Data](#analytics-data) (50)
+- [🗂 Productivity & Notes](#productivity-notes) (85)
+- [🔎 Search & Discovery](#search-discovery) (19)
 - [🎓 Education & Learning](#education-learning) (16)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (19)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (18)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (58)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (14)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (59)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (15)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (5)
-- [✨ Everything Else](#everything-else) (83)
+- [✨ Everything Else](#everything-else) (84)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -95,6 +95,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Honestly](https://usehonestly.com) - Honestly surfaces real conversations about your product from across social media, verifies they're authentic, and turns them into insights you can act on in minutes.
 - [TryPost.it](https://trypost.it) - Use TryPost to plan, create, and schedule your social media in one place, so you can post everywhere, consistently.
 - [uwait](https://www.uwait.co) - Every time you use ChatGPT or Claude, you wait.
+- [FollowEngine](https://followengine.com) - FollowEngine is a software for brand monitoring and competitive intelligence, tracking marketing activities across digital channels.
 
 ## 🤖 AI Agents & Assistants
 
@@ -214,6 +215,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Adapt](https://adapt.com) - Transform your Slack into an AI workspace with a shared company brain.
 - [Clawd](https://meetclawd.com) - Meet Clawd, the context-aware browser pet that truly understands your vibe.
 - [AgentX - Multi-agent and eval framework](https://www.agentx.so) - AgentX - AI Workforce is a multi-agent system that scales your operations by organizing AI agents into collaborative, hierarchical teams.
+- [Crewdle](https://crewdle.com) - Stop juggling five AI subscriptions to run your business.
 
 ## 💻 Coding & Developer Tools
 
@@ -396,6 +398,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MD+HTML Reader](https://indieseek.co/apps/md-html-reader) - AI coding tools produce useful docs, but reviewing them can get messy.
 - [Selector Forge](https://selectorforge.ai) - Browser extension to create reliable CSS and XPath selectors using AI.
 - [Skybridge](https://www.skybridge.tech) - MCP apps are the new website: they're real, interactive apps that run right inside AI assistants like ChatGPT and Claude.
+- [StaleMate PR](https://www.stalematepr.com) - StaleMate is a tiny macOS menu-bar app that watches your GitHub & GitLab pull requests.
 
 ## 🎙 Audio, Voice & Music
 
@@ -638,6 +641,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Reignat](https://reignat.com) - Reignat is a privacy-friendly web analytics platform built for founders, startups, and indie makers who want clear insights without the complexity of traditional analytics tools.
 - [MindReader v1](https://mindreaderai.vercel.app) - How do you feel?.
 - [Agentic Document Extraction](https://landing.ai) - LandingAI is on a mission to make the world's documents computable.
+- [Propane](https://go.usepropane.ai/ph) - Propane gives your product team and agents one connected, always-current view of your customers.
 
 ## 🗂 Productivity & Notes
 
@@ -724,6 +728,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [oioi](https://vishesh9131.github.io/oioi-site) - oioi is a minimalist clipboard overlay that appears instantly when you press Option + V.
 - [AirJelly](https://www.airjelly.ai) - AirJelly is an always-on desktop AI agent that proactively captures your intent, organizes your tasks, and gets things done.
 - [readywhen](https://www.readywhen.ai) - Your team’s work lives in project management tools and CRMs.
+- [Ruby](https://ruby.codeongrass.com) - Most people walk out of an important call thinking "I should have asked that." Ruby makes sure you don't. She listens in real time and slides you the question worth asking — through a small pill….
+- [Mindstone Rebel](https://rebel.mindstone.com) - Rebel is a desktop AI workspace for agentic work.
 
 ## 🔎 Search & Discovery
 
@@ -745,6 +751,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Moodloom](https://moodloom.xyz) - Moodloom is an ad-free visual discovery platform for those fed up of Pinterest.
 - [TravelMind](https://travelmindapp.com) - You land in a new city.
 - [NomNak](https://nomnak.com) - NomNak helps you find restaurants through people you trust.
+- [Nimt](https://www.nimt.ai) - Nimt lives in Slack and handles AI search for you, end to end.
 
 ## 🎓 Education & Learning
 
@@ -787,6 +794,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Kraina](https://kraina.cc) - Kraina turns outdoor movement into a living territory map.
 - [PeakRoutine](https://www.peakroutinehealth.com) - PeakRoutine connects your sleep, sunlight, exercise, calories, nutrition, mood, hydration, and more — correlates them against each other — then tells you exactly what it means for your body.
 - [Tiles: Map Your Adventures](https://tiles.sinuk.dev) - Tiles turns Apple Health workouts, GPX, FIT, CSV, and photos into one local-first private exploration map.
+- [Swimio](https://swimio.app) - Swimio combines AI coaching, advanced Apple Watch swim tracking, and personalized workout generation in one platform built specifically for swimmers.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -869,6 +877,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Novu](https://novu.co) - Novu simplifies all your communication channels into a simple workflow of Emails, SMSs, Push notifications, and In-app notifications.
 - [Atomic Mail Agentic](https://atomicmail.io/agents) - Atomic Mail Agentic gives autonomous AI agents their own real @atomicmail.ai inbox to manage fully without human setup, verification, or ongoing intervention. Built on JMAP (RFC 8620), the….
 - [Agent 37 Cloud](https://www.agent37.com/cloud) - Agent 37 is managed hosting for persistent agents like Hermes, OpenClaw and ClaudeCode.
+- [Tencent EdgeOne](https://edgeone.ai) - Tencent EdgeOne is a cutting-edge global edge network platform engineered to optimize traffic routing, accelerate content delivery, and strengthen security across distributed environments.
 
 ## 💬 Chatbots & Conversational
 
@@ -886,6 +895,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Chatwoot](http://www.chatwoot.com) - Chatwoot is a modern AI-powered, customer support platform that brings all customer conversations into one place.
 - [SparrowDesk](https://www.sparrowdesk.com) - SparrowDesk is the AI-first help desk built for scale.
 - [Fin](https://fin.ai) - Fin is a single Customer Agent that can take on different roles, depending on what the conversation needs.
+- [Production Ready UI Kits by CometChat](https://www.cometchat.com/ui-kits) - CometChat's UI Kits now include a redesigned Angular v5 and Jetpack Compose both rebuilt with modular components, native UI patterns, and everything needed to ship polished chat experiences faster.
 
 ## 👥 Social & Community
 
@@ -991,6 +1001,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Plansera AI](https://plansera.ai) - An AI E-2 Visa Agent interviews, reads their evidence (bank statements, leases, invoices), checks the core E-2 eligibility standards, and produces a submission-ready plan with real 5-year….
 - [AlgoFly AI](https://algofly.ai) - AlgoFly is an AI consulting company that helps businesses build and deploy AI solutions.
 - [HAQQ Legal AI on Mobile](https://haqq.ai/mobile-app) - We built HAQQ because understanding legal situations shouldn’t depend on who you know or whether you can afford to “just ask a lawyer.” Today, HAQQ Legal AI is available on mobile. Upload a….
+- [FUTO Swipe](https://swipe.futo.tech) - FUTO Swipe is a family of small, open models for accurate swipe typing.
 
 ## Contributing
 
