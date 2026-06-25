@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (68)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (70)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (117)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (179)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (48)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (182)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (49)
 - [🎬 Video & Animation](#video-animation) (38)
-- [🎨 Image, Design & 3D](#image-design-3d) (57)
+- [🎨 Image, Design & 3D](#image-design-3d) (58)
 - [✍️ Writing & Content](#writing-content) (33)
-- [📊 Analytics & Data](#analytics-data) (50)
-- [🗂 Productivity & Notes](#productivity-notes) (85)
+- [📊 Analytics & Data](#analytics-data) (52)
+- [🗂 Productivity & Notes](#productivity-notes) (87)
 - [🔎 Search & Discovery](#search-discovery) (19)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (18)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (59)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (19)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (62)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (15)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (5)
-- [✨ Everything Else](#everything-else) (84)
+- [✨ Everything Else](#everything-else) (85)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -96,6 +96,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [TryPost.it](https://trypost.it) - Use TryPost to plan, create, and schedule your social media in one place, so you can post everywhere, consistently.
 - [uwait](https://www.uwait.co) - Every time you use ChatGPT or Claude, you wait.
 - [FollowEngine](https://followengine.com) - FollowEngine is a software for brand monitoring and competitive intelligence, tracking marketing activities across digital channels.
+- [Nashra](https://nashra.ai) - Your followers live on platforms you don't own.
+- [Tough Tongue AI](https://www.toughtongueai.com) - Tough Tongue AI is a platform where SMB owners and domain experts build their own AI frontline staff such as sales callers, sales trainers, support agents, and interviewers.
 
 ## 🤖 AI Agents & Assistants
 
@@ -399,6 +401,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Selector Forge](https://selectorforge.ai) - Browser extension to create reliable CSS and XPath selectors using AI.
 - [Skybridge](https://www.skybridge.tech) - MCP apps are the new website: they're real, interactive apps that run right inside AI assistants like ChatGPT and Claude.
 - [StaleMate PR](https://www.stalematepr.com) - StaleMate is a tiny macOS menu-bar app that watches your GitHub & GitLab pull requests.
+- [GitKraken](https://www.gitkraken.com) - Developers can generate code faster than ever, but reviews, merge conflicts, and coordination often slow software delivery.
+- [Polygraph](https://trypolygraph.com) - AI coding agents are limited to how autonomously they can work because they have no model of the codebase as a whole.
+- [Zaro](https://zaro.ai) - Zaro is where you can build working software from your scattered work.
 
 ## 🎙 Audio, Voice & Music
 
@@ -450,6 +455,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Vaani](https://vaani.media) - Vaani is a voice-preserving AI dubbing tool to help you dub in 40+ languages, in one go, at a fraction of the cost of a traditional dub session.
 - [prostir zvuku](https://prostirzvuku.app) - Build a quiet room around you for focus, rest, and sleep.
 - [Juno](https://usejuno.co) - Juno is a local, open-source voice writing app for Mac.
+- [Dub Ninja](https://dub.ninja) - An autonomous AI DJ.
 
 ## 🎬 Video & Animation
 
@@ -552,6 +558,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Photoroom](https://photoroom.com) - Complete AI product photography solution for e-commerce sellers, marketplaces, and brands.
 - [OnBrand by SlideSpeak](https://slidespeak.co/features/onbrand) - OnBrand gives AI agents design context through MCP.
 - [Alai](https://getalai.com) - Effortless AI design for presentations, social posts, infographics, ads and more.
+- [Genspark Design](https://x.com/genspark_ai/status/2069755099413664005?s=20) - Genspark Design generates UI prototypes, HTML animations, videos, and posters from a prompt.
 
 ## ✍️ Writing & Content
 
@@ -642,6 +649,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MindReader v1](https://mindreaderai.vercel.app) - How do you feel?.
 - [Agentic Document Extraction](https://landing.ai) - LandingAI is on a mission to make the world's documents computable.
 - [Propane](https://go.usepropane.ai/ph) - Propane gives your product team and agents one connected, always-current view of your customers.
+- [SendTidings](https://sendtidings.com) - SendTidings connects to Plausible, Matomo, GA4, Search Console and other data sources, then sends clean, scheduled email reports straight to your clients' inboxes.
+- [Samepage Signals](https://www.samepage.ai) - Built specifically for the best product leaders, Samepage Signals automatically surfaces the information and insights that are most important to you across all of your tools and web, in one place.
 
 ## 🗂 Productivity & Notes
 
@@ -730,6 +739,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [readywhen](https://www.readywhen.ai) - Your team’s work lives in project management tools and CRMs.
 - [Ruby](https://ruby.codeongrass.com) - Most people walk out of an important call thinking "I should have asked that." Ruby makes sure you don't. She listens in real time and slides you the question worth asking — through a small pill….
 - [Mindstone Rebel](https://rebel.mindstone.com) - Rebel is a desktop AI workspace for agentic work.
+- [Milestones](https://getmilestones.app/store) - Work on your projects incrementally by creating milestones and working towards their completion, task by task.
+- [ClickUp](https://try.web.clickup.com/n7wcvo9vy3xz-mtoru) - Tasks, docs, goals, chat, and everything imaginable to make you more productive.
 
 ## 🔎 Search & Discovery
 
@@ -816,6 +827,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Meet Warren](https://meetwarren.co.uk) - Warren is AI agent that helps you build a long term financial plan for your future.
 - [KOSH Money](https://koshmoney.com) - KOSH is a USD account built specifically for freelancers and creators across Asia.
 - [Pond](https://joinpond.ai) - Pond is the market infrastructure for the new startup economy.
+- [Papermark](https://www.papermark.com) - Papermark is the secure data room built for modern dealmakers.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -878,6 +890,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Atomic Mail Agentic](https://atomicmail.io/agents) - Atomic Mail Agentic gives autonomous AI agents their own real @atomicmail.ai inbox to manage fully without human setup, verification, or ongoing intervention. Built on JMAP (RFC 8620), the….
 - [Agent 37 Cloud](https://www.agent37.com/cloud) - Agent 37 is managed hosting for persistent agents like Hermes, OpenClaw and ClaudeCode.
 - [Tencent EdgeOne](https://edgeone.ai) - Tencent EdgeOne is a cutting-edge global edge network platform engineered to optimize traffic routing, accelerate content delivery, and strengthen security across distributed environments.
+- [Postproxy](https://postproxy.dev) - Postproxy is a social media API for products that need more than publishing.
+- [BrowserAct](https://www.browseract.com/?co-from=PH) - BrowserAct is built for agents using the web.
+- [Oxlo.ai](https://www.oxlo.ai) - Most AI teams pick a model first and discover the bill later.
 
 ## 💬 Chatbots & Conversational
 
@@ -1002,6 +1017,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AlgoFly AI](https://algofly.ai) - AlgoFly is an AI consulting company that helps businesses build and deploy AI solutions.
 - [HAQQ Legal AI on Mobile](https://haqq.ai/mobile-app) - We built HAQQ because understanding legal situations shouldn’t depend on who you know or whether you can afford to “just ask a lawyer.” Today, HAQQ Legal AI is available on mobile. Upload a….
 - [FUTO Swipe](https://swipe.futo.tech) - FUTO Swipe is a family of small, open models for accurate swipe typing.
+- [MeetPoint](https://meetpoint.now) - Enter everyone's city, pick travel dates, and MeetPoint finds the best place to meet — with live flight prices from every origin.
 
 ## Contributing
 
