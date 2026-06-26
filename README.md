@@ -8,19 +8,19 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (70)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (117)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (182)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (119)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (183)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (49)
-- [🎬 Video & Animation](#video-animation) (38)
+- [🎬 Video & Animation](#video-animation) (39)
 - [🎨 Image, Design & 3D](#image-design-3d) (58)
-- [✍️ Writing & Content](#writing-content) (33)
-- [📊 Analytics & Data](#analytics-data) (52)
-- [🗂 Productivity & Notes](#productivity-notes) (87)
+- [✍️ Writing & Content](#writing-content) (35)
+- [📊 Analytics & Data](#analytics-data) (53)
+- [🗂 Productivity & Notes](#productivity-notes) (91)
 - [🔎 Search & Discovery](#search-discovery) (19)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (19)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (62)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (63)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (15)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (5)
@@ -218,6 +218,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Clawd](https://meetclawd.com) - Meet Clawd, the context-aware browser pet that truly understands your vibe.
 - [AgentX - Multi-agent and eval framework](https://www.agentx.so) - AgentX - AI Workforce is a multi-agent system that scales your operations by organizing AI agents into collaborative, hierarchical teams.
 - [Crewdle](https://crewdle.com) - Stop juggling five AI subscriptions to run your business.
+- [Cewsco](https://cewsco.com) - Cewsco is a premium AI assistant.
+- [Agent Arena](https://arena42.ai) - Agent Arena is an open competition network where autonomous agents compete in real-world challenges, earn rewards, build reputation, and evolve over time.
 
 ## 💻 Coding & Developer Tools
 
@@ -404,6 +406,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [GitKraken](https://www.gitkraken.com) - Developers can generate code faster than ever, but reviews, merge conflicts, and coordination often slow software delivery.
 - [Polygraph](https://trypolygraph.com) - AI coding agents are limited to how autonomously they can work because they have no model of the codebase as a whole.
 - [Zaro](https://zaro.ai) - Zaro is where you can build working software from your scattered work.
+- [Checkmarx](https://checkmarx.com) - 🚀 Checkmarx Developer Assist delivers the first pre-commit AppSec prevention and remediation solution directly in your IDE.
 
 ## 🎙 Audio, Voice & Music
 
@@ -497,6 +500,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Avatars in ElevenCreative](https://elevenlabs.io/app/image-video?modality=video) - The best AI voices, now with a face.
 - [AutoEdit](https://www.autoeditai.net) - AutoEdit helps content creators edit their videos 10x faster by turning raw footage into a clean rough cut in minutes.
 - [D-ID](https://d-id.com) - D-ID is a key building block of the Generative AI ecosystem.
+- [Animdock Motion Templates in the Browser](https://www.animdock.com) - Animdock turns procedural motion templates into clips you can ship in minutes.
 
 ## 🎨 Image, Design & 3D
 
@@ -595,6 +599,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Lumo Studios](https://studio.lumotechnology.com) - Great ideas deserve great slides.
 - [Notra](https://www.usenotra.com) - Notra connects to GitHub and Linear to turn shipped work into ready-to-publish changelogs, blog posts, marketing assets and social updates.
 - [Goldfish](https://goldfish.sh) - Most AI tools make you explain the context before they can help.
+- [CubeOne AI](https://www.getcube.one) - We make you ready, not just slides.
+- [beehiiv](https://www.beehiiv.com) - beehiiv empowers creators to engage, grow, and monetize digital audiences by providing the most powerful and robust newsletter publishing platform on the planet.
 
 ## 📊 Analytics & Data
 
@@ -651,6 +657,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Propane](https://go.usepropane.ai/ph) - Propane gives your product team and agents one connected, always-current view of your customers.
 - [SendTidings](https://sendtidings.com) - SendTidings connects to Plausible, Matomo, GA4, Search Console and other data sources, then sends clean, scheduled email reports straight to your clients' inboxes.
 - [Samepage Signals](https://www.samepage.ai) - Built specifically for the best product leaders, Samepage Signals automatically surfaces the information and insights that are most important to you across all of your tools and web, in one place.
+- [Nanonets](http://www.nanonets.com) - Nanonets is an AI-driven solution that automates document processing and data extraction workflows.
 
 ## 🗂 Productivity & Notes
 
@@ -741,6 +748,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Mindstone Rebel](https://rebel.mindstone.com) - Rebel is a desktop AI workspace for agentic work.
 - [Milestones](https://getmilestones.app/store) - Work on your projects incrementally by creating milestones and working towards their completion, task by task.
 - [ClickUp](https://try.web.clickup.com/n7wcvo9vy3xz-mtoru) - Tasks, docs, goals, chat, and everything imaginable to make you more productive.
+- [Aurora Notch](https://auroranotch.com) - Aurora turns your Mac notch or top edge into a private productivity dock for quick actions: notes, clipboard, calendar, focus timers, media controls, widgets, and writing tools.
+- [LockIn MCP](https://www.lockinmcp.com) - LockIn MCP is the first distraction block built for the AI agent era.
+- [SquidHub](https://squidhub.ai) - Most AI tools are built for one person and one assistant.
+- [ModuleX](https://www.modulex.dev) - ModuleX is an AI workspace already connected to 200+ integrations.
 
 ## 🔎 Search & Discovery
 
@@ -893,6 +904,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Postproxy](https://postproxy.dev) - Postproxy is a social media API for products that need more than publishing.
 - [BrowserAct](https://www.browseract.com/?co-from=PH) - BrowserAct is built for agents using the web.
 - [Oxlo.ai](https://www.oxlo.ai) - Most AI teams pick a model first and discover the bill later.
+- [DMV by Agent Community](https://dmv.agentcommunity.org) - Agent Community is building the identity layer for the agentic web.
 
 ## 💬 Chatbots & Conversational
 
