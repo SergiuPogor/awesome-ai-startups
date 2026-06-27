@@ -9,18 +9,18 @@ The goal: make useful indie AI products easier to find, share, and support.
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (70)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (119)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (183)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (49)
-- [🎬 Video & Animation](#video-animation) (39)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (184)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (50)
+- [🎬 Video & Animation](#video-animation) (40)
 - [🎨 Image, Design & 3D](#image-design-3d) (58)
-- [✍️ Writing & Content](#writing-content) (35)
+- [✍️ Writing & Content](#writing-content) (37)
 - [📊 Analytics & Data](#analytics-data) (53)
 - [🗂 Productivity & Notes](#productivity-notes) (91)
 - [🔎 Search & Discovery](#search-discovery) (19)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (19)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (63)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (64)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (15)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (5)
@@ -407,6 +407,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Polygraph](https://trypolygraph.com) - AI coding agents are limited to how autonomously they can work because they have no model of the codebase as a whole.
 - [Zaro](https://zaro.ai) - Zaro is where you can build working software from your scattered work.
 - [Checkmarx](https://checkmarx.com) - 🚀 Checkmarx Developer Assist delivers the first pre-commit AppSec prevention and remediation solution directly in your IDE.
+- [QApilot](https://qapilot.io/product/cowork) - CoWork turns existing test cases into executable mobile automation with AI planning, human-approved replanning, and real-device execution on iOS, Android, and Flutter.
 
 ## 🎙 Audio, Voice & Music
 
@@ -459,6 +460,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [prostir zvuku](https://prostirzvuku.app) - Build a quiet room around you for focus, rest, and sleep.
 - [Juno](https://usejuno.co) - Juno is a local, open-source voice writing app for Mac.
 - [Dub Ninja](https://dub.ninja) - An autonomous AI DJ.
+- [Nada](https://go.tunelab.id/download) - Nada is the easiest way to turn your voice into music.
 
 ## 🎬 Video & Animation
 
@@ -501,6 +503,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AutoEdit](https://www.autoeditai.net) - AutoEdit helps content creators edit their videos 10x faster by turning raw footage into a clean rough cut in minutes.
 - [D-ID](https://d-id.com) - D-ID is a key building block of the Generative AI ecosystem.
 - [Animdock Motion Templates in the Browser](https://www.animdock.com) - Animdock turns procedural motion templates into clips you can ship in minutes.
+- [Supra Player](https://supraplayer.jessengatai.com) - Supra Player is a lightweight macOS app built for reviewing, comparing, and syncing video.
 
 ## 🎨 Image, Design & 3D
 
@@ -601,6 +604,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Goldfish](https://goldfish.sh) - Most AI tools make you explain the context before they can help.
 - [CubeOne AI](https://www.getcube.one) - We make you ready, not just slides.
 - [beehiiv](https://www.beehiiv.com) - beehiiv empowers creators to engage, grow, and monetize digital audiences by providing the most powerful and robust newsletter publishing platform on the planet.
+- [Epilogue. Write novels, scripts & poetry](https://epilogue.page) - Epilogue is the writing environment built for writers who take their craft seriously.
+- [Folio](https://get-folio.ai) - Stop losing nights to slide decks: Folio AI creates and fixes your presentations in seconds!.
 
 ## 📊 Analytics & Data
 
@@ -905,6 +910,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [BrowserAct](https://www.browseract.com/?co-from=PH) - BrowserAct is built for agents using the web.
 - [Oxlo.ai](https://www.oxlo.ai) - Most AI teams pick a model first and discover the bill later.
 - [DMV by Agent Community](https://dmv.agentcommunity.org) - Agent Community is building the identity layer for the agentic web.
+- [Cloud World Model](https://cloudworldmodel.ai) - Simulate AWS, GCP, Azure, OCI & DigitalOcean architectures to predict cost, performance, and resilience without provisioning real resources or paying a cloud bill.
 
 ## 💬 Chatbots & Conversational
 
