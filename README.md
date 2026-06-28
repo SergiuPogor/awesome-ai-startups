@@ -8,23 +8,23 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (70)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (119)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (184)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (120)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (185)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (50)
 - [🎬 Video & Animation](#video-animation) (40)
 - [🎨 Image, Design & 3D](#image-design-3d) (58)
 - [✍️ Writing & Content](#writing-content) (37)
 - [📊 Analytics & Data](#analytics-data) (53)
 - [🗂 Productivity & Notes](#productivity-notes) (91)
-- [🔎 Search & Discovery](#search-discovery) (19)
+- [🔎 Search & Discovery](#search-discovery) (20)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (19)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (64)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (65)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (15)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (5)
-- [✨ Everything Else](#everything-else) (85)
+- [✨ Everything Else](#everything-else) (86)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -220,6 +220,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Crewdle](https://crewdle.com) - Stop juggling five AI subscriptions to run your business.
 - [Cewsco](https://cewsco.com) - Cewsco is a premium AI assistant.
 - [Agent Arena](https://arena42.ai) - Agent Arena is an open competition network where autonomous agents compete in real-world challenges, earn rewards, build reputation, and evolve over time.
+- [Lyto](https://www.trylyto.com) - Lyto AI is a Chrome extension that gives you full control over your browser.
 
 ## 💻 Coding & Developer Tools
 
@@ -408,6 +409,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Zaro](https://zaro.ai) - Zaro is where you can build working software from your scattered work.
 - [Checkmarx](https://checkmarx.com) - 🚀 Checkmarx Developer Assist delivers the first pre-commit AppSec prevention and remediation solution directly in your IDE.
 - [QApilot](https://qapilot.io/product/cowork) - CoWork turns existing test cases into executable mobile automation with AI planning, human-approved replanning, and real-device execution on iOS, Android, and Flutter.
+- [Persona.js](https://www.persona-chat.dev) - Persona is a lightweight, open-source AI chat UI library that embeds into any website, from modern apps to static HTML.
 
 ## 🎙 Audio, Voice & Music
 
@@ -779,6 +781,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [TravelMind](https://travelmindapp.com) - You land in a new city.
 - [NomNak](https://nomnak.com) - NomNak helps you find restaurants through people you trust.
 - [Nimt](https://www.nimt.ai) - Nimt lives in Slack and handles AI search for you, end to end.
+- [Dotient](https://dotient.com) - Dotient is a local-first desktop application that helps you organize and search through your personal files using ML-powered visual search.
 
 ## 🎓 Education & Learning
 
@@ -911,6 +914,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Oxlo.ai](https://www.oxlo.ai) - Most AI teams pick a model first and discover the bill later.
 - [DMV by Agent Community](https://dmv.agentcommunity.org) - Agent Community is building the identity layer for the agentic web.
 - [Cloud World Model](https://cloudworldmodel.ai) - Simulate AWS, GCP, Azure, OCI & DigitalOcean architectures to predict cost, performance, and resilience without provisioning real resources or paying a cloud bill.
+- [discode.ai](https://discode.ai) - discode is your EU-friendly AI router: one interface for 100+ models, with every prompt auto-routed to the best one for the job.
 
 ## 💬 Chatbots & Conversational
 
@@ -1036,6 +1040,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [HAQQ Legal AI on Mobile](https://haqq.ai/mobile-app) - We built HAQQ because understanding legal situations shouldn’t depend on who you know or whether you can afford to “just ask a lawyer.” Today, HAQQ Legal AI is available on mobile. Upload a….
 - [FUTO Swipe](https://swipe.futo.tech) - FUTO Swipe is a family of small, open models for accurate swipe typing.
 - [MeetPoint](https://meetpoint.now) - Enter everyone's city, pick travel dates, and MeetPoint finds the best place to meet — with live flight prices from every origin.
+- [GetCompress](https://getcompress.com) - GetCompress is a lightweight desktop app that quickly compresses videos, images, GIFs, PDFs in batches: get up to 90% smaller files with minimal quality loss.
 
 ## Contributing
 
