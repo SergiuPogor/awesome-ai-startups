@@ -7,21 +7,21 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (70)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (73)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (120)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (185)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (186)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (50)
 - [🎬 Video & Animation](#video-animation) (40)
 - [🎨 Image, Design & 3D](#image-design-3d) (58)
 - [✍️ Writing & Content](#writing-content) (37)
 - [📊 Analytics & Data](#analytics-data) (53)
-- [🗂 Productivity & Notes](#productivity-notes) (91)
+- [🗂 Productivity & Notes](#productivity-notes) (93)
 - [🔎 Search & Discovery](#search-discovery) (20)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (19)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (20)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (65)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (15)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (16)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (5)
 - [✨ Everything Else](#everything-else) (86)
@@ -98,6 +98,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [FollowEngine](https://followengine.com) - FollowEngine is a software for brand monitoring and competitive intelligence, tracking marketing activities across digital channels.
 - [Nashra](https://nashra.ai) - Your followers live on platforms you don't own.
 - [Tough Tongue AI](https://www.toughtongueai.com) - Tough Tongue AI is a platform where SMB owners and domain experts build their own AI frontline staff such as sales callers, sales trainers, support agents, and interviewers.
+- [Outpaint - Ad Reframe](https://outpaint.com/ugc-to-ctv) - UGC ads reframed for TV by Outpaint.com. Vertical ads (9:16) expanded into widescreen (16:9) for connected TV, while keeping the original footage pixel perfect. Outperforms pillarboxing and side blur.
+- [Sami](https://sami.bot) - Still manually checking ad performance across 4 different platforms?.
+- [VisibAI](https://getvisibai.com) - VisibAI shows whether your business appears when people ask AI for recommendations, and helps you fix it.
 
 ## 🤖 AI Agents & Assistants
 
@@ -410,6 +413,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Checkmarx](https://checkmarx.com) - 🚀 Checkmarx Developer Assist delivers the first pre-commit AppSec prevention and remediation solution directly in your IDE.
 - [QApilot](https://qapilot.io/product/cowork) - CoWork turns existing test cases into executable mobile automation with AI planning, human-approved replanning, and real-device execution on iOS, Android, and Flutter.
 - [Persona.js](https://www.persona-chat.dev) - Persona is a lightweight, open-source AI chat UI library that embeds into any website, from modern apps to static HTML.
+- [PMB](https://pmbai.dev) - PMB gives Claude Code, Cursor, Codex and Zed persistent project memory through MCP.
 
 ## 🎙 Audio, Voice & Music
 
@@ -759,6 +763,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [LockIn MCP](https://www.lockinmcp.com) - LockIn MCP is the first distraction block built for the AI agent era.
 - [SquidHub](https://squidhub.ai) - Most AI tools are built for one person and one assistant.
 - [ModuleX](https://www.modulex.dev) - ModuleX is an AI workspace already connected to 200+ integrations.
+- [ReadHere](https://readhere.app) - A lightweight reader for your PDFs and EPUBs, entirely in your browser; no install, no account, no ecosystem.
+- [Crest](https://crestnotch.app) - Crest is a Mac notch app that turns your MacBook's notch into a hub: Now Playing, a dashboard, system stats, calendar, tasks, translation and more.
 
 ## 🔎 Search & Discovery
 
@@ -847,6 +853,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [KOSH Money](https://koshmoney.com) - KOSH is a USD account built specifically for freelancers and creators across Asia.
 - [Pond](https://joinpond.ai) - Pond is the market infrastructure for the new startup economy.
 - [Papermark](https://www.papermark.com) - Papermark is the secure data room built for modern dealmakers.
+- [Receiptor AI](https://receiptor.ai) - Forget bookkeeping.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -933,6 +940,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SparrowDesk](https://www.sparrowdesk.com) - SparrowDesk is the AI-first help desk built for scale.
 - [Fin](https://fin.ai) - Fin is a single Customer Agent that can take on different roles, depending on what the conversation needs.
 - [Production Ready UI Kits by CometChat](https://www.cometchat.com/ui-kits) - CometChat's UI Kits now include a redesigned Angular v5 and Jetpack Compose both rebuilt with modular components, native UI patterns, and everything needed to ship polished chat experiences faster.
+- [Intelli](https://www.intelliconcierge.com) - Intelli is a Customer Support Platform that streamlines conversations and interactions between businesses and their customers across multiple channels using AI.
 
 ## 👥 Social & Community
 
