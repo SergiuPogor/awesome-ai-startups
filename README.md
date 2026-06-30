@@ -8,23 +8,23 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (73)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (120)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (186)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (121)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (188)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (50)
 - [🎬 Video & Animation](#video-animation) (40)
-- [🎨 Image, Design & 3D](#image-design-3d) (58)
-- [✍️ Writing & Content](#writing-content) (37)
+- [🎨 Image, Design & 3D](#image-design-3d) (59)
+- [✍️ Writing & Content](#writing-content) (38)
 - [📊 Analytics & Data](#analytics-data) (53)
-- [🗂 Productivity & Notes](#productivity-notes) (93)
+- [🗂 Productivity & Notes](#productivity-notes) (97)
 - [🔎 Search & Discovery](#search-discovery) (20)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (20)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (65)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (66)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (16)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (5)
-- [✨ Everything Else](#everything-else) (86)
+- [✨ Everything Else](#everything-else) (87)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -224,6 +224,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Cewsco](https://cewsco.com) - Cewsco is a premium AI assistant.
 - [Agent Arena](https://arena42.ai) - Agent Arena is an open competition network where autonomous agents compete in real-world challenges, earn rewards, build reputation, and evolve over time.
 - [Lyto](https://www.trylyto.com) - Lyto AI is a Chrome extension that gives you full control over your browser.
+- [Pluno](https://pluno.ai/browser) - Pluno just killed Claude in the browser.
 
 ## 💻 Coding & Developer Tools
 
@@ -414,6 +415,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [QApilot](https://qapilot.io/product/cowork) - CoWork turns existing test cases into executable mobile automation with AI planning, human-approved replanning, and real-device execution on iOS, Android, and Flutter.
 - [Persona.js](https://www.persona-chat.dev) - Persona is a lightweight, open-source AI chat UI library that embeds into any website, from modern apps to static HTML.
 - [PMB](https://pmbai.dev) - PMB gives Claude Code, Cursor, Codex and Zed persistent project memory through MCP.
+- [Bilt.me](https://bilt.me) - Build and launch production-ready native mobile apps with AI.
+- [v0 by Vercel](https://v0.link/ph) - Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.
 
 ## 🎙 Audio, Voice & Music
 
@@ -572,6 +575,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [OnBrand by SlideSpeak](https://slidespeak.co/features/onbrand) - OnBrand gives AI agents design context through MCP.
 - [Alai](https://getalai.com) - Effortless AI design for presentations, social posts, infographics, ads and more.
 - [Genspark Design](https://x.com/genspark_ai/status/2069755099413664005?s=20) - Genspark Design generates UI prototypes, HTML animations, videos, and posters from a prompt.
+- [Tinkerfont](https://mighil.com/tinkerfont) - Tinkerfont is a free Chrome Extension and Firefox Add-on for designers, developers, and tinkerers who want to experiment with fonts on real websites -- without opening DevTools, touching the….
 
 ## ✍️ Writing & Content
 
@@ -612,6 +616,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [beehiiv](https://www.beehiiv.com) - beehiiv empowers creators to engage, grow, and monetize digital audiences by providing the most powerful and robust newsletter publishing platform on the planet.
 - [Epilogue. Write novels, scripts & poetry](https://epilogue.page) - Epilogue is the writing environment built for writers who take their craft seriously.
 - [Folio](https://get-folio.ai) - Stop losing nights to slide decks: Folio AI creates and fixes your presentations in seconds!.
+- [Justwrite](https://justwrite.sbs) - Justwrite is a distraction-free notes app for fast, private writing.
 
 ## 📊 Analytics & Data
 
@@ -765,6 +770,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ModuleX](https://www.modulex.dev) - ModuleX is an AI workspace already connected to 200+ integrations.
 - [ReadHere](https://readhere.app) - A lightweight reader for your PDFs and EPUBs, entirely in your browser; no install, no account, no ecosystem.
 - [Crest](https://crestnotch.app) - Crest is a Mac notch app that turns your MacBook's notch into a hub: Now Playing, a dashboard, system stats, calendar, tasks, translation and more.
+- [Oakamo](https://oakamo.com) - The web is full of great content, but reading later often means distractions, ads, and endless tabs.
+- [Dayflow](https://dayflow.so) - Getting promoted isn't just about doing great work - it's about remembering and proving it.
+- [Supafax](https://supafax.com) - Supafax is an email-native assistant that learns how you work and prioritizes your inbox, drafts replies, and schedules meetings end-to-end.
+- [Akiflow](https://www.akiflow.com) - Automatically import your tasks and calendars from other tools in Akiflow and plan your day with ease.
 
 ## 🔎 Search & Discovery
 
@@ -922,6 +931,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [DMV by Agent Community](https://dmv.agentcommunity.org) - Agent Community is building the identity layer for the agentic web.
 - [Cloud World Model](https://cloudworldmodel.ai) - Simulate AWS, GCP, Azure, OCI & DigitalOcean architectures to predict cost, performance, and resilience without provisioning real resources or paying a cloud bill.
 - [discode.ai](https://discode.ai) - discode is your EU-friendly AI router: one interface for 100+ models, with every prompt auto-routed to the best one for the job.
+- [Lightning Rod: AI Forecasting API](https://www.lightningrod.ai/models) - Foresight by Lightning Rod is an OpenAI-compatible forecasting API for developers building forecasting agents, prediction bots, and decision tools.
 
 ## 💬 Chatbots & Conversational
 
@@ -1049,6 +1059,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [FUTO Swipe](https://swipe.futo.tech) - FUTO Swipe is a family of small, open models for accurate swipe typing.
 - [MeetPoint](https://meetpoint.now) - Enter everyone's city, pick travel dates, and MeetPoint finds the best place to meet — with live flight prices from every origin.
 - [GetCompress](https://getcompress.com) - GetCompress is a lightweight desktop app that quickly compresses videos, images, GIFs, PDFs in batches: get up to 90% smaller files with minimal quality loss.
+- [Load Nova](https://www.loadnova.app) - One workspace for dispatchers.
 
 ## Contributing
 
