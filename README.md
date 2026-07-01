@@ -7,20 +7,20 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (73)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (121)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (188)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (74)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (124)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (189)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (50)
 - [🎬 Video & Animation](#video-animation) (40)
-- [🎨 Image, Design & 3D](#image-design-3d) (59)
+- [🎨 Image, Design & 3D](#image-design-3d) (61)
 - [✍️ Writing & Content](#writing-content) (38)
 - [📊 Analytics & Data](#analytics-data) (53)
-- [🗂 Productivity & Notes](#productivity-notes) (97)
+- [🗂 Productivity & Notes](#productivity-notes) (99)
 - [🔎 Search & Discovery](#search-discovery) (20)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (20)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (66)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (22)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (68)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (16)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (5)
@@ -101,6 +101,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Outpaint - Ad Reframe](https://outpaint.com/ugc-to-ctv) - UGC ads reframed for TV by Outpaint.com. Vertical ads (9:16) expanded into widescreen (16:9) for connected TV, while keeping the original footage pixel perfect. Outperforms pillarboxing and side blur.
 - [Sami](https://sami.bot) - Still manually checking ad performance across 4 different platforms?.
 - [VisibAI](https://getvisibai.com) - VisibAI shows whether your business appears when people ask AI for recommendations, and helps you fix it.
+- [MailAdept by mailwarm](https://mailadept.com) - Email deliverability on autopilot.
 
 ## 🤖 AI Agents & Assistants
 
@@ -225,6 +226,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Agent Arena](https://arena42.ai) - Agent Arena is an open competition network where autonomous agents compete in real-world challenges, earn rewards, build reputation, and evolve over time.
 - [Lyto](https://www.trylyto.com) - Lyto AI is a Chrome extension that gives you full control over your browser.
 - [Pluno](https://pluno.ai/browser) - Pluno just killed Claude in the browser.
+- [N71](https://n71.ai) - For knowledge workers orchestrating a dozen AI agents.
+- [Airtop](https://www.airtop.ai) - Airtop is a conversational web agent builder.
+- [Humalike](https://www.humalike.ai) - Today's models are capable enough.
 
 ## 💻 Coding & Developer Tools
 
@@ -417,6 +421,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PMB](https://pmbai.dev) - PMB gives Claude Code, Cursor, Codex and Zed persistent project memory through MCP.
 - [Bilt.me](https://bilt.me) - Build and launch production-ready native mobile apps with AI.
 - [v0 by Vercel](https://v0.link/ph) - Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.
+- [Modelence App Builder](https://modelence.com) - Generate a full-stack app from a prompt - auth, database, and production deploys wired in from day one.
 
 ## 🎙 Audio, Voice & Music
 
@@ -576,6 +581,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Alai](https://getalai.com) - Effortless AI design for presentations, social posts, infographics, ads and more.
 - [Genspark Design](https://x.com/genspark_ai/status/2069755099413664005?s=20) - Genspark Design generates UI prototypes, HTML animations, videos, and posters from a prompt.
 - [Tinkerfont](https://mighil.com/tinkerfont) - Tinkerfont is a free Chrome Extension and Firefox Add-on for designers, developers, and tinkerers who want to experiment with fonts on real websites -- without opening DevTools, touching the….
+- [Fuser](https://fuser.studio) - Fuser is a node-based canvas for creative work, built for exploration and iteration across every model and modality.
+- [Adam CAD Copilot](https://adam.new/copilot) - Adam brings AI CAD assistance into the tools mechanical engineers already use.
 
 ## ✍️ Writing & Content
 
@@ -774,6 +781,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Dayflow](https://dayflow.so) - Getting promoted isn't just about doing great work - it's about remembering and proving it.
 - [Supafax](https://supafax.com) - Supafax is an email-native assistant that learns how you work and prioritizes your inbox, drafts replies, and schedules meetings end-to-end.
 - [Akiflow](https://www.akiflow.com) - Automatically import your tasks and calendars from other tools in Akiflow and plan your day with ease.
+- [OASIS 1 Ring](https://oasisdevices.com) - OASIS Ring combines our patented ring trackpad with private voice capture, integrated with Wispr Flow.
+- [Acti](https://www.openacti.com) - Type what you need.
 
 ## 🔎 Search & Discovery
 
@@ -863,6 +872,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pond](https://joinpond.ai) - Pond is the market infrastructure for the new startup economy.
 - [Papermark](https://www.papermark.com) - Papermark is the secure data room built for modern dealmakers.
 - [Receiptor AI](https://receiptor.ai) - Forget bookkeeping.
+- [Metal](https://www.metal.so) - Backed by a16z and YC, Metal offers an AI-native operating system for founders raising venture rounds.
+- [Sequence](https://home.getsequence.io) - Sequence is the financial execution layer for AI agents.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -932,6 +943,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Cloud World Model](https://cloudworldmodel.ai) - Simulate AWS, GCP, Azure, OCI & DigitalOcean architectures to predict cost, performance, and resilience without provisioning real resources or paying a cloud bill.
 - [discode.ai](https://discode.ai) - discode is your EU-friendly AI router: one interface for 100+ models, with every prompt auto-routed to the best one for the job.
 - [Lightning Rod: AI Forecasting API](https://www.lightningrod.ai/models) - Foresight by Lightning Rod is an OpenAI-compatible forecasting API for developers building forecasting agents, prediction bots, and decision tools.
+- [Stigg](https://www.stigg.io) - Stigg is the usage runtime for AI products: the real-time enforcement and governance layer between your app and your billing stack.
+- [RunInfra](https://runinfra.ai) - Tell RunInfra what you need and it builds the production API.
 
 ## 💬 Chatbots & Conversational
 
