@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (74)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (124)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (189)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (75)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (125)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (191)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (50)
 - [🎬 Video & Animation](#video-animation) (40)
-- [🎨 Image, Design & 3D](#image-design-3d) (61)
+- [🎨 Image, Design & 3D](#image-design-3d) (62)
 - [✍️ Writing & Content](#writing-content) (38)
 - [📊 Analytics & Data](#analytics-data) (53)
-- [🗂 Productivity & Notes](#productivity-notes) (99)
-- [🔎 Search & Discovery](#search-discovery) (20)
+- [🗂 Productivity & Notes](#productivity-notes) (101)
+- [🔎 Search & Discovery](#search-discovery) (21)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (22)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (68)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (70)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (16)
 - [👥 Social & Community](#social-community) (8)
-- [🛒 E-commerce & Retail](#e-commerce-retail) (5)
-- [✨ Everything Else](#everything-else) (87)
+- [🛒 E-commerce & Retail](#e-commerce-retail) (6)
+- [✨ Everything Else](#everything-else) (88)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -102,6 +102,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Sami](https://sami.bot) - Still manually checking ad performance across 4 different platforms?.
 - [VisibAI](https://getvisibai.com) - VisibAI shows whether your business appears when people ask AI for recommendations, and helps you fix it.
 - [MailAdept by mailwarm](https://mailadept.com) - Email deliverability on autopilot.
+- [Needle](https://needle.app) - Most sales AI waits for you to ask.
 
 ## 🤖 AI Agents & Assistants
 
@@ -229,6 +230,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [N71](https://n71.ai) - For knowledge workers orchestrating a dozen AI agents.
 - [Airtop](https://www.airtop.ai) - Airtop is a conversational web agent builder.
 - [Humalike](https://www.humalike.ai) - Today's models are capable enough.
+- [Macuse](https://macuse.app) - Macuse is a native macOS app that connects Claude, Codex, Cursor, Raycast, and any MCP-compatible AI client to your Mac apps.
 
 ## 💻 Coding & Developer Tools
 
@@ -422,6 +424,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Bilt.me](https://bilt.me) - Build and launch production-ready native mobile apps with AI.
 - [v0 by Vercel](https://v0.link/ph) - Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.
 - [Modelence App Builder](https://modelence.com) - Generate a full-stack app from a prompt - auth, database, and production deploys wired in from day one.
+- [Retrace](https://retraceai.tech) - Record, replay, fork & share AI agent executions.
+- [scritty](https://scritty.dev) - scritty is a terminal emulator that captures every CLI agent's conversation (Claude, Codex, Copilot, Antigravity, Ollama), indexes it into one searchable corpus you control, and serves it back to….
 
 ## 🎙 Audio, Voice & Music
 
@@ -583,6 +587,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Tinkerfont](https://mighil.com/tinkerfont) - Tinkerfont is a free Chrome Extension and Firefox Add-on for designers, developers, and tinkerers who want to experiment with fonts on real websites -- without opening DevTools, touching the….
 - [Fuser](https://fuser.studio) - Fuser is a node-based canvas for creative work, built for exploration and iteration across every model and modality.
 - [Adam CAD Copilot](https://adam.new/copilot) - Adam brings AI CAD assistance into the tools mechanical engineers already use.
+- [PixFit](https://pixfit.ai) - Senior Designers shouldn't be manually-resizing assets ready to run or being aware of TikTok safe zones.
 
 ## ✍️ Writing & Content
 
@@ -783,6 +788,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Akiflow](https://www.akiflow.com) - Automatically import your tasks and calendars from other tools in Akiflow and plan your day with ease.
 - [OASIS 1 Ring](https://oasisdevices.com) - OASIS Ring combines our patented ring trackpad with private voice capture, integrated with Wispr Flow.
 - [Acti](https://www.openacti.com) - Type what you need.
+- [Banger Mail](https://bangermail.com) - Banger is a native Mac app for teams running shared inboxes like support@, sales@, and founder@.
+- [Macro](https://macro.com) - Macro is the all-in-one workspace that combines email, messages, docs, tasks, code, agents, calls, and CRM.
 
 ## 🔎 Search & Discovery
 
@@ -806,6 +813,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [NomNak](https://nomnak.com) - NomNak helps you find restaurants through people you trust.
 - [Nimt](https://www.nimt.ai) - Nimt lives in Slack and handles AI search for you, end to end.
 - [Dotient](https://dotient.com) - Dotient is a local-first desktop application that helps you organize and search through your personal files using ML-powered visual search.
+- [Sidedoor](https://happenstance.ai/sidedoor) - Sidedoor searches your Gmail, LinkedIn, Instagram, Twitter, Outlook, and friends' connections to find who can refer you to any job.
 
 ## 🎓 Education & Learning
 
@@ -945,6 +953,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Lightning Rod: AI Forecasting API](https://www.lightningrod.ai/models) - Foresight by Lightning Rod is an OpenAI-compatible forecasting API for developers building forecasting agents, prediction bots, and decision tools.
 - [Stigg](https://www.stigg.io) - Stigg is the usage runtime for AI products: the real-time enforcement and governance layer between your app and your billing stack.
 - [RunInfra](https://runinfra.ai) - Tell RunInfra what you need and it builds the production API.
+- [html.contact](https://html.contact) - html.contact turns plain HTML forms into working email forms with attachments, logs, exports, API access, verified routing, domain allowlists, and spam controls. The Free plan is built so you can….
+- [Context.dev](https://context.dev) - Context.dev gives your AI agents and apps real-time access to structured web data, no brittle scraping infrastructure needed. Scrape any URL as clean markdown or HTML, extract brand data (logos,….
 
 ## 💬 Chatbots & Conversational
 
@@ -983,6 +993,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [StoreClaw](https://www.storeclaw.ai) - StoreClaw is the first AI commerce platform with agents that know how to sell, so you can make more money with less effort and less stress.
 - [SoMerch](https://somerch.co) - Managing merch for a distributed team is messier than it looks - multiple vendors, no shared history, manual shipping to individual addresses across Europe, a process that restarts every order.
 - [SellerClaw](https://sellerai.com) - Running even one online store is a full-time job.
+- [Fypro](https://www.fypro.ai) - You built a TikTok following that trusts you.
 
 ## ✨ Everything Else
 
@@ -1073,6 +1084,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MeetPoint](https://meetpoint.now) - Enter everyone's city, pick travel dates, and MeetPoint finds the best place to meet — with live flight prices from every origin.
 - [GetCompress](https://getcompress.com) - GetCompress is a lightweight desktop app that quickly compresses videos, images, GIFs, PDFs in batches: get up to 90% smaller files with minimal quality loss.
 - [Load Nova](https://www.loadnova.app) - One workspace for dispatchers.
+- [Pieter Post](https://www.pieterpost.com) - Never lick a stamp again!.
 
 ## Contributing
 
