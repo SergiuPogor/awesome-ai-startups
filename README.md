@@ -7,15 +7,15 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (75)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (76)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (125)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (191)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (196)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (50)
 - [🎬 Video & Animation](#video-animation) (40)
 - [🎨 Image, Design & 3D](#image-design-3d) (62)
 - [✍️ Writing & Content](#writing-content) (38)
 - [📊 Analytics & Data](#analytics-data) (53)
-- [🗂 Productivity & Notes](#productivity-notes) (101)
+- [🗂 Productivity & Notes](#productivity-notes) (102)
 - [🔎 Search & Discovery](#search-discovery) (21)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
@@ -103,6 +103,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [VisibAI](https://getvisibai.com) - VisibAI shows whether your business appears when people ask AI for recommendations, and helps you fix it.
 - [MailAdept by mailwarm](https://mailadept.com) - Email deliverability on autopilot.
 - [Needle](https://needle.app) - Most sales AI waits for you to ask.
+- [Loops](https://loops.so) - A better way to send marketing and transactional email.
 
 ## 🤖 AI Agents & Assistants
 
@@ -426,6 +427,11 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Modelence App Builder](https://modelence.com) - Generate a full-stack app from a prompt - auth, database, and production deploys wired in from day one.
 - [Retrace](https://retraceai.tech) - Record, replay, fork & share AI agent executions.
 - [scritty](https://scritty.dev) - scritty is a terminal emulator that captures every CLI agent's conversation (Claude, Codex, Copilot, Antigravity, Ollama), indexes it into one searchable corpus you control, and serves it back to….
+- [Vox](https://aasis21.github.io/vox) - Vox is a GitHub Copilot CLI extension: run /vox and a reactive listening orb opens in its own window.
+- [Archify](https://archify.salahxd.dev) - See components, APIs, libraries, understand application behavior directly inside your browser.
+- [Osloq](https://osloq.com) - Most AI dev tools just read your code and guess.
+- [Tamamon](https://www.tamamons.com) - Tamamon is a macOS desktop pet that lives on top of your screen and grows the more you build with Claude Code.
+- [Glaze by Raycast](https://glaze.app) - Glaze is the easiest way to go from an idea to a Mac app.
 
 ## 🎙 Audio, Voice & Music
 
@@ -790,6 +796,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Acti](https://www.openacti.com) - Type what you need.
 - [Banger Mail](https://bangermail.com) - Banger is a native Mac app for teams running shared inboxes like support@, sales@, and founder@.
 - [Macro](https://macro.com) - Macro is the all-in-one workspace that combines email, messages, docs, tasks, code, agents, calls, and CRM.
+- [nxt](https://nxt.do) - nxt is the AI task manager you talk to like a human assistant.
 
 ## 🔎 Search & Discovery
 
