@@ -8,18 +8,18 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (76)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (125)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (126)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (196)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (50)
 - [🎬 Video & Animation](#video-animation) (40)
 - [🎨 Image, Design & 3D](#image-design-3d) (62)
 - [✍️ Writing & Content](#writing-content) (38)
 - [📊 Analytics & Data](#analytics-data) (53)
-- [🗂 Productivity & Notes](#productivity-notes) (102)
+- [🗂 Productivity & Notes](#productivity-notes) (105)
 - [🔎 Search & Discovery](#search-discovery) (21)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (22)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (23)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (70)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (16)
 - [👥 Social & Community](#social-community) (8)
@@ -232,6 +232,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Airtop](https://www.airtop.ai) - Airtop is a conversational web agent builder.
 - [Humalike](https://www.humalike.ai) - Today's models are capable enough.
 - [Macuse](https://macuse.app) - Macuse is a native macOS app that connects Claude, Codex, Cursor, Raycast, and any MCP-compatible AI client to your Mac apps.
+- [Termi Protocol](https://termiprotocol.com) - The Termi Protocol is a 3D simulation of AI agent workflows.
 
 ## 💻 Coding & Developer Tools
 
@@ -797,6 +798,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Banger Mail](https://bangermail.com) - Banger is a native Mac app for teams running shared inboxes like support@, sales@, and founder@.
 - [Macro](https://macro.com) - Macro is the all-in-one workspace that combines email, messages, docs, tasks, code, agents, calls, and CRM.
 - [nxt](https://nxt.do) - nxt is the AI task manager you talk to like a human assistant.
+- [PhoneDeck](https://phonedeck.io) - You already own a StreamDeck.
+- [ChecklistFox](https://checklistfox.com) - Type a prompt, get a beautiful planner.
+- [Vida](https://vida.app) - Vida is an AI that learns how you work, remembers what matters, and becomes more like you over time.
 
 ## 🔎 Search & Discovery
 
@@ -889,6 +893,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Receiptor AI](https://receiptor.ai) - Forget bookkeeping.
 - [Metal](https://www.metal.so) - Backed by a16z and YC, Metal offers an AI-native operating system for founders raising venture rounds.
 - [Sequence](https://home.getsequence.io) - Sequence is the financial execution layer for AI agents.
+- [CentryAI](https://centryai.app) - I built CentryAI because I have ADHD and was paying for 11 subscriptions I hadn't used in months.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
