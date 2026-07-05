@@ -7,21 +7,21 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (76)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (77)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (126)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (196)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (198)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (50)
 - [🎬 Video & Animation](#video-animation) (40)
 - [🎨 Image, Design & 3D](#image-design-3d) (62)
 - [✍️ Writing & Content](#writing-content) (38)
 - [📊 Analytics & Data](#analytics-data) (53)
-- [🗂 Productivity & Notes](#productivity-notes) (105)
+- [🗂 Productivity & Notes](#productivity-notes) (107)
 - [🔎 Search & Discovery](#search-discovery) (21)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (23)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (24)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (70)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (16)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (17)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (6)
 - [✨ Everything Else](#everything-else) (88)
@@ -104,6 +104,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MailAdept by mailwarm](https://mailadept.com) - Email deliverability on autopilot.
 - [Needle](https://needle.app) - Most sales AI waits for you to ask.
 - [Loops](https://loops.so) - A better way to send marketing and transactional email.
+- [MentionDrop](https://mentiondrop.com) - Monitor the entire web: blogs, forums, docs, foreign-language sites, and more.
 
 ## 🤖 AI Agents & Assistants
 
@@ -433,6 +434,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Osloq](https://osloq.com) - Most AI dev tools just read your code and guess.
 - [Tamamon](https://www.tamamons.com) - Tamamon is a macOS desktop pet that lives on top of your screen and grows the more you build with Claude Code.
 - [Glaze by Raycast](https://glaze.app) - Glaze is the easiest way to go from an idea to a Mac app.
+- [TryCase](https://trycase.dev) - TryCase gives AI coding agents disposable Linux environments to run apps, test changes end to end, capture screenshots and recordings, and return verified code instead of asking you to test manually.
+- [DocsAlot](https://docsalot.dev) - DocsAlot turns scattered help center articles, knowledge base, and developer docs into one source of truth for humans and AI agents.
 
 ## 🎙 Audio, Voice & Music
 
@@ -801,6 +804,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PhoneDeck](https://phonedeck.io) - You already own a StreamDeck.
 - [ChecklistFox](https://checklistfox.com) - Type a prompt, get a beautiful planner.
 - [Vida](https://vida.app) - Vida is an AI that learns how you work, remembers what matters, and becomes more like you over time.
+- [Pennen](https://pennen.ir.studio) - Pennen is a calm, private, handwriting-first daily journal for iPad and Apple Pencil.
+- [WorkBuddy](https://www.workbuddy.ai) - Tencent WorkBuddy is an AI agent built for everyday office work.
 
 ## 🔎 Search & Discovery
 
@@ -894,6 +899,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Metal](https://www.metal.so) - Backed by a16z and YC, Metal offers an AI-native operating system for founders raising venture rounds.
 - [Sequence](https://home.getsequence.io) - Sequence is the financial execution layer for AI agents.
 - [CentryAI](https://centryai.app) - I built CentryAI because I have ADHD and was paying for 11 subscriptions I hadn't used in months.
+- [Endl](https://endl.io) - Endl is the operating layer for global money flows.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -986,6 +992,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Fin](https://fin.ai) - Fin is a single Customer Agent that can take on different roles, depending on what the conversation needs.
 - [Production Ready UI Kits by CometChat](https://www.cometchat.com/ui-kits) - CometChat's UI Kits now include a redesigned Angular v5 and Jetpack Compose both rebuilt with modular components, native UI patterns, and everything needed to ship polished chat experiences faster.
 - [Intelli](https://www.intelliconcierge.com) - Intelli is a Customer Support Platform that streamlines conversations and interactions between businesses and their customers across multiple channels using AI.
+- [CircleChat](https://circlechat.co) - Make multiple AI agents chat engage, collaborate, and problem-solve in real time.
 
 ## 👥 Social & Community
 
