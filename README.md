@@ -7,16 +7,16 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (77)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (126)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (198)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (78)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (128)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (199)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (50)
-- [🎬 Video & Animation](#video-animation) (40)
+- [🎬 Video & Animation](#video-animation) (42)
 - [🎨 Image, Design & 3D](#image-design-3d) (62)
 - [✍️ Writing & Content](#writing-content) (38)
 - [📊 Analytics & Data](#analytics-data) (53)
-- [🗂 Productivity & Notes](#productivity-notes) (107)
-- [🔎 Search & Discovery](#search-discovery) (21)
+- [🗂 Productivity & Notes](#productivity-notes) (108)
+- [🔎 Search & Discovery](#search-discovery) (22)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (24)
@@ -105,6 +105,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Needle](https://needle.app) - Most sales AI waits for you to ask.
 - [Loops](https://loops.so) - A better way to send marketing and transactional email.
 - [MentionDrop](https://mentiondrop.com) - Monitor the entire web: blogs, forums, docs, foreign-language sites, and more.
+- [Octolens](https://octolens.com) - Octolens monitors the web for keyword mentions, assesses posts with AI, & notifies you so you can jump into a conversation.
 
 ## 🤖 AI Agents & Assistants
 
@@ -234,6 +235,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Humalike](https://www.humalike.ai) - Today's models are capable enough.
 - [Macuse](https://macuse.app) - Macuse is a native macOS app that connects Claude, Codex, Cursor, Raycast, and any MCP-compatible AI client to your Mac apps.
 - [Termi Protocol](https://termiprotocol.com) - The Termi Protocol is a 3D simulation of AI agent workflows.
+- [Mozaik](https://mozaik.jigjoy.ai) - Mozaik enables autonomous agent teams to work concurrently, react to events, communicate intelligently, and decide how collaboration should unfold during execution.
+- [AirKaren](https://airkaren.com) - AirKaren is the AI that fights customer service for you, completely for free.
 
 ## 💻 Coding & Developer Tools
 
@@ -436,6 +439,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Glaze by Raycast](https://glaze.app) - Glaze is the easiest way to go from an idea to a Mac app.
 - [TryCase](https://trycase.dev) - TryCase gives AI coding agents disposable Linux environments to run apps, test changes end to end, capture screenshots and recordings, and return verified code instead of asking you to test manually.
 - [DocsAlot](https://docsalot.dev) - DocsAlot turns scattered help center articles, knowledge base, and developer docs into one source of truth for humans and AI agents.
+- [Nixmac](https://nixmac.com) - nixmac turns your Mac into a reproducible, version-controlled system.
 
 ## 🎙 Audio, Voice & Music
 
@@ -532,6 +536,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [D-ID](https://d-id.com) - D-ID is a key building block of the Generative AI ecosystem.
 - [Animdock Motion Templates in the Browser](https://www.animdock.com) - Animdock turns procedural motion templates into clips you can ship in minutes.
 - [Supra Player](https://supraplayer.jessengatai.com) - Supra Player is a lightweight macOS app built for reviewing, comparing, and syncing video.
+- [Cadence](https://usecadence.co) - Cadence is the only screen recorder that effortlessly perfects your video the moment you hit stop.
+- [Stanley Studio](https://studio.getstanley.ai) - Stanley is built for anyone who films great videos and then lets them die in their camera roll.
 
 ## 🎨 Image, Design & 3D
 
@@ -806,6 +812,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Vida](https://vida.app) - Vida is an AI that learns how you work, remembers what matters, and becomes more like you over time.
 - [Pennen](https://pennen.ir.studio) - Pennen is a calm, private, handwriting-first daily journal for iPad and Apple Pencil.
 - [WorkBuddy](https://www.workbuddy.ai) - Tencent WorkBuddy is an AI agent built for everyday office work.
+- [Sunrise](https://getsunrise.today) - Google Tasks is fine for jotting things down.
 
 ## 🔎 Search & Discovery
 
@@ -830,6 +837,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Nimt](https://www.nimt.ai) - Nimt lives in Slack and handles AI search for you, end to end.
 - [Dotient](https://dotient.com) - Dotient is a local-first desktop application that helps you organize and search through your personal files using ML-powered visual search.
 - [Sidedoor](https://happenstance.ai/sidedoor) - Sidedoor searches your Gmail, LinkedIn, Instagram, Twitter, Outlook, and friends' connections to find who can refer you to any job.
+- [AnySearch](https://www.anysearch.com) - A search tool for agents, not a search box.
 
 ## 🎓 Education & Learning
 
