@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (78)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (128)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (80)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (129)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (199)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (50)
-- [🎬 Video & Animation](#video-animation) (42)
+- [🎬 Video & Animation](#video-animation) (43)
 - [🎨 Image, Design & 3D](#image-design-3d) (62)
 - [✍️ Writing & Content](#writing-content) (38)
-- [📊 Analytics & Data](#analytics-data) (53)
-- [🗂 Productivity & Notes](#productivity-notes) (108)
+- [📊 Analytics & Data](#analytics-data) (54)
+- [🗂 Productivity & Notes](#productivity-notes) (111)
 - [🔎 Search & Discovery](#search-discovery) (22)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (24)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (70)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (17)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (71)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (18)
 - [👥 Social & Community](#social-community) (8)
-- [🛒 E-commerce & Retail](#e-commerce-retail) (6)
-- [✨ Everything Else](#everything-else) (88)
+- [🛒 E-commerce & Retail](#e-commerce-retail) (7)
+- [✨ Everything Else](#everything-else) (89)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -106,6 +106,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Loops](https://loops.so) - A better way to send marketing and transactional email.
 - [MentionDrop](https://mentiondrop.com) - Monitor the entire web: blogs, forums, docs, foreign-language sites, and more.
 - [Octolens](https://octolens.com) - Octolens monitors the web for keyword mentions, assesses posts with AI, & notifies you so you can jump into a conversation.
+- [Katalyst](https://www.joinkatalyst.com) - Katalyst is the AI sales agent for teams on Salesforce.
+- [Scribble Network](https://scribble.network) - Your customers ask AI before they ask Google, and most brands have no idea whether they show up or lose to a competitor.
 
 ## 🤖 AI Agents & Assistants
 
@@ -237,6 +239,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Termi Protocol](https://termiprotocol.com) - The Termi Protocol is a 3D simulation of AI agent workflows.
 - [Mozaik](https://mozaik.jigjoy.ai) - Mozaik enables autonomous agent teams to work concurrently, react to events, communicate intelligently, and decide how collaboration should unfold during execution.
 - [AirKaren](https://airkaren.com) - AirKaren is the AI that fights customer service for you, completely for free.
+- [@O - AI coworker in Slack](https://www.ogment.ai) - @O is the ultimate AI coworker that lives natively in Slack.
 
 ## 💻 Coding & Developer Tools
 
@@ -538,6 +541,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Supra Player](https://supraplayer.jessengatai.com) - Supra Player is a lightweight macOS app built for reviewing, comparing, and syncing video.
 - [Cadence](https://usecadence.co) - Cadence is the only screen recorder that effortlessly perfects your video the moment you hit stop.
 - [Stanley Studio](https://studio.getstanley.ai) - Stanley is built for anyone who films great videos and then lets them die in their camera roll.
+- [Glideo](https://glideo.app) - Glideo is a free macOS screen recorder built for product demos and dev tools.
 
 ## 🎨 Image, Design & 3D
 
@@ -702,6 +706,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SendTidings](https://sendtidings.com) - SendTidings connects to Plausible, Matomo, GA4, Search Console and other data sources, then sends clean, scheduled email reports straight to your clients' inboxes.
 - [Samepage Signals](https://www.samepage.ai) - Built specifically for the best product leaders, Samepage Signals automatically surfaces the information and insights that are most important to you across all of your tools and web, in one place.
 - [Nanonets](http://www.nanonets.com) - Nanonets is an AI-driven solution that automates document processing and data extraction workflows.
+- [Mira](https://entropik.io/platform/ai-moderator) - Unlike AI tools that stop at interview + transcript, Mira is a full AI researcher — plans studies, recruits globally (100M+ panel, 120 countries), runs dynamic interviews with intelligent probing,….
 
 ## 🗂 Productivity & Notes
 
@@ -813,6 +818,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pennen](https://pennen.ir.studio) - Pennen is a calm, private, handwriting-first daily journal for iPad and Apple Pencil.
 - [WorkBuddy](https://www.workbuddy.ai) - Tencent WorkBuddy is an AI agent built for everyday office work.
 - [Sunrise](https://getsunrise.today) - Google Tasks is fine for jotting things down.
+- [Zoho Tables](https://www.zoho.com/tables/product-hunt-launch-offer.html) - Zoho Tables is a no-code spreadsheet-database hybrid with AI brains to organise work, automate workflows, and collaborate in real time.
+- [Ellis](https://www.ellis.coach) - Ellis is an AI notetaker for in-person meetings.
+- [AI Emaily](https://aiemaily.com) - AI Emaily is the AI-native inbox that runs like your chief of staff.
 
 ## 🔎 Search & Discovery
 
@@ -981,6 +989,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [RunInfra](https://runinfra.ai) - Tell RunInfra what you need and it builds the production API.
 - [html.contact](https://html.contact) - html.contact turns plain HTML forms into working email forms with attachments, logs, exports, API access, verified routing, domain allowlists, and spam controls. The Free plan is built so you can….
 - [Context.dev](https://context.dev) - Context.dev gives your AI agents and apps real-time access to structured web data, no brittle scraping infrastructure needed. Scrape any URL as clean markdown or HTML, extract brand data (logos,….
+- [LongCat](https://longcat.chat) - LongCat is the AI model series from Meituan, featuring powerful, efficient, and open-source models for complex tasks.
 
 ## 💬 Chatbots & Conversational
 
@@ -1001,6 +1010,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Production Ready UI Kits by CometChat](https://www.cometchat.com/ui-kits) - CometChat's UI Kits now include a redesigned Angular v5 and Jetpack Compose both rebuilt with modular components, native UI patterns, and everything needed to ship polished chat experiences faster.
 - [Intelli](https://www.intelliconcierge.com) - Intelli is a Customer Support Platform that streamlines conversations and interactions between businesses and their customers across multiple channels using AI.
 - [CircleChat](https://circlechat.co) - Make multiple AI agents chat engage, collaborate, and problem-solve in real time.
+- [Kadoink AI](https://kadoink.ai) - Gather people instantly by AI txt, video, or ringing phones Tell Kadoink Who You Need.
 
 ## 👥 Social & Community
 
@@ -1021,6 +1031,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SoMerch](https://somerch.co) - Managing merch for a distributed team is messier than it looks - multiple vendors, no shared history, manual shipping to individual addresses across Europe, a process that restarts every order.
 - [SellerClaw](https://sellerai.com) - Running even one online store is a full-time job.
 - [Fypro](https://www.fypro.ai) - You built a TikTok following that trusts you.
+- [Dupely](https://dupely.io) - Most shopping tools chase coupons.
 
 ## ✨ Everything Else
 
@@ -1112,6 +1123,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [GetCompress](https://getcompress.com) - GetCompress is a lightweight desktop app that quickly compresses videos, images, GIFs, PDFs in batches: get up to 90% smaller files with minimal quality loss.
 - [Load Nova](https://www.loadnova.app) - One workspace for dispatchers.
 - [Pieter Post](https://www.pieterpost.com) - Never lick a stamp again!.
+- [Badge](https://getbadge.app) - Badge gives an AI agent that collects peer reviews to build proof of work.
 
 ## Contributing
 
