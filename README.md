@@ -8,20 +8,20 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (80)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (129)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (130)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (199)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (50)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (51)
 - [🎬 Video & Animation](#video-animation) (43)
 - [🎨 Image, Design & 3D](#image-design-3d) (62)
-- [✍️ Writing & Content](#writing-content) (38)
+- [✍️ Writing & Content](#writing-content) (39)
 - [📊 Analytics & Data](#analytics-data) (54)
-- [🗂 Productivity & Notes](#productivity-notes) (111)
+- [🗂 Productivity & Notes](#productivity-notes) (115)
 - [🔎 Search & Discovery](#search-discovery) (22)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (24)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (71)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (18)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (25)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (72)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (19)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (7)
 - [✨ Everything Else](#everything-else) (89)
@@ -240,6 +240,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Mozaik](https://mozaik.jigjoy.ai) - Mozaik enables autonomous agent teams to work concurrently, react to events, communicate intelligently, and decide how collaboration should unfold during execution.
 - [AirKaren](https://airkaren.com) - AirKaren is the AI that fights customer service for you, completely for free.
 - [@O - AI coworker in Slack](https://www.ogment.ai) - @O is the ultimate AI coworker that lives natively in Slack.
+- [LemonLime](https://lemonlime.ai) - LemonLime lets teams automate their workflows in minutes with a single click.
 
 ## 💻 Coding & Developer Tools
 
@@ -496,6 +497,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Juno](https://usejuno.co) - Juno is a local, open-source voice writing app for Mac.
 - [Dub Ninja](https://dub.ninja) - An autonomous AI DJ.
 - [Nada](https://go.tunelab.id/download) - Nada is the easiest way to turn your voice into music.
+- [Jamboree](https://jamboree.space) - A multiplayer sound design tool.
 
 ## 🎬 Video & Animation
 
@@ -649,6 +651,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Epilogue. Write novels, scripts & poetry](https://epilogue.page) - Epilogue is the writing environment built for writers who take their craft seriously.
 - [Folio](https://get-folio.ai) - Stop losing nights to slide decks: Folio AI creates and fixes your presentations in seconds!.
 - [Justwrite](https://justwrite.sbs) - Justwrite is a distraction-free notes app for fast, private writing.
+- [Bono AI](https://heybono.ai) - Meet Bono, your voice AI content strategist.
 
 ## 📊 Analytics & Data
 
@@ -821,6 +824,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Zoho Tables](https://www.zoho.com/tables/product-hunt-launch-offer.html) - Zoho Tables is a no-code spreadsheet-database hybrid with AI brains to organise work, automate workflows, and collaborate in real time.
 - [Ellis](https://www.ellis.coach) - Ellis is an AI notetaker for in-person meetings.
 - [AI Emaily](https://aiemaily.com) - AI Emaily is the AI-native inbox that runs like your chief of staff.
+- [Eodly](https://eodly.io) - Eodly reads Slack, Telegram, Discord, GitHub and Linear, and sends founders one sourced page each evening: who shipped, who's quiet, who's slipping, and any status that doesn't match reality.
+- [PopTask - AI Powered Menu Bar To-do List](https://poptask.bar) - PopTask turns a messy thought into a scheduled task in about 3 seconds .. type it the way you'd say it .. "gym mon wed fri 6am" .. and it figures out the date, time, repeat and reminder .. no date….
+- [Orbit for Mac](https://orbitformac.com) - Every Google account in its own room on your Mac, fully isolated.
+- [IvyForms](https://ivyforms.com) - IvyForms is a WordPress form builder for turning submissions into structured workflows.
 
 ## 🔎 Search & Discovery
 
@@ -916,6 +923,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Sequence](https://home.getsequence.io) - Sequence is the financial execution layer for AI agents.
 - [CentryAI](https://centryai.app) - I built CentryAI because I have ADHD and was paying for 11 subscriptions I hadn't used in months.
 - [Endl](https://endl.io) - Endl is the operating layer for global money flows.
+- [Farao](https://getfarao.com) - Farao is a trading mobile app, that helps anyone around the world access financial products.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -990,6 +998,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [html.contact](https://html.contact) - html.contact turns plain HTML forms into working email forms with attachments, logs, exports, API access, verified routing, domain allowlists, and spam controls. The Free plan is built so you can….
 - [Context.dev](https://context.dev) - Context.dev gives your AI agents and apps real-time access to structured web data, no brittle scraping infrastructure needed. Scrape any URL as clean markdown or HTML, extract brand data (logos,….
 - [LongCat](https://longcat.chat) - LongCat is the AI model series from Meituan, featuring powerful, efficient, and open-source models for complex tasks.
+- [Link Preview API](https://exabase.io/tools/link-preview) - Completely free.
 
 ## 💬 Chatbots & Conversational
 
@@ -1011,6 +1020,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Intelli](https://www.intelliconcierge.com) - Intelli is a Customer Support Platform that streamlines conversations and interactions between businesses and their customers across multiple channels using AI.
 - [CircleChat](https://circlechat.co) - Make multiple AI agents chat engage, collaborate, and problem-solve in real time.
 - [Kadoink AI](https://kadoink.ai) - Gather people instantly by AI txt, video, or ringing phones Tell Kadoink Who You Need.
+- [Fini](https://www.usefini.com) - Fini is the self-improving AI agent for customer support.
 
 ## 👥 Social & Community
 
