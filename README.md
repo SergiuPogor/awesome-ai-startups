@@ -7,20 +7,20 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (80)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (130)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (199)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (51)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (82)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (131)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (201)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (52)
 - [🎬 Video & Animation](#video-animation) (43)
 - [🎨 Image, Design & 3D](#image-design-3d) (62)
 - [✍️ Writing & Content](#writing-content) (39)
 - [📊 Analytics & Data](#analytics-data) (54)
-- [🗂 Productivity & Notes](#productivity-notes) (115)
+- [🗂 Productivity & Notes](#productivity-notes) (117)
 - [🔎 Search & Discovery](#search-discovery) (22)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (25)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (72)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (26)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (77)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (19)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (7)
@@ -108,6 +108,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Octolens](https://octolens.com) - Octolens monitors the web for keyword mentions, assesses posts with AI, & notifies you so you can jump into a conversation.
 - [Katalyst](https://www.joinkatalyst.com) - Katalyst is the AI sales agent for teams on Salesforce.
 - [Scribble Network](https://scribble.network) - Your customers ask AI before they ask Google, and most brands have no idea whether they show up or lose to a competitor.
+- [Glimpse](https://www.glimpsehq.io) - Your competitors move every day.
+- [SEORCE](https://www.seorce.com) - SEO and GEO work only when they turn into real discovery and growth.
 
 ## 🤖 AI Agents & Assistants
 
@@ -241,6 +243,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AirKaren](https://airkaren.com) - AirKaren is the AI that fights customer service for you, completely for free.
 - [@O - AI coworker in Slack](https://www.ogment.ai) - @O is the ultimate AI coworker that lives natively in Slack.
 - [LemonLime](https://lemonlime.ai) - LemonLime lets teams automate their workflows in minutes with a single click.
+- [Monogram AI](https://www.monogram.ai) - We want to share our new iOS App.
 
 ## 💻 Coding & Developer Tools
 
@@ -444,6 +447,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [TryCase](https://trycase.dev) - TryCase gives AI coding agents disposable Linux environments to run apps, test changes end to end, capture screenshots and recordings, and return verified code instead of asking you to test manually.
 - [DocsAlot](https://docsalot.dev) - DocsAlot turns scattered help center articles, knowledge base, and developer docs into one source of truth for humans and AI agents.
 - [Nixmac](https://nixmac.com) - nixmac turns your Mac into a reproducible, version-controlled system.
+- [Aura : Agents + GIt + Loops OSS ADE](https://auravcs.com) - Aura is not another chat box for coding.
+- [Perfai Security](https://perfai.ai) - Autonomous access control security for Vibe-coded apps.
 
 ## 🎙 Audio, Voice & Music
 
@@ -498,6 +503,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Dub Ninja](https://dub.ninja) - An autonomous AI DJ.
 - [Nada](https://go.tunelab.id/download) - Nada is the easiest way to turn your voice into music.
 - [Jamboree](https://jamboree.space) - A multiplayer sound design tool.
+- [Lispr](https://lispr.ai) - Lispr is a free voice dictation and translation app for Mac and Windows.
 
 ## 🎬 Video & Animation
 
@@ -828,6 +834,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PopTask - AI Powered Menu Bar To-do List](https://poptask.bar) - PopTask turns a messy thought into a scheduled task in about 3 seconds .. type it the way you'd say it .. "gym mon wed fri 6am" .. and it figures out the date, time, repeat and reminder .. no date….
 - [Orbit for Mac](https://orbitformac.com) - Every Google account in its own room on your Mac, fully isolated.
 - [IvyForms](https://ivyforms.com) - IvyForms is a WordPress form builder for turning submissions into structured workflows.
+- [Tasks.txt](https://taskstxt.app) - You kept going back to atxt file, so I made it faster.
+- [Toyo](https://toyo.ai) - Toyo is a personal AI assistant that lives in your messages and can call you on the phone.
 
 ## 🔎 Search & Discovery
 
@@ -924,6 +932,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [CentryAI](https://centryai.app) - I built CentryAI because I have ADHD and was paying for 11 subscriptions I hadn't used in months.
 - [Endl](https://endl.io) - Endl is the operating layer for global money flows.
 - [Farao](https://getfarao.com) - Farao is a trading mobile app, that helps anyone around the world access financial products.
+- [ARKAD Wallet - Budget & Tracking](https://arkadwallet.com) - ARKAD Wallet is a voice-first budgeting app for people who want clarity without spreadsheet friction.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -999,6 +1008,11 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Context.dev](https://context.dev) - Context.dev gives your AI agents and apps real-time access to structured web data, no brittle scraping infrastructure needed. Scrape any URL as clean markdown or HTML, extract brand data (logos,….
 - [LongCat](https://longcat.chat) - LongCat is the AI model series from Meituan, featuring powerful, efficient, and open-source models for complex tasks.
 - [Link Preview API](https://exabase.io/tools/link-preview) - Completely free.
+- [Constellation Gate AI](https://constellationgate.ai) - Point your AI agent at Gate.
+- [Coasty](https://coasty.ai) - Most agent infrastructure runs workloads in shared environments, one compromised agent affects everything else.
+- [Opper AI](https://opper.ai) - One API key to 300+ models, hosted in the EU.
+- [Auriko](https://www.auriko.ai) - Auriko treats LLM providers as trading venues and arbitrages the spread.
+- [Timbal AI](https://timbal.ai) - Timbal helps teams turn AI prototypes into production systems.
 
 ## 💬 Chatbots & Conversational
 
