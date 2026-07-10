@@ -7,15 +7,15 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (82)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (131)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (201)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (52)
-- [🎬 Video & Animation](#video-animation) (43)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (84)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (133)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (203)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (53)
+- [🎬 Video & Animation](#video-animation) (44)
 - [🎨 Image, Design & 3D](#image-design-3d) (62)
 - [✍️ Writing & Content](#writing-content) (39)
 - [📊 Analytics & Data](#analytics-data) (54)
-- [🗂 Productivity & Notes](#productivity-notes) (117)
+- [🗂 Productivity & Notes](#productivity-notes) (118)
 - [🔎 Search & Discovery](#search-discovery) (22)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
@@ -110,6 +110,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Scribble Network](https://scribble.network) - Your customers ask AI before they ask Google, and most brands have no idea whether they show up or lose to a competitor.
 - [Glimpse](https://www.glimpsehq.io) - Your competitors move every day.
 - [SEORCE](https://www.seorce.com) - SEO and GEO work only when they turn into real discovery and growth.
+- [StoryChief.io](https://storychief.io) - StoryChief.io is an Editorial Software for B2B Content Marketing and Editorial teams who want to collaborate better on rich articles and want to seed multi-channel in seconds.
+- [ConnectMachine](https://www.connectmachine.ai) - ConnectMachine is a privacy-first AI Agent that elevates how you connect.
 
 ## 🤖 AI Agents & Assistants
 
@@ -244,6 +246,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [@O - AI coworker in Slack](https://www.ogment.ai) - @O is the ultimate AI coworker that lives natively in Slack.
 - [LemonLime](https://lemonlime.ai) - LemonLime lets teams automate their workflows in minutes with a single click.
 - [Monogram AI](https://www.monogram.ai) - We want to share our new iOS App.
+- [Yasmine Works](https://yasmine.works) - Yasmine is an AI coworker that lives in your Slack.
+- [Scarlett.](https://tryscarlett.ai) - Not another AI bot, a real colleague to work alongside your team.
 
 ## 💻 Coding & Developer Tools
 
@@ -449,6 +453,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Nixmac](https://nixmac.com) - nixmac turns your Mac into a reproducible, version-controlled system.
 - [Aura : Agents + GIt + Loops OSS ADE](https://auravcs.com) - Aura is not another chat box for coding.
 - [Perfai Security](https://perfai.ai) - Autonomous access control security for Vibe-coded apps.
+- [Sim](https://www.sim.ai) - Sim is an open-source workspace to build agentic workflows.
+- [PlugThis](https://plugthis.ai) - Got an idea for a Chrome extension?.
 
 ## 🎙 Audio, Voice & Music
 
@@ -504,6 +510,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Nada](https://go.tunelab.id/download) - Nada is the easiest way to turn your voice into music.
 - [Jamboree](https://jamboree.space) - A multiplayer sound design tool.
 - [Lispr](https://lispr.ai) - Lispr is a free voice dictation and translation app for Mac and Windows.
+- [Mispher](https://mispher.com) - On-device transcription, plus an agent that actually does things.
 
 ## 🎬 Video & Animation
 
@@ -550,6 +557,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Cadence](https://usecadence.co) - Cadence is the only screen recorder that effortlessly perfects your video the moment you hit stop.
 - [Stanley Studio](https://studio.getstanley.ai) - Stanley is built for anyone who films great videos and then lets them die in their camera roll.
 - [Glideo](https://glideo.app) - Glideo is a free macOS screen recorder built for product demos and dev tools.
+- [ChatCut](https://www.chatcut.io) - ChatCut is a lightweight, professional-grade AI video editor anyone can use, even without editing experience.
 
 ## 🎨 Image, Design & 3D
 
@@ -836,6 +844,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [IvyForms](https://ivyforms.com) - IvyForms is a WordPress form builder for turning submissions into structured workflows.
 - [Tasks.txt](https://taskstxt.app) - You kept going back to atxt file, so I made it faster.
 - [Toyo](https://toyo.ai) - Toyo is a personal AI assistant that lives in your messages and can call you on the phone.
+- [Juicy](https://getjuicy.app) - Juicy replaces Apple's basic battery warnings with beautiful custom alerts at any percentage, complete with screen glow and sounds you can't miss.
 
 ## 🔎 Search & Discovery
 
