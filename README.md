@@ -9,18 +9,18 @@ The goal: make useful indie AI products easier to find, share, and support.
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (84)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (133)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (203)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (53)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (204)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (54)
 - [🎬 Video & Animation](#video-animation) (44)
-- [🎨 Image, Design & 3D](#image-design-3d) (62)
+- [🎨 Image, Design & 3D](#image-design-3d) (63)
 - [✍️ Writing & Content](#writing-content) (39)
 - [📊 Analytics & Data](#analytics-data) (54)
 - [🗂 Productivity & Notes](#productivity-notes) (118)
-- [🔎 Search & Discovery](#search-discovery) (22)
+- [🔎 Search & Discovery](#search-discovery) (23)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (26)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (77)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (78)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (19)
 - [👥 Social & Community](#social-community) (8)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (7)
@@ -455,6 +455,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Perfai Security](https://perfai.ai) - Autonomous access control security for Vibe-coded apps.
 - [Sim](https://www.sim.ai) - Sim is an open-source workspace to build agentic workflows.
 - [PlugThis](https://plugthis.ai) - Got an idea for a Chrome extension?.
+- [ServiceBeard](https://servicebeard.app) - Turn your customer-facing mailbox into an issue board.
 
 ## 🎙 Audio, Voice & Music
 
@@ -511,6 +512,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Jamboree](https://jamboree.space) - A multiplayer sound design tool.
 - [Lispr](https://lispr.ai) - Lispr is a free voice dictation and translation app for Mac and Windows.
 - [Mispher](https://mispher.com) - On-device transcription, plus an agent that actually does things.
+- [Conversate](https://tryconversate.com) - A private voice room for two people who do not share a language.
 
 ## 🎬 Video & Animation
 
@@ -624,6 +626,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Fuser](https://fuser.studio) - Fuser is a node-based canvas for creative work, built for exploration and iteration across every model and modality.
 - [Adam CAD Copilot](https://adam.new/copilot) - Adam brings AI CAD assistance into the tools mechanical engineers already use.
 - [PixFit](https://pixfit.ai) - Senior Designers shouldn't be manually-resizing assets ready to run or being aware of TikTok safe zones.
+- [Miora](https://miora.design) - Not another AI image tool.
 
 ## ✍️ Writing & Content
 
@@ -870,6 +873,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Dotient](https://dotient.com) - Dotient is a local-first desktop application that helps you organize and search through your personal files using ML-powered visual search.
 - [Sidedoor](https://happenstance.ai/sidedoor) - Sidedoor searches your Gmail, LinkedIn, Instagram, Twitter, Outlook, and friends' connections to find who can refer you to any job.
 - [AnySearch](https://www.anysearch.com) - A search tool for agents, not a search box.
+- [JustVibe](https://justvibe.com) - JustVibe is a free search engine, built to help get things done.
 
 ## 🎓 Education & Learning
 
@@ -1022,6 +1026,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Opper AI](https://opper.ai) - One API key to 300+ models, hosted in the EU.
 - [Auriko](https://www.auriko.ai) - Auriko treats LLM providers as trading venues and arbitrages the spread.
 - [Timbal AI](https://timbal.ai) - Timbal helps teams turn AI prototypes into production systems.
+- [FetchSandbox](https://fetchsandbox.com) - Most API tests stop at 200 OK.
 
 ## 💬 Chatbots & Conversational
 
