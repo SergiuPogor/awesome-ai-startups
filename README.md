@@ -7,23 +7,23 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (84)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (133)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (204)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (54)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (85)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (134)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (205)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (55)
 - [🎬 Video & Animation](#video-animation) (44)
-- [🎨 Image, Design & 3D](#image-design-3d) (63)
-- [✍️ Writing & Content](#writing-content) (39)
+- [🎨 Image, Design & 3D](#image-design-3d) (64)
+- [✍️ Writing & Content](#writing-content) (40)
 - [📊 Analytics & Data](#analytics-data) (54)
 - [🗂 Productivity & Notes](#productivity-notes) (118)
 - [🔎 Search & Discovery](#search-discovery) (23)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (26)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (78)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (27)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (80)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (19)
 - [👥 Social & Community](#social-community) (8)
-- [🛒 E-commerce & Retail](#e-commerce-retail) (7)
+- [🛒 E-commerce & Retail](#e-commerce-retail) (8)
 - [✨ Everything Else](#everything-else) (89)
 
 ## 📣 Marketing, SEO & Sales
@@ -112,6 +112,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SEORCE](https://www.seorce.com) - SEO and GEO work only when they turn into real discovery and growth.
 - [StoryChief.io](https://storychief.io) - StoryChief.io is an Editorial Software for B2B Content Marketing and Editorial teams who want to collaborate better on rich articles and want to seed multi-channel in seconds.
 - [ConnectMachine](https://www.connectmachine.ai) - ConnectMachine is a privacy-first AI Agent that elevates how you connect.
+- [Creatify](https://creatify.ai) - The #1 AI video ad maker.
 
 ## 🤖 AI Agents & Assistants
 
@@ -248,6 +249,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Monogram AI](https://www.monogram.ai) - We want to share our new iOS App.
 - [Yasmine Works](https://yasmine.works) - Yasmine is an AI coworker that lives in your Slack.
 - [Scarlett.](https://tryscarlett.ai) - Not another AI bot, a real colleague to work alongside your team.
+- [Osaurus](https://osaurus.ai) - The native macOS harness for AI agents.
 
 ## 💻 Coding & Developer Tools
 
@@ -456,6 +458,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Sim](https://www.sim.ai) - Sim is an open-source workspace to build agentic workflows.
 - [PlugThis](https://plugthis.ai) - Got an idea for a Chrome extension?.
 - [ServiceBeard](https://servicebeard.app) - Turn your customer-facing mailbox into an issue board.
+- [NoMac.app](https://nomac.app) - The native app publishing pipeline built for AI agents: build signed iOS releases to validate your code, push to TestFlight ot see preview on your iPhone in minutes, and submit to the App Store….
 
 ## 🎙 Audio, Voice & Music
 
@@ -513,6 +516,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Lispr](https://lispr.ai) - Lispr is a free voice dictation and translation app for Mac and Windows.
 - [Mispher](https://mispher.com) - On-device transcription, plus an agent that actually does things.
 - [Conversate](https://tryconversate.com) - A private voice room for two people who do not share a language.
+- [Speechify](https://speechify.com/?via=donald) - Use Speechify as a go-to Voice Assistant for everyday life: read text out loud, type across platforms like Google Docs and Gmail, polish your writing, and answer questions on any website.
 
 ## 🎬 Video & Animation
 
@@ -627,6 +631,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Adam CAD Copilot](https://adam.new/copilot) - Adam brings AI CAD assistance into the tools mechanical engineers already use.
 - [PixFit](https://pixfit.ai) - Senior Designers shouldn't be manually-resizing assets ready to run or being aware of TikTok safe zones.
 - [Miora](https://miora.design) - Not another AI image tool.
+- [Fudge MCP](https://design.withfudge.com) - Meet Fudge: a design reference engine for AI agents.
 
 ## ✍️ Writing & Content
 
@@ -669,6 +674,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Folio](https://get-folio.ai) - Stop losing nights to slide decks: Folio AI creates and fixes your presentations in seconds!.
 - [Justwrite](https://justwrite.sbs) - Justwrite is a distraction-free notes app for fast, private writing.
 - [Bono AI](https://heybono.ai) - Meet Bono, your voice AI content strategist.
+- [Marked QL](https://markedapp.com/ql) - Marked QL renders beautiful Markdown previews in macOS Quick Look.
 
 ## 📊 Analytics & Data
 
@@ -946,6 +952,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Endl](https://endl.io) - Endl is the operating layer for global money flows.
 - [Farao](https://getfarao.com) - Farao is a trading mobile app, that helps anyone around the world access financial products.
 - [ARKAD Wallet - Budget & Tracking](https://arkadwallet.com) - ARKAD Wallet is a voice-first budgeting app for people who want clarity without spreadsheet friction.
+- [UnitPay](https://www.useunitpay.com) - UnitPay is the monetization OS for AI companies.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1027,6 +1034,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Auriko](https://www.auriko.ai) - Auriko treats LLM providers as trading venues and arbitrages the spread.
 - [Timbal AI](https://timbal.ai) - Timbal helps teams turn AI prototypes into production systems.
 - [FetchSandbox](https://fetchsandbox.com) - Most API tests stop at 200 OK.
+- [TailMux](https://tailmux.app) - The official Tailscale client keeps one tailnet active at a time.
+- [AgentKey](https://agentkey.app) - AgentKey is a plugin that connects your agent to live external data in one command.
 
 ## 💬 Chatbots & Conversational
 
@@ -1070,6 +1079,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SellerClaw](https://sellerai.com) - Running even one online store is a full-time job.
 - [Fypro](https://www.fypro.ai) - You built a TikTok following that trusts you.
 - [Dupely](https://dupely.io) - Most shopping tools chase coupons.
+- [Knockoff](https://knockoff.co) - Knockoff filters the trademark-squat pseudo-brands (the SZHLUXes and HORUSDYs) out of your search results, so what's left is brands with a reputation to lose.
 
 ## ✨ Everything Else
 
