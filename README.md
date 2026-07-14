@@ -7,23 +7,23 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (85)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (134)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (205)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (55)
-- [🎬 Video & Animation](#video-animation) (44)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (88)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (135)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (207)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (56)
+- [🎬 Video & Animation](#video-animation) (46)
 - [🎨 Image, Design & 3D](#image-design-3d) (64)
 - [✍️ Writing & Content](#writing-content) (40)
 - [📊 Analytics & Data](#analytics-data) (54)
-- [🗂 Productivity & Notes](#productivity-notes) (118)
+- [🗂 Productivity & Notes](#productivity-notes) (120)
 - [🔎 Search & Discovery](#search-discovery) (23)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (27)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (80)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (28)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (81)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (19)
 - [👥 Social & Community](#social-community) (8)
-- [🛒 E-commerce & Retail](#e-commerce-retail) (8)
+- [🛒 E-commerce & Retail](#e-commerce-retail) (9)
 - [✨ Everything Else](#everything-else) (89)
 
 ## 📣 Marketing, SEO & Sales
@@ -113,6 +113,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [StoryChief.io](https://storychief.io) - StoryChief.io is an Editorial Software for B2B Content Marketing and Editorial teams who want to collaborate better on rich articles and want to seed multi-channel in seconds.
 - [ConnectMachine](https://www.connectmachine.ai) - ConnectMachine is a privacy-first AI Agent that elevates how you connect.
 - [Creatify](https://creatify.ai) - The #1 AI video ad maker.
+- [Sales Studio](https://getsalesstudio.com) - Sales Studio is a private studio for live demos on macOS.
+- [Branda](https://creative.context.dev) - Branda turns any website URL into scroll-stopping, on-brand ads in seconds.
+- [Goose Ads Remixer](https://gooseworks.ai/ads) - The winning ads in your niche reveal what works: hooks, offers, copy structures, layouts.
 
 ## 🤖 AI Agents & Assistants
 
@@ -250,6 +253,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Yasmine Works](https://yasmine.works) - Yasmine is an AI coworker that lives in your Slack.
 - [Scarlett.](https://tryscarlett.ai) - Not another AI bot, a real colleague to work alongside your team.
 - [Osaurus](https://osaurus.ai) - The native macOS harness for AI agents.
+- [Pazi](https://pazi.ai) - Pazi is an AI team for that idea you keep coming back to — a book, a shop, an app, a skill you want to sell.
 
 ## 💻 Coding & Developer Tools
 
@@ -459,6 +463,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PlugThis](https://plugthis.ai) - Got an idea for a Chrome extension?.
 - [ServiceBeard](https://servicebeard.app) - Turn your customer-facing mailbox into an issue board.
 - [NoMac.app](https://nomac.app) - The native app publishing pipeline built for AI agents: build signed iOS releases to validate your code, push to TestFlight ot see preview on your iPhone in minutes, and submit to the App Store….
+- [BugShot](https://bug-shot.com) - Catch a bug and file a complete report from Chrome's side panel.
+- [Portero](https://porteroapp.pages.dev) - Portero is a free, open source Mac app that shows every open port and the process behind it.
 
 ## 🎙 Audio, Voice & Music
 
@@ -517,6 +523,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Mispher](https://mispher.com) - On-device transcription, plus an agent that actually does things.
 - [Conversate](https://tryconversate.com) - A private voice room for two people who do not share a language.
 - [Speechify](https://speechify.com/?via=donald) - Use Speechify as a go-to Voice Assistant for everyday life: read text out loud, type across platforms like Google Docs and Gmail, polish your writing, and answer questions on any website.
+- [VocalVia](https://www.vocalvia.com) - VocalVia turns PDFs, Word files, Markdown, web articles, and pasted text into structured outlines, editable podcast scripts, and natural multi-voice audio.
 
 ## 🎬 Video & Animation
 
@@ -564,6 +571,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Stanley Studio](https://studio.getstanley.ai) - Stanley is built for anyone who films great videos and then lets them die in their camera roll.
 - [Glideo](https://glideo.app) - Glideo is a free macOS screen recorder built for product demos and dev tools.
 - [ChatCut](https://www.chatcut.io) - ChatCut is a lightweight, professional-grade AI video editor anyone can use, even without editing experience.
+- [ClipFlow](https://www.clipflowapp.com) - ClipFlow handles the small video jobs that do not need a timeline.
+- [Animos App](https://animos.app) - Present your work with high-quality motion in under 1 minute.
 
 ## 🎨 Image, Design & 3D
 
@@ -854,6 +863,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Tasks.txt](https://taskstxt.app) - You kept going back to atxt file, so I made it faster.
 - [Toyo](https://toyo.ai) - Toyo is a personal AI assistant that lives in your messages and can call you on the phone.
 - [Juicy](https://getjuicy.app) - Juicy replaces Apple's basic battery warnings with beautiful custom alerts at any percentage, complete with screen glow and sounds you can't miss.
+- [Altersend](https://altersend.com) - AlterSend sends files directly between devices - P2P, E2EE, no cloud storage, no account, no size limits.
+- [Flyout](https://getflyout.app) - Nudge your screen edge — or press ⌥⌘N — and a full rich-text editor flies out over whatever you're doing.
 
 ## 🔎 Search & Discovery
 
@@ -953,6 +964,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Farao](https://getfarao.com) - Farao is a trading mobile app, that helps anyone around the world access financial products.
 - [ARKAD Wallet - Budget & Tracking](https://arkadwallet.com) - ARKAD Wallet is a voice-first budgeting app for people who want clarity without spreadsheet friction.
 - [UnitPay](https://www.useunitpay.com) - UnitPay is the monetization OS for AI companies.
+- [Trump Accounts](https://trumpaccount.com) - Trump Accounts help eligible American children begin building long-term financial growth from an early age.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1036,6 +1048,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [FetchSandbox](https://fetchsandbox.com) - Most API tests stop at 200 OK.
 - [TailMux](https://tailmux.app) - The official Tailscale client keeps one tailnet active at a time.
 - [AgentKey](https://agentkey.app) - AgentKey is a plugin that connects your agent to live external data in one command.
+- [PgDog](https://pgdog.dev) - PgDog is an open source connection pooler, load balancer, and sharding proxy for PostgreSQL.
 
 ## 💬 Chatbots & Conversational
 
@@ -1080,6 +1093,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Fypro](https://www.fypro.ai) - You built a TikTok following that trusts you.
 - [Dupely](https://dupely.io) - Most shopping tools chase coupons.
 - [Knockoff](https://knockoff.co) - Knockoff filters the trademark-squat pseudo-brands (the SZHLUXes and HORUSDYs) out of your search results, so what's left is brands with a reputation to lose.
+- [ClawTeams](https://clawteams.ai) - ClawTeams is an AI employee platform for e-commerce sellers.
 
 ## ✨ Everything Else
 
