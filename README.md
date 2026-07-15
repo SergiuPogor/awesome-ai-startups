@@ -7,22 +7,22 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (88)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (135)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (207)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (89)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (137)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (210)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (56)
-- [🎬 Video & Animation](#video-animation) (46)
-- [🎨 Image, Design & 3D](#image-design-3d) (64)
+- [🎬 Video & Animation](#video-animation) (47)
+- [🎨 Image, Design & 3D](#image-design-3d) (65)
 - [✍️ Writing & Content](#writing-content) (40)
 - [📊 Analytics & Data](#analytics-data) (54)
-- [🗂 Productivity & Notes](#productivity-notes) (120)
+- [🗂 Productivity & Notes](#productivity-notes) (123)
 - [🔎 Search & Discovery](#search-discovery) (23)
 - [🎓 Education & Learning](#education-learning) (16)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (28)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (81)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (19)
-- [👥 Social & Community](#social-community) (8)
+- [👥 Social & Community](#social-community) (9)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (9)
 - [✨ Everything Else](#everything-else) (89)
 
@@ -116,6 +116,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Sales Studio](https://getsalesstudio.com) - Sales Studio is a private studio for live demos on macOS.
 - [Branda](https://creative.context.dev) - Branda turns any website URL into scroll-stopping, on-brand ads in seconds.
 - [Goose Ads Remixer](https://gooseworks.ai/ads) - The winning ads in your niche reveal what works: hooks, offers, copy structures, layouts.
+- [Flodesk Studio](https://studio.flodesk.com) - Describe it, and Flodesk Studio designs a beautifully on-brand email in seconds.
 
 ## 🤖 AI Agents & Assistants
 
@@ -254,6 +255,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Scarlett.](https://tryscarlett.ai) - Not another AI bot, a real colleague to work alongside your team.
 - [Osaurus](https://osaurus.ai) - The native macOS harness for AI agents.
 - [Pazi](https://pazi.ai) - Pazi is an AI team for that idea you keep coming back to — a book, a shop, an app, a skill you want to sell.
+- [YAGNI](https://yagni.app) - AI today is reactive: it waits for your next prompt.
+- [Agently](https://agently.dev) - Every other tool answers, retrieves, or runs brittle rules.
 
 ## 💻 Coding & Developer Tools
 
@@ -465,6 +468,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [NoMac.app](https://nomac.app) - The native app publishing pipeline built for AI agents: build signed iOS releases to validate your code, push to TestFlight ot see preview on your iPhone in minutes, and submit to the App Store….
 - [BugShot](https://bug-shot.com) - Catch a bug and file a complete report from Chrome's side panel.
 - [Portero](https://porteroapp.pages.dev) - Portero is a free, open source Mac app that shows every open port and the process behind it.
+- [ccshare](https://getccshare.vercel.app) - share your live Claude Code session with a 6-char code, AirDrop-style.
+- [Tiptap](https://www.tiptap.dev) - Tiptap is a suite of content editing & real time collaboration tools to build editor experiences like Notion in minutes, not years.
+- [FlutterFlow](https://flutterflow.io) - Create beautiful UI, generate clean code, and deploy to the app stores or web in one click.
 
 ## 🎙 Audio, Voice & Music
 
@@ -573,6 +579,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ChatCut](https://www.chatcut.io) - ChatCut is a lightweight, professional-grade AI video editor anyone can use, even without editing experience.
 - [ClipFlow](https://www.clipflowapp.com) - ClipFlow handles the small video jobs that do not need a timeline.
 - [Animos App](https://animos.app) - Present your work with high-quality motion in under 1 minute.
+- [Eddie AI](https://heyeddie.ai) - Eddie is your AI assistant editor - cutting raw footage into rough cuts.
 
 ## 🎨 Image, Design & 3D
 
@@ -641,6 +648,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PixFit](https://pixfit.ai) - Senior Designers shouldn't be manually-resizing assets ready to run or being aware of TikTok safe zones.
 - [Miora](https://miora.design) - Not another AI image tool.
 - [Fudge MCP](https://design.withfudge.com) - Meet Fudge: a design reference engine for AI agents.
+- [V2Fun](https://v2fun.ai) - V2Fun is an AI 3D creation platform built with self-developed 3D modeling and AI motion capture models.
 
 ## ✍️ Writing & Content
 
@@ -865,6 +873,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Juicy](https://getjuicy.app) - Juicy replaces Apple's basic battery warnings with beautiful custom alerts at any percentage, complete with screen glow and sounds you can't miss.
 - [Altersend](https://altersend.com) - AlterSend sends files directly between devices - P2P, E2EE, no cloud storage, no account, no size limits.
 - [Flyout](https://getflyout.app) - Nudge your screen edge — or press ⌥⌘N — and a full rich-text editor flies out over whatever you're doing.
+- [Keepresso](https://keepresso.com) - Your Mac sleeps mid-download, mid-render, mid-agent-run.
+- [Copresent](https://www.copresent.app) - Copresent turns your phone into a Google Slides remote - swipe to advance, notes on screen.
+- [RecordMeeting](https://recordmeeting.com) - Records and transcribes your calls privately 🥷 No bots joining and No recording announcements.
 
 ## 🔎 Search & Discovery
 
@@ -1082,6 +1093,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [moop](https://moop.to) - Social media without media.
 - [own.page](https://own.page) - own.page helps creators and founders build a beautiful link-in-bio that feels alive - more like a personal website than just a list of links. Build a page in under a minute, customize it your way,….
 - [Franz Messenger](http://meetfranz.com) - Franz is a messaging app for WhatsApp, Facebook Messenger, Telegram, Slack and more.
+- [CodeNearby](https://codenearby.space) - Codenearby helps developers connect, collaborate, and code together by finding like-minded programmers nearby or worldwide.
 
 ## 🛒 E-commerce & Retail
 
