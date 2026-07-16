@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (89)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (137)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (210)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (92)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (138)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (212)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (56)
 - [🎬 Video & Animation](#video-animation) (47)
 - [🎨 Image, Design & 3D](#image-design-3d) (65)
 - [✍️ Writing & Content](#writing-content) (40)
-- [📊 Analytics & Data](#analytics-data) (54)
-- [🗂 Productivity & Notes](#productivity-notes) (123)
-- [🔎 Search & Discovery](#search-discovery) (23)
-- [🎓 Education & Learning](#education-learning) (16)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (20)
+- [📊 Analytics & Data](#analytics-data) (55)
+- [🗂 Productivity & Notes](#productivity-notes) (125)
+- [🔎 Search & Discovery](#search-discovery) (25)
+- [🎓 Education & Learning](#education-learning) (17)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (21)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (28)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (81)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (84)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (19)
 - [👥 Social & Community](#social-community) (9)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (9)
-- [✨ Everything Else](#everything-else) (89)
+- [✨ Everything Else](#everything-else) (90)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -117,6 +117,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Branda](https://creative.context.dev) - Branda turns any website URL into scroll-stopping, on-brand ads in seconds.
 - [Goose Ads Remixer](https://gooseworks.ai/ads) - The winning ads in your niche reveal what works: hooks, offers, copy structures, layouts.
 - [Flodesk Studio](https://studio.flodesk.com) - Describe it, and Flodesk Studio designs a beautifully on-brand email in seconds.
+- [Nuvio](https://www.nuvio.so) - Tired of outdated or hand-typed metrics in your X profile?.
+- [Nitrosend](https://nitrosend.com/email-for-agents) - Nitrosend is full-stack email built for AI agents.
+- [River](https://www.rivergtm.com) - River enables B2B companies to sell with VoiceAI.
 
 ## 🤖 AI Agents & Assistants
 
@@ -257,6 +260,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pazi](https://pazi.ai) - Pazi is an AI team for that idea you keep coming back to — a book, a shop, an app, a skill you want to sell.
 - [YAGNI](https://yagni.app) - AI today is reactive: it waits for your next prompt.
 - [Agently](https://agently.dev) - Every other tool answers, retrieves, or runs brittle rules.
+- [Verse](https://useverse.ai) - Verse allows anyone to build and hire autonomous AI employees from a single prompt.
 
 ## 💻 Coding & Developer Tools
 
@@ -471,6 +475,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ccshare](https://getccshare.vercel.app) - share your live Claude Code session with a 6-char code, AirDrop-style.
 - [Tiptap](https://www.tiptap.dev) - Tiptap is a suite of content editing & real time collaboration tools to build editor experiences like Notion in minutes, not years.
 - [FlutterFlow](https://flutterflow.io) - Create beautiful UI, generate clean code, and deploy to the app stores or web in one click.
+- [SonOf](https://www.sonof.io) - Connect your repo and PM tools.
+- [Manta AI](https://mantaai.co) - Manta AI is an autonomous testing agent for web applications.
 
 ## 🎙 Audio, Voice & Music
 
@@ -750,6 +756,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Samepage Signals](https://www.samepage.ai) - Built specifically for the best product leaders, Samepage Signals automatically surfaces the information and insights that are most important to you across all of your tools and web, in one place.
 - [Nanonets](http://www.nanonets.com) - Nanonets is an AI-driven solution that automates document processing and data extraction workflows.
 - [Mira](https://entropik.io/platform/ai-moderator) - Unlike AI tools that stop at interview + transcript, Mira is a full AI researcher — plans studies, recruits globally (100M+ panel, 120 countries), runs dynamic interviews with intelligent probing,….
+- [Amami](https://dashboard.amami.dev/login) - I built Amami because I was tired of tab-switching between Cursor and a browser tab just to check how many people visited my site.
 
 ## 🗂 Productivity & Notes
 
@@ -876,6 +883,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Keepresso](https://keepresso.com) - Your Mac sleeps mid-download, mid-render, mid-agent-run.
 - [Copresent](https://www.copresent.app) - Copresent turns your phone into a Google Slides remote - swipe to advance, notes on screen.
 - [RecordMeeting](https://recordmeeting.com) - Records and transcribes your calls privately 🥷 No bots joining and No recording announcements.
+- [Weave](https://sayweave.com) - Talk through an idea and watch it become a live map that reshapes as you change your mind and asks the questions you haven't thought to ask.
+- [In Parallel](https://in-parallel.com) - In Parallel continuously maintains a shared understanding of your organization.
 
 ## 🔎 Search & Discovery
 
@@ -902,6 +911,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Sidedoor](https://happenstance.ai/sidedoor) - Sidedoor searches your Gmail, LinkedIn, Instagram, Twitter, Outlook, and friends' connections to find who can refer you to any job.
 - [AnySearch](https://www.anysearch.com) - A search tool for agents, not a search box.
 - [JustVibe](https://justvibe.com) - JustVibe is a free search engine, built to help get things done.
+- [Cito](https://cito.fim.ai) - Cito is a hybrid search engine over the Semantic Scholar corpus: 236M papers in the keyword index, 146M with SPECTER2 dense vectors, fused with RRF and reranked by a cross-encoder.
+- [The Eureka Database](https://theeurekadatabase.com) - AI will happily generate a thousand startup ideas.
 
 ## 🎓 Education & Learning
 
@@ -922,6 +933,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Build Club](https://www.buildclub.ai) - The Most Collaborative AI Learning Community in the World · Grow with a community that has your back · Free AI Learning Ecosystem for All.
 - [Honen](https://honen.com) - Create employee training that keeps up with your company.
 - [Journey Now](https://journey.now) - Journey Now turns anything you want to learn or master into a personalized, step-by-step plan — with daily guidance, reflection, and a view of how friends are progressing too.
+- [Paradigm](https://www.paradigm.study) - Paradigm reimagines education around the individual, taking any learning goal and turning it into a step-by-step path that evolves with your progress, helping you move steadily from curiosity to….
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -945,6 +957,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PeakRoutine](https://www.peakroutinehealth.com) - PeakRoutine connects your sleep, sunlight, exercise, calories, nutrition, mood, hydration, and more — correlates them against each other — then tells you exactly what it means for your body.
 - [Tiles: Map Your Adventures](https://tiles.sinuk.dev) - Tiles turns Apple Health workouts, GPX, FIT, CSV, and photos into one local-first private exploration map.
 - [Swimio](https://swimio.app) - Swimio combines AI coaching, advanced Apple Watch swim tracking, and personalized workout generation in one platform built specifically for swimmers.
+- [ChikitAI](https://chikit.ai) - ChikitAI is the healthcare agentic AI by NyuktAI that automates healthcare's messiest bottleneck: patient intake and triage, increasing patient intake capacity by 30% for healthcare providers.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -1060,6 +1073,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [TailMux](https://tailmux.app) - The official Tailscale client keeps one tailnet active at a time.
 - [AgentKey](https://agentkey.app) - AgentKey is a plugin that connects your agent to live external data in one command.
 - [PgDog](https://pgdog.dev) - PgDog is an open source connection pooler, load balancer, and sharding proxy for PostgreSQL.
+- [Graft AI](https://graft.axcelner.com) - Most agent tools assume clean APIs.
+- [Albato](https://albato.com) - Albato is an AI-powered no-code automation platform that makes app integration and workflow automation seamless.
+- [Zro](https://zro.moonmath.ai) - Fast and optimized open-model inference on multi-region infrastructure with zero request retention.
 
 ## 💬 Chatbots & Conversational
 
@@ -1198,6 +1214,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Load Nova](https://www.loadnova.app) - One workspace for dispatchers.
 - [Pieter Post](https://www.pieterpost.com) - Never lick a stamp again!.
 - [Badge](https://getbadge.app) - Badge gives an AI agent that collects peer reviews to build proof of work.
+- [LeakData.io](https://leakdata.io/en) - LeakData.io helps organizations monitor authorized domains and email addresses for exposure in known breach datasets. Security teams can investigate findings, prioritize risk, and act before….
 
 ## Contributing
 
