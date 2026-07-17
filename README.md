@@ -7,22 +7,22 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (92)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (138)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (93)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (139)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (212)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (56)
 - [🎬 Video & Animation](#video-animation) (47)
-- [🎨 Image, Design & 3D](#image-design-3d) (65)
+- [🎨 Image, Design & 3D](#image-design-3d) (66)
 - [✍️ Writing & Content](#writing-content) (40)
 - [📊 Analytics & Data](#analytics-data) (55)
-- [🗂 Productivity & Notes](#productivity-notes) (125)
+- [🗂 Productivity & Notes](#productivity-notes) (127)
 - [🔎 Search & Discovery](#search-discovery) (25)
-- [🎓 Education & Learning](#education-learning) (17)
+- [🎓 Education & Learning](#education-learning) (18)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (21)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (28)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (84)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (19)
-- [👥 Social & Community](#social-community) (9)
+- [👥 Social & Community](#social-community) (10)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (9)
 - [✨ Everything Else](#everything-else) (90)
 
@@ -120,6 +120,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Nuvio](https://www.nuvio.so) - Tired of outdated or hand-typed metrics in your X profile?.
 - [Nitrosend](https://nitrosend.com/email-for-agents) - Nitrosend is full-stack email built for AI agents.
 - [River](https://www.rivergtm.com) - River enables B2B companies to sell with VoiceAI.
+- [Pebbles Ai](https://www.trypebbles.ai) - The only GTM&nbsp;orchestration platform you will need to successfully take your products & services to market.
 
 ## 🤖 AI Agents & Assistants
 
@@ -261,6 +262,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [YAGNI](https://yagni.app) - AI today is reactive: it waits for your next prompt.
 - [Agently](https://agently.dev) - Every other tool answers, retrieves, or runs brittle rules.
 - [Verse](https://useverse.ai) - Verse allows anyone to build and hire autonomous AI employees from a single prompt.
+- [Aye](https://okaapps.com/product/6760281977) - Aye is a Chromium-based AI browser for macOS and Windows that gives web work a teachable AI intern.
 
 ## 💻 Coding & Developer Tools
 
@@ -655,6 +657,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Miora](https://miora.design) - Not another AI image tool.
 - [Fudge MCP](https://design.withfudge.com) - Meet Fudge: a design reference engine for AI agents.
 - [V2Fun](https://v2fun.ai) - V2Fun is an AI 3D creation platform built with self-developed 3D modeling and AI motion capture models.
+- [PixyCAD](https://pixycad.com) - PixyCAD is a native 3D CAD app for Mac and iPad, built for makers, designers and 3D-printing enthusiasts who want professional solid modelling without traditional CAD complexity.
 
 ## ✍️ Writing & Content
 
@@ -885,6 +888,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [RecordMeeting](https://recordmeeting.com) - Records and transcribes your calls privately 🥷 No bots joining and No recording announcements.
 - [Weave](https://sayweave.com) - Talk through an idea and watch it become a live map that reshapes as you change your mind and asks the questions you haven't thought to ask.
 - [In Parallel](https://in-parallel.com) - In Parallel continuously maintains a shared understanding of your organization.
+- [Timely](https://trytimely.co) - Pull your availability from connected calendars, with a single keystroke, within whichever timezone suits your recipient best.
+- [Pocket Screen](https://labs.toybird.com/apps/pocket-screen) - Pocket Screen turns the frontmost window on your Mac into a compact, always-on-top PiP-style view.
 
 ## 🔎 Search & Discovery
 
@@ -934,6 +939,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Honen](https://honen.com) - Create employee training that keeps up with your company.
 - [Journey Now](https://journey.now) - Journey Now turns anything you want to learn or master into a personalized, step-by-step plan — with daily guidance, reflection, and a view of how friends are progressing too.
 - [Paradigm](https://www.paradigm.study) - Paradigm reimagines education around the individual, taking any learning goal and turning it into a step-by-step path that evolves with your progress, helping you move steadily from curiosity to….
+- [Scribble Party](https://scribbling.party) - Most lesson recorders send your video to someone's cloud and want an account first.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1110,6 +1116,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [own.page](https://own.page) - own.page helps creators and founders build a beautiful link-in-bio that feels alive - more like a personal website than just a list of links. Build a page in under a minute, customize it your way,….
 - [Franz Messenger](http://meetfranz.com) - Franz is a messaging app for WhatsApp, Facebook Messenger, Telegram, Slack and more.
 - [CodeNearby](https://codenearby.space) - Codenearby helps developers connect, collaborate, and code together by finding like-minded programmers nearby or worldwide.
+- [Yapper Leaderboard](https://yappers.context.dev) - The Yapper Leaderboard ranks Twitter/X's startups and users by how much they yap.
 
 ## 🛒 E-commerce & Retail
 
