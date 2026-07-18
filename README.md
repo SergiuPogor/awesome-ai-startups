@@ -7,20 +7,20 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (93)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (139)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (212)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (56)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (94)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (140)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (213)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (57)
 - [🎬 Video & Animation](#video-animation) (47)
 - [🎨 Image, Design & 3D](#image-design-3d) (66)
 - [✍️ Writing & Content](#writing-content) (40)
 - [📊 Analytics & Data](#analytics-data) (55)
-- [🗂 Productivity & Notes](#productivity-notes) (127)
-- [🔎 Search & Discovery](#search-discovery) (25)
-- [🎓 Education & Learning](#education-learning) (18)
+- [🗂 Productivity & Notes](#productivity-notes) (128)
+- [🔎 Search & Discovery](#search-discovery) (26)
+- [🎓 Education & Learning](#education-learning) (19)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (21)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (28)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (84)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (85)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (19)
 - [👥 Social & Community](#social-community) (10)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (9)
@@ -121,6 +121,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Nitrosend](https://nitrosend.com/email-for-agents) - Nitrosend is full-stack email built for AI agents.
 - [River](https://www.rivergtm.com) - River enables B2B companies to sell with VoiceAI.
 - [Pebbles Ai](https://www.trypebbles.ai) - The only GTM&nbsp;orchestration platform you will need to successfully take your products & services to market.
+- [Mirage](https://usemirage.io) - Most product demos are a 40MB video nobody finishes or a $500/mo tool no bootstrapper can justify.
 
 ## 🤖 AI Agents & Assistants
 
@@ -263,6 +264,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Agently](https://agently.dev) - Every other tool answers, retrieves, or runs brittle rules.
 - [Verse](https://useverse.ai) - Verse allows anyone to build and hire autonomous AI employees from a single prompt.
 - [Aye](https://okaapps.com/product/6760281977) - Aye is a Chromium-based AI browser for macOS and Windows that gives web work a teachable AI intern.
+- [Clark](https://www.clarkchat.com) - Clark is an AI coworker with its own cloud computer - browser, terminal, files, and code.
 
 ## 💻 Coding & Developer Tools
 
@@ -479,6 +481,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [FlutterFlow](https://flutterflow.io) - Create beautiful UI, generate clean code, and deploy to the app stores or web in one click.
 - [SonOf](https://www.sonof.io) - Connect your repo and PM tools.
 - [Manta AI](https://mantaai.co) - Manta AI is an autonomous testing agent for web applications.
+- [Acebuilder](https://www.acebuilder.ai) - Acebuilder is an AI website builder from the team behind Aceternity UI.
 
 ## 🎙 Audio, Voice & Music
 
@@ -538,6 +541,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Conversate](https://tryconversate.com) - A private voice room for two people who do not share a language.
 - [Speechify](https://speechify.com/?via=donald) - Use Speechify as a go-to Voice Assistant for everyday life: read text out loud, type across platforms like Google Docs and Gmail, polish your writing, and answer questions on any website.
 - [VocalVia](https://www.vocalvia.com) - VocalVia turns PDFs, Word files, Markdown, web articles, and pasted text into structured outlines, editable podcast scripts, and natural multi-voice audio.
+- [WX](https://scrapbrainaudio.com/wx) - WX is a generative synth plugin that creates evolving patches through controlled randomization.
 
 ## 🎬 Video & Animation
 
@@ -890,6 +894,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [In Parallel](https://in-parallel.com) - In Parallel continuously maintains a shared understanding of your organization.
 - [Timely](https://trytimely.co) - Pull your availability from connected calendars, with a single keystroke, within whichever timezone suits your recipient best.
 - [Pocket Screen](https://labs.toybird.com/apps/pocket-screen) - Pocket Screen turns the frontmost window on your Mac into a compact, always-on-top PiP-style view.
+- [OpenMarkdown](https://openmarkdown.dev) - A fast, light markdown editor that opens any `.md` file instantly. Your agent reads, writes, and co-edits the same file you're in — through a CLI, an agent plugin, and MCP. Local-first: no….
 
 ## 🔎 Search & Discovery
 
@@ -918,6 +923,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [JustVibe](https://justvibe.com) - JustVibe is a free search engine, built to help get things done.
 - [Cito](https://cito.fim.ai) - Cito is a hybrid search engine over the Semantic Scholar corpus: 236M papers in the keyword index, 146M with SPECTER2 dense vectors, fused with RRF and reranked by a cross-encoder.
 - [The Eureka Database](https://theeurekadatabase.com) - AI will happily generate a thousand startup ideas.
+- [DocuSmart AI](https://www.docusmart.eu) - DocuSmart AI lets you search all your internal documents using plain English — across Google Drive, SharePoint, Dropbox and more — from one place.
 
 ## 🎓 Education & Learning
 
@@ -940,6 +946,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Journey Now](https://journey.now) - Journey Now turns anything you want to learn or master into a personalized, step-by-step plan — with daily guidance, reflection, and a view of how friends are progressing too.
 - [Paradigm](https://www.paradigm.study) - Paradigm reimagines education around the individual, taking any learning goal and turning it into a step-by-step path that evolves with your progress, helping you move steadily from curiosity to….
 - [Scribble Party](https://scribbling.party) - Most lesson recorders send your video to someone's cloud and want an account first.
+- [Mainichi](https://mainichiapp.com) - Learn 20,000+ Japanese words with a spaced-repetition system built for long-term memory.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1082,6 +1089,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Graft AI](https://graft.axcelner.com) - Most agent tools assume clean APIs.
 - [Albato](https://albato.com) - Albato is an AI-powered no-code automation platform that makes app integration and workflow automation seamless.
 - [Zro](https://zro.moonmath.ai) - Fast and optimized open-model inference on multi-region infrastructure with zero request retention.
+- [ZooData](https://zoodata.ai) - ZooData turns any URL into agent-ready JSON, so AI agents can work with structured data instead of raw HTML or bloated markdown.
 
 ## 💬 Chatbots & Conversational
 
