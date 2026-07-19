@@ -7,23 +7,23 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (94)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (95)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (140)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (213)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (57)
 - [🎬 Video & Animation](#video-animation) (47)
 - [🎨 Image, Design & 3D](#image-design-3d) (66)
 - [✍️ Writing & Content](#writing-content) (40)
-- [📊 Analytics & Data](#analytics-data) (55)
-- [🗂 Productivity & Notes](#productivity-notes) (128)
-- [🔎 Search & Discovery](#search-discovery) (26)
+- [📊 Analytics & Data](#analytics-data) (56)
+- [🗂 Productivity & Notes](#productivity-notes) (129)
+- [🔎 Search & Discovery](#search-discovery) (27)
 - [🎓 Education & Learning](#education-learning) (19)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (21)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (28)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (85)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (86)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (19)
 - [👥 Social & Community](#social-community) (10)
-- [🛒 E-commerce & Retail](#e-commerce-retail) (9)
+- [🛒 E-commerce & Retail](#e-commerce-retail) (10)
 - [✨ Everything Else](#everything-else) (90)
 
 ## 📣 Marketing, SEO & Sales
@@ -122,6 +122,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [River](https://www.rivergtm.com) - River enables B2B companies to sell with VoiceAI.
 - [Pebbles Ai](https://www.trypebbles.ai) - The only GTM&nbsp;orchestration platform you will need to successfully take your products & services to market.
 - [Mirage](https://usemirage.io) - Most product demos are a 40MB video nobody finishes or a $500/mo tool no bootstrapper can justify.
+- [OpenSEO](https://openseo.so) - Without good data, your agent gives generic advice.
 
 ## 🤖 AI Agents & Assistants
 
@@ -764,6 +765,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Nanonets](http://www.nanonets.com) - Nanonets is an AI-driven solution that automates document processing and data extraction workflows.
 - [Mira](https://entropik.io/platform/ai-moderator) - Unlike AI tools that stop at interview + transcript, Mira is a full AI researcher — plans studies, recruits globally (100M+ panel, 120 countries), runs dynamic interviews with intelligent probing,….
 - [Amami](https://dashboard.amami.dev/login) - I built Amami because I was tired of tab-switching between Cursor and a browser tab just to check how many people visited my site.
+- [Kobbe](https://kobbe.io) - Privacy-friendly and cookie-less analytics for your website.
 
 ## 🗂 Productivity & Notes
 
@@ -895,6 +897,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Timely](https://trytimely.co) - Pull your availability from connected calendars, with a single keystroke, within whichever timezone suits your recipient best.
 - [Pocket Screen](https://labs.toybird.com/apps/pocket-screen) - Pocket Screen turns the frontmost window on your Mac into a compact, always-on-top PiP-style view.
 - [OpenMarkdown](https://openmarkdown.dev) - A fast, light markdown editor that opens any `.md` file instantly. Your agent reads, writes, and co-edits the same file you're in — through a CLI, an agent plugin, and MCP. Local-first: no….
+- [Rewisp](https://yashmitb.github.io/Rewisp) - Rewisp gives your Mac a memory.
 
 ## 🔎 Search & Discovery
 
@@ -924,6 +927,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Cito](https://cito.fim.ai) - Cito is a hybrid search engine over the Semantic Scholar corpus: 236M papers in the keyword index, 146M with SPECTER2 dense vectors, fused with RRF and reranked by a cross-encoder.
 - [The Eureka Database](https://theeurekadatabase.com) - AI will happily generate a thousand startup ideas.
 - [DocuSmart AI](https://www.docusmart.eu) - DocuSmart AI lets you search all your internal documents using plain English — across Google Drive, SharePoint, Dropbox and more — from one place.
+- [Detourmap](https://detourmap.com) - A free interactive world map of 70,520 places worth going out of your way for — ancient ruins, beaches, caves, waterfalls, volcanoes, monuments, sacred sites, castles, museums, gardens, theme….
 
 ## 🎓 Education & Learning
 
@@ -1090,6 +1094,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Albato](https://albato.com) - Albato is an AI-powered no-code automation platform that makes app integration and workflow automation seamless.
 - [Zro](https://zro.moonmath.ai) - Fast and optimized open-model inference on multi-region infrastructure with zero request retention.
 - [ZooData](https://zoodata.ai) - ZooData turns any URL into agent-ready JSON, so AI agents can work with structured data instead of raw HTML or bloated markdown.
+- [BaseRT](https://www.basecompute.co/getbasert) - Running AI locally means no per token cost + full privacy.
 
 ## 💬 Chatbots & Conversational
 
@@ -1137,6 +1142,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Dupely](https://dupely.io) - Most shopping tools chase coupons.
 - [Knockoff](https://knockoff.co) - Knockoff filters the trademark-squat pseudo-brands (the SZHLUXes and HORUSDYs) out of your search results, so what's left is brands with a reputation to lose.
 - [ClawTeams](https://clawteams.ai) - ClawTeams is an AI employee platform for e-commerce sellers.
+- [Spycost](https://spycost.com) - Remember the last time you bought something at a discount, only to see it later for the same price without the discount?.
 
 ## ✨ Everything Else
 
