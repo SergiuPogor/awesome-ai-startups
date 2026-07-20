@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (95)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (140)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (213)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (57)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (97)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (143)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (214)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (58)
 - [🎬 Video & Animation](#video-animation) (47)
 - [🎨 Image, Design & 3D](#image-design-3d) (66)
-- [✍️ Writing & Content](#writing-content) (40)
+- [✍️ Writing & Content](#writing-content) (41)
 - [📊 Analytics & Data](#analytics-data) (56)
-- [🗂 Productivity & Notes](#productivity-notes) (129)
+- [🗂 Productivity & Notes](#productivity-notes) (131)
 - [🔎 Search & Discovery](#search-discovery) (27)
-- [🎓 Education & Learning](#education-learning) (19)
+- [🎓 Education & Learning](#education-learning) (20)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (21)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (28)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (86)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (29)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (87)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (19)
 - [👥 Social & Community](#social-community) (10)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (10)
-- [✨ Everything Else](#everything-else) (90)
+- [✨ Everything Else](#everything-else) (91)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -123,6 +123,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pebbles Ai](https://www.trypebbles.ai) - The only GTM&nbsp;orchestration platform you will need to successfully take your products & services to market.
 - [Mirage](https://usemirage.io) - Most product demos are a 40MB video nobody finishes or a $500/mo tool no bootstrapper can justify.
 - [OpenSEO](https://openseo.so) - Without good data, your agent gives generic advice.
+- [LnkFlow](https://lnkflow.io) - See which campaigns, channels, and collabs make you money!.
+- [Fuzzy AI](https://getfuzzy.ai) - Cold outreach gets ignored because prospects do not know you yet.
 
 ## 🤖 AI Agents & Assistants
 
@@ -266,6 +268,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Verse](https://useverse.ai) - Verse allows anyone to build and hire autonomous AI employees from a single prompt.
 - [Aye](https://okaapps.com/product/6760281977) - Aye is a Chromium-based AI browser for macOS and Windows that gives web work a teachable AI intern.
 - [Clark](https://www.clarkchat.com) - Clark is an AI coworker with its own cloud computer - browser, terminal, files, and code.
+- [Lunen.ai](https://lunen.ai) - You've used ChatGPT and Claude for real work.
+- [Creed](https://creed.md) - Personal context for your agents.
+- [Skippr AI](https://skippr.ai) - Real-time agents that see, talk, and operate software.
 
 ## 💻 Coding & Developer Tools
 
@@ -483,6 +488,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SonOf](https://www.sonof.io) - Connect your repo and PM tools.
 - [Manta AI](https://mantaai.co) - Manta AI is an autonomous testing agent for web applications.
 - [Acebuilder](https://www.acebuilder.ai) - Acebuilder is an AI website builder from the team behind Aceternity UI.
+- [Replay](https://replay.io) - 🔴 Record your website in the Replay Browser ⠀ 🔍 Inspect the replay with familiar devtools ⠀ 👋 Share with friends and submit the best bug reports⠀ ⠀ ▶️ Replay captures all of the context needed….
 
 ## 🎙 Audio, Voice & Music
 
@@ -543,6 +549,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Speechify](https://speechify.com/?via=donald) - Use Speechify as a go-to Voice Assistant for everyday life: read text out loud, type across platforms like Google Docs and Gmail, polish your writing, and answer questions on any website.
 - [VocalVia](https://www.vocalvia.com) - VocalVia turns PDFs, Word files, Markdown, web articles, and pasted text into structured outlines, editable podcast scripts, and natural multi-voice audio.
 - [WX](https://scrapbrainaudio.com/wx) - WX is a generative synth plugin that creates evolving patches through controlled randomization.
+- [Backbeat Forge](https://hannes-software.com/backbeat-forge) - Drop in a full mix or an isolated drum stem.
 
 ## 🎬 Video & Animation
 
@@ -706,6 +713,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Justwrite](https://justwrite.sbs) - Justwrite is a distraction-free notes app for fast, private writing.
 - [Bono AI](https://heybono.ai) - Meet Bono, your voice AI content strategist.
 - [Marked QL](https://markedapp.com/ql) - Marked QL renders beautiful Markdown previews in macOS Quick Look.
+- [Scriptyard](https://www.minimalhumans.com/scriptyard) - Scriptyard is a spatial story-planning tool built for screenwriters and storytellers.
 
 ## 📊 Analytics & Data
 
@@ -898,6 +906,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pocket Screen](https://labs.toybird.com/apps/pocket-screen) - Pocket Screen turns the frontmost window on your Mac into a compact, always-on-top PiP-style view.
 - [OpenMarkdown](https://openmarkdown.dev) - A fast, light markdown editor that opens any `.md` file instantly. Your agent reads, writes, and co-edits the same file you're in — through a CLI, an agent plugin, and MCP. Local-first: no….
 - [Rewisp](https://yashmitb.github.io/Rewisp) - Rewisp gives your Mac a memory.
+- [Backdrop](https://www.backdropagent.com) - AI made execution faster.
+- [Nautis](https://getnautis.com) - Nautis is the AI-native Operating System for founders.
 
 ## 🔎 Search & Discovery
 
@@ -951,6 +961,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Paradigm](https://www.paradigm.study) - Paradigm reimagines education around the individual, taking any learning goal and turning it into a step-by-step path that evolves with your progress, helping you move steadily from curiosity to….
 - [Scribble Party](https://scribbling.party) - Most lesson recorders send your video to someone's cloud and want an account first.
 - [Mainichi](https://mainichiapp.com) - Learn 20,000+ Japanese words with a spaced-repetition system built for long-term memory.
+- [Kogvio](https://kogvio.com) - Every time I didn't understand something online, I had the same workflow: Copy.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1006,6 +1017,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ARKAD Wallet - Budget & Tracking](https://arkadwallet.com) - ARKAD Wallet is a voice-first budgeting app for people who want clarity without spreadsheet friction.
 - [UnitPay](https://www.useunitpay.com) - UnitPay is the monetization OS for AI companies.
 - [Trump Accounts](https://trumpaccount.com) - Trump Accounts help eligible American children begin building long-term financial growth from an early age.
+- [Rex](https://rex.inc) - Rex builds the AI order-to-cash workforce for global enterprises, with agents that cover every account and resolve exceptions before cash gets stuck.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1095,6 +1107,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Zro](https://zro.moonmath.ai) - Fast and optimized open-model inference on multi-region infrastructure with zero request retention.
 - [ZooData](https://zoodata.ai) - ZooData turns any URL into agent-ready JSON, so AI agents can work with structured data instead of raw HTML or bloated markdown.
 - [BaseRT](https://www.basecompute.co/getbasert) - Running AI locally means no per token cost + full privacy.
+- [Tinker](https://thinkingmachines.ai/tinker) - Tinker is a flexible API for efficiently fine-tuning open source models with LoRA.
 
 ## 💬 Chatbots & Conversational
 
@@ -1236,6 +1249,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pieter Post](https://www.pieterpost.com) - Never lick a stamp again!.
 - [Badge](https://getbadge.app) - Badge gives an AI agent that collects peer reviews to build proof of work.
 - [LeakData.io](https://leakdata.io/en) - LeakData.io helps organizations monitor authorized domains and email addresses for exposure in known breach datasets. Security teams can investigate findings, prioritize risk, and act before….
+- [Free AI Tools](https://free-aitools.com) - Use free online browser tools to resize images, format JSON, calculate values, process PDFs, analyze text, and create design assets.
 
 ## Contributing
 
