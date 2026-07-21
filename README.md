@@ -7,23 +7,23 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (97)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (143)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (214)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (58)
-- [🎬 Video & Animation](#video-animation) (47)
-- [🎨 Image, Design & 3D](#image-design-3d) (66)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (99)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (144)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (215)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (60)
+- [🎬 Video & Animation](#video-animation) (49)
+- [🎨 Image, Design & 3D](#image-design-3d) (67)
 - [✍️ Writing & Content](#writing-content) (41)
 - [📊 Analytics & Data](#analytics-data) (56)
-- [🗂 Productivity & Notes](#productivity-notes) (131)
+- [🗂 Productivity & Notes](#productivity-notes) (134)
 - [🔎 Search & Discovery](#search-discovery) (27)
 - [🎓 Education & Learning](#education-learning) (20)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (21)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (29)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (87)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (90)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (19)
 - [👥 Social & Community](#social-community) (10)
-- [🛒 E-commerce & Retail](#e-commerce-retail) (10)
+- [🛒 E-commerce & Retail](#e-commerce-retail) (11)
 - [✨ Everything Else](#everything-else) (91)
 
 ## 📣 Marketing, SEO & Sales
@@ -125,6 +125,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [OpenSEO](https://openseo.so) - Without good data, your agent gives generic advice.
 - [LnkFlow](https://lnkflow.io) - See which campaigns, channels, and collabs make you money!.
 - [Fuzzy AI](https://getfuzzy.ai) - Cold outreach gets ignored because prospects do not know you yet.
+- [Phantomstory](https://phantomstory.com) - Phantomstory helps teams win AEO by launching third-party blogs on fresh domains in under 5 minutes.
+- [Lev8](https://lev8.com) - Chat with Lev8, the fastest way to find and reach your target people and companies, powered by live web search via parallel AI agents across every corner of the internet.
 
 ## 🤖 AI Agents & Assistants
 
@@ -271,6 +273,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Lunen.ai](https://lunen.ai) - You've used ChatGPT and Claude for real work.
 - [Creed](https://creed.md) - Personal context for your agents.
 - [Skippr AI](https://skippr.ai) - Real-time agents that see, talk, and operate software.
+- [Rerun](https://rerun.build) - Most AI agents are black boxes.
 
 ## 💻 Coding & Developer Tools
 
@@ -489,6 +492,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Manta AI](https://mantaai.co) - Manta AI is an autonomous testing agent for web applications.
 - [Acebuilder](https://www.acebuilder.ai) - Acebuilder is an AI website builder from the team behind Aceternity UI.
 - [Replay](https://replay.io) - 🔴 Record your website in the Replay Browser ⠀ 🔍 Inspect the replay with familiar devtools ⠀ 👋 Share with friends and submit the best bug reports⠀ ⠀ ▶️ Replay captures all of the context needed….
+- [ditto.site](https://ditto.site) - Point Ditto at any public URL and get a faithful copy as clean, componentized Next.js or Vite code, in minutes. It's fully deterministic, so it's fast, cheap, and consistent. Components, tokens,….
 
 ## 🎙 Audio, Voice & Music
 
@@ -550,6 +554,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [VocalVia](https://www.vocalvia.com) - VocalVia turns PDFs, Word files, Markdown, web articles, and pasted text into structured outlines, editable podcast scripts, and natural multi-voice audio.
 - [WX](https://scrapbrainaudio.com/wx) - WX is a generative synth plugin that creates evolving patches through controlled randomization.
 - [Backbeat Forge](https://hannes-software.com/backbeat-forge) - Drop in a full mix or an isolated drum stem.
+- [PieceKeeper](https://getpiecekeeper.com) - Never lose track of a piece again.
+- [Bolna](https://www.bolna.ai) - Bolna is a Voice AI Platform purpose-built for enterprise scale, diverse linguistic complexity, and cost sensitivity.
 
 ## 🎬 Video & Animation
 
@@ -600,6 +606,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ClipFlow](https://www.clipflowapp.com) - ClipFlow handles the small video jobs that do not need a timeline.
 - [Animos App](https://animos.app) - Present your work with high-quality motion in under 1 minute.
 - [Eddie AI](https://heyeddie.ai) - Eddie is your AI assistant editor - cutting raw footage into rough cuts.
+- [DualStream](https://dualstream.gg/ph) - Beautifully powerful streaming.
+- [OpenChatCut](https://openchatcut.com) - OpenChatCut is an open-source ChatCut alternative: local-first AI video editing where Codex, Claude, and MCP agents work on a real multitrack timeline.
 
 ## 🎨 Image, Design & 3D
 
@@ -670,6 +678,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Fudge MCP](https://design.withfudge.com) - Meet Fudge: a design reference engine for AI agents.
 - [V2Fun](https://v2fun.ai) - V2Fun is an AI 3D creation platform built with self-developed 3D modeling and AI motion capture models.
 - [PixyCAD](https://pixycad.com) - PixyCAD is a native 3D CAD app for Mac and iPad, built for makers, designers and 3D-printing enthusiasts who want professional solid modelling without traditional CAD complexity.
+- [Topolines](https://www.topolines.app) - Draw a zone, generate crisp topographic contour lines, and export print-ready SVG & HD PNG.
 
 ## ✍️ Writing & Content
 
@@ -908,6 +917,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Rewisp](https://yashmitb.github.io/Rewisp) - Rewisp gives your Mac a memory.
 - [Backdrop](https://www.backdropagent.com) - AI made execution faster.
 - [Nautis](https://getnautis.com) - Nautis is the AI-native Operating System for founders.
+- [Stream by Sandbar](https://www.sandbar.com) - Stream is a private voice ring for everything on your mind.
+- [Skim](https://skim-tech.com) - Skim is a free, open-source (MIT) email client for Windows.
+- [Routine](http://routine.co) - Routine is an all-in-one work platform: tasks, projects, documentation, wiki, calendars, contacts and more.
 
 ## 🔎 Search & Discovery
 
@@ -1108,6 +1120,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ZooData](https://zoodata.ai) - ZooData turns any URL into agent-ready JSON, so AI agents can work with structured data instead of raw HTML or bloated markdown.
 - [BaseRT](https://www.basecompute.co/getbasert) - Running AI locally means no per token cost + full privacy.
 - [Tinker](https://thinkingmachines.ai/tinker) - Tinker is a flexible API for efficiently fine-tuning open source models with LoRA.
+- [Routebase](https://routebase.dev) - Your API lives in your design tool, your docs, your mocks, your tests, your monitoring — and every copy drifts.
+- [Manifest](https://omfang.io) - Manifest turns any webpage into a structured JSON map of what an AI agent can click, fill, and submit.
+- [CreateOS Sandbox](https://createos.sh/app/sandbox) - CreateOS Sandbox gives AI agent builders their own fast, secure, hardware isolated, sandbox in ~30ms (p90).
 
 ## 💬 Chatbots & Conversational
 
@@ -1156,6 +1171,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Knockoff](https://knockoff.co) - Knockoff filters the trademark-squat pseudo-brands (the SZHLUXes and HORUSDYs) out of your search results, so what's left is brands with a reputation to lose.
 - [ClawTeams](https://clawteams.ai) - ClawTeams is an AI employee platform for e-commerce sellers.
 - [Spycost](https://spycost.com) - Remember the last time you bought something at a discount, only to see it later for the same price without the discount?.
+- [CartAI](https://cartai.ai) - Checkout is the hard part, and most solutions clear it only where the merchant has integrated.
 
 ## ✨ Everything Else
 
