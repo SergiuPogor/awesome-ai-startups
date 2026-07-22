@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (99)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (102)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (144)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (215)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (217)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (60)
 - [🎬 Video & Animation](#video-animation) (49)
 - [🎨 Image, Design & 3D](#image-design-3d) (67)
-- [✍️ Writing & Content](#writing-content) (41)
+- [✍️ Writing & Content](#writing-content) (42)
 - [📊 Analytics & Data](#analytics-data) (56)
 - [🗂 Productivity & Notes](#productivity-notes) (134)
 - [🔎 Search & Discovery](#search-discovery) (27)
 - [🎓 Education & Learning](#education-learning) (20)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (21)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (22)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (29)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (90)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (94)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (19)
 - [👥 Social & Community](#social-community) (10)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (11)
-- [✨ Everything Else](#everything-else) (91)
+- [✨ Everything Else](#everything-else) (92)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -127,6 +127,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Fuzzy AI](https://getfuzzy.ai) - Cold outreach gets ignored because prospects do not know you yet.
 - [Phantomstory](https://phantomstory.com) - Phantomstory helps teams win AEO by launching third-party blogs on fresh domains in under 5 minutes.
 - [Lev8](https://lev8.com) - Chat with Lev8, the fastest way to find and reach your target people and companies, powered by live web search via parallel AI agents across every corner of the internet.
+- [Trovio For Brands](https://brands.gotrovio.com) - A nurse on hour ten of her shift sells your protein bar better than any athlete.
+- [ACME.BOT](https://acme.bot) - ACME.BOT turns your expertise into no slop SEO articles. Answer a few questions on a topic (from your phone) and your first-hand experience shapes your blog post. AI handles the boring stuff. Like….
+- [Migma AI](https://migma.ai) - Migma creates email campaigns before you ask.
 
 ## 🤖 AI Agents & Assistants
 
@@ -493,6 +496,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Acebuilder](https://www.acebuilder.ai) - Acebuilder is an AI website builder from the team behind Aceternity UI.
 - [Replay](https://replay.io) - 🔴 Record your website in the Replay Browser ⠀ 🔍 Inspect the replay with familiar devtools ⠀ 👋 Share with friends and submit the best bug reports⠀ ⠀ ▶️ Replay captures all of the context needed….
 - [ditto.site](https://ditto.site) - Point Ditto at any public URL and get a faithful copy as clean, componentized Next.js or Vite code, in minutes. It's fully deterministic, so it's fast, cheap, and consistent. Components, tokens,….
+- [Redential](https://redential.com) - Your best work is probably under an NDA, so nobody can see it.
+- [AgentManager](https://agentmgr.app) - A floating macOS window for every Claude Code session.
 
 ## 🎙 Audio, Voice & Music
 
@@ -723,6 +728,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Bono AI](https://heybono.ai) - Meet Bono, your voice AI content strategist.
 - [Marked QL](https://markedapp.com/ql) - Marked QL renders beautiful Markdown previews in macOS Quick Look.
 - [Scriptyard](https://www.minimalhumans.com/scriptyard) - Scriptyard is a spatial story-planning tool built for screenwriters and storytellers.
+- [Lattics](https://lattics.com) - Three years ago, we launched Lattics as a "brain-like" knowledge management tool for writers and researchers.
 
 ## 📊 Analytics & Data
 
@@ -998,6 +1004,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Tiles: Map Your Adventures](https://tiles.sinuk.dev) - Tiles turns Apple Health workouts, GPX, FIT, CSV, and photos into one local-first private exploration map.
 - [Swimio](https://swimio.app) - Swimio combines AI coaching, advanced Apple Watch swim tracking, and personalized workout generation in one platform built specifically for swimmers.
 - [ChikitAI](https://chikit.ai) - ChikitAI is the healthcare agentic AI by NyuktAI that automates healthcare's messiest bottleneck: patient intake and triage, increasing patient intake capacity by 30% for healthcare providers.
+- [Light Phone](http://www.thelightphone.com) - The Light Phone is your phone away from phone.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -1123,6 +1130,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Routebase](https://routebase.dev) - Your API lives in your design tool, your docs, your mocks, your tests, your monitoring — and every copy drifts.
 - [Manifest](https://omfang.io) - Manifest turns any webpage into a structured JSON map of what an AI agent can click, fill, and submit.
 - [CreateOS Sandbox](https://createos.sh/app/sandbox) - CreateOS Sandbox gives AI agent builders their own fast, secure, hardware isolated, sandbox in ~30ms (p90).
+- [Arkor](https://www.arkor.ai) - Start a real LLM training in 10 minutes.
+- [MonoCloud for Startups](https://monocloud.com) - MonoCloud is one identity layer for your customers, your APIs, and your agents.
+- [box](https://box.ascii.dev) - Box offers the simplest, cheapest cloud computers for agents, thought for builders of agentic platforms & software factories.
+- [Kastra](https://kastra.ai) - Kastra is the runtime authorization layer for AI agents.
 
 ## 💬 Chatbots & Conversational
 
@@ -1266,6 +1277,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Badge](https://getbadge.app) - Badge gives an AI agent that collects peer reviews to build proof of work.
 - [LeakData.io](https://leakdata.io/en) - LeakData.io helps organizations monitor authorized domains and email addresses for exposure in known breach datasets. Security teams can investigate findings, prioritize risk, and act before….
 - [Free AI Tools](https://free-aitools.com) - Use free online browser tools to resize images, format JSON, calculate values, process PDFs, analyze text, and create design assets.
+- [Overflight](https://dgrlabs.co/overflight) - A live radar scope of the sky above you.
 
 ## Contributing
 
