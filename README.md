@@ -7,15 +7,15 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (102)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (103)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (144)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (217)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (60)
-- [🎬 Video & Animation](#video-animation) (49)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (219)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (62)
+- [🎬 Video & Animation](#video-animation) (50)
 - [🎨 Image, Design & 3D](#image-design-3d) (67)
 - [✍️ Writing & Content](#writing-content) (42)
-- [📊 Analytics & Data](#analytics-data) (56)
-- [🗂 Productivity & Notes](#productivity-notes) (134)
+- [📊 Analytics & Data](#analytics-data) (57)
+- [🗂 Productivity & Notes](#productivity-notes) (137)
 - [🔎 Search & Discovery](#search-discovery) (27)
 - [🎓 Education & Learning](#education-learning) (20)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (22)
@@ -23,8 +23,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (94)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (19)
 - [👥 Social & Community](#social-community) (10)
-- [🛒 E-commerce & Retail](#e-commerce-retail) (11)
-- [✨ Everything Else](#everything-else) (92)
+- [🛒 E-commerce & Retail](#e-commerce-retail) (13)
+- [✨ Everything Else](#everything-else) (93)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -130,6 +130,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Trovio For Brands](https://brands.gotrovio.com) - A nurse on hour ten of her shift sells your protein bar better than any athlete.
 - [ACME.BOT](https://acme.bot) - ACME.BOT turns your expertise into no slop SEO articles. Answer a few questions on a topic (from your phone) and your first-hand experience shapes your blog post. AI handles the boring stuff. Like….
 - [Migma AI](https://migma.ai) - Migma creates email campaigns before you ask.
+- [CrawlRaven](https://crawlraven.com) - Connect Google Search Console, Google Analytics, import your Ahrefs or Semrush lists, and crawl your site on 200-point technical SEO Audit.
 
 ## 🤖 AI Agents & Assistants
 
@@ -498,6 +499,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ditto.site](https://ditto.site) - Point Ditto at any public URL and get a faithful copy as clean, componentized Next.js or Vite code, in minutes. It's fully deterministic, so it's fast, cheap, and consistent. Components, tokens,….
 - [Redential](https://redential.com) - Your best work is probably under an NDA, so nobody can see it.
 - [AgentManager](https://agentmgr.app) - A floating macOS window for every Claude Code session.
+- [OpenCode Superapp](https://opencodesuper.app) - OpenCode Superapp brings the agentic power of Codex to the models and infrastructure you choose.
+- [AskCodi](https://askcodi.com) - AskCodi orchestrates AI coding, two ways.
 
 ## 🎙 Audio, Voice & Music
 
@@ -561,6 +564,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Backbeat Forge](https://hannes-software.com/backbeat-forge) - Drop in a full mix or an isolated drum stem.
 - [PieceKeeper](https://getpiecekeeper.com) - Never lose track of a piece again.
 - [Bolna](https://www.bolna.ai) - Bolna is a Voice AI Platform purpose-built for enterprise scale, diverse linguistic complexity, and cost sensitivity.
+- [Megaphone](https://megaphone.kuber.studio) - Hold Fn, speak, and Megaphone types clean text into any Mac app.
+- [Wispro](https://wisproapp.com) - Wispro turns your voice into writing, instantly.
 
 ## 🎬 Video & Animation
 
@@ -613,6 +618,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Eddie AI](https://heyeddie.ai) - Eddie is your AI assistant editor - cutting raw footage into rough cuts.
 - [DualStream](https://dualstream.gg/ph) - Beautifully powerful streaming.
 - [OpenChatCut](https://openchatcut.com) - OpenChatCut is an open-source ChatCut alternative: local-first AI video editing where Codex, Claude, and MCP agents work on a real multitrack timeline.
+- [PodcastorAI](https://podcastor.ai) - Create studio-quality video podcasts from scripts, links, PDFs, or ideas — with AI hosts, natural voices, and your digital twin.
 
 ## 🎨 Image, Design & 3D
 
@@ -789,6 +795,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Mira](https://entropik.io/platform/ai-moderator) - Unlike AI tools that stop at interview + transcript, Mira is a full AI researcher — plans studies, recruits globally (100M+ panel, 120 countries), runs dynamic interviews with intelligent probing,….
 - [Amami](https://dashboard.amami.dev/login) - I built Amami because I was tired of tab-switching between Cursor and a browser tab just to check how many people visited my site.
 - [Kobbe](https://kobbe.io) - Privacy-friendly and cookie-less analytics for your website.
+- [Teable](https://teable.ai) - Turn your business data into AI workflows and custom apps.
 
 ## 🗂 Productivity & Notes
 
@@ -926,6 +933,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Stream by Sandbar](https://www.sandbar.com) - Stream is a private voice ring for everything on your mind.
 - [Skim](https://skim-tech.com) - Skim is a free, open-source (MIT) email client for Windows.
 - [Routine](http://routine.co) - Routine is an all-in-one work platform: tasks, projects, documentation, wiki, calendars, contacts and more.
+- [Squishy](https://squishyapp.com) - Squishy is an app and website blocker with a mascot whose happiness follows your choices.
+- [RunEvr](https://runevr.com) - One AI-powered workspace where your projects, conversations, reviews, and creative work stay connected.
+- [PromptQL](https://promptql.io) - Stop splitting team knowledge between Slack and everyone's private AI chats.
 
 ## 🔎 Search & Discovery
 
@@ -1183,6 +1193,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ClawTeams](https://clawteams.ai) - ClawTeams is an AI employee platform for e-commerce sellers.
 - [Spycost](https://spycost.com) - Remember the last time you bought something at a discount, only to see it later for the same price without the discount?.
 - [CartAI](https://cartai.ai) - Checkout is the hard part, and most solutions clear it only where the merchant has integrated.
+- [Basement Browser](https://basementbrowser.com/app) - Basement is a browser whose job is shopping.
+- [HonorBox](https://honorboxx.github.io/honorbox/) - Your storefront is a static site on GitHub Pages.
 
 ## ✨ Everything Else
 
@@ -1278,6 +1290,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [LeakData.io](https://leakdata.io/en) - LeakData.io helps organizations monitor authorized domains and email addresses for exposure in known breach datasets. Security teams can investigate findings, prioritize risk, and act before….
 - [Free AI Tools](https://free-aitools.com) - Use free online browser tools to resize images, format JSON, calculate values, process PDFs, analyze text, and create design assets.
 - [Overflight](https://dgrlabs.co/overflight) - A live radar scope of the sky above you.
+- [canitbebuilt](https://www.canitbebuilt.ai) - Have a hardware idea?.
 
 ## Contributing
 
