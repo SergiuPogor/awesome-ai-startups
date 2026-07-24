@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (103)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (104)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (144)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (219)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (62)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (221)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (63)
 - [🎬 Video & Animation](#video-animation) (50)
 - [🎨 Image, Design & 3D](#image-design-3d) (67)
 - [✍️ Writing & Content](#writing-content) (42)
 - [📊 Analytics & Data](#analytics-data) (57)
-- [🗂 Productivity & Notes](#productivity-notes) (137)
-- [🔎 Search & Discovery](#search-discovery) (27)
+- [🗂 Productivity & Notes](#productivity-notes) (138)
+- [🔎 Search & Discovery](#search-discovery) (28)
 - [🎓 Education & Learning](#education-learning) (20)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (22)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (23)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (29)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (94)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (95)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (19)
-- [👥 Social & Community](#social-community) (10)
+- [👥 Social & Community](#social-community) (11)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (13)
-- [✨ Everything Else](#everything-else) (93)
+- [✨ Everything Else](#everything-else) (94)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -131,6 +131,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ACME.BOT](https://acme.bot) - ACME.BOT turns your expertise into no slop SEO articles. Answer a few questions on a topic (from your phone) and your first-hand experience shapes your blog post. AI handles the boring stuff. Like….
 - [Migma AI](https://migma.ai) - Migma creates email campaigns before you ask.
 - [CrawlRaven](https://crawlraven.com) - Connect Google Search Console, Google Analytics, import your Ahrefs or Semrush lists, and crawl your site on 200-point technical SEO Audit.
+- [Fedica](https://fedica.com) - Your hub for social analytics, scheduling, and audience insights.
 
 ## 🤖 AI Agents & Assistants
 
@@ -501,6 +502,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AgentManager](https://agentmgr.app) - A floating macOS window for every Claude Code session.
 - [OpenCode Superapp](https://opencodesuper.app) - OpenCode Superapp brings the agentic power of Codex to the models and infrastructure you choose.
 - [AskCodi](https://askcodi.com) - AskCodi orchestrates AI coding, two ways.
+- [Freesolo Flash](https://freesolo.co) - Freesolo helps enterprise teams turn generic model capability into AI features that belong in the product.
+- [Pushary](https://pushary.com) - Your AI agents stop when they need a permission or an answer.
 
 ## 🎙 Audio, Voice & Music
 
@@ -566,6 +569,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Bolna](https://www.bolna.ai) - Bolna is a Voice AI Platform purpose-built for enterprise scale, diverse linguistic complexity, and cost sensitivity.
 - [Megaphone](https://megaphone.kuber.studio) - Hold Fn, speak, and Megaphone types clean text into any Mac app.
 - [Wispro](https://wisproapp.com) - Wispro turns your voice into writing, instantly.
+- [Liso](https://www.getliso.app) - Highlight any article, newsletter, blog post, or page on the internet.
 
 ## 🎬 Video & Animation
 
@@ -936,6 +940,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Squishy](https://squishyapp.com) - Squishy is an app and website blocker with a mascot whose happiness follows your choices.
 - [RunEvr](https://runevr.com) - One AI-powered workspace where your projects, conversations, reviews, and creative work stay connected.
 - [PromptQL](https://promptql.io) - Stop splitting team knowledge between Slack and everyone's private AI chats.
+- [MinkNote](https://muse23.com/apps/minknote/) - MinkNote is a native macOS notes and journal app built on plain Markdown files you own.
 
 ## 🔎 Search & Discovery
 
@@ -966,6 +971,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [The Eureka Database](https://theeurekadatabase.com) - AI will happily generate a thousand startup ideas.
 - [DocuSmart AI](https://www.docusmart.eu) - DocuSmart AI lets you search all your internal documents using plain English — across Google Drive, SharePoint, Dropbox and more — from one place.
 - [Detourmap](https://detourmap.com) - A free interactive world map of 70,520 places worth going out of your way for — ancient ruins, beaches, caves, waterfalls, volcanoes, monuments, sacred sites, castles, museums, gardens, theme….
+- [YC has it](https://ychasit.com) - Describe your problem in plain English.
 
 ## 🎓 Education & Learning
 
@@ -1015,6 +1021,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Swimio](https://swimio.app) - Swimio combines AI coaching, advanced Apple Watch swim tracking, and personalized workout generation in one platform built specifically for swimmers.
 - [ChikitAI](https://chikit.ai) - ChikitAI is the healthcare agentic AI by NyuktAI that automates healthcare's messiest bottleneck: patient intake and triage, increasing patient intake capacity by 30% for healthcare providers.
 - [Light Phone](http://www.thelightphone.com) - The Light Phone is your phone away from phone.
+- [HealthyNotch](https://healthynotch.com) - You've been at your desk for six hours.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -1144,6 +1151,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MonoCloud for Startups](https://monocloud.com) - MonoCloud is one identity layer for your customers, your APIs, and your agents.
 - [box](https://box.ascii.dev) - Box offers the simplest, cheapest cloud computers for agents, thought for builders of agentic platforms & software factories.
 - [Kastra](https://kastra.ai) - Kastra is the runtime authorization layer for AI agents.
+- [Fluree](https://flur.ee) - Fluree is an enterprise AI data platform and verifiable knowledge graph database that combines immutability, security, and semantic graph capabilities.
 
 ## 💬 Chatbots & Conversational
 
@@ -1179,6 +1187,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Franz Messenger](http://meetfranz.com) - Franz is a messaging app for WhatsApp, Facebook Messenger, Telegram, Slack and more.
 - [CodeNearby](https://codenearby.space) - Codenearby helps developers connect, collaborate, and code together by finding like-minded programmers nearby or worldwide.
 - [Yapper Leaderboard](https://yappers.context.dev) - The Yapper Leaderboard ranks Twitter/X's startups and users by how much they yap.
+- [Buzz](https://buzz.xyz) - a new groupchat platform for teams of people and agents of all sizes, built to reduce our dependency on slack and github.
 
 ## 🛒 E-commerce & Retail
 
@@ -1291,6 +1300,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Free AI Tools](https://free-aitools.com) - Use free online browser tools to resize images, format JSON, calculate values, process PDFs, analyze text, and create design assets.
 - [Overflight](https://dgrlabs.co/overflight) - A live radar scope of the sky above you.
 - [canitbebuilt](https://www.canitbebuilt.ai) - Have a hardware idea?.
+- [Hotspot Meter](https://hotspot-meter.loam.sk) - Hotspot Meter is a free macOS menu-bar app that shows exactly how much data each Wi-Fi network and phone hotspot uses.
 
 ## Contributing
 
