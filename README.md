@@ -8,23 +8,23 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (104)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (144)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (221)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (63)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (145)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (223)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (65)
 - [🎬 Video & Animation](#video-animation) (50)
 - [🎨 Image, Design & 3D](#image-design-3d) (67)
-- [✍️ Writing & Content](#writing-content) (42)
+- [✍️ Writing & Content](#writing-content) (44)
 - [📊 Analytics & Data](#analytics-data) (57)
-- [🗂 Productivity & Notes](#productivity-notes) (138)
+- [🗂 Productivity & Notes](#productivity-notes) (140)
 - [🔎 Search & Discovery](#search-discovery) (28)
 - [🎓 Education & Learning](#education-learning) (20)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (23)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (29)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (95)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (96)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (19)
 - [👥 Social & Community](#social-community) (11)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (13)
-- [✨ Everything Else](#everything-else) (94)
+- [✨ Everything Else](#everything-else) (95)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -279,6 +279,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Creed](https://creed.md) - Personal context for your agents.
 - [Skippr AI](https://skippr.ai) - Real-time agents that see, talk, and operate software.
 - [Rerun](https://rerun.build) - Most AI agents are black boxes.
+- [OpenComputer](https://opencomputer.dev/agentdeploy) - The easiest way to deploy a managed agent.
 
 ## 💻 Coding & Developer Tools
 
@@ -504,6 +505,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AskCodi](https://askcodi.com) - AskCodi orchestrates AI coding, two ways.
 - [Freesolo Flash](https://freesolo.co) - Freesolo helps enterprise teams turn generic model capability into AI features that belong in the product.
 - [Pushary](https://pushary.com) - Your AI agents stop when they need a permission or an answer.
+- [ADE](https://ade-app.dev) - Use any coding subscription you already pay for, in one synced app that runs on web, desktop, terminal, and mobile.
+- [FluentDB](https://fluentdb.ai) - FluentDB is an AI-powered database client for macOS.
 
 ## 🎙 Audio, Voice & Music
 
@@ -570,6 +573,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Megaphone](https://megaphone.kuber.studio) - Hold Fn, speak, and Megaphone types clean text into any Mac app.
 - [Wispro](https://wisproapp.com) - Wispro turns your voice into writing, instantly.
 - [Liso](https://www.getliso.app) - Highlight any article, newsletter, blog post, or page on the internet.
+- [Speechius](https://speechius.com) - Speechius listens to your voice and scrolls your script for you - speed up, slow down, go off-script, it keeps pace.
+- [Heard](https://heard.dev) - Heard is a macOS voice layer for your agentic workflows.
 
 ## 🎬 Video & Animation
 
@@ -739,6 +744,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Marked QL](https://markedapp.com/ql) - Marked QL renders beautiful Markdown previews in macOS Quick Look.
 - [Scriptyard](https://www.minimalhumans.com/scriptyard) - Scriptyard is a spatial story-planning tool built for screenwriters and storytellers.
 - [Lattics](https://lattics.com) - Three years ago, we launched Lattics as a "brain-like" knowledge management tool for writers and researchers.
+- [Speech To Markdown](https://voice-to-md.xajik0.workers.dev) - A free macOS and iOS app that turns your voice into structured markdown using local LLM.
+- [Wisprkey](https://www.wisprkey.com) - Wisprkey is a free Mac app for voice typing.
 
 ## 📊 Analytics & Data
 
@@ -941,6 +948,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [RunEvr](https://runevr.com) - One AI-powered workspace where your projects, conversations, reviews, and creative work stay connected.
 - [PromptQL](https://promptql.io) - Stop splitting team knowledge between Slack and everyone's private AI chats.
 - [MinkNote](https://muse23.com/apps/minknote/) - MinkNote is a native macOS notes and journal app built on plain Markdown files you own.
+- [Banquish — Make the web your workspace](https://banquish.space) - Banquish is a Mac app that turns any website into a workspace.
+- [Capsomnia](https://capsomnia.com) - Capsomnia turns Caps Lock into a physical switch that keeps your MacBook awake.
 
 ## 🔎 Search & Discovery
 
@@ -1152,6 +1161,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [box](https://box.ascii.dev) - Box offers the simplest, cheapest cloud computers for agents, thought for builders of agentic platforms & software factories.
 - [Kastra](https://kastra.ai) - Kastra is the runtime authorization layer for AI agents.
 - [Fluree](https://flur.ee) - Fluree is an enterprise AI data platform and verifiable knowledge graph database that combines immutability, security, and semantic graph capabilities.
+- [Velane](https://velane.sh) - Velane is the one platform for your AI Agent's tools and function.
 
 ## 💬 Chatbots & Conversational
 
@@ -1301,6 +1311,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Overflight](https://dgrlabs.co/overflight) - A live radar scope of the sky above you.
 - [canitbebuilt](https://www.canitbebuilt.ai) - Have a hardware idea?.
 - [Hotspot Meter](https://hotspot-meter.loam.sk) - Hotspot Meter is a free macOS menu-bar app that shows exactly how much data each Wi-Fi network and phone hotspot uses.
+- [Islet](https://lippi304.xyz/projects/islet) - Most notch utilities just draw a static shape over the cutout.
 
 ## Contributing
 
