@@ -8,22 +8,22 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (104)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (145)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (223)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (146)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (226)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (65)
 - [🎬 Video & Animation](#video-animation) (50)
 - [🎨 Image, Design & 3D](#image-design-3d) (67)
-- [✍️ Writing & Content](#writing-content) (44)
+- [✍️ Writing & Content](#writing-content) (45)
 - [📊 Analytics & Data](#analytics-data) (57)
-- [🗂 Productivity & Notes](#productivity-notes) (140)
-- [🔎 Search & Discovery](#search-discovery) (28)
-- [🎓 Education & Learning](#education-learning) (20)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (23)
+- [🗂 Productivity & Notes](#productivity-notes) (143)
+- [🔎 Search & Discovery](#search-discovery) (29)
+- [🎓 Education & Learning](#education-learning) (21)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (24)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (29)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (96)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (19)
 - [👥 Social & Community](#social-community) (11)
-- [🛒 E-commerce & Retail](#e-commerce-retail) (13)
+- [🛒 E-commerce & Retail](#e-commerce-retail) (14)
 - [✨ Everything Else](#everything-else) (95)
 
 ## 📣 Marketing, SEO & Sales
@@ -280,6 +280,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Skippr AI](https://skippr.ai) - Real-time agents that see, talk, and operate software.
 - [Rerun](https://rerun.build) - Most AI agents are black boxes.
 - [OpenComputer](https://opencomputer.dev/agentdeploy) - The easiest way to deploy a managed agent.
+- [Aymo AI](https://aymo.ai) - Get access to latest models of GPT, Claude, Gemini, DeepSeek, Grok, Kimi, GLM and 45+ top AI models in one secure workspace with powerful team features.
 
 ## 💻 Coding & Developer Tools
 
@@ -507,6 +508,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pushary](https://pushary.com) - Your AI agents stop when they need a permission or an answer.
 - [ADE](https://ade-app.dev) - Use any coding subscription you already pay for, in one synced app that runs on web, desktop, terminal, and mobile.
 - [FluentDB](https://fluentdb.ai) - FluentDB is an AI-powered database client for macOS.
+- [AppUFO](https://appufo.app) - Reach more users worldwide without spending days or hundreds on app localisation.
+- [CodexBar Lite](https://getcodexbar.xyz) - CodexBar Lite is a native macOS menu bar app that keeps your OpenAI Codex usage visible at a glance.
+- [Openbase](https://openbase.cloud) - Openbase lets you manage a team of AI coding agents by voice, from anywhere; no screen, no desk.
 
 ## 🎙 Audio, Voice & Music
 
@@ -746,6 +750,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Lattics](https://lattics.com) - Three years ago, we launched Lattics as a "brain-like" knowledge management tool for writers and researchers.
 - [Speech To Markdown](https://voice-to-md.xajik0.workers.dev) - A free macOS and iOS app that turns your voice into structured markdown using local LLM.
 - [Wisprkey](https://www.wisprkey.com) - Wisprkey is a free Mac app for voice typing.
+- [Forgeon](https://forgeon.art) - Every generation reinvents the way stories are told.
 
 ## 📊 Analytics & Data
 
@@ -950,6 +955,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MinkNote](https://muse23.com/apps/minknote/) - MinkNote is a native macOS notes and journal app built on plain Markdown files you own.
 - [Banquish — Make the web your workspace](https://banquish.space) - Banquish is a Mac app that turns any website into a workspace.
 - [Capsomnia](https://capsomnia.com) - Capsomnia turns Caps Lock into a physical switch that keeps your MacBook awake.
+- [KeyOpera](https://mbirang.com/keyopera) - Transform your Mac typing experience with the satisfying clicks and clacks of a mechanical keyboard.
+- [Pulse Island](https://www.pulseisland.club) - Pulse turns your MacBook's notch into a Dynamic Island: Be it music, meetings, clipboard, weather, focus timers, devices and live system stats, one glance up.
+- [PureBox.ai](https://purebox.ai) - Most inbox tools make you build rules first.
 
 ## 🔎 Search & Discovery
 
@@ -981,6 +989,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [DocuSmart AI](https://www.docusmart.eu) - DocuSmart AI lets you search all your internal documents using plain English — across Google Drive, SharePoint, Dropbox and more — from one place.
 - [Detourmap](https://detourmap.com) - A free interactive world map of 70,520 places worth going out of your way for — ancient ruins, beaches, caves, waterfalls, volcanoes, monuments, sacred sites, castles, museums, gardens, theme….
 - [YC has it](https://ychasit.com) - Describe your problem in plain English.
+- [SF Apartment Finder](https://cribs.context.dev) - Criblist turns SF apartment hunting into a swipeable deck.
 
 ## 🎓 Education & Learning
 
@@ -1005,6 +1014,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Scribble Party](https://scribbling.party) - Most lesson recorders send your video to someone's cloud and want an account first.
 - [Mainichi](https://mainichiapp.com) - Learn 20,000+ Japanese words with a spaced-repetition system built for long-term memory.
 - [Kogvio](https://kogvio.com) - Every time I didn't understand something online, I had the same workflow: Copy.
+- [Yoggi](https://yoggichat.app) - Yoggi is the AI assistant built for children aged 3–15.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1031,6 +1041,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ChikitAI](https://chikit.ai) - ChikitAI is the healthcare agentic AI by NyuktAI that automates healthcare's messiest bottleneck: patient intake and triage, increasing patient intake capacity by 30% for healthcare providers.
 - [Light Phone](http://www.thelightphone.com) - The Light Phone is your phone away from phone.
 - [HealthyNotch](https://healthynotch.com) - You've been at your desk for six hours.
+- [TouchGrass](https://touchgrass.land) - TouchGrass is a context-aware break reminder built for macOS.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -1214,6 +1225,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [CartAI](https://cartai.ai) - Checkout is the hard part, and most solutions clear it only where the merchant has integrated.
 - [Basement Browser](https://basementbrowser.com/app) - Basement is a browser whose job is shopping.
 - [HonorBox](https://honorboxx.github.io/honorbox/) - Your storefront is a static site on GitHub Pages.
+- [Athena by Shoplazza](https://www.shoplaza.ai) - Athena helps you build a polished, launch-ready store with complete pages, products, and localized copy.
 
 ## ✨ Everything Else
 
