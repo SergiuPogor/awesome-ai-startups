@@ -7,21 +7,21 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (104)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (146)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (226)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (106)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (147)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (229)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (65)
 - [🎬 Video & Animation](#video-animation) (50)
-- [🎨 Image, Design & 3D](#image-design-3d) (67)
+- [🎨 Image, Design & 3D](#image-design-3d) (68)
 - [✍️ Writing & Content](#writing-content) (45)
 - [📊 Analytics & Data](#analytics-data) (57)
-- [🗂 Productivity & Notes](#productivity-notes) (143)
-- [🔎 Search & Discovery](#search-discovery) (29)
+- [🗂 Productivity & Notes](#productivity-notes) (144)
+- [🔎 Search & Discovery](#search-discovery) (30)
 - [🎓 Education & Learning](#education-learning) (21)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (24)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (29)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (96)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (19)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (30)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (97)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (21)
 - [👥 Social & Community](#social-community) (11)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
 - [✨ Everything Else](#everything-else) (95)
@@ -132,6 +132,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Migma AI](https://migma.ai) - Migma creates email campaigns before you ask.
 - [CrawlRaven](https://crawlraven.com) - Connect Google Search Console, Google Analytics, import your Ahrefs or Semrush lists, and crawl your site on 200-point technical SEO Audit.
 - [Fedica](https://fedica.com) - Your hub for social analytics, scheduling, and audience insights.
+- [Robynn AI](https://robynn.ai) - Your website starts decaying the day it ships.
+- [Adomate](https://www.adomate.com) - With Adomate you create ads from data, at scale.
 
 ## 🤖 AI Agents & Assistants
 
@@ -281,6 +283,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Rerun](https://rerun.build) - Most AI agents are black boxes.
 - [OpenComputer](https://opencomputer.dev/agentdeploy) - The easiest way to deploy a managed agent.
 - [Aymo AI](https://aymo.ai) - Get access to latest models of GPT, Claude, Gemini, DeepSeek, Grok, Kimi, GLM and 45+ top AI models in one secure workspace with powerful team features.
+- [AI YC interview with Gstack agents](https://gstack-meeting.com) - Garry Tan's open-sourced gstack specialists — CEO, CSO, QA Lead, a YC-office-hours partner and 15 more — join your real Google Meet as voice bots with 3D avatars.
 
 ## 💻 Coding & Developer Tools
 
@@ -511,6 +514,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AppUFO](https://appufo.app) - Reach more users worldwide without spending days or hundreds on app localisation.
 - [CodexBar Lite](https://getcodexbar.xyz) - CodexBar Lite is a native macOS menu bar app that keeps your OpenAI Codex usage visible at a glance.
 - [Openbase](https://openbase.cloud) - Openbase lets you manage a team of AI coding agents by voice, from anywhere; no screen, no desk.
+- [FindDiskKiller](https://finddiskkiller.com) - FindDiskKiller is a native macOS disk activity monitor that reveals which apps and AI coding agents are driving reads and writes.
+- [localskills.sh](https://localskills.sh) - Create, share, and install reusable agent skills and rules for Cursor, Claude Code, Windsurf, and more.
+- [superfile](https://superfile.dev) - Superfile is a modern terminal file manager with a polished multi-panel interface, strong previews, and deep customization.
 
 ## 🎙 Audio, Voice & Music
 
@@ -703,6 +709,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [V2Fun](https://v2fun.ai) - V2Fun is an AI 3D creation platform built with self-developed 3D modeling and AI motion capture models.
 - [PixyCAD](https://pixycad.com) - PixyCAD is a native 3D CAD app for Mac and iPad, built for makers, designers and 3D-printing enthusiasts who want professional solid modelling without traditional CAD complexity.
 - [Topolines](https://www.topolines.app) - Draw a zone, generate crisp topographic contour lines, and export print-ready SVG & HD PNG.
+- [Notate](https://usenotate.app) - Notate is for anything where pointing beats describing: design and motion review, product walkthroughs, code review, and handoffs.
 
 ## ✍️ Writing & Content
 
@@ -958,6 +965,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [KeyOpera](https://mbirang.com/keyopera) - Transform your Mac typing experience with the satisfying clicks and clacks of a mechanical keyboard.
 - [Pulse Island](https://www.pulseisland.club) - Pulse turns your MacBook's notch into a Dynamic Island: Be it music, meetings, clipboard, weather, focus timers, devices and live system stats, one glance up.
 - [PureBox.ai](https://purebox.ai) - Most inbox tools make you build rules first.
+- [Tackly](https://tackly.co) - Most AI notetakers hand you a transcript with a summary bolted on 💅 Tackly maps what you say into one of 20 nodes, live and in realtime — from meetings, solo voice notes, or a pasted transcript —….
 
 ## 🔎 Search & Discovery
 
@@ -990,6 +998,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Detourmap](https://detourmap.com) - A free interactive world map of 70,520 places worth going out of your way for — ancient ruins, beaches, caves, waterfalls, volcanoes, monuments, sacred sites, castles, museums, gardens, theme….
 - [YC has it](https://ychasit.com) - Describe your problem in plain English.
 - [SF Apartment Finder](https://cribs.context.dev) - Criblist turns SF apartment hunting into a swipeable deck.
+- [Webhound](https://webhound.ai) - Webhound builds long-running AI research agents that scale quality with time and budget.
 
 ## 🎓 Education & Learning
 
@@ -1074,6 +1083,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [UnitPay](https://www.useunitpay.com) - UnitPay is the monetization OS for AI companies.
 - [Trump Accounts](https://trumpaccount.com) - Trump Accounts help eligible American children begin building long-term financial growth from an early age.
 - [Rex](https://rex.inc) - Rex builds the AI order-to-cash workforce for global enterprises, with agents that cover every account and resolve exceptions before cash gets stuck.
+- [Remlo.io](https://remlo.io) - Remlo.io - Receive payments instantly, hold crypto & fiat, swap with zero gas fees, and spend anywhere in the world all from one self-custodial wallet with virtual bank accounts.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1173,6 +1183,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Kastra](https://kastra.ai) - Kastra is the runtime authorization layer for AI agents.
 - [Fluree](https://flur.ee) - Fluree is an enterprise AI data platform and verifiable knowledge graph database that combines immutability, security, and semantic graph capabilities.
 - [Velane](https://velane.sh) - Velane is the one platform for your AI Agent's tools and function.
+- [Rivault](https://www.rivault.ai) - Rivault lets you safely and securely provide AI agents and CUA data and context for tasks.
 
 ## 💬 Chatbots & Conversational
 
@@ -1195,6 +1206,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [CircleChat](https://circlechat.co) - Make multiple AI agents chat engage, collaborate, and problem-solve in real time.
 - [Kadoink AI](https://kadoink.ai) - Gather people instantly by AI txt, video, or ringing phones Tell Kadoink Who You Need.
 - [Fini](https://www.usefini.com) - Fini is the self-improving AI agent for customer support.
+- [Comms](https://comms.osis.co) - Getting an iMessage line for your business used to mean sales calls, carrier paperwork, weeks of waiting, and $225+ a month before your first text.
+- [Estera](https://www.tryestera.com) - Meet Estera, the AI receptionist built for real estate, hotels, restaurants, and more.
 
 ## 👥 Social & Community
 
