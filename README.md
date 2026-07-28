@@ -8,23 +8,23 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (106)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (147)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (148)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (229)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (65)
-- [🎬 Video & Animation](#video-animation) (50)
+- [🎬 Video & Animation](#video-animation) (51)
 - [🎨 Image, Design & 3D](#image-design-3d) (68)
 - [✍️ Writing & Content](#writing-content) (45)
 - [📊 Analytics & Data](#analytics-data) (57)
-- [🗂 Productivity & Notes](#productivity-notes) (144)
+- [🗂 Productivity & Notes](#productivity-notes) (148)
 - [🔎 Search & Discovery](#search-discovery) (30)
 - [🎓 Education & Learning](#education-learning) (21)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (24)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (30)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (97)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (21)
-- [👥 Social & Community](#social-community) (11)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (100)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (24)
+- [👥 Social & Community](#social-community) (12)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
-- [✨ Everything Else](#everything-else) (95)
+- [✨ Everything Else](#everything-else) (96)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -284,6 +284,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [OpenComputer](https://opencomputer.dev/agentdeploy) - The easiest way to deploy a managed agent.
 - [Aymo AI](https://aymo.ai) - Get access to latest models of GPT, Claude, Gemini, DeepSeek, Grok, Kimi, GLM and 45+ top AI models in one secure workspace with powerful team features.
 - [AI YC interview with Gstack agents](https://gstack-meeting.com) - Garry Tan's open-sourced gstack specialists — CEO, CSO, QA Lead, a YC-office-hours partner and 15 more — join your real Google Meet as voice bots with 3D avatars.
+- [Superunit](https://superunit.com) - Every time someone gets hired, applies for a mortgage, or leases an apartment, someone has to confirm they actually worked where they said they did.
 
 ## 💻 Coding & Developer Tools
 
@@ -638,6 +639,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [DualStream](https://dualstream.gg/ph) - Beautifully powerful streaming.
 - [OpenChatCut](https://openchatcut.com) - OpenChatCut is an open-source ChatCut alternative: local-first AI video editing where Codex, Claude, and MCP agents work on a real multitrack timeline.
 - [PodcastorAI](https://podcastor.ai) - Create studio-quality video podcasts from scripts, links, PDFs, or ideas — with AI hosts, natural voices, and your digital twin.
+- [LottieFiles](https://lottiefiles.com) - Create, edit, test, collaborate and ship a Lottie in the easiest way possible.
 
 ## 🎨 Image, Design & 3D
 
@@ -966,6 +968,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pulse Island](https://www.pulseisland.club) - Pulse turns your MacBook's notch into a Dynamic Island: Be it music, meetings, clipboard, weather, focus timers, devices and live system stats, one glance up.
 - [PureBox.ai](https://purebox.ai) - Most inbox tools make you build rules first.
 - [Tackly](https://tackly.co) - Most AI notetakers hand you a transcript with a summary bolted on 💅 Tackly maps what you say into one of 20 nodes, live and in realtime — from meetings, solo voice notes, or a pasted transcript —….
+- [Liminal](https://useliminal.xyz) - Your agent writes files locally in markdown and HTML, the formats it already speaks.
+- [Phantom](https://www.heyphantom.app) - Phantom is a voice-first AI agent for macOS that is always accessible via the Mac notch.
+- [FlowTask](https://flowtask.work) - FlowTask is a Company Brain for AI agents.
+- [Hardbook](https://hard-book.com) - The gap between agreed dates and a signed contract is where freelance jobs die.
 
 ## 🔎 Search & Discovery
 
@@ -1184,6 +1190,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Fluree](https://flur.ee) - Fluree is an enterprise AI data platform and verifiable knowledge graph database that combines immutability, security, and semantic graph capabilities.
 - [Velane](https://velane.sh) - Velane is the one platform for your AI Agent's tools and function.
 - [Rivault](https://www.rivault.ai) - Rivault lets you safely and securely provide AI agents and CUA data and context for tasks.
+- [qsa.sh](https://qsa.sh) - Run curl qsa.sh for a one-command external security scan of your server's own public IP — naabu, nmap + vulners, and nuclei map your open ports, service versions, and known CVEs, streamed straight….
+- [MCP-Billing](https://mcp-billing.com) - Self-hosted Next.js/TypeScript boilerplate: full OAuth 2.1 + PKCE, API key management with zero-downtime rotation, usage-based Stripe billing, and Redis rate limiting. 7 modules, 300+ tests.….
+- [Prefactor](https://prefactor.tech/producthunt) - Most agents pass their evals and fail in production.
 
 ## 💬 Chatbots & Conversational
 
@@ -1208,6 +1217,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Fini](https://www.usefini.com) - Fini is the self-improving AI agent for customer support.
 - [Comms](https://comms.osis.co) - Getting an iMessage line for your business used to mean sales calls, carrier paperwork, weeks of waiting, and $225+ a month before your first text.
 - [Estera](https://www.tryestera.com) - Meet Estera, the AI receptionist built for real estate, hotels, restaurants, and more.
+- [Conduit](https://www.conduit.ai) - Elevate the guest experience and automate internal operations across all your systems.
+- [Leaping AI](https://leapingai.com) - We allow companies that operate in the physical world (home remodeling, roofing, trades) to automate inbound and outbound calling & texting and run multi-threaded campaigns spanning several weeks.
+- [Cekura](https://www.cekura.ai) - Cekura enables Conversational AI teams to automate QA across the entire agent lifecycle—from pre-production simulation and evaluation to monitoring of production calls.
 
 ## 👥 Social & Community
 
@@ -1222,6 +1234,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [CodeNearby](https://codenearby.space) - Codenearby helps developers connect, collaborate, and code together by finding like-minded programmers nearby or worldwide.
 - [Yapper Leaderboard](https://yappers.context.dev) - The Yapper Leaderboard ranks Twitter/X's startups and users by how much they yap.
 - [Buzz](https://buzz.xyz) - a new groupchat platform for teams of people and agents of all sizes, built to reduce our dependency on slack and github.
+- [Cercle](https://cercle.me) - Cercle is conquering the loneliness epidemic by bringing back connections with the people that matter most.
 
 ## 🛒 E-commerce & Retail
 
@@ -1337,6 +1350,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [canitbebuilt](https://www.canitbebuilt.ai) - Have a hardware idea?.
 - [Hotspot Meter](https://hotspot-meter.loam.sk) - Hotspot Meter is a free macOS menu-bar app that shows exactly how much data each Wi-Fi network and phone hotspot uses.
 - [Islet](https://lippi304.xyz/projects/islet) - Most notch utilities just draw a static shape over the cutout.
+- [EasyCircuit](https://easycircuit.app) - An AI circuit copilot that designs your project and sources the parts automatically — no electrical engineering experience needed.
 
 ## Contributing
 
