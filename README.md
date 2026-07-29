@@ -7,18 +7,18 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (106)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (148)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (229)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (65)
-- [🎬 Video & Animation](#video-animation) (51)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (107)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (150)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (233)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (67)
+- [🎬 Video & Animation](#video-animation) (52)
 - [🎨 Image, Design & 3D](#image-design-3d) (68)
-- [✍️ Writing & Content](#writing-content) (45)
+- [✍️ Writing & Content](#writing-content) (46)
 - [📊 Analytics & Data](#analytics-data) (57)
 - [🗂 Productivity & Notes](#productivity-notes) (148)
 - [🔎 Search & Discovery](#search-discovery) (30)
 - [🎓 Education & Learning](#education-learning) (21)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (24)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (25)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (30)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (100)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (24)
@@ -134,6 +134,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Fedica](https://fedica.com) - Your hub for social analytics, scheduling, and audience insights.
 - [Robynn AI](https://robynn.ai) - Your website starts decaying the day it ships.
 - [Adomate](https://www.adomate.com) - With Adomate you create ads from data, at scale.
+- [Denovo](https://www.denovo.dev/lp/run) - You vibe-coded your app.
 
 ## 🤖 AI Agents & Assistants
 
@@ -285,6 +286,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Aymo AI](https://aymo.ai) - Get access to latest models of GPT, Claude, Gemini, DeepSeek, Grok, Kimi, GLM and 45+ top AI models in one secure workspace with powerful team features.
 - [AI YC interview with Gstack agents](https://gstack-meeting.com) - Garry Tan's open-sourced gstack specialists — CEO, CSO, QA Lead, a YC-office-hours partner and 15 more — join your real Google Meet as voice bots with 3D avatars.
 - [Superunit](https://superunit.com) - Every time someone gets hired, applies for a mortgage, or leases an apartment, someone has to confirm they actually worked where they said they did.
+- [Vela](https://tryvela.ai) - Vela is an AI recruiting coordinator.
+- [Bo AI](https://www.getbo.com) - Bo is the first consumer AI product that exists to serve everyday people.
 
 ## 💻 Coding & Developer Tools
 
@@ -518,6 +521,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [FindDiskKiller](https://finddiskkiller.com) - FindDiskKiller is a native macOS disk activity monitor that reveals which apps and AI coding agents are driving reads and writes.
 - [localskills.sh](https://localskills.sh) - Create, share, and install reusable agent skills and rules for Cursor, Claude Code, Windsurf, and more.
 - [superfile](https://superfile.dev) - Superfile is a modern terminal file manager with a polished multi-panel interface, strong previews, and deep customization.
+- [AgentQuartz](https://agentquartz.vercel.app) - Local-first macOS menu-bar companion for Claude and Cursor usage.
+- [BlackFlare](https://blackflare.dev) - BlackFlare - a native macOS menu bar app for Claude Code and Codex.
+- [Task Monki](https://www.monki.work) - Task Monki is an open-source desktop app for managing coding agents from task to pull request.
+- [Prelint](https://prelint.com) - AI writes your code at 10× speed.
 
 ## 🎙 Audio, Voice & Music
 
@@ -586,6 +593,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Liso](https://www.getliso.app) - Highlight any article, newsletter, blog post, or page on the internet.
 - [Speechius](https://speechius.com) - Speechius listens to your voice and scrolls your script for you - speed up, slow down, go off-script, it keeps pace.
 - [Heard](https://heard.dev) - Heard is a macOS voice layer for your agentic workflows.
+- [EQK 3.0](https://www.kuja.dev/eqk) - EQK is the first Mac app with dynamic AI EQ, an equalizer that re-tunes itself per song in real time.
+- [SoundGate Guitar](https://soundgate.ai) - SoundGate Guitar is an AI practice companion that actually listens to you play.
 
 ## 🎬 Video & Animation
 
@@ -640,6 +649,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [OpenChatCut](https://openchatcut.com) - OpenChatCut is an open-source ChatCut alternative: local-first AI video editing where Codex, Claude, and MCP agents work on a real multitrack timeline.
 - [PodcastorAI](https://podcastor.ai) - Create studio-quality video podcasts from scripts, links, PDFs, or ideas — with AI hosts, natural voices, and your digital twin.
 - [LottieFiles](https://lottiefiles.com) - Create, edit, test, collaborate and ship a Lottie in the easiest way possible.
+- [SceneNote](https://scenenote.visual-tone.com) - Every other video review tool wants an account, an upload, or a subscription.
 
 ## 🎨 Image, Design & 3D
 
@@ -760,6 +770,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Speech To Markdown](https://voice-to-md.xajik0.workers.dev) - A free macOS and iOS app that turns your voice into structured markdown using local LLM.
 - [Wisprkey](https://www.wisprkey.com) - Wisprkey is a free Mac app for voice typing.
 - [Forgeon](https://forgeon.art) - Every generation reinvents the way stories are told.
+- [Epilude](https://epilude.com) - Hold a key, speak, release: polished text lands in any app on your Mac.
 
 ## 📊 Analytics & Data
 
@@ -1057,6 +1068,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Light Phone](http://www.thelightphone.com) - The Light Phone is your phone away from phone.
 - [HealthyNotch](https://healthynotch.com) - You've been at your desk for six hours.
 - [TouchGrass](https://touchgrass.land) - TouchGrass is a context-aware break reminder built for macOS.
+- [ClinicFrame](https://clinicframe.com) - An ambient AI scribe that writes clinical notes in real time so you can focus on your patient.
 
 ## 💰 Finance, Crypto & Payments
 
