@@ -7,20 +7,20 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (107)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (150)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (233)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (67)
-- [🎬 Video & Animation](#video-animation) (52)
-- [🎨 Image, Design & 3D](#image-design-3d) (68)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (108)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (153)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (235)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (69)
+- [🎬 Video & Animation](#video-animation) (54)
+- [🎨 Image, Design & 3D](#image-design-3d) (69)
 - [✍️ Writing & Content](#writing-content) (46)
-- [📊 Analytics & Data](#analytics-data) (57)
-- [🗂 Productivity & Notes](#productivity-notes) (148)
+- [📊 Analytics & Data](#analytics-data) (58)
+- [🗂 Productivity & Notes](#productivity-notes) (150)
 - [🔎 Search & Discovery](#search-discovery) (30)
-- [🎓 Education & Learning](#education-learning) (21)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (25)
+- [🎓 Education & Learning](#education-learning) (23)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (26)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (30)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (100)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (101)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (24)
 - [👥 Social & Community](#social-community) (12)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
@@ -135,6 +135,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Robynn AI](https://robynn.ai) - Your website starts decaying the day it ships.
 - [Adomate](https://www.adomate.com) - With Adomate you create ads from data, at scale.
 - [Denovo](https://www.denovo.dev/lp/run) - You vibe-coded your app.
+- [AI Search Console](https://search-console.ai) - AI Search Console helps SEO and GEO teams replace manual AI visibility checks with repeatable data.
 
 ## 🤖 AI Agents & Assistants
 
@@ -288,6 +289,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Superunit](https://superunit.com) - Every time someone gets hired, applies for a mortgage, or leases an apartment, someone has to confirm they actually worked where they said they did.
 - [Vela](https://tryvela.ai) - Vela is an AI recruiting coordinator.
 - [Bo AI](https://www.getbo.com) - Bo is the first consumer AI product that exists to serve everyday people.
+- [Pally - One text away from done.](https://pally.com) - Pally is an AI personal assistant you reach over iMessage, RCS, and even on the phone.
+- [NINA](https://agenq.com/nina/) - NINA lives inside your product and helps users exactly where they get stuck.
+- [Memmy Agent](https://memmy.bot) - 🍙 Memmy Agent is a personal memory hub and local AI agent for all AI Agent and tools like Claude Code, Codex, OpenClaw and Hermes.
 
 ## 💻 Coding & Developer Tools
 
@@ -525,6 +529,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [BlackFlare](https://blackflare.dev) - BlackFlare - a native macOS menu bar app for Claude Code and Codex.
 - [Task Monki](https://www.monki.work) - Task Monki is an open-source desktop app for managing coding agents from task to pull request.
 - [Prelint](https://prelint.com) - AI writes your code at 10× speed.
+- [tablo](https://tablo-cat.netlify.app) - You kick off an AI agent, switch tabs, and forget it's stuck or 90% through its context window.
+- [SKI](https://heyski.io) - We just built SKI — voice coding for Claude Code, Codex and more.
 
 ## 🎙 Audio, Voice & Music
 
@@ -595,6 +601,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Heard](https://heard.dev) - Heard is a macOS voice layer for your agentic workflows.
 - [EQK 3.0](https://www.kuja.dev/eqk) - EQK is the first Mac app with dynamic AI EQ, an equalizer that re-tunes itself per song in real time.
 - [SoundGate Guitar](https://soundgate.ai) - SoundGate Guitar is an AI practice companion that actually listens to you play.
+- [Yap](https://frigade.com/yap) - Yap turns speech into text anywhere you can type on your Mac.
+- [Kyrifix Caption](https://kyrifix.com/caption/) - Kyrifix Caption turns Mac system audio into live captions, creates subtitles for local media, exports burned-in video, and keeps searchable session history with timecode lookup.
 
 ## 🎬 Video & Animation
 
@@ -650,6 +658,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PodcastorAI](https://podcastor.ai) - Create studio-quality video podcasts from scripts, links, PDFs, or ideas — with AI hosts, natural voices, and your digital twin.
 - [LottieFiles](https://lottiefiles.com) - Create, edit, test, collaborate and ship a Lottie in the easiest way possible.
 - [SceneNote](https://scenenote.visual-tone.com) - Every other video review tool wants an account, an upload, or a subscription.
+- [Premation](https://premation.com) - Motion Editor is an open-source, AI-native alternative to Adobe After Effects.
+- [CraftStory](https://craftstory.com) - 🎁 Product Hunt exclusive: 50% off Producer for your first month → https://app.craftstory.com/?promo=producthunt CraftStory generates hyper-realistic, human-centric videos for L&D, podcasts, and….
 
 ## 🎨 Image, Design & 3D
 
@@ -722,6 +732,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PixyCAD](https://pixycad.com) - PixyCAD is a native 3D CAD app for Mac and iPad, built for makers, designers and 3D-printing enthusiasts who want professional solid modelling without traditional CAD complexity.
 - [Topolines](https://www.topolines.app) - Draw a zone, generate crisp topographic contour lines, and export print-ready SVG & HD PNG.
 - [Notate](https://usenotate.app) - Notate is for anything where pointing beats describing: design and motion review, product walkthroughs, code review, and handoffs.
+- [Caimera](https://www.caimera.ai) - From sketch to sale — Caimera helps e-commerce brands go to market faster.
 
 ## ✍️ Writing & Content
 
@@ -832,6 +843,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Amami](https://dashboard.amami.dev/login) - I built Amami because I was tired of tab-switching between Cursor and a browser tab just to check how many people visited my site.
 - [Kobbe](https://kobbe.io) - Privacy-friendly and cookie-less analytics for your website.
 - [Teable](https://teable.ai) - Turn your business data into AI workflows and custom apps.
+- [LangWatch](https://langwatch.ai/claude-code-usage) - You know what Claude Code costs per seat.
 
 ## 🗂 Productivity & Notes
 
@@ -983,6 +995,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Phantom](https://www.heyphantom.app) - Phantom is a voice-first AI agent for macOS that is always accessible via the Mac notch.
 - [FlowTask](https://flowtask.work) - FlowTask is a Company Brain for AI agents.
 - [Hardbook](https://hard-book.com) - The gap between agreed dates and a signed contract is where freelance jobs die.
+- [docktor](https://docktorapp.com) - If you don't hide your Dock, you've probably got wasted space sitting on either side of it.
+- [Laxis](https://www.laxis.com) - From back-to-back meetings to high-speed dictation.
 
 ## 🔎 Search & Discovery
 
@@ -1041,6 +1055,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Mainichi](https://mainichiapp.com) - Learn 20,000+ Japanese words with a spaced-repetition system built for long-term memory.
 - [Kogvio](https://kogvio.com) - Every time I didn't understand something online, I had the same workflow: Copy.
 - [Yoggi](https://yoggichat.app) - Yoggi is the AI assistant built for children aged 3–15.
+- [Focus Room](https://focusroom.club) - Focus Room turns YouTube into a personal learning platform with a structured, course-inspired interface.
+- [Kyrifix Dictionary](https://kyrifix.com/dictionary/) - Kyrifix Dictionary provides hover and selected-text translation, OCR screenshot lookup, writing actions, history, and vocabulary review across Mac, iPhone, and iPad.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1069,6 +1085,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [HealthyNotch](https://healthynotch.com) - You've been at your desk for six hours.
 - [TouchGrass](https://touchgrass.land) - TouchGrass is a context-aware break reminder built for macOS.
 - [ClinicFrame](https://clinicframe.com) - An ambient AI scribe that writes clinical notes in real time so you can focus on your patient.
+- [Kyrifix Practice](https://kyrifix.com/practice/) - Kyrifix Practice helps lucid dreamers wake gently with private Apple Watch cues, preserve dream recall, attempt still-body re-entry, and review each practice session on iPhone.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -1205,6 +1222,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [qsa.sh](https://qsa.sh) - Run curl qsa.sh for a one-command external security scan of your server's own public IP — naabu, nmap + vulners, and nuclei map your open ports, service versions, and known CVEs, streamed straight….
 - [MCP-Billing](https://mcp-billing.com) - Self-hosted Next.js/TypeScript boilerplate: full OAuth 2.1 + PKCE, API key management with zero-downtime rotation, usage-based Stripe billing, and Redis rate limiting. 7 modules, 300+ tests.….
 - [Prefactor](https://prefactor.tech/producthunt) - Most agents pass their evals and fail in production.
+- [agentOS](https://agentos-sdk.dev) - Give agents a Linux operating system as a library – no sandboxes, VMs, or SaaS.
 
 ## 💬 Chatbots & Conversational
 
