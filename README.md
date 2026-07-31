@@ -7,20 +7,20 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (108)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (109)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (153)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (235)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (69)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (70)
 - [🎬 Video & Animation](#video-animation) (54)
-- [🎨 Image, Design & 3D](#image-design-3d) (69)
+- [🎨 Image, Design & 3D](#image-design-3d) (70)
 - [✍️ Writing & Content](#writing-content) (46)
-- [📊 Analytics & Data](#analytics-data) (58)
+- [📊 Analytics & Data](#analytics-data) (62)
 - [🗂 Productivity & Notes](#productivity-notes) (150)
 - [🔎 Search & Discovery](#search-discovery) (30)
 - [🎓 Education & Learning](#education-learning) (23)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (26)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (30)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (101)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (103)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (24)
 - [👥 Social & Community](#social-community) (12)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
@@ -136,6 +136,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Adomate](https://www.adomate.com) - With Adomate you create ads from data, at scale.
 - [Denovo](https://www.denovo.dev/lp/run) - You vibe-coded your app.
 - [AI Search Console](https://search-console.ai) - AI Search Console helps SEO and GEO teams replace manual AI visibility checks with repeatable data.
+- [Cleanlist AI](https://www.cleanlist.ai) - Cleanlist AI turns any prospecting input into a verified, enriched, CRM-ready lead list.
 
 ## 🤖 AI Agents & Assistants
 
@@ -603,6 +604,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SoundGate Guitar](https://soundgate.ai) - SoundGate Guitar is an AI practice companion that actually listens to you play.
 - [Yap](https://frigade.com/yap) - Yap turns speech into text anywhere you can type on your Mac.
 - [Kyrifix Caption](https://kyrifix.com/caption/) - Kyrifix Caption turns Mac system audio into live captions, creates subtitles for local media, exports burned-in video, and keeps searchable session history with timecode lookup.
+- [Mubert](https://mubert.com) - Mubert is the world's first AI-operated technology that generates music in real-time and helps client-oriented businesses grow.
 
 ## 🎬 Video & Animation
 
@@ -733,6 +735,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Topolines](https://www.topolines.app) - Draw a zone, generate crisp topographic contour lines, and export print-ready SVG & HD PNG.
 - [Notate](https://usenotate.app) - Notate is for anything where pointing beats describing: design and motion review, product walkthroughs, code review, and handoffs.
 - [Caimera](https://www.caimera.ai) - From sketch to sale — Caimera helps e-commerce brands go to market faster.
+- [Loview AI](https://loview.net) - Loview AI is a multi-model AI generation platform built around the Nano Banana series.
 
 ## ✍️ Writing & Content
 
@@ -844,6 +847,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Kobbe](https://kobbe.io) - Privacy-friendly and cookie-less analytics for your website.
 - [Teable](https://teable.ai) - Turn your business data into AI workflows and custom apps.
 - [LangWatch](https://langwatch.ai/claude-code-usage) - You know what Claude Code costs per seat.
+- [Screencap](https://screencap.sh) - Screencap records how work actually happens: screen, clicks, keystrokes, window context and teams can use it to turn real workflows into structured datasets for automation and AI training.
+- [DepthData](https://depthdata.vercel.app) - Companies now pay for four or five AI tools (ChatGPT, Claude, Copilot, and more) but can't answer the basics: what are we spending, who's using it, and which seats sit idle?.
+- [Poth Labs](https://pothlabs.com) - Customer knowledge isn't a collection of documents.
+- [mectrics](https://mectrics.app) - CPU, memory, battery, network, disk, GPU, temperature and fans in your menu bar.
 
 ## 🗂 Productivity & Notes
 
@@ -1223,6 +1230,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MCP-Billing](https://mcp-billing.com) - Self-hosted Next.js/TypeScript boilerplate: full OAuth 2.1 + PKCE, API key management with zero-downtime rotation, usage-based Stripe billing, and Redis rate limiting. 7 modules, 300+ tests.….
 - [Prefactor](https://prefactor.tech/producthunt) - Most agents pass their evals and fail in production.
 - [agentOS](https://agentos-sdk.dev) - Give agents a Linux operating system as a library – no sandboxes, VMs, or SaaS.
+- [TraceLLM](https://tracellm.in) - Tracellm is an observability platform for production AI applications.
+- [Scam AI](https://www.scam.ai) - API-first solution combining NLP/visual/audio authentication.
 
 ## 💬 Chatbots & Conversational
 
