@@ -7,9 +7,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (109)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (153)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (235)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (110)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (154)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (238)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (70)
 - [🎬 Video & Animation](#video-animation) (54)
 - [🎨 Image, Design & 3D](#image-design-3d) (70)
@@ -19,12 +19,12 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [🔎 Search & Discovery](#search-discovery) (30)
 - [🎓 Education & Learning](#education-learning) (23)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (26)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (30)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (31)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (103)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (24)
 - [👥 Social & Community](#social-community) (12)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
-- [✨ Everything Else](#everything-else) (96)
+- [✨ Everything Else](#everything-else) (98)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -137,6 +137,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Denovo](https://www.denovo.dev/lp/run) - You vibe-coded your app.
 - [AI Search Console](https://search-console.ai) - AI Search Console helps SEO and GEO teams replace manual AI visibility checks with repeatable data.
 - [Cleanlist AI](https://www.cleanlist.ai) - Cleanlist AI turns any prospecting input into a verified, enriched, CRM-ready lead list.
+- [NudgeForMe](https://nudgeforme.com) - NudgeForMe scans your sent conversations, finds threads where someone never replied, and drafts natural follow-ups inside your own mailbox.
 
 ## 🤖 AI Agents & Assistants
 
@@ -293,6 +294,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pally - One text away from done.](https://pally.com) - Pally is an AI personal assistant you reach over iMessage, RCS, and even on the phone.
 - [NINA](https://agenq.com/nina/) - NINA lives inside your product and helps users exactly where they get stuck.
 - [Memmy Agent](https://memmy.bot) - 🍙 Memmy Agent is a personal memory hub and local AI agent for all AI Agent and tools like Claude Code, Codex, OpenClaw and Hermes.
+- [Kopai](https://usekopai.com) - Kopai turns your expertise into an AI agent you can sell, priced per message instead of per hour.
 
 ## 💻 Coding & Developer Tools
 
@@ -532,6 +534,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Prelint](https://prelint.com) - AI writes your code at 10× speed.
 - [tablo](https://tablo-cat.netlify.app) - You kick off an AI agent, switch tabs, and forget it's stuck or 90% through its context window.
 - [SKI](https://heyski.io) - We just built SKI — voice coding for Claude Code, Codex and more.
+- [Terminal Candy](https://terminalcandy.com) - Terminal Candy is a real, native macOS terminal you live inside.
+- [TerminalWidget](https://terminalwidget.app) - Display command output, progress, sparklines, and images in customizable widgets for macOS, iOS, and iPadOS.
+- [AgentMicro](https://agentmicro.cc) - AgentMicro is a local-first macOS menu-bar companion for supervising parallel Codex Desktop and CLI tasks.
 
 ## 🎙 Audio, Voice & Music
 
@@ -1126,6 +1131,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Trump Accounts](https://trumpaccount.com) - Trump Accounts help eligible American children begin building long-term financial growth from an early age.
 - [Rex](https://rex.inc) - Rex builds the AI order-to-cash workforce for global enterprises, with agents that cover every account and resolve exceptions before cash gets stuck.
 - [Remlo.io](https://remlo.io) - Remlo.io - Receive payments instantly, hold crypto & fiat, swap with zero gas fees, and spend anywhere in the world all from one self-custodial wallet with virtual bank accounts.
+- [SyncStaq](https://syncstaq.com) - SyncStaq syncs Stripe billing data into Google Sheets — charges, invoices, invoice line items, customers, subscriptions, payouts and disputes, each in its own structured tab.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1390,6 +1396,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Hotspot Meter](https://hotspot-meter.loam.sk) - Hotspot Meter is a free macOS menu-bar app that shows exactly how much data each Wi-Fi network and phone hotspot uses.
 - [Islet](https://lippi304.xyz/projects/islet) - Most notch utilities just draw a static shape over the cutout.
 - [EasyCircuit](https://easycircuit.app) - An AI circuit copilot that designs your project and sources the parts automatically — no electrical engineering experience needed.
+- [Tandem](https://tandemspace.com) - Tandem is building an AI-native office leasing brokerage.
+- [Yamanote 3D](https://yamanote-3d.com) - Yamanote 3D is a free browser experience inspired by Tokyo’s Yamanote Line.
 
 ## Contributing
 
