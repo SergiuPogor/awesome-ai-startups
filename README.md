@@ -8,10 +8,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (110)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (154)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (238)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (70)
-- [🎬 Video & Animation](#video-animation) (54)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (155)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (239)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (72)
+- [🎬 Video & Animation](#video-animation) (55)
 - [🎨 Image, Design & 3D](#image-design-3d) (70)
 - [✍️ Writing & Content](#writing-content) (46)
 - [📊 Analytics & Data](#analytics-data) (62)
@@ -19,10 +19,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [🔎 Search & Discovery](#search-discovery) (30)
 - [🎓 Education & Learning](#education-learning) (23)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (26)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (31)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (33)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (103)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (24)
-- [👥 Social & Community](#social-community) (12)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (25)
+- [👥 Social & Community](#social-community) (13)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
 - [✨ Everything Else](#everything-else) (98)
 
@@ -295,6 +295,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [NINA](https://agenq.com/nina/) - NINA lives inside your product and helps users exactly where they get stuck.
 - [Memmy Agent](https://memmy.bot) - 🍙 Memmy Agent is a personal memory hub and local AI agent for all AI Agent and tools like Claude Code, Codex, OpenClaw and Hermes.
 - [Kopai](https://usekopai.com) - Kopai turns your expertise into an AI agent you can sell, priced per message instead of per hour.
+- [Zinley](https://zinley.com) - Most AI waits inside a chat.
 
 ## 💻 Coding & Developer Tools
 
@@ -537,6 +538,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Terminal Candy](https://terminalcandy.com) - Terminal Candy is a real, native macOS terminal you live inside.
 - [TerminalWidget](https://terminalwidget.app) - Display command output, progress, sparklines, and images in customizable widgets for macOS, iOS, and iPadOS.
 - [AgentMicro](https://agentmicro.cc) - AgentMicro is a local-first macOS menu-bar companion for supervising parallel Codex Desktop and CLI tasks.
+- [Termexo](https://www.termexo.com) - Termexo brings Claude Code and Codex into one recoverable Windows workspace.
 
 ## 🎙 Audio, Voice & Music
 
@@ -610,6 +612,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Yap](https://frigade.com/yap) - Yap turns speech into text anywhere you can type on your Mac.
 - [Kyrifix Caption](https://kyrifix.com/caption/) - Kyrifix Caption turns Mac system audio into live captions, creates subtitles for local media, exports burned-in video, and keeps searchable session history with timecode lookup.
 - [Mubert](https://mubert.com) - Mubert is the world's first AI-operated technology that generates music in real-time and helps client-oriented businesses grow.
+- [FreqWave EQ](https://bob3x.github.io/freqwave-eq/) - 8-band Web Audio Equalizer - fixing muddy podcasts, harsh streams and quiet dialogue.
+- [Zen Whisper](https://www.zenproducts.ai/apps/zen-whisper) - Hold a shortcut and dictate into any Mac app without sending audio to the cloud.
 
 ## 🎬 Video & Animation
 
@@ -667,6 +671,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SceneNote](https://scenenote.visual-tone.com) - Every other video review tool wants an account, an upload, or a subscription.
 - [Premation](https://premation.com) - Motion Editor is an open-source, AI-native alternative to Adobe After Effects.
 - [CraftStory](https://craftstory.com) - 🎁 Product Hunt exclusive: 50% off Producer for your first month → https://app.craftstory.com/?promo=producthunt CraftStory generates hyper-realistic, human-centric videos for L&D, podcasts, and….
+- [Capptivo](https://capptivo.com) - Capptivo is a free, open-source screen recorder and demo editor for macOS, Windows, and Linux.
 
 ## 🎨 Image, Design & 3D
 
@@ -1132,6 +1137,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Rex](https://rex.inc) - Rex builds the AI order-to-cash workforce for global enterprises, with agents that cover every account and resolve exceptions before cash gets stuck.
 - [Remlo.io](https://remlo.io) - Remlo.io - Receive payments instantly, hold crypto & fiat, swap with zero gas fees, and spend anywhere in the world all from one self-custodial wallet with virtual bank accounts.
 - [SyncStaq](https://syncstaq.com) - SyncStaq syncs Stripe billing data into Google Sheets — charges, invoices, invoice line items, customers, subscriptions, payouts and disputes, each in its own structured tab.
+- [UniwebPay Skill](https://skill.uniwebpay.com) - Accept payments the moment you ship.
+- [Finamie](https://finamie.com) - Finamie turns your voice into detailed financial insights, automatically.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1265,6 +1272,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Conduit](https://www.conduit.ai) - Elevate the guest experience and automate internal operations across all your systems.
 - [Leaping AI](https://leapingai.com) - We allow companies that operate in the physical world (home remodeling, roofing, trades) to automate inbound and outbound calling & texting and run multi-threaded campaigns spanning several weeks.
 - [Cekura](https://www.cekura.ai) - Cekura enables Conversational AI teams to automate QA across the entire agent lifecycle—from pre-production simulation and evaluation to monitoring of production calls.
+- [Bolcho AI](https://bolchoai.in) - Bolcho AI is an AI voice platform that helps businesses build, deploy and scale multilingual AI phone and web agents.
 
 ## 👥 Social & Community
 
@@ -1280,6 +1288,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Yapper Leaderboard](https://yappers.context.dev) - The Yapper Leaderboard ranks Twitter/X's startups and users by how much they yap.
 - [Buzz](https://buzz.xyz) - a new groupchat platform for teams of people and agents of all sizes, built to reduce our dependency on slack and github.
 - [Cercle](https://cercle.me) - Cercle is conquering the loneliness epidemic by bringing back connections with the people that matter most.
+- [YourSitee](https://yoursit.ee) - YourSitee turns your scattered online presence into one visual page that feels like you, not another list of buttons.
 
 ## 🛒 E-commerce & Retail
 
