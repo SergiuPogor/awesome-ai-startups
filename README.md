@@ -8,14 +8,14 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (110)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (155)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (239)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (72)
-- [🎬 Video & Animation](#video-animation) (55)
-- [🎨 Image, Design & 3D](#image-design-3d) (70)
-- [✍️ Writing & Content](#writing-content) (46)
-- [📊 Analytics & Data](#analytics-data) (62)
-- [🗂 Productivity & Notes](#productivity-notes) (150)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (156)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (241)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (74)
+- [🎬 Video & Animation](#video-animation) (56)
+- [🎨 Image, Design & 3D](#image-design-3d) (72)
+- [✍️ Writing & Content](#writing-content) (47)
+- [📊 Analytics & Data](#analytics-data) (63)
+- [🗂 Productivity & Notes](#productivity-notes) (152)
 - [🔎 Search & Discovery](#search-discovery) (30)
 - [🎓 Education & Learning](#education-learning) (23)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (26)
@@ -24,7 +24,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [💬 Chatbots & Conversational](#chatbots-conversational) (25)
 - [👥 Social & Community](#social-community) (13)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
-- [✨ Everything Else](#everything-else) (98)
+- [✨ Everything Else](#everything-else) (100)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -296,6 +296,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Memmy Agent](https://memmy.bot) - 🍙 Memmy Agent is a personal memory hub and local AI agent for all AI Agent and tools like Claude Code, Codex, OpenClaw and Hermes.
 - [Kopai](https://usekopai.com) - Kopai turns your expertise into an AI agent you can sell, priced per message instead of per hour.
 - [Zinley](https://zinley.com) - Most AI waits inside a chat.
+- [AgentSky](https://agentsky.dev) - Managed agent as a service: launch a long-horizon AI agent in one click — Claude Code, Codex, Hermes, or OpenClaw — with full history, managed recovery, and access through WhatsApp, iMessage,….
 
 ## 💻 Coding & Developer Tools
 
@@ -539,6 +540,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [TerminalWidget](https://terminalwidget.app) - Display command output, progress, sparklines, and images in customizable widgets for macOS, iOS, and iPadOS.
 - [AgentMicro](https://agentmicro.cc) - AgentMicro is a local-first macOS menu-bar companion for supervising parallel Codex Desktop and CLI tasks.
 - [Termexo](https://www.termexo.com) - Termexo brings Claude Code and Codex into one recoverable Windows workspace.
+- [Murmell](https://murmell.com) - Murmell is a shared cloud canvas where your team and AI agents work in the same room, on the same repo, with a preview and more coming in the future.
+- [mpai](https://godfaddaai.github.io/multiplayer-ai/) - Open-source terminal multiplayer for Codex and Claude Code.
 
 ## 🎙 Audio, Voice & Music
 
@@ -614,6 +617,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Mubert](https://mubert.com) - Mubert is the world's first AI-operated technology that generates music in real-time and helps client-oriented businesses grow.
 - [FreqWave EQ](https://bob3x.github.io/freqwave-eq/) - 8-band Web Audio Equalizer - fixing muddy podcasts, harsh streams and quiet dialogue.
 - [Zen Whisper](https://www.zenproducts.ai/apps/zen-whisper) - Hold a shortcut and dictate into any Mac app without sending audio to the cloud.
+- [gesture.live](https://gesture.live) - Play live electronic music with your hands over a webcam.
+- [yapyap](https://yap-yap.app) - Every meeting recorder ships your audio to the cloud and bills you monthly.
 
 ## 🎬 Video & Animation
 
@@ -672,6 +677,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Premation](https://premation.com) - Motion Editor is an open-source, AI-native alternative to Adobe After Effects.
 - [CraftStory](https://craftstory.com) - 🎁 Product Hunt exclusive: 50% off Producer for your first month → https://app.craftstory.com/?promo=producthunt CraftStory generates hyper-realistic, human-centric videos for L&D, podcasts, and….
 - [Capptivo](https://capptivo.com) - Capptivo is a free, open-source screen recorder and demo editor for macOS, Windows, and Linux.
+- [PassiveShorts](https://passiveshorts.com) - AI faceless video generator that auto-posts to YouTube and TikTok.
 
 ## 🎨 Image, Design & 3D
 
@@ -746,6 +752,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Notate](https://usenotate.app) - Notate is for anything where pointing beats describing: design and motion review, product walkthroughs, code review, and handoffs.
 - [Caimera](https://www.caimera.ai) - From sketch to sale — Caimera helps e-commerce brands go to market faster.
 - [Loview AI](https://loview.net) - Loview AI is a multi-model AI generation platform built around the Nano Banana series.
+- [MascotAI](https://www.appmascot.ai) - Hey hunters!.
+- [Ctruh Studio](https://www.ctruh.com/products/studio) - Ctruh Studio is an AI-powered no-code platform that lets anyone create, customise and publish interactive 3D experiences for websites.
 
 ## ✍️ Writing & Content
 
@@ -795,6 +803,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Wisprkey](https://www.wisprkey.com) - Wisprkey is a free Mac app for voice typing.
 - [Forgeon](https://forgeon.art) - Every generation reinvents the way stories are told.
 - [Epilude](https://epilude.com) - Hold a key, speak, release: polished text lands in any app on your Mac.
+- [Doxy](https://trydoxy.com) - Doxy is a browser-based editor for creating clean, professional documents with Markdown and HTML without the complexity of LaTeX or the frustration of compile times.
 
 ## 📊 Analytics & Data
 
@@ -861,6 +870,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [DepthData](https://depthdata.vercel.app) - Companies now pay for four or five AI tools (ChatGPT, Claude, Copilot, and more) but can't answer the basics: what are we spending, who's using it, and which seats sit idle?.
 - [Poth Labs](https://pothlabs.com) - Customer knowledge isn't a collection of documents.
 - [mectrics](https://mectrics.app) - CPU, memory, battery, network, disk, GPU, temperature and fans in your menu bar.
+- [Appllama](https://appllama.io) - Appllama is a design-research platform for app creators.
 
 ## 🗂 Productivity & Notes
 
@@ -1014,6 +1024,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Hardbook](https://hard-book.com) - The gap between agreed dates and a signed contract is where freelance jobs die.
 - [docktor](https://docktorapp.com) - If you don't hide your Dock, you've probably got wasted space sitting on either side of it.
 - [Laxis](https://www.laxis.com) - From back-to-back meetings to high-speed dictation.
+- [Inventory](https://myinventory.site) - Inventory is the private, local index for every Cursor, Claude Code, Zed, Codex and Kiro conversation.
+- [Snapdown](https://snapdown.com.au) - Snapdown turns any part of your Mac screen into structured Markdown, preserving headings, lists, tables, and text instead of flattening everything into plain OCR.
 
 ## 🔎 Search & Discovery
 
@@ -1407,6 +1419,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [EasyCircuit](https://easycircuit.app) - An AI circuit copilot that designs your project and sources the parts automatically — no electrical engineering experience needed.
 - [Tandem](https://tandemspace.com) - Tandem is building an AI-native office leasing brokerage.
 - [Yamanote 3D](https://yamanote-3d.com) - Yamanote 3D is a free browser experience inspired by Tokyo’s Yamanote Line.
+- [Hand Wave](https://handwave.sh) - Hand Wave turns sign language into text and speech using the camera on Meta smart glasses.
+- [Plethora](https://plethora.studio) - Plethora is a platform for interactive content: a feed where micro-experiences live.
 
 ## Contributing
 
