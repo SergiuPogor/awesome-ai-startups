@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (110)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (156)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (242)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (111)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (157)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (244)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (75)
 - [🎬 Video & Animation](#video-animation) (57)
 - [🎨 Image, Design & 3D](#image-design-3d) (73)
 - [✍️ Writing & Content](#writing-content) (47)
 - [📊 Analytics & Data](#analytics-data) (66)
-- [🗂 Productivity & Notes](#productivity-notes) (155)
-- [🔎 Search & Discovery](#search-discovery) (30)
+- [🗂 Productivity & Notes](#productivity-notes) (157)
+- [🔎 Search & Discovery](#search-discovery) (31)
 - [🎓 Education & Learning](#education-learning) (25)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (26)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (34)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (104)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (35)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (107)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (25)
 - [👥 Social & Community](#social-community) (14)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
-- [✨ Everything Else](#everything-else) (100)
+- [✨ Everything Else](#everything-else) (102)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -138,6 +138,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AI Search Console](https://search-console.ai) - AI Search Console helps SEO and GEO teams replace manual AI visibility checks with repeatable data.
 - [Cleanlist AI](https://www.cleanlist.ai) - Cleanlist AI turns any prospecting input into a verified, enriched, CRM-ready lead list.
 - [NudgeForMe](https://nudgeforme.com) - NudgeForMe scans your sent conversations, finds threads where someone never replied, and drafts natural follow-ups inside your own mailbox.
+- [AdAnt AI](https://adant.ai) - AdAnt AI is a team of Creative Agents that handles Social Ad Strategy, Creation, and Iteration.
 
 ## 🤖 AI Agents & Assistants
 
@@ -297,6 +298,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Kopai](https://usekopai.com) - Kopai turns your expertise into an AI agent you can sell, priced per message instead of per hour.
 - [Zinley](https://zinley.com) - Most AI waits inside a chat.
 - [AgentSky](https://agentsky.dev) - Managed agent as a service: launch a long-horizon AI agent in one click — Claude Code, Codex, Hermes, or OpenClaw — with full history, managed recovery, and access through WhatsApp, iMessage,….
+- [Keystroke](https://keystroke.ai) - Keystroke is an all-in-one platform for building powerful AI agents.
 
 ## 💻 Coding & Developer Tools
 
@@ -543,6 +545,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Murmell](https://murmell.com) - Murmell is a shared cloud canvas where your team and AI agents work in the same room, on the same repo, with a preview and more coming in the future.
 - [mpai](https://godfaddaai.github.io/multiplayer-ai/) - Open-source terminal multiplayer for Codex and Claude Code.
 - [Vibe Buddy](https://vibe-buddy.byvova.com) - Vibe Buddy is a small desktop robot that keeps Codex and Claude Code usage limits and task status visible while you work.
+- [Capacity](https://capacity.so) - Build anything.
+- [Kiro](https://kiro.dev) - Kiro helps developers and teams do their best work: turn prompts into executable specs, validate code correctness to find bugs unit tests miss, and build across large codebases with parallel….
 
 ## 🎙 Audio, Voice & Music
 
@@ -1036,6 +1040,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Domo](https://howto.plow.co/domo) - Domo is a purpose-built agent that keeps your family calendar.
 - [Glasp MCP Connector](https://glasp.co/mcp) - Connect Glasp to Claude and ChatGPT as an MCP server.
 - [Hey Noah](https://heynoah.io) - Noah is a proactive AI executive assistant for founders.
+- [Hansel](https://hansel.so) - Hansel helps you remember what you worked on, find past context, and answer questions about your workday.
+- [StepGrab](https://stepgrab.net) - Documenting a workflow means screenshots, cropping, arrows, and typing out every step.
 
 ## 🔎 Search & Discovery
 
@@ -1069,6 +1075,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [YC has it](https://ychasit.com) - Describe your problem in plain English.
 - [SF Apartment Finder](https://cribs.context.dev) - Criblist turns SF apartment hunting into a swipeable deck.
 - [Webhound](https://webhound.ai) - Webhound builds long-running AI research agents that scale quality with time and budget.
+- [NextDoor.Company](https://www.nextdoor.company) - Find startups hiring near you, on a map.
 
 ## 🎓 Education & Learning
 
@@ -1164,6 +1171,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [UniwebPay Skill](https://skill.uniwebpay.com) - Accept payments the moment you ship.
 - [Finamie](https://finamie.com) - Finamie turns your voice into detailed financial insights, automatically.
 - [Driven](https://driven.ai) - Driven is an AI investment agent that turns market insight into action, not just answers.
+- [X Money](https://money.x.com) - One app, everything money can do: earn industry-leading APY, get cashback with the X Card, and send money instantly on X.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1271,6 +1279,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [TraceLLM](https://tracellm.in) - Tracellm is an observability platform for production AI applications.
 - [Scam AI](https://www.scam.ai) - API-first solution combining NLP/visual/audio authentication.
 - [Atlaso](https://www.atlaso.ai) - Atlaso is a memory layer for AI.
+- [Aegisora](https://aegisora-ai.vercel.app) - Stop selling abstract "AI safety".
+- [BackEngine MCP](https://www.backengine.com) - Most companies wire Claude or ChatGPT into Slack, email, calls, tickets, and their CRM over one singular MCP.
+- [ngrok AI Gateway](https://ngrok.ai) - ngrok AI Gateway provides one hosted gateway for every model: public providers, custom endpoints, and the models you run yourself.
 
 ## 💬 Chatbots & Conversational
 
@@ -1436,6 +1447,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Yamanote 3D](https://yamanote-3d.com) - Yamanote 3D is a free browser experience inspired by Tokyo’s Yamanote Line.
 - [Hand Wave](https://handwave.sh) - Hand Wave turns sign language into text and speech using the camera on Meta smart glasses.
 - [Plethora](https://plethora.studio) - Plethora is a platform for interactive content: a feed where micro-experiences live.
+- [Keytones](https://www.subclassed.com/keytones/keyboard-sounds-and-effects.html) - Ever typed a whole sentence in caps before noticing?.
+- [Dover](https://dover.com) - Dover is the all-in-one recruiting solution for startups — combining a marketplace of top fractional recruiters with a free ATS and sourcing toolkit built for early-stage teams.
 
 ## Contributing
 
