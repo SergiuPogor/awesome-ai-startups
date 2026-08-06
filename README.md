@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (111)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (112)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (157)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (244)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (245)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (75)
 - [🎬 Video & Animation](#video-animation) (57)
 - [🎨 Image, Design & 3D](#image-design-3d) (73)
-- [✍️ Writing & Content](#writing-content) (47)
+- [✍️ Writing & Content](#writing-content) (48)
 - [📊 Analytics & Data](#analytics-data) (66)
-- [🗂 Productivity & Notes](#productivity-notes) (157)
+- [🗂 Productivity & Notes](#productivity-notes) (158)
 - [🔎 Search & Discovery](#search-discovery) (31)
 - [🎓 Education & Learning](#education-learning) (25)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (26)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (35)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (107)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (25)
-- [👥 Social & Community](#social-community) (14)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (109)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (26)
+- [👥 Social & Community](#social-community) (15)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
-- [✨ Everything Else](#everything-else) (102)
+- [✨ Everything Else](#everything-else) (103)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -139,6 +139,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Cleanlist AI](https://www.cleanlist.ai) - Cleanlist AI turns any prospecting input into a verified, enriched, CRM-ready lead list.
 - [NudgeForMe](https://nudgeforme.com) - NudgeForMe scans your sent conversations, finds threads where someone never replied, and drafts natural follow-ups inside your own mailbox.
 - [AdAnt AI](https://adant.ai) - AdAnt AI is a team of Creative Agents that handles Social Ad Strategy, Creation, and Iteration.
+- [UCP Radar](https://ucpradar.com) - Your titles and descriptions were probably never written to Google's spec.
 
 ## 🤖 AI Agents & Assistants
 
@@ -547,6 +548,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Vibe Buddy](https://vibe-buddy.byvova.com) - Vibe Buddy is a small desktop robot that keeps Codex and Claude Code usage limits and task status visible while you work.
 - [Capacity](https://capacity.so) - Build anything.
 - [Kiro](https://kiro.dev) - Kiro helps developers and teams do their best work: turn prompts into executable specs, validate code correctness to find bugs unit tests miss, and build across large codebases with parallel….
+- [Annotate](https://xannotate.com) - Record your screen, point by drawing and speak, and hand it off to AI agent.
 
 ## 🎙 Audio, Voice & Music
 
@@ -812,6 +814,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Forgeon](https://forgeon.art) - Every generation reinvents the way stories are told.
 - [Epilude](https://epilude.com) - Hold a key, speak, release: polished text lands in any app on your Mac.
 - [Doxy](https://trydoxy.com) - Doxy is a browser-based editor for creating clean, professional documents with Markdown and HTML without the complexity of LaTeX or the frustration of compile times.
+- [Aveiro](https://aveiro.app) - Aveiro is an AI-native publishing platform for sites, blogs, newsletters, and social media.
 
 ## 📊 Analytics & Data
 
@@ -1042,6 +1045,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Hey Noah](https://heynoah.io) - Noah is a proactive AI executive assistant for founders.
 - [Hansel](https://hansel.so) - Hansel helps you remember what you worked on, find past context, and answer questions about your workday.
 - [StepGrab](https://stepgrab.net) - Documenting a workflow means screenshots, cropping, arrows, and typing out every step.
+- [Chute](https://chute.fyi) - Chute transforms your Mac's notch into a portal directly to your iPhone.
 
 ## 🔎 Search & Discovery
 
@@ -1282,6 +1286,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Aegisora](https://aegisora-ai.vercel.app) - Stop selling abstract "AI safety".
 - [BackEngine MCP](https://www.backengine.com) - Most companies wire Claude or ChatGPT into Slack, email, calls, tickets, and their CRM over one singular MCP.
 - [ngrok AI Gateway](https://ngrok.ai) - ngrok AI Gateway provides one hosted gateway for every model: public providers, custom endpoints, and the models you run yourself.
+- [Token Harbor](https://tokenharbor.ai) - Access GPT, Claude, Gemini, DeepSeek, Kimi and other frontier AI models through one OpenAI-compatible API.
+- [Website to Markdown API](https://exabase.io/tools/website-to-markdown) - Submit any URL, get clean Markdown back.
 
 ## 💬 Chatbots & Conversational
 
@@ -1310,6 +1316,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Leaping AI](https://leapingai.com) - We allow companies that operate in the physical world (home remodeling, roofing, trades) to automate inbound and outbound calling & texting and run multi-threaded campaigns spanning several weeks.
 - [Cekura](https://www.cekura.ai) - Cekura enables Conversational AI teams to automate QA across the entire agent lifecycle—from pre-production simulation and evaluation to monitoring of production calls.
 - [Bolcho AI](https://bolchoai.in) - Bolcho AI is an AI voice platform that helps businesses build, deploy and scale multilingual AI phone and web agents.
+- [Ticketdesk AI](https://ticketdesk.ai) - Transform your customer support with AI-powered automation.
 
 ## 👥 Social & Community
 
@@ -1327,6 +1334,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Cercle](https://cercle.me) - Cercle is conquering the loneliness epidemic by bringing back connections with the people that matter most.
 - [YourSitee](https://yoursit.ee) - YourSitee turns your scattered online presence into one visual page that feels like you, not another list of buttons.
 - [Snipplet](https://snipplet.com) - Most travel tools help you plan trips.
+- [hey postcard - digital postcards](https://heypostcard.com) - Hey Postcard is a slow messaging app for people who matter.
 
 ## 🛒 E-commerce & Retail
 
@@ -1449,6 +1457,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Plethora](https://plethora.studio) - Plethora is a platform for interactive content: a feed where micro-experiences live.
 - [Keytones](https://www.subclassed.com/keytones/keyboard-sounds-and-effects.html) - Ever typed a whole sentence in caps before noticing?.
 - [Dover](https://dover.com) - Dover is the all-in-one recruiting solution for startups — combining a marketplace of top fractional recruiters with a free ATS and sourcing toolkit built for early-stage teams.
+- [Rippling](http://www.rippling.com) - HR, IT, and Finance data all on one platform, so AI can answer questions, automate work, and help teams get more done.
 
 ## Contributing
 
