@@ -8,23 +8,23 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (112)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (157)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (245)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (158)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (249)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (75)
 - [🎬 Video & Animation](#video-animation) (57)
 - [🎨 Image, Design & 3D](#image-design-3d) (73)
-- [✍️ Writing & Content](#writing-content) (48)
+- [✍️ Writing & Content](#writing-content) (50)
 - [📊 Analytics & Data](#analytics-data) (66)
-- [🗂 Productivity & Notes](#productivity-notes) (158)
+- [🗂 Productivity & Notes](#productivity-notes) (163)
 - [🔎 Search & Discovery](#search-discovery) (31)
 - [🎓 Education & Learning](#education-learning) (25)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (26)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (35)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (109)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (110)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (26)
 - [👥 Social & Community](#social-community) (15)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
-- [✨ Everything Else](#everything-else) (103)
+- [✨ Everything Else](#everything-else) (104)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -300,6 +300,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Zinley](https://zinley.com) - Most AI waits inside a chat.
 - [AgentSky](https://agentsky.dev) - Managed agent as a service: launch a long-horizon AI agent in one click — Claude Code, Codex, Hermes, or OpenClaw — with full history, managed recovery, and access through WhatsApp, iMessage,….
 - [Keystroke](https://keystroke.ai) - Keystroke is an all-in-one platform for building powerful AI agents.
+- [Soloop](https://www.soloop.io) - Soloop is an agentic company-building system for solo founders.
 
 ## 💻 Coding & Developer Tools
 
@@ -549,6 +550,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Capacity](https://capacity.so) - Build anything.
 - [Kiro](https://kiro.dev) - Kiro helps developers and teams do their best work: turn prompts into executable specs, validate code correctness to find bugs unit tests miss, and build across large codebases with parallel….
 - [Annotate](https://xannotate.com) - Record your screen, point by drawing and speak, and hand it off to AI agent.
+- [Whop CLI](https://whop.sh) - Everything you can do from your Whop dashboard now runs from a terminal.
+- [Merge](https://mergeoa.com) - Merge is a online code review assessment that helps engineering teams assess engineering judgement.
+- [Crew](https://crew-deskmates.vercel.app/crew/) - Crew gives every Claude Code chat and subagent a body: a little pixel monster that walks along the bottom of your screen, digs while it works, sleeps when it's idle, and waves when it's done.
+- [Coldtea.ai](https://coldtea.ai) - The faster your team ships with AI, the harder it becomes to keep production stable.
 
 ## 🎙 Audio, Voice & Music
 
@@ -815,6 +820,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Epilude](https://epilude.com) - Hold a key, speak, release: polished text lands in any app on your Mac.
 - [Doxy](https://trydoxy.com) - Doxy is a browser-based editor for creating clean, professional documents with Markdown and HTML without the complexity of LaTeX or the frustration of compile times.
 - [Aveiro](https://aveiro.app) - Aveiro is an AI-native publishing platform for sites, blogs, newsletters, and social media.
+- [StepShot](https://stepshot.app) - StepShot is an AI-powered documentation tool that turns real on-screen workflows into polished step-by-step guides as you work.
+- [Alconost Localization Lab](https://alconost.com) - Alconost is a tech-driven localization company building an ecosystem of products around localization and QA.
 
 ## 📊 Analytics & Data
 
@@ -1046,6 +1053,11 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Hansel](https://hansel.so) - Hansel helps you remember what you worked on, find past context, and answer questions about your workday.
 - [StepGrab](https://stepgrab.net) - Documenting a workflow means screenshots, cropping, arrows, and typing out every step.
 - [Chute](https://chute.fyi) - Chute transforms your Mac's notch into a portal directly to your iPhone.
+- [Prompt Bridge](https://www.promptbridge.co) - Prompt Bridge is the free Chrome extension that carries your full AI conversation context across all major AI platforms — never restart a thread again.
+- [AndroMeld](https://andromeld.catchingnow.com) - AndroMeld brings a Continuity-style experience to Android and Mac.
+- [Troopr AI Scrum Master](https://www.troopr.ai/check-ins) - Troopr joins your standup, writes each person's update from real Jira, GitHub, and Slack activity, and flags what doesn't add up.
+- [browserOS](https://wagmios.vercel.app) - An OS for the browser's which can interact with the internet as well as retaining all the native OS features inside of the browser.
+- [Rindler](https://rindler.ai) - Rindler automates the repetitive web work your team still does by hand.
 
 ## 🔎 Search & Discovery
 
@@ -1288,6 +1300,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ngrok AI Gateway](https://ngrok.ai) - ngrok AI Gateway provides one hosted gateway for every model: public providers, custom endpoints, and the models you run yourself.
 - [Token Harbor](https://tokenharbor.ai) - Access GPT, Claude, Gemini, DeepSeek, Kimi and other frontier AI models through one OpenAI-compatible API.
 - [Website to Markdown API](https://exabase.io/tools/website-to-markdown) - Submit any URL, get clean Markdown back.
+- [Progress AI Observability](https://www.telerik.com/ai-observability-platform) - Debug and monitor AI agent failures in minutes.
 
 ## 💬 Chatbots & Conversational
 
@@ -1458,6 +1471,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Keytones](https://www.subclassed.com/keytones/keyboard-sounds-and-effects.html) - Ever typed a whole sentence in caps before noticing?.
 - [Dover](https://dover.com) - Dover is the all-in-one recruiting solution for startups — combining a marketplace of top fractional recruiters with a free ATS and sourcing toolkit built for early-stage teams.
 - [Rippling](http://www.rippling.com) - HR, IT, and Finance data all on one platform, so AI can answer questions, automate work, and help teams get more done.
+- [DataBlur](https://datablur.app) - DataBlur blurs sensitive data on your screen in real time — during live calls, demos and recordings.
 
 ## Contributing
 
