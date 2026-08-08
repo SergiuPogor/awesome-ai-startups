@@ -7,7 +7,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (112)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (113)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (158)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (249)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (75)
@@ -17,10 +17,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [📊 Analytics & Data](#analytics-data) (66)
 - [🗂 Productivity & Notes](#productivity-notes) (163)
 - [🔎 Search & Discovery](#search-discovery) (31)
-- [🎓 Education & Learning](#education-learning) (25)
+- [🎓 Education & Learning](#education-learning) (26)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (26)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (35)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (110)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (112)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (26)
 - [👥 Social & Community](#social-community) (15)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
@@ -140,6 +140,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [NudgeForMe](https://nudgeforme.com) - NudgeForMe scans your sent conversations, finds threads where someone never replied, and drafts natural follow-ups inside your own mailbox.
 - [AdAnt AI](https://adant.ai) - AdAnt AI is a team of Creative Agents that handles Social Ad Strategy, Creation, and Iteration.
 - [UCP Radar](https://ucpradar.com) - Your titles and descriptions were probably never written to Google's spec.
+- [The GTM Co-Founder](https://gtmcofounder.com) - Most AI hands dev-tool founders the same generic sales and marketing advice.
 
 ## 🤖 AI Agents & Assistants
 
@@ -1121,6 +1122,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Kyrifix Dictionary](https://kyrifix.com/dictionary/) - Kyrifix Dictionary provides hover and selected-text translation, OCR screenshot lookup, writing actions, history, and vocabulary review across Mac, iPhone, and iPad.
 - [Yokoso](https://yokosoapp.com) - Free Japanese learning for real life in Japan.
 - [Wondering](https://wondering.app) - Wondering is the most delightful way to break down complex topics into knowledge you can remember and apply.
+- [AstraPixels](https://astrapixels.com) - An animated pixel-art map of the solar system with every body at its real current position, computed from published orbital elements rather than copied from a list.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1301,6 +1303,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Token Harbor](https://tokenharbor.ai) - Access GPT, Claude, Gemini, DeepSeek, Kimi and other frontier AI models through one OpenAI-compatible API.
 - [Website to Markdown API](https://exabase.io/tools/website-to-markdown) - Submit any URL, get clean Markdown back.
 - [Progress AI Observability](https://www.telerik.com/ai-observability-platform) - Debug and monitor AI agent failures in minutes.
+- [Toolport](https://toolport.app) - Your agent got slower the more MCP servers you added, and it's not the model.
+- [Bevel](https://www.bevel.software) - We're building the infrastructure for deploying AI agents in enterprises.
 
 ## 💬 Chatbots & Conversational
 
