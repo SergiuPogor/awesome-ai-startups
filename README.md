@@ -7,20 +7,20 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (113)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (158)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (249)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (114)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (160)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (250)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (75)
 - [🎬 Video & Animation](#video-animation) (57)
 - [🎨 Image, Design & 3D](#image-design-3d) (73)
 - [✍️ Writing & Content](#writing-content) (50)
 - [📊 Analytics & Data](#analytics-data) (66)
-- [🗂 Productivity & Notes](#productivity-notes) (163)
+- [🗂 Productivity & Notes](#productivity-notes) (166)
 - [🔎 Search & Discovery](#search-discovery) (31)
-- [🎓 Education & Learning](#education-learning) (26)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (26)
+- [🎓 Education & Learning](#education-learning) (27)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (28)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (35)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (112)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (113)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (26)
 - [👥 Social & Community](#social-community) (15)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
@@ -141,6 +141,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AdAnt AI](https://adant.ai) - AdAnt AI is a team of Creative Agents that handles Social Ad Strategy, Creation, and Iteration.
 - [UCP Radar](https://ucpradar.com) - Your titles and descriptions were probably never written to Google's spec.
 - [The GTM Co-Founder](https://gtmcofounder.com) - Most AI hands dev-tool founders the same generic sales and marketing advice.
+- [Conference Grid](https://conferencegrid.com) - Look up any company and see every conference it sponsors, exhibits at, or speaks at — 6,000+ conferences, 62,000 speakers, 55,000 sponsor slots in one graph.
 
 ## 🤖 AI Agents & Assistants
 
@@ -302,6 +303,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AgentSky](https://agentsky.dev) - Managed agent as a service: launch a long-horizon AI agent in one click — Claude Code, Codex, Hermes, or OpenClaw — with full history, managed recovery, and access through WhatsApp, iMessage,….
 - [Keystroke](https://keystroke.ai) - Keystroke is an all-in-one platform for building powerful AI agents.
 - [Soloop](https://www.soloop.io) - Soloop is an agentic company-building system for solo founders.
+- [AgentConnect](https://www.agentconnect.md) - AgentConnect is an open-source platform where teams and AI agents work together across Slack, Telegram, Discord, and GitHub.
+- [Omniwork](https://www.omniwork.ai) - Omniwork is an always-on Creative Agent OS that turns ideas into finished work.
 
 ## 💻 Coding & Developer Tools
 
@@ -555,6 +558,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Merge](https://mergeoa.com) - Merge is a online code review assessment that helps engineering teams assess engineering judgement.
 - [Crew](https://crew-deskmates.vercel.app/crew/) - Crew gives every Claude Code chat and subagent a body: a little pixel monster that walks along the bottom of your screen, digs while it works, sleeps when it's idle, and waves when it's done.
 - [Coldtea.ai](https://coldtea.ai) - The faster your team ships with AI, the harder it becomes to keep production stable.
+- [Soup CLI](https://trysoup.dev) - LoRA keeps the base model frozen: read, never written.
 
 ## 🎙 Audio, Voice & Music
 
@@ -1059,6 +1063,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Troopr AI Scrum Master](https://www.troopr.ai/check-ins) - Troopr joins your standup, writes each person's update from real Jira, GitHub, and Slack activity, and flags what doesn't add up.
 - [browserOS](https://wagmios.vercel.app) - An OS for the browser's which can interact with the internet as well as retaining all the native OS features inside of the browser.
 - [Rindler](https://rindler.ai) - Rindler automates the repetitive web work your team still does by hand.
+- [radiusHQ - Personal Assistant](https://radiushq.cc) - Your services, prices, calendar, payments, and reminders — all in one beautiful page.
+- [Workflo](https://getworkflo.app) - Workflo sets up your Mac automatically — staging the right windows before a call or a focus block, and restoring your layout when displays change.
+- [Persodex](https://persodex.com) - A smarter contacts app that helps you stay in touch with the people who matter.
 
 ## 🔎 Search & Discovery
 
@@ -1123,6 +1130,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Yokoso](https://yokosoapp.com) - Free Japanese learning for real life in Japan.
 - [Wondering](https://wondering.app) - Wondering is the most delightful way to break down complex topics into knowledge you can remember and apply.
 - [AstraPixels](https://astrapixels.com) - An animated pixel-art map of the solar system with every body at its real current position, computed from published orbital elements rather than copied from a list.
+- [Prompt Golf](https://jugalmistry.com/promptgolf/index.php) - Prompt Golf turns prompt engineering into a competitive puzzle game.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1152,6 +1160,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [TouchGrass](https://touchgrass.land) - TouchGrass is a context-aware break reminder built for macOS.
 - [ClinicFrame](https://clinicframe.com) - An ambient AI scribe that writes clinical notes in real time so you can focus on your patient.
 - [Kyrifix Practice](https://kyrifix.com/practice/) - Kyrifix Practice helps lucid dreamers wake gently with private Apple Watch cues, preserve dream recall, attempt still-body re-entry, and review each practice session on iPhone.
+- [Papaya](https://papaya.tepoyan.com) - Papaya listens to you having sex and draws a cartoon about it.
+- [SoloUno](https://solouno.io) - SoloUno helps people take control over body-focused repetitive behaviors (BFRBs) such as hair pulling (trichotillomania), skin picking (dermatillomania), and nail biting.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -1305,6 +1315,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Progress AI Observability](https://www.telerik.com/ai-observability-platform) - Debug and monitor AI agent failures in minutes.
 - [Toolport](https://toolport.app) - Your agent got slower the more MCP servers you added, and it's not the model.
 - [Bevel](https://www.bevel.software) - We're building the infrastructure for deploying AI agents in enterprises.
+- [Proxy Tester by ScrapeOps](https://scrapeops.io/proxy-providers/tester/) - ScrapeOps Proxy Tester is a technical benchmarking platform for developers, scraping teams, data providers, SaaS companies, and AI agents selecting proxy infrastructure.
 
 ## 💬 Chatbots & Conversational
 
