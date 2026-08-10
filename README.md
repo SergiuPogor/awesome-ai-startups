@@ -9,19 +9,19 @@ The goal: make useful indie AI products easier to find, share, and support.
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (114)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (160)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (250)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (75)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (252)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (76)
 - [🎬 Video & Animation](#video-animation) (57)
 - [🎨 Image, Design & 3D](#image-design-3d) (73)
 - [✍️ Writing & Content](#writing-content) (50)
-- [📊 Analytics & Data](#analytics-data) (66)
+- [📊 Analytics & Data](#analytics-data) (67)
 - [🗂 Productivity & Notes](#productivity-notes) (166)
 - [🔎 Search & Discovery](#search-discovery) (31)
 - [🎓 Education & Learning](#education-learning) (27)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (28)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (35)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (113)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (26)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (29)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (36)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (114)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (27)
 - [👥 Social & Community](#social-community) (15)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
 - [✨ Everything Else](#everything-else) (104)
@@ -559,6 +559,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Crew](https://crew-deskmates.vercel.app/crew/) - Crew gives every Claude Code chat and subagent a body: a little pixel monster that walks along the bottom of your screen, digs while it works, sleeps when it's idle, and waves when it's done.
 - [Coldtea.ai](https://coldtea.ai) - The faster your team ships with AI, the harder it becomes to keep production stable.
 - [Soup CLI](https://trysoup.dev) - LoRA keeps the base model frozen: read, never written.
+- [Remix](https://remix.one/product-hunt) - Your whole team, experimenting on the real product.
+- [Paritok](https://www.paritok.com) - Paritok compresses the tools, files, and history your coding agent sends.
 
 ## 🎙 Audio, Voice & Music
 
@@ -637,6 +639,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [gesture.live](https://gesture.live) - Play live electronic music with your hands over a webcam.
 - [yapyap](https://yap-yap.app) - Every meeting recorder ships your audio to the cloud and bills you monthly.
 - [SpeakoFlow](https://speakoflow.com) - SpeakoFlow puts your voice over your whole desktop.
+- [AI Group Call](https://aigroupcall.app) - State a goal and you are in a live voice call with six AI participants cast for it in seconds.
 
 ## 🎬 Video & Animation
 
@@ -897,6 +900,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [space ocr](https://space-ocr.com) - space ocr turns photos of receipts, invoices and forms into a table you can query.
 - [GrowthBook](https://www.growthbook.io) - GrowthBook is the open-source, warehouse-native platform for modern product teams and their AI agents.
 - [Dashi Metrics](https://www.dashimetrics.com) - Watch your business come alive—every visitor and payment mapped in real time on a dynamic 3D globe.
+- [oqoqo](https://oqoqo.ai) - Run eval experiments at scale in realistic environments.
 
 ## 🗂 Productivity & Notes
 
@@ -1162,6 +1166,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Kyrifix Practice](https://kyrifix.com/practice/) - Kyrifix Practice helps lucid dreamers wake gently with private Apple Watch cues, preserve dream recall, attempt still-body re-entry, and review each practice session on iPhone.
 - [Papaya](https://papaya.tepoyan.com) - Papaya listens to you having sex and draws a cartoon about it.
 - [SoloUno](https://solouno.io) - SoloUno helps people take control over body-focused repetitive behaviors (BFRBs) such as hair pulling (trichotillomania), skin picking (dermatillomania), and nail biting.
+- [Vidaya](https://vidaya.ai) - Vidaya turns your wearable data, labs, and habits into a real Healthspan score and a personalized longevity plan.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -1200,6 +1205,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Finamie](https://finamie.com) - Finamie turns your voice into detailed financial insights, automatically.
 - [Driven](https://driven.ai) - Driven is an AI investment agent that turns market insight into action, not just answers.
 - [X Money](https://money.x.com) - One app, everything money can do: earn industry-leading APY, get cashback with the X Card, and send money instantly on X.
+- [Portfolio Lab](https://portfoliolab.ai) - AI made building investment strategies easy.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1316,6 +1322,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Toolport](https://toolport.app) - Your agent got slower the more MCP servers you added, and it's not the model.
 - [Bevel](https://www.bevel.software) - We're building the infrastructure for deploying AI agents in enterprises.
 - [Proxy Tester by ScrapeOps](https://scrapeops.io/proxy-providers/tester/) - ScrapeOps Proxy Tester is a technical benchmarking platform for developers, scraping teams, data providers, SaaS companies, and AI agents selecting proxy infrastructure.
+- [Prime Intellect](https://www.primeintellect.ai) - We're excited to announce our compute platform for aggregating and orchestrating global GPU resources.
 
 ## 💬 Chatbots & Conversational
 
@@ -1345,6 +1352,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Cekura](https://www.cekura.ai) - Cekura enables Conversational AI teams to automate QA across the entire agent lifecycle—from pre-production simulation and evaluation to monitoring of production calls.
 - [Bolcho AI](https://bolchoai.in) - Bolcho AI is an AI voice platform that helps businesses build, deploy and scale multilingual AI phone and web agents.
 - [Ticketdesk AI](https://ticketdesk.ai) - Transform your customer support with AI-powered automation.
+- [Conecto](https://conecto.chat) - Conecto brings live chat, (voice) AI, a shared inbox, CRM, bots, automation, knowledge, and analytics into one workspace.
 
 ## 👥 Social & Community
 
