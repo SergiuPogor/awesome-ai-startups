@@ -8,18 +8,18 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (114)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (160)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (252)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (76)
-- [🎬 Video & Animation](#video-animation) (57)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (163)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (257)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (77)
+- [🎬 Video & Animation](#video-animation) (58)
 - [🎨 Image, Design & 3D](#image-design-3d) (73)
 - [✍️ Writing & Content](#writing-content) (50)
-- [📊 Analytics & Data](#analytics-data) (67)
-- [🗂 Productivity & Notes](#productivity-notes) (166)
+- [📊 Analytics & Data](#analytics-data) (69)
+- [🗂 Productivity & Notes](#productivity-notes) (168)
 - [🔎 Search & Discovery](#search-discovery) (31)
 - [🎓 Education & Learning](#education-learning) (27)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (29)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (36)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (37)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (114)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (27)
 - [👥 Social & Community](#social-community) (15)
@@ -305,6 +305,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Soloop](https://www.soloop.io) - Soloop is an agentic company-building system for solo founders.
 - [AgentConnect](https://www.agentconnect.md) - AgentConnect is an open-source platform where teams and AI agents work together across Slack, Telegram, Discord, and GitHub.
 - [Omniwork](https://www.omniwork.ai) - Omniwork is an always-on Creative Agent OS that turns ideas into finished work.
+- [Gotcha](https://samosa-ai.com/gotcha) - Control your Android phone using natural language.
+- [Octomind – cloud AI agents](https://octomind.run/cloud) - Run AI agents in the cloud — pick a machine, tell it what to do, close your laptop.
+- [BetterClaw](https://www.betterclaw.io) - BetterClaw is a no-code platform for building AI agents that run on a schedule without you.
 
 ## 💻 Coding & Developer Tools
 
@@ -561,6 +564,11 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Soup CLI](https://trysoup.dev) - LoRA keeps the base model frozen: read, never written.
 - [Remix](https://remix.one/product-hunt) - Your whole team, experimenting on the real product.
 - [Paritok](https://www.paritok.com) - Paritok compresses the tools, files, and history your coding agent sends.
+- [AMP by CanyonTechs AI](https://app.canyontechs.ai/signup) - AMP autonomously monitors production logs, detects incidents, and opens a reviewable PR with the fix — no prompting needed.
+- [agent-manager](https://agent-manager.dev) - Run Claude Code, Codex, OpenCode, Gemini CLI, Grok and Pi in one tmux list with live status per session.
+- [Gitar](https://gitar.ai) - Gitar reviews pull requests, diagnoses CI failures, applies fixes, and validates the changes against your pipeline.
+- [bb](https://getbb.app) - bb is an agentic orchestrator GUI, not unlike the Codex app, but it works with any provider: Claude Code, Codex, OpenCode, and more.
+- [Bullet](https://codewithbullet.com) - Bullet is a coding agent built for speed.
 
 ## 🎙 Audio, Voice & Music
 
@@ -640,6 +648,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [yapyap](https://yap-yap.app) - Every meeting recorder ships your audio to the cloud and bills you monthly.
 - [SpeakoFlow](https://speakoflow.com) - SpeakoFlow puts your voice over your whole desktop.
 - [AI Group Call](https://aigroupcall.app) - State a goal and you are in a live voice call with six AI participants cast for it in seconds.
+- [Voice Gecko](https://www.voicegecko.dev) - Instant dictation for desktop.
 
 ## 🎬 Video & Animation
 
@@ -700,6 +709,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Capptivo](https://capptivo.com) - Capptivo is a free, open-source screen recorder and demo editor for macOS, Windows, and Linux.
 - [PassiveShorts](https://passiveshorts.com) - AI faceless video generator that auto-posts to YouTube and TikTok.
 - [Screen Awesome](https://screenawesome.com) - Every screen recorder promises not to misuse your recordings.
+- [Vizard Agent](https://agent.vizard.ai) - Vizard Agent is a general AI video agent built to take on the whole video job.
 
 ## 🎨 Image, Design & 3D
 
@@ -901,6 +911,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [GrowthBook](https://www.growthbook.io) - GrowthBook is the open-source, warehouse-native platform for modern product teams and their AI agents.
 - [Dashi Metrics](https://www.dashimetrics.com) - Watch your business come alive—every visitor and payment mapped in real time on a dynamic 3D globe.
 - [oqoqo](https://oqoqo.ai) - Run eval experiments at scale in realistic environments.
+- [Cerenovus](https://cerenovus.ai) - We ingest information from around your company (documents, communications and databases), and map out your company's workflows, along with the bottlenecks and inefficiencies within those workflows.
+- [Kubit](https://www.kubit.ai) - Kubit helps product engineers optimize AI agents based on real user behavior.
 
 ## 🗂 Productivity & Notes
 
@@ -1070,6 +1082,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [radiusHQ - Personal Assistant](https://radiushq.cc) - Your services, prices, calendar, payments, and reminders — all in one beautiful page.
 - [Workflo](https://getworkflo.app) - Workflo sets up your Mac automatically — staging the right windows before a call or a focus block, and restoring your layout when displays change.
 - [Persodex](https://persodex.com) - A smarter contacts app that helps you stay in touch with the people who matter.
+- [Lexi](https://getlexi.io) - Lexi is the operating system for legal work.
+- [Continuum](https://roland.leth.ro/projects/continuum) - Continuum is a private Mac app for managers.
 
 ## 🔎 Search & Discovery
 
@@ -1206,6 +1220,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Driven](https://driven.ai) - Driven is an AI investment agent that turns market insight into action, not just answers.
 - [X Money](https://money.x.com) - One app, everything money can do: earn industry-leading APY, get cashback with the X Card, and send money instantly on X.
 - [Portfolio Lab](https://portfoliolab.ai) - AI made building investment strategies easy.
+- [Equitybee](https://equitybee.com) - Equitybee enables startup employees own their equity by providing capital to exercise their stock options.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
