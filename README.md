@@ -7,20 +7,20 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (114)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (163)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (257)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (77)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (117)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (164)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (261)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (78)
 - [🎬 Video & Animation](#video-animation) (58)
 - [🎨 Image, Design & 3D](#image-design-3d) (73)
 - [✍️ Writing & Content](#writing-content) (50)
 - [📊 Analytics & Data](#analytics-data) (69)
-- [🗂 Productivity & Notes](#productivity-notes) (168)
-- [🔎 Search & Discovery](#search-discovery) (31)
+- [🗂 Productivity & Notes](#productivity-notes) (171)
+- [🔎 Search & Discovery](#search-discovery) (32)
 - [🎓 Education & Learning](#education-learning) (27)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (29)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (37)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (114)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (38)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (116)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (27)
 - [👥 Social & Community](#social-community) (15)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
@@ -142,6 +142,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [UCP Radar](https://ucpradar.com) - Your titles and descriptions were probably never written to Google's spec.
 - [The GTM Co-Founder](https://gtmcofounder.com) - Most AI hands dev-tool founders the same generic sales and marketing advice.
 - [Conference Grid](https://conferencegrid.com) - Look up any company and see every conference it sponsors, exhibits at, or speaks at — 6,000+ conferences, 62,000 speakers, 55,000 sponsor slots in one graph.
+- [Swipe](https://swipe.agently.dev) - Type who you sell to.
+- [Lettertrace](https://lettertrace.com) - Lettertrace measures how often Claude, ChatGPT, and Gemini mention your company.
+- [One Small Prompt](https://onesmallprompt.com) - One Small Prompt is a free, private workshop for people with a rough idea—or no idea yet.
 
 ## 🤖 AI Agents & Assistants
 
@@ -308,6 +311,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Gotcha](https://samosa-ai.com/gotcha) - Control your Android phone using natural language.
 - [Octomind – cloud AI agents](https://octomind.run/cloud) - Run AI agents in the cloud — pick a machine, tell it what to do, close your laptop.
 - [BetterClaw](https://www.betterclaw.io) - BetterClaw is a no-code platform for building AI agents that run on a schedule without you.
+- [Sidekick™](https://sidekick-os.online) - The next big interface for your Mac and the agentic layer for your entire organisation.
 
 ## 💻 Coding & Developer Tools
 
@@ -569,6 +573,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Gitar](https://gitar.ai) - Gitar reviews pull requests, diagnoses CI failures, applies fixes, and validates the changes against your pipeline.
 - [bb](https://getbb.app) - bb is an agentic orchestrator GUI, not unlike the Codex app, but it works with any provider: Claude Code, Codex, OpenCode, and more.
 - [Bullet](https://codewithbullet.com) - Bullet is a coding agent built for speed.
+- [Trigger.dev](https://trigger.dev) - Trigger.dev is the platform for building AI workflows in TypeScript. Long-running tasks with retries, queues, observability, and elastic scaling.
+- [CodeBurn](https://www.codeburn.app) - CodeBurn is a free, open-source tracker for AI coding costs.
+- [Argos](https://argos-ci.com) - Argos CI makes visual regression testing a breeze by ensuring every pixel is perfect before your code reaches production.
+- [LaraCopilot](https://laracopilot.com) - LaraCopilot is an agentic AI engineer that builds real, production-ready apps.
 
 ## 🎙 Audio, Voice & Music
 
@@ -649,6 +657,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SpeakoFlow](https://speakoflow.com) - SpeakoFlow puts your voice over your whole desktop.
 - [AI Group Call](https://aigroupcall.app) - State a goal and you are in a live voice call with six AI participants cast for it in seconds.
 - [Voice Gecko](https://www.voicegecko.dev) - Instant dictation for desktop.
+- [Dograh](https://dograh.com) - Closed voice platforms make you rent your own agents.
 
 ## 🎬 Video & Animation
 
@@ -1084,6 +1093,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Persodex](https://persodex.com) - A smarter contacts app that helps you stay in touch with the people who matter.
 - [Lexi](https://getlexi.io) - Lexi is the operating system for legal work.
 - [Continuum](https://roland.leth.ro/projects/continuum) - Continuum is a private Mac app for managers.
+- [Ballet](https://ballet.dev) - Ballet lets operations teams automate their hardest business problems in minutes.
+- [BearDrive](https://beardrive.ai) - Your AI agents create real files locally: reports, decks, CSVs, research.
+- [Assembly](https://studio.assembly.com) - Create remarkable customer experiences with Assembly.
 
 ## 🔎 Search & Discovery
 
@@ -1118,6 +1130,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SF Apartment Finder](https://cribs.context.dev) - Criblist turns SF apartment hunting into a swipeable deck.
 - [Webhound](https://webhound.ai) - Webhound builds long-running AI research agents that scale quality with time and budget.
 - [NextDoor.Company](https://www.nextdoor.company) - Find startups hiring near you, on a map.
+- [Click](https://useclick.ai) - Click is an MCP that provides extensive research connectors to give external context that the built-in web search misses.
 
 ## 🎓 Education & Learning
 
@@ -1221,6 +1234,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [X Money](https://money.x.com) - One app, everything money can do: earn industry-leading APY, get cashback with the X Card, and send money instantly on X.
 - [Portfolio Lab](https://portfoliolab.ai) - AI made building investment strategies easy.
 - [Equitybee](https://equitybee.com) - Equitybee enables startup employees own their equity by providing capital to exercise their stock options.
+- [tash](https://www.tash.cards) - tash gives investors access to professionally curated portfolios of high-end graded trading cards.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1338,6 +1352,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Bevel](https://www.bevel.software) - We're building the infrastructure for deploying AI agents in enterprises.
 - [Proxy Tester by ScrapeOps](https://scrapeops.io/proxy-providers/tester/) - ScrapeOps Proxy Tester is a technical benchmarking platform for developers, scraping teams, data providers, SaaS companies, and AI agents selecting proxy infrastructure.
 - [Prime Intellect](https://www.primeintellect.ai) - We're excited to announce our compute platform for aggregating and orchestrating global GPU resources.
+- [Cohesor](https://www.cohesor.com) - Cohesor is the neutral control plane for AI agents.
+- [Unsloth](https://unsloth.ai) - Open-source running and training of AI models and LLMs.
 
 ## 💬 Chatbots & Conversational
 
