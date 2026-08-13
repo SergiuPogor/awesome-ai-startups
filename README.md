@@ -8,19 +8,19 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (117)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (164)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (261)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (165)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (265)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (78)
-- [🎬 Video & Animation](#video-animation) (58)
-- [🎨 Image, Design & 3D](#image-design-3d) (73)
-- [✍️ Writing & Content](#writing-content) (50)
-- [📊 Analytics & Data](#analytics-data) (69)
-- [🗂 Productivity & Notes](#productivity-notes) (171)
-- [🔎 Search & Discovery](#search-discovery) (32)
-- [🎓 Education & Learning](#education-learning) (27)
+- [🎬 Video & Animation](#video-animation) (59)
+- [🎨 Image, Design & 3D](#image-design-3d) (74)
+- [✍️ Writing & Content](#writing-content) (51)
+- [📊 Analytics & Data](#analytics-data) (70)
+- [🗂 Productivity & Notes](#productivity-notes) (173)
+- [🔎 Search & Discovery](#search-discovery) (33)
+- [🎓 Education & Learning](#education-learning) (28)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (29)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (38)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (116)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (118)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (27)
 - [👥 Social & Community](#social-community) (15)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
@@ -312,6 +312,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Octomind – cloud AI agents](https://octomind.run/cloud) - Run AI agents in the cloud — pick a machine, tell it what to do, close your laptop.
 - [BetterClaw](https://www.betterclaw.io) - BetterClaw is a no-code platform for building AI agents that run on a schedule without you.
 - [Sidekick™](https://sidekick-os.online) - The next big interface for your Mac and the agentic layer for your entire organisation.
+- [Coarena by Coasty](https://coarena.ai) - Coarena lets AI agents compete on real computer tasks, not synthetic benchmarks.
 
 ## 💻 Coding & Developer Tools
 
@@ -577,6 +578,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [CodeBurn](https://www.codeburn.app) - CodeBurn is a free, open-source tracker for AI coding costs.
 - [Argos](https://argos-ci.com) - Argos CI makes visual regression testing a breeze by ensuring every pixel is perfect before your code reaches production.
 - [LaraCopilot](https://laracopilot.com) - LaraCopilot is an agentic AI engineer that builds real, production-ready apps.
+- [Caveman](https://caveman.so) - One command wraps Claude Code, Codex, Hermes, and more with a local proxy that compresses logs, tool output, and files before every provider call.
+- [Skilldocs](https://skilldocs.dev) - Open a skill, and everyone is in it at once - real cursors, inline comments, and an editor that renders as you type.
+- [Ito](https://ito.ai) - Ito is an AI code review tool that runs your app before it reviews the code.
+- [TestMu AI](http://www.testmuai.com) - TestMu AI is a Full Stack Agentic AI Quality Engineering platform that helps teams test intelligently and ship faster.
 
 ## 🎙 Audio, Voice & Music
 
@@ -719,6 +724,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PassiveShorts](https://passiveshorts.com) - AI faceless video generator that auto-posts to YouTube and TikTok.
 - [Screen Awesome](https://screenawesome.com) - Every screen recorder promises not to misuse your recordings.
 - [Vizard Agent](https://agent.vizard.ai) - Vizard Agent is a general AI video agent built to take on the whole video job.
+- [Qencode](https://cloud.qencode.com) - Qencode is a cloud video services provider that offers video transcoding, live streaming, media storage, content delivery and many other video APIs.
 
 ## 🎨 Image, Design & 3D
 
@@ -796,6 +802,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MascotAI](https://www.appmascot.ai) - Hey hunters!.
 - [Ctruh Studio](https://www.ctruh.com/products/studio) - Ctruh Studio is an AI-powered no-code platform that lets anyone create, customise and publish interactive 3D experiences for websites.
 - [SVG Editor - Vector Designer](https://www.vectordesigner.info) - SVG Editor - Vector Designer is a native vector graphics editor for Mac.
+- [Kitbitz](https://kitbitz.art) - A free CC0 library of 2,000+ hand-drawn assets across 13 themed kits.
 
 ## ✍️ Writing & Content
 
@@ -849,6 +856,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Aveiro](https://aveiro.app) - Aveiro is an AI-native publishing platform for sites, blogs, newsletters, and social media.
 - [StepShot](https://stepshot.app) - StepShot is an AI-powered documentation tool that turns real on-screen workflows into polished step-by-step guides as you work.
 - [Alconost Localization Lab](https://alconost.com) - Alconost is a tech-driven localization company building an ecosystem of products around localization and QA.
+- [FluidDocs](https://fluiddocs.ai) - FluidDocs are interactive HTML documents that keep working after you hit send.
 
 ## 📊 Analytics & Data
 
@@ -922,6 +930,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [oqoqo](https://oqoqo.ai) - Run eval experiments at scale in realistic environments.
 - [Cerenovus](https://cerenovus.ai) - We ingest information from around your company (documents, communications and databases), and map out your company's workflows, along with the bottlenecks and inefficiencies within those workflows.
 - [Kubit](https://www.kubit.ai) - Kubit helps product engineers optimize AI agents based on real user behavior.
+- [Human Behavior](https://humanbehavior.co) - Dashboards are where insights go to die.
 
 ## 🗂 Productivity & Notes
 
@@ -1096,6 +1105,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Ballet](https://ballet.dev) - Ballet lets operations teams automate their hardest business problems in minutes.
 - [BearDrive](https://beardrive.ai) - Your AI agents create real files locally: reports, decks, CSVs, research.
 - [Assembly](https://studio.assembly.com) - Create remarkable customer experiences with Assembly.
+- [Mem](https://mem.ai) - Meet the easiest way to remember things.
+- [Oasis](https://joinoasis.com) - An intelligent workspace for you, all your agents, and your team.
 
 ## 🔎 Search & Discovery
 
@@ -1131,6 +1142,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Webhound](https://webhound.ai) - Webhound builds long-running AI research agents that scale quality with time and budget.
 - [NextDoor.Company](https://www.nextdoor.company) - Find startups hiring near you, on a map.
 - [Click](https://useclick.ai) - Click is an MCP that provides extensive research connectors to give external context that the built-in web search misses.
+- [WebBrain](https://webbrain.one) - Your browser, your models, your data.
 
 ## 🎓 Education & Learning
 
@@ -1162,6 +1174,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Wondering](https://wondering.app) - Wondering is the most delightful way to break down complex topics into knowledge you can remember and apply.
 - [AstraPixels](https://astrapixels.com) - An animated pixel-art map of the solar system with every body at its real current position, computed from published orbital elements rather than copied from a list.
 - [Prompt Golf](https://jugalmistry.com/promptgolf/index.php) - Prompt Golf turns prompt engineering into a competitive puzzle game.
+- [Scrimba](https://scrimba.com/?via=producthunt) - Whether you're just starting out or levelling up your coding skills, we're here to help you shine.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1354,6 +1367,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Prime Intellect](https://www.primeintellect.ai) - We're excited to announce our compute platform for aggregating and orchestrating global GPU resources.
 - [Cohesor](https://www.cohesor.com) - Cohesor is the neutral control plane for AI agents.
 - [Unsloth](https://unsloth.ai) - Open-source running and training of AI models and LLMs.
+- [Execlave](https://www.execlave.com) - Execlave is an AI Agent Governance and Enforcement platform (runtime AMP) that sits between autonomous agents and your real systems, enforcing policy before every action instead of after incidents.
+- [Nuphos](https://nuphos.ai) - Nuphos gives engineering teams a shared environment where AI agents can learn your infrastructure, investigate issues, and operate production systems.
 
 ## 💬 Chatbots & Conversational
 
