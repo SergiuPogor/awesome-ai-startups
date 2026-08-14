@@ -7,18 +7,18 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (117)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (118)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (165)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (265)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (78)
-- [🎬 Video & Animation](#video-animation) (59)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (269)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (79)
+- [🎬 Video & Animation](#video-animation) (61)
 - [🎨 Image, Design & 3D](#image-design-3d) (74)
 - [✍️ Writing & Content](#writing-content) (51)
 - [📊 Analytics & Data](#analytics-data) (70)
-- [🗂 Productivity & Notes](#productivity-notes) (173)
+- [🗂 Productivity & Notes](#productivity-notes) (177)
 - [🔎 Search & Discovery](#search-discovery) (33)
 - [🎓 Education & Learning](#education-learning) (28)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (29)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (31)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (38)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (118)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (27)
@@ -145,6 +145,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Swipe](https://swipe.agently.dev) - Type who you sell to.
 - [Lettertrace](https://lettertrace.com) - Lettertrace measures how often Claude, ChatGPT, and Gemini mention your company.
 - [One Small Prompt](https://onesmallprompt.com) - One Small Prompt is a free, private workshop for people with a rough idea—or no idea yet.
+- [Outcome](https://www.outcomeapp.ai) - Outcome helps creators turn their content and expertise into personalized funnels that listen, understand, and deliver a useful outcome to every lead.
 
 ## 🤖 AI Agents & Assistants
 
@@ -582,6 +583,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Skilldocs](https://skilldocs.dev) - Open a skill, and everyone is in it at once - real cursors, inline comments, and an editor that renders as you type.
 - [Ito](https://ito.ai) - Ito is an AI code review tool that runs your app before it reviews the code.
 - [TestMu AI](http://www.testmuai.com) - TestMu AI is a Full Stack Agentic AI Quality Engineering platform that helps teams test intelligently and ship faster.
+- [Port22](https://tryport22.com) - I'd start a long agent run, walk away, and come back to find it had spent 20 minutes waiting on me to approve one file edit.
+- [Hoplite](https://hoplite.sh) - Hoplite deploys your local coding agent setup to the cloud, no reconfiguration needed.
+- [Munder Difflin](https://munderdiffl.in) - [Open-Source] Local Multi Agent Harness that wraps around coding agents you already pay for like Claude Code and Codex to run an office of forever running agents working for you 24/7 in "the….
+- [Freebuff](https://freebuff.com) - Freebuff is a free coding agent that gives you access to the best open source models.
 
 ## 🎙 Audio, Voice & Music
 
@@ -663,6 +668,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AI Group Call](https://aigroupcall.app) - State a goal and you are in a live voice call with six AI participants cast for it in seconds.
 - [Voice Gecko](https://www.voicegecko.dev) - Instant dictation for desktop.
 - [Dograh](https://dograh.com) - Closed voice platforms make you rent your own agents.
+- [Suno](https://suno.com) - Suno is building a future where anyone can make great music.
 
 ## 🎬 Video & Animation
 
@@ -725,6 +731,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Screen Awesome](https://screenawesome.com) - Every screen recorder promises not to misuse your recordings.
 - [Vizard Agent](https://agent.vizard.ai) - Vizard Agent is a general AI video agent built to take on the whole video job.
 - [Qencode](https://cloud.qencode.com) - Qencode is a cloud video services provider that offers video transcoding, live streaming, media storage, content delivery and many other video APIs.
+- [Openmotion](https://openmotion.design) - OpenMotion is a free macOS motion-design studio for founders, designers, and developers.
+- [isolate.video](https://isolate.video) - Turn screen recordings into polished product videos with automatic motion zoom, AI music, and spotlight effects.
 
 ## 🎨 Image, Design & 3D
 
@@ -1107,6 +1115,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Assembly](https://studio.assembly.com) - Create remarkable customer experiences with Assembly.
 - [Mem](https://mem.ai) - Meet the easiest way to remember things.
 - [Oasis](https://joinoasis.com) - An intelligent workspace for you, all your agents, and your team.
+- [Compass Calendar](https://www.compasscalendar.com) - A keyboard-first calendar, Compass makes adjusting your schedule a joy.
+- [Occasio®](https://www.occasio.cc) - Occasio is your collaborative library of trusted, timeless insights.
+- [Muse](https://www.theodorehq.com/muse) - The AI Visual Bookmark Manager for Mac.
+- [min.](https://getmin.ai) - min.
 
 ## 🔎 Search & Discovery
 
@@ -1207,6 +1219,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Papaya](https://papaya.tepoyan.com) - Papaya listens to you having sex and draws a cartoon about it.
 - [SoloUno](https://solouno.io) - SoloUno helps people take control over body-focused repetitive behaviors (BFRBs) such as hair pulling (trichotillomania), skin picking (dermatillomania), and nail biting.
 - [Vidaya](https://vidaya.ai) - Vidaya turns your wearable data, labs, and habits into a real Healthspan score and a personalized longevity plan.
+- [NS1](https://nsmastery.com/assessment) - The NS1 Assessment is a personalized assessment tool that will give you a breakdown of how your system responds to stress, what this means for your specific situation & what you can do to improve.
+- [Screen Break](https://screen-break-mac.netlify.app) - Screen Break is a free macOS menu bar app that helps people take real breaks instead of dismissing another tiny timer.
 
 ## 💰 Finance, Crypto & Payments
 
