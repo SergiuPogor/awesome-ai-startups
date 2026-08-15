@@ -8,23 +8,23 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (118)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (165)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (166)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (269)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (79)
 - [🎬 Video & Animation](#video-animation) (61)
 - [🎨 Image, Design & 3D](#image-design-3d) (74)
 - [✍️ Writing & Content](#writing-content) (51)
 - [📊 Analytics & Data](#analytics-data) (70)
-- [🗂 Productivity & Notes](#productivity-notes) (177)
-- [🔎 Search & Discovery](#search-discovery) (33)
+- [🗂 Productivity & Notes](#productivity-notes) (183)
+- [🔎 Search & Discovery](#search-discovery) (34)
 - [🎓 Education & Learning](#education-learning) (28)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (31)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (38)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (39)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (118)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (27)
 - [👥 Social & Community](#social-community) (15)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
-- [✨ Everything Else](#everything-else) (104)
+- [✨ Everything Else](#everything-else) (105)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -314,6 +314,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [BetterClaw](https://www.betterclaw.io) - BetterClaw is a no-code platform for building AI agents that run on a schedule without you.
 - [Sidekick™](https://sidekick-os.online) - The next big interface for your Mac and the agentic layer for your entire organisation.
 - [Coarena by Coasty](https://coarena.ai) - Coarena lets AI agents compete on real computer tasks, not synthetic benchmarks.
+- [Hire AI Employees | Sistava.com](https://sistava.com) - Give your startup an AI workforce.
 
 ## 💻 Coding & Developer Tools
 
@@ -1119,6 +1120,12 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Occasio®](https://www.occasio.cc) - Occasio is your collaborative library of trusted, timeless insights.
 - [Muse](https://www.theodorehq.com/muse) - The AI Visual Bookmark Manager for Mac.
 - [min.](https://getmin.ai) - min.
+- [Clamshell](https://clamshell.dev/visit/product-hunt) - Closing my MacBook used to kill whatever I had left running: a build, a download, sometimes an agent halfway through a task.
+- [Chronock](https://www.chronock.ai) - Chronock combines scheduling and cross-calendar sync in one workspace.
+- [FileRouter](https://filerouter.app) - A default handler for multiple file types that opens the right editor — Velja/Choosy for files.
+- [Joy](https://joy.jawahar.sh) - Joy is a macOS menu bar app that throws confetti the moment you hit a milestone - GitHub stars, Stripe sales, Docker Hub pulls, and more.
+- [nenspace](https://nenspace.com) - nenspace.
+- [Attyn](https://www.attyn.com) - Attyn brings intelligence to the cursor inside the apps you already use.
 
 ## 🔎 Search & Discovery
 
@@ -1155,6 +1162,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [NextDoor.Company](https://www.nextdoor.company) - Find startups hiring near you, on a map.
 - [Click](https://useclick.ai) - Click is an MCP that provides extensive research connectors to give external context that the built-in web search misses.
 - [WebBrain](https://webbrain.one) - Your browser, your models, your data.
+- [Zetik](https://www.zetik.com) - Presidents and CEOs get strategy teams.
 
 ## 🎓 Education & Learning
 
@@ -1262,6 +1270,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Portfolio Lab](https://portfoliolab.ai) - AI made building investment strategies easy.
 - [Equitybee](https://equitybee.com) - Equitybee enables startup employees own their equity by providing capital to exercise their stock options.
 - [tash](https://www.tash.cards) - tash gives investors access to professionally curated portfolios of high-end graded trading cards.
+- [Talvo](https://talvo.eu) - The European money tracker & budgeting app.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1555,6 +1564,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Dover](https://dover.com) - Dover is the all-in-one recruiting solution for startups — combining a marketplace of top fractional recruiters with a free ATS and sourcing toolkit built for early-stage teams.
 - [Rippling](http://www.rippling.com) - HR, IT, and Finance data all on one platform, so AI can answer questions, automate work, and help teams get more done.
 - [DataBlur](https://datablur.app) - DataBlur blurs sensitive data on your screen in real time — during live calls, demos and recordings.
+- [Big Mike](https://www.bigmike.ai) - Big Mike reads MLB, NFL/CFB, and NBA/WNBA all day and texts you the play in iMessage: what to bet, at what number, and which book has it.
 
 ## Contributing
 
