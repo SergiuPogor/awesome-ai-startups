@@ -8,19 +8,19 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (118)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (166)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (269)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (167)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (270)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (79)
 - [🎬 Video & Animation](#video-animation) (61)
 - [🎨 Image, Design & 3D](#image-design-3d) (74)
 - [✍️ Writing & Content](#writing-content) (51)
 - [📊 Analytics & Data](#analytics-data) (70)
-- [🗂 Productivity & Notes](#productivity-notes) (183)
+- [🗂 Productivity & Notes](#productivity-notes) (185)
 - [🔎 Search & Discovery](#search-discovery) (34)
-- [🎓 Education & Learning](#education-learning) (28)
+- [🎓 Education & Learning](#education-learning) (29)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (31)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (39)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (118)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (122)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (27)
 - [👥 Social & Community](#social-community) (15)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
@@ -315,6 +315,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Sidekick™](https://sidekick-os.online) - The next big interface for your Mac and the agentic layer for your entire organisation.
 - [Coarena by Coasty](https://coarena.ai) - Coarena lets AI agents compete on real computer tasks, not synthetic benchmarks.
 - [Hire AI Employees | Sistava.com](https://sistava.com) - Give your startup an AI workforce.
+- [Omni by xpander](https://chat.xpander.ai) - Omni is the AI engineer that takes your agents from a laptop to the cloud.
 
 ## 💻 Coding & Developer Tools
 
@@ -588,6 +589,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Hoplite](https://hoplite.sh) - Hoplite deploys your local coding agent setup to the cloud, no reconfiguration needed.
 - [Munder Difflin](https://munderdiffl.in) - [Open-Source] Local Multi Agent Harness that wraps around coding agents you already pay for like Claude Code and Codex to run an office of forever running agents working for you 24/7 in "the….
 - [Freebuff](https://freebuff.com) - Freebuff is a free coding agent that gives you access to the best open source models.
+- [Clears](https://www.clears.ai) - Clears is an agentic execution platform for autonomous software delivery, helping R&D organizations move beyond individual AI tools to agentic execution across the entire SDLC.
 
 ## 🎙 Audio, Voice & Music
 
@@ -1126,6 +1128,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Joy](https://joy.jawahar.sh) - Joy is a macOS menu bar app that throws confetti the moment you hit a milestone - GitHub stars, Stripe sales, Docker Hub pulls, and more.
 - [nenspace](https://nenspace.com) - nenspace.
 - [Attyn](https://www.attyn.com) - Attyn brings intelligence to the cursor inside the apps you already use.
+- [Bulbthings](https://bulbthings.com/free-forever) - Your business runs on a lot of stuff.
+- [Meridian](https://meridiona.com) - Meridian is an open-source AI work journal that runs entirely on your device.
 
 ## 🔎 Search & Discovery
 
@@ -1195,6 +1199,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AstraPixels](https://astrapixels.com) - An animated pixel-art map of the solar system with every body at its real current position, computed from published orbital elements rather than copied from a list.
 - [Prompt Golf](https://jugalmistry.com/promptgolf/index.php) - Prompt Golf turns prompt engineering into a competitive puzzle game.
 - [Scrimba](https://scrimba.com/?via=producthunt) - Whether you're just starting out or levelling up your coding skills, we're here to help you shine.
+- [Skriptr](https://skriptr.ai) - Skriptr is a collaborative workbench where students can learn, research and write with an agent that keeps them in the process and in the drivers seat.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1392,6 +1397,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Unsloth](https://unsloth.ai) - Open-source running and training of AI models and LLMs.
 - [Execlave](https://www.execlave.com) - Execlave is an AI Agent Governance and Enforcement platform (runtime AMP) that sits between autonomous agents and your real systems, enforcing policy before every action instead of after incidents.
 - [Nuphos](https://nuphos.ai) - Nuphos gives engineering teams a shared environment where AI agents can learn your infrastructure, investigate issues, and operate production systems.
+- [TinyFish](https://www.tinyfish.ai) - TinyFish is a unified web operations platform built for AI agents and AI applications.
+- [Recall.ai](https://recall.ai) - The universal API for meeting recording.
+- [Treg](https://treg.to) - Agents don't care about vendors - they want the best API for the task.
+- [Vendo](https://vendo.run) - Vendo is the embedded layer that sits inside your SaaS product and lets your end users add the features they need, just by describing what they want.
 
 ## 💬 Chatbots & Conversational
 
