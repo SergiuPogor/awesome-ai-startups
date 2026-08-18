@@ -7,20 +7,20 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (118)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (167)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (270)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (119)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (168)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (273)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (79)
-- [🎬 Video & Animation](#video-animation) (61)
+- [🎬 Video & Animation](#video-animation) (62)
 - [🎨 Image, Design & 3D](#image-design-3d) (74)
 - [✍️ Writing & Content](#writing-content) (51)
-- [📊 Analytics & Data](#analytics-data) (70)
-- [🗂 Productivity & Notes](#productivity-notes) (185)
-- [🔎 Search & Discovery](#search-discovery) (34)
+- [📊 Analytics & Data](#analytics-data) (71)
+- [🗂 Productivity & Notes](#productivity-notes) (188)
+- [🔎 Search & Discovery](#search-discovery) (35)
 - [🎓 Education & Learning](#education-learning) (29)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (31)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (33)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (39)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (122)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (123)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (27)
 - [👥 Social & Community](#social-community) (15)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
@@ -146,6 +146,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Lettertrace](https://lettertrace.com) - Lettertrace measures how often Claude, ChatGPT, and Gemini mention your company.
 - [One Small Prompt](https://onesmallprompt.com) - One Small Prompt is a free, private workshop for people with a rough idea—or no idea yet.
 - [Outcome](https://www.outcomeapp.ai) - Outcome helps creators turn their content and expertise into personalized funnels that listen, understand, and deliver a useful outcome to every lead.
+- [Clara AI SDR](https://clarasdr.ai) - Clara is an AI SDR that converts inbound website traffic into pipeline - engaging, qualifying, demoing, handling objections, and booking meetings in real time.
 
 ## 🤖 AI Agents & Assistants
 
@@ -316,6 +317,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Coarena by Coasty](https://coarena.ai) - Coarena lets AI agents compete on real computer tasks, not synthetic benchmarks.
 - [Hire AI Employees | Sistava.com](https://sistava.com) - Give your startup an AI workforce.
 - [Omni by xpander](https://chat.xpander.ai) - Omni is the AI engineer that takes your agents from a laptop to the cloud.
+- [Taku AI](https://taku.ai) - AI is getting insanely powerful — and somehow harder to use.
 
 ## 💻 Coding & Developer Tools
 
@@ -590,6 +592,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Munder Difflin](https://munderdiffl.in) - [Open-Source] Local Multi Agent Harness that wraps around coding agents you already pay for like Claude Code and Codex to run an office of forever running agents working for you 24/7 in "the….
 - [Freebuff](https://freebuff.com) - Freebuff is a free coding agent that gives you access to the best open source models.
 - [Clears](https://www.clears.ai) - Clears is an agentic execution platform for autonomous software delivery, helping R&D organizations move beyond individual AI tools to agentic execution across the entire SDLC.
+- [CrewTower](https://crewtower.app) - Crew Tower lives in your MacBook notch and watches every AI coding agent you run: Claude Code, Codex, Cursor, Gemini, Qwen, OpenCode and more.
+- [Shepherd Terminal](https://sheperd.kojunseo.link) - Run coding agents across tabs, panes, and remote machines.
+- [Superflow AI: QA agents for websites](https://usesuperflow.ai) - AI made creating fast and nearly free.
 
 ## 🎙 Audio, Voice & Music
 
@@ -736,6 +741,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Qencode](https://cloud.qencode.com) - Qencode is a cloud video services provider that offers video transcoding, live streaming, media storage, content delivery and many other video APIs.
 - [Openmotion](https://openmotion.design) - OpenMotion is a free macOS motion-design studio for founders, designers, and developers.
 - [isolate.video](https://isolate.video) - Turn screen recordings into polished product videos with automatic motion zoom, AI music, and spotlight effects.
+- [Clipwing](https://clipwing.pro) - Save days on producing better video content.
 
 ## 🎨 Image, Design & 3D
 
@@ -942,6 +948,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Cerenovus](https://cerenovus.ai) - We ingest information from around your company (documents, communications and databases), and map out your company's workflows, along with the bottlenecks and inefficiencies within those workflows.
 - [Kubit](https://www.kubit.ai) - Kubit helps product engineers optimize AI agents based on real user behavior.
 - [Human Behavior](https://humanbehavior.co) - Dashboards are where insights go to die.
+- [Tiny Funnel](https://tiny-funnel.com) - Funnel analytics you'll actually understand.
 
 ## 🗂 Productivity & Notes
 
@@ -1130,6 +1137,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Attyn](https://www.attyn.com) - Attyn brings intelligence to the cursor inside the apps you already use.
 - [Bulbthings](https://bulbthings.com/free-forever) - Your business runs on a lot of stuff.
 - [Meridian](https://meridiona.com) - Meridian is an open-source AI work journal that runs entirely on your device.
+- [Dates by Agenda Hero](https://agendahero.com) - Say hello to Dates.
+- [Reckon](https://roland.leth.ro/projects/reckon) - Most decisions feel resolved the moment you make them.
+- [AirBuddy](https://airbuddy.app) - See batteries, connect AirPods, control what’s playing, and move peripherals between Macs—all without leaving what you’re doing.
 
 ## 🔎 Search & Discovery
 
@@ -1167,6 +1177,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Click](https://useclick.ai) - Click is an MCP that provides extensive research connectors to give external context that the built-in web search misses.
 - [WebBrain](https://webbrain.one) - Your browser, your models, your data.
 - [Zetik](https://www.zetik.com) - Presidents and CEOs get strategy teams.
+- [Deepmark](https://usedeepmark.com) - Your browser bookmarks, X bookmarks, Instagram saves and YouTube Watch Later, in one private library you can search in plain language.
 
 ## 🎓 Education & Learning
 
@@ -1234,6 +1245,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Vidaya](https://vidaya.ai) - Vidaya turns your wearable data, labs, and habits into a real Healthspan score and a personalized longevity plan.
 - [NS1](https://nsmastery.com/assessment) - The NS1 Assessment is a personalized assessment tool that will give you a breakdown of how your system responds to stress, what this means for your specific situation & what you can do to improve.
 - [Screen Break](https://screen-break-mac.netlify.app) - Screen Break is a free macOS menu bar app that helps people take real breaks instead of dismissing another tiny timer.
+- [Finch](https://finchhealth.co) - Finch is a patient-side health companion built for all — an expecting parent, or just someone navigating the health system.
+- [Hubble](https://hubble.ai) - Medical records still live behind fax lines, phone trees, and portal logins nobody remembers.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -1401,6 +1414,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Recall.ai](https://recall.ai) - The universal API for meeting recording.
 - [Treg](https://treg.to) - Agents don't care about vendors - they want the best API for the task.
 - [Vendo](https://vendo.run) - Vendo is the embedded layer that sits inside your SaaS product and lets your end users add the features they need, just by describing what they want.
+- [WorkOS](https://www.workos.com) - WorkOS provides APIs to make your app Enterprise Ready, with pre-built features and integrations required by IT admins.
 
 ## 💬 Chatbots & Conversational
 
