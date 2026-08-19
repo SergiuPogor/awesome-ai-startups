@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (119)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (168)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (273)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (79)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (120)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (170)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (276)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (80)
 - [🎬 Video & Animation](#video-animation) (62)
-- [🎨 Image, Design & 3D](#image-design-3d) (74)
+- [🎨 Image, Design & 3D](#image-design-3d) (75)
 - [✍️ Writing & Content](#writing-content) (51)
 - [📊 Analytics & Data](#analytics-data) (71)
-- [🗂 Productivity & Notes](#productivity-notes) (188)
+- [🗂 Productivity & Notes](#productivity-notes) (189)
 - [🔎 Search & Discovery](#search-discovery) (35)
 - [🎓 Education & Learning](#education-learning) (29)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (33)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (34)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (39)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (123)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (27)
 - [👥 Social & Community](#social-community) (15)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
-- [✨ Everything Else](#everything-else) (105)
+- [✨ Everything Else](#everything-else) (107)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -147,6 +147,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [One Small Prompt](https://onesmallprompt.com) - One Small Prompt is a free, private workshop for people with a rough idea—or no idea yet.
 - [Outcome](https://www.outcomeapp.ai) - Outcome helps creators turn their content and expertise into personalized funnels that listen, understand, and deliver a useful outcome to every lead.
 - [Clara AI SDR](https://clarasdr.ai) - Clara is an AI SDR that converts inbound website traffic into pipeline - engaging, qualifying, demoing, handling objections, and booking meetings in real time.
+- [Astute](https://company-app.joinastute.com) - Astute is the first B2B new media platform, starting with creator partnerships.
 
 ## 🤖 AI Agents & Assistants
 
@@ -318,6 +319,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Hire AI Employees | Sistava.com](https://sistava.com) - Give your startup an AI workforce.
 - [Omni by xpander](https://chat.xpander.ai) - Omni is the AI engineer that takes your agents from a laptop to the cloud.
 - [Taku AI](https://taku.ai) - AI is getting insanely powerful — and somehow harder to use.
+- [Cronloop AI](https://cronloop.ai) - Cronloop lets you create AI agents that run in a loop, from every five minutes to once a week.
+- [OmniVibe](https://www.omnivibe.me) - OmniVibe brings specialized AI agents and the people who create them into one place.
 
 ## 💻 Coding & Developer Tools
 
@@ -595,6 +598,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [CrewTower](https://crewtower.app) - Crew Tower lives in your MacBook notch and watches every AI coding agent you run: Claude Code, Codex, Cursor, Gemini, Qwen, OpenCode and more.
 - [Shepherd Terminal](https://sheperd.kojunseo.link) - Run coding agents across tabs, panes, and remote machines.
 - [Superflow AI: QA agents for websites](https://usesuperflow.ai) - AI made creating fast and nearly free.
+- [Balsa UI](https://balsa-ui.com) - Balsa establishes a clear contract between your design system and a powerful UI library.
+- [KiHub](https://kihub.dev) - KiHub is a hardware review platform for KiCad projects.
+- [PNG to Favicon Converter](https://pngtofavicon.com) - Convert PNG to favicon.ico instantly. Free online tool generates all favicon files. 100% client-side.
 
 ## 🎙 Audio, Voice & Music
 
@@ -677,6 +683,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Voice Gecko](https://www.voicegecko.dev) - Instant dictation for desktop.
 - [Dograh](https://dograh.com) - Closed voice platforms make you rent your own agents.
 - [Suno](https://suno.com) - Suno is building a future where anyone can make great music.
+- [Vois](https://vois.so) - Vois is a desktop voice studio for turning scripts, ebooks, articles, and podcasts into natural audio with 63 voices, voice cloning, and pro editing — no uploads, no per-character fees, no usage caps.
 
 ## 🎬 Video & Animation
 
@@ -820,6 +827,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Ctruh Studio](https://www.ctruh.com/products/studio) - Ctruh Studio is an AI-powered no-code platform that lets anyone create, customise and publish interactive 3D experiences for websites.
 - [SVG Editor - Vector Designer](https://www.vectordesigner.info) - SVG Editor - Vector Designer is a native vector graphics editor for Mac.
 - [Kitbitz](https://kitbitz.art) - A free CC0 library of 2,000+ hand-drawn assets across 13 themed kits.
+- [Paper Critters](https://www.papercritters.com) - Paper Critters bridges digital creativity with hands-on play.
 
 ## ✍️ Writing & Content
 
@@ -1140,6 +1148,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Dates by Agenda Hero](https://agendahero.com) - Say hello to Dates.
 - [Reckon](https://roland.leth.ro/projects/reckon) - Most decisions feel resolved the moment you make them.
 - [AirBuddy](https://airbuddy.app) - See batteries, connect AirPods, control what’s playing, and move peripherals between Macs—all without leaving what you’re doing.
+- [Cluing](https://www.cluing.io) - Cluing is a second-brain app that connects everything you save, learn, and highlight with powerful agents that transform that knowledge.
 
 ## 🔎 Search & Discovery
 
@@ -1247,6 +1256,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Screen Break](https://screen-break-mac.netlify.app) - Screen Break is a free macOS menu bar app that helps people take real breaks instead of dismissing another tiny timer.
 - [Finch](https://finchhealth.co) - Finch is a patient-side health companion built for all — an expecting parent, or just someone navigating the health system.
 - [Hubble](https://hubble.ai) - Medical records still live behind fax lines, phone trees, and portal logins nobody remembers.
+- [Peptide Tracker](https://glp1.app) - Peptide Tracker is an iOS app for people managing a GLP-1 or peptide regimen.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -1588,6 +1598,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Rippling](http://www.rippling.com) - HR, IT, and Finance data all on one platform, so AI can answer questions, automate work, and help teams get more done.
 - [DataBlur](https://datablur.app) - DataBlur blurs sensitive data on your screen in real time — during live calls, demos and recordings.
 - [Big Mike](https://www.bigmike.ai) - Big Mike reads MLB, NFL/CFB, and NBA/WNBA all day and texts you the play in iMessage: what to bet, at what number, and which book has it.
+- [AgentR](https://agentr.global) - AgentR is a verified candidate evaluation system built for one outcome: the confidence to make the call.
+- [Fairphone](https://fairphone.com) - Fairphone is a social enterprise that is building a movement for fairer electronics.
 
 ## Contributing
 
