@@ -7,21 +7,21 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (120)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (170)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (276)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (121)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (171)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (279)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (80)
 - [🎬 Video & Animation](#video-animation) (62)
 - [🎨 Image, Design & 3D](#image-design-3d) (75)
 - [✍️ Writing & Content](#writing-content) (51)
-- [📊 Analytics & Data](#analytics-data) (71)
-- [🗂 Productivity & Notes](#productivity-notes) (189)
-- [🔎 Search & Discovery](#search-discovery) (35)
+- [📊 Analytics & Data](#analytics-data) (72)
+- [🗂 Productivity & Notes](#productivity-notes) (194)
+- [🔎 Search & Discovery](#search-discovery) (36)
 - [🎓 Education & Learning](#education-learning) (29)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (34)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (39)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (123)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (27)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (125)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (28)
 - [👥 Social & Community](#social-community) (15)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
 - [✨ Everything Else](#everything-else) (107)
@@ -148,6 +148,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Outcome](https://www.outcomeapp.ai) - Outcome helps creators turn their content and expertise into personalized funnels that listen, understand, and deliver a useful outcome to every lead.
 - [Clara AI SDR](https://clarasdr.ai) - Clara is an AI SDR that converts inbound website traffic into pipeline - engaging, qualifying, demoing, handling objections, and booking meetings in real time.
 - [Astute](https://company-app.joinastute.com) - Astute is the first B2B new media platform, starting with creator partnerships.
+- [AI growth desk that works for you](https://www.marginglow.com) - MarginGlow is a proactive AI growth desk for small businesses.
 
 ## 🤖 AI Agents & Assistants
 
@@ -321,6 +322,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Taku AI](https://taku.ai) - AI is getting insanely powerful — and somehow harder to use.
 - [Cronloop AI](https://cronloop.ai) - Cronloop lets you create AI agents that run in a loop, from every five minutes to once a week.
 - [OmniVibe](https://www.omnivibe.me) - OmniVibe brings specialized AI agents and the people who create them into one place.
+- [Berd](https://berd.xyz) - Berd is for people doing real work with AI agents inside a desktop workspace: engineers, product designers, and other builders who need a persistent agent companion that can use projects, skills,….
 
 ## 💻 Coding & Developer Tools
 
@@ -601,6 +603,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Balsa UI](https://balsa-ui.com) - Balsa establishes a clear contract between your design system and a powerful UI library.
 - [KiHub](https://kihub.dev) - KiHub is a hardware review platform for KiCad projects.
 - [PNG to Favicon Converter](https://pngtofavicon.com) - Convert PNG to favicon.ico instantly. Free online tool generates all favicon files. 100% client-side.
+- [Shape](https://www.useshape.org) - Shape is an agentic IDE built for designers and programmers.
+- [Prized](https://prized.dev) - Prized lets ops, support, and finance teams build and ship secure internal tools with AI.
+- [Checksum AI](https://checksum.ai/product/platform) - Checksum is an AI-native continuous testing platform for engineering teams shipping faster than manual QA can keep up.
 
 ## 🎙 Audio, Voice & Music
 
@@ -957,6 +962,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Kubit](https://www.kubit.ai) - Kubit helps product engineers optimize AI agents based on real user behavior.
 - [Human Behavior](https://humanbehavior.co) - Dashboards are where insights go to die.
 - [Tiny Funnel](https://tiny-funnel.com) - Funnel analytics you'll actually understand.
+- [bitdrift](https://bitdrift.io) - Get real-time visibility into your mobile app.
 
 ## 🗂 Productivity & Notes
 
@@ -1149,6 +1155,11 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Reckon](https://roland.leth.ro/projects/reckon) - Most decisions feel resolved the moment you make them.
 - [AirBuddy](https://airbuddy.app) - See batteries, connect AirPods, control what’s playing, and move peripherals between Macs—all without leaving what you’re doing.
 - [Cluing](https://www.cluing.io) - Cluing is a second-brain app that connects everything you save, learn, and highlight with powerful agents that transform that knowledge.
+- [Zoho](https://www.zoho.com) - A unique and powerful software suite to transform the way you work; built by a company that values your privacy.
+- [Aloud](https://aloud.sh) - Feedback is easier said than written.
+- [Glasp for Firefox](https://addons.mozilla.org/en-US/firefox/addon/glasp-web-highlighter/) - Glasp is now on Firefox.
+- [Calendly](https://calendly.com) - Calendly is your hub for scheduling meetings professionally and efficiently, eliminating the hassle of back-and-forth emails so you can get back to work.Calendly helps you book meetings without….
+- [HyNote AI](https://hynote.ai) - HyNote is your all-in-one AI note-taking solution, supporting multiple platforms and document formats.
 
 ## 🔎 Search & Discovery
 
@@ -1187,6 +1198,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [WebBrain](https://webbrain.one) - Your browser, your models, your data.
 - [Zetik](https://www.zetik.com) - Presidents and CEOs get strategy teams.
 - [Deepmark](https://usedeepmark.com) - Your browser bookmarks, X bookmarks, Instagram saves and YouTube Watch Later, in one private library you can search in plain language.
+- [Qurify | AI-Powered Website Search](https://www.qurify.io) - Transform your website into an AI-powered knowledge engine with instant, context-aware answers.
 
 ## 🎓 Education & Learning
 
@@ -1425,6 +1437,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Treg](https://treg.to) - Agents don't care about vendors - they want the best API for the task.
 - [Vendo](https://vendo.run) - Vendo is the embedded layer that sits inside your SaaS product and lets your end users add the features they need, just by describing what they want.
 - [WorkOS](https://www.workos.com) - WorkOS provides APIs to make your app Enterprise Ready, with pre-built features and integrations required by IT admins.
+- [Hermai Brand API](https://hermai.ai/brand) - A customer signs up with a work email or domain.
+- [Meetstream.ai](https://www.meetstream.ai) - meetstream.ai is an unified API & infrastructure platform that provides a single API for meeting bots to join, record, analyze & push meeting data to CRMs, PMSs - helping your team focus on the….
 
 ## 💬 Chatbots & Conversational
 
@@ -1455,6 +1469,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Bolcho AI](https://bolchoai.in) - Bolcho AI is an AI voice platform that helps businesses build, deploy and scale multilingual AI phone and web agents.
 - [Ticketdesk AI](https://ticketdesk.ai) - Transform your customer support with AI-powered automation.
 - [Conecto](https://conecto.chat) - Conecto brings live chat, (voice) AI, a shared inbox, CRM, bots, automation, knowledge, and analytics into one workspace.
+- [Peach Co-Pilot](https://trypeach.ai/co-pilot) - The hosted WhatsApp MCP server for standard WhatsApp Business App users.
 
 ## 👥 Social & Community
 
