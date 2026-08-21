@@ -8,19 +8,19 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (121)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (171)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (279)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (175)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (283)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (80)
-- [🎬 Video & Animation](#video-animation) (62)
+- [🎬 Video & Animation](#video-animation) (63)
 - [🎨 Image, Design & 3D](#image-design-3d) (75)
 - [✍️ Writing & Content](#writing-content) (51)
-- [📊 Analytics & Data](#analytics-data) (72)
-- [🗂 Productivity & Notes](#productivity-notes) (194)
+- [📊 Analytics & Data](#analytics-data) (74)
+- [🗂 Productivity & Notes](#productivity-notes) (197)
 - [🔎 Search & Discovery](#search-discovery) (36)
 - [🎓 Education & Learning](#education-learning) (29)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (34)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (39)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (125)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (127)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (28)
 - [👥 Social & Community](#social-community) (15)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
@@ -323,6 +323,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Cronloop AI](https://cronloop.ai) - Cronloop lets you create AI agents that run in a loop, from every five minutes to once a week.
 - [OmniVibe](https://www.omnivibe.me) - OmniVibe brings specialized AI agents and the people who create them into one place.
 - [Berd](https://berd.xyz) - Berd is for people doing real work with AI agents inside a desktop workspace: engineers, product designers, and other builders who need a persistent agent companion that can use projects, skills,….
+- [ShogunAI](https://shogunaios.com) - Personal AGI won't arrive as a better chatbot, rather it arrives as an agent that knows the full state of your work -very person, your every project, every promise - and acts on it That is….
+- [Project SKY](https://projectsky-ten.vercel.app) - Project SKY is an intelligent desktop companion designed natively for Windows.
+- [Local](https://www.basecompute.co/local) - Local is a macOS app that runs fully private AI directly on your own machine.
+- [Plow Latch](https://plow.co/latch) - Safely give your agent real control of your Mac, while keeping your data local on your machine.
 
 ## 💻 Coding & Developer Tools
 
@@ -606,6 +610,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Shape](https://www.useshape.org) - Shape is an agentic IDE built for designers and programmers.
 - [Prized](https://prized.dev) - Prized lets ops, support, and finance teams build and ship secure internal tools with AI.
 - [Checksum AI](https://checksum.ai/product/platform) - Checksum is an AI-native continuous testing platform for engineering teams shipping faster than manual QA can keep up.
+- [OneCLI](https://www.onecli.sh) - The best way to get work done, instead of chatting about it and doing it yourself.
+- [Dockhand](https://dockhand.pro) - Docker manager for one host or a whole fleet.
+- [Epho](https://epho.io) - Epho runs claude code, codex, or opencode in the cloud.
+- [fx (by Vercel)](https://fx.sh) - fx is Vercel's tiny, open-source coding agent built to get out of your way.
 
 ## 🎙 Audio, Voice & Music
 
@@ -754,6 +762,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Openmotion](https://openmotion.design) - OpenMotion is a free macOS motion-design studio for founders, designers, and developers.
 - [isolate.video](https://isolate.video) - Turn screen recordings into polished product videos with automatic motion zoom, AI music, and spotlight effects.
 - [Clipwing](https://clipwing.pro) - Save days on producing better video content.
+- [Wizstar](https://wizstar.com) - Wizstar helps founders, creators, and makers build an expressive, accurate digital ambassador that looks and moves like you.
 
 ## 🎨 Image, Design & 3D
 
@@ -963,6 +972,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Human Behavior](https://humanbehavior.co) - Dashboards are where insights go to die.
 - [Tiny Funnel](https://tiny-funnel.com) - Funnel analytics you'll actually understand.
 - [bitdrift](https://bitdrift.io) - Get real-time visibility into your mobile app.
+- [Mindcase](http://www.mindcase.co) - Mindcase is the infrastructure layer for extracting web data in a structured, usable format.
+- [Supernova](https://supernova.ai) - Supernova connects your startup’s live data to Claude and Codex, so anyone can ask questions, investigate performance, and run complex analysis in the AI tools they already use.
 
 ## 🗂 Productivity & Notes
 
@@ -1160,6 +1171,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Glasp for Firefox](https://addons.mozilla.org/en-US/firefox/addon/glasp-web-highlighter/) - Glasp is now on Firefox.
 - [Calendly](https://calendly.com) - Calendly is your hub for scheduling meetings professionally and efficiently, eliminating the hassle of back-and-forth emails so you can get back to work.Calendly helps you book meetings without….
 - [HyNote AI](https://hynote.ai) - HyNote is your all-in-one AI note-taking solution, supporting multiple platforms and document formats.
+- [Outlook Google Calendar Sync for Mac](https://outlookgooglecalendarsyncmac.com) - Outlook Google Calendar Sync for Mac keeps your Outlook events mirrored into Google Calendar without needing Microsoft admin approval.
+- [Flunkey](https://flunkey.space) - Flunkey is a voice-first productivity tool for Windows that turns spoken thoughts into text, useful actions, and remembered context wherever you work.
+- [Surfdeck](https://surfdeck.app) - Keep your favorite sites close at hand, right from your Mac's menu bar.
 
 ## 🔎 Search & Discovery
 
@@ -1439,6 +1453,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [WorkOS](https://www.workos.com) - WorkOS provides APIs to make your app Enterprise Ready, with pre-built features and integrations required by IT admins.
 - [Hermai Brand API](https://hermai.ai/brand) - A customer signs up with a work email or domain.
 - [Meetstream.ai](https://www.meetstream.ai) - meetstream.ai is an unified API & infrastructure platform that provides a single API for meeting bots to join, record, analyze & push meeting data to CRMs, PMSs - helping your team focus on the….
+- [Actx0](https://actx0.com) - Your agents forget everything the moment a session ends.
+- [Router by Ramp](https://router.com) - Stop overpaying for LLM inference and juggling multiple API integrations.
 
 ## 💬 Chatbots & Conversational
 
