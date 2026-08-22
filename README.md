@@ -9,18 +9,18 @@ The goal: make useful indie AI products easier to find, share, and support.
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (121)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (175)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (283)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (286)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (80)
-- [🎬 Video & Animation](#video-animation) (63)
+- [🎬 Video & Animation](#video-animation) (64)
 - [🎨 Image, Design & 3D](#image-design-3d) (75)
 - [✍️ Writing & Content](#writing-content) (51)
-- [📊 Analytics & Data](#analytics-data) (74)
-- [🗂 Productivity & Notes](#productivity-notes) (197)
+- [📊 Analytics & Data](#analytics-data) (76)
+- [🗂 Productivity & Notes](#productivity-notes) (200)
 - [🔎 Search & Discovery](#search-discovery) (36)
 - [🎓 Education & Learning](#education-learning) (29)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (34)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (39)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (127)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (128)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (28)
 - [👥 Social & Community](#social-community) (15)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
@@ -614,6 +614,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Dockhand](https://dockhand.pro) - Docker manager for one host or a whole fleet.
 - [Epho](https://epho.io) - Epho runs claude code, codex, or opencode in the cloud.
 - [fx (by Vercel)](https://fx.sh) - fx is Vercel's tiny, open-source coding agent built to get out of your way.
+- [Port Radar for macOS](https://portradar.devmesh.xyz) - Port Radar is a native macOS menu bar app that shows you exactly what’s running on your ports—in plain English.
+- [Agents Never Sleep](https://agentsneversleep.app) - A macOS menu bar app that keeps your agents AI awake even if with lid closed.
+- [Zero](https://zerolang.ai) - Zero is Vercel's experimental programming language designed for a world where AI agents write the code.
 
 ## 🎙 Audio, Voice & Music
 
@@ -763,6 +766,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [isolate.video](https://isolate.video) - Turn screen recordings into polished product videos with automatic motion zoom, AI music, and spotlight effects.
 - [Clipwing](https://clipwing.pro) - Save days on producing better video content.
 - [Wizstar](https://wizstar.com) - Wizstar helps founders, creators, and makers build an expressive, accurate digital ambassador that looks and moves like you.
+- [SubtitleGenerator](https://subtitlegenerator.app) - Free: 60 one-minute videos a month, no signup.
 
 ## 🎨 Image, Design & 3D
 
@@ -974,6 +978,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [bitdrift](https://bitdrift.io) - Get real-time visibility into your mobile app.
 - [Mindcase](http://www.mindcase.co) - Mindcase is the infrastructure layer for extracting web data in a structured, usable format.
 - [Supernova](https://supernova.ai) - Supernova connects your startup’s live data to Claude and Codex, so anyone can ask questions, investigate performance, and run complex analysis in the AI tools they already use.
+- [Open Analytics](https://getopen.so) - Open Analytics is an open-source, privacy-first alternative to Google Analytics, built for humans and AI agents.
+- [Toplify](https://toplify.app) - Toplify is a multi server service monitoring App Store charts across 175 countries, 24/7, so you never miss your next milestone.
 
 ## 🗂 Productivity & Notes
 
@@ -1174,6 +1180,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Outlook Google Calendar Sync for Mac](https://outlookgooglecalendarsyncmac.com) - Outlook Google Calendar Sync for Mac keeps your Outlook events mirrored into Google Calendar without needing Microsoft admin approval.
 - [Flunkey](https://flunkey.space) - Flunkey is a voice-first productivity tool for Windows that turns spoken thoughts into text, useful actions, and remembered context wherever you work.
 - [Surfdeck](https://surfdeck.app) - Keep your favorite sites close at hand, right from your Mac's menu bar.
+- [VeloFiler](https://velofiler.vercel.app) - VeloFiler is a keyboard-first, dual-pane file manager for macOS, built in Rust on GPUI for instant startup and smooth rendering.
+- [Pawvis](https://pawvis.app) - PawVis turns your Mac’s webcam into a hand-tracked mouse, no extra hardware required.
+- [Maccess](https://maccess.io) - Control your Mac from iPhone with touchpad, keyboard, screen mirroring, files, and Mackie AI.
 
 ## 🔎 Search & Discovery
 
@@ -1455,6 +1464,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Meetstream.ai](https://www.meetstream.ai) - meetstream.ai is an unified API & infrastructure platform that provides a single API for meeting bots to join, record, analyze & push meeting data to CRMs, PMSs - helping your team focus on the….
 - [Actx0](https://actx0.com) - Your agents forget everything the moment a session ends.
 - [Router by Ramp](https://router.com) - Stop overpaying for LLM inference and juggling multiple API integrations.
+- [KerasFormers](https://imvision12.github.io/KerasFormers/) - Pretrained transformer models in pure Keras 3, runnable on JAX, PyTorch and TensorFlow.
 
 ## 💬 Chatbots & Conversational
 
