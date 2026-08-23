@@ -8,23 +8,23 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (121)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (175)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (286)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (80)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (176)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (287)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (82)
 - [🎬 Video & Animation](#video-animation) (64)
 - [🎨 Image, Design & 3D](#image-design-3d) (75)
 - [✍️ Writing & Content](#writing-content) (51)
 - [📊 Analytics & Data](#analytics-data) (76)
 - [🗂 Productivity & Notes](#productivity-notes) (200)
 - [🔎 Search & Discovery](#search-discovery) (36)
-- [🎓 Education & Learning](#education-learning) (29)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (34)
+- [🎓 Education & Learning](#education-learning) (30)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (35)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (39)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (128)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (28)
 - [👥 Social & Community](#social-community) (15)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
-- [✨ Everything Else](#everything-else) (107)
+- [✨ Everything Else](#everything-else) (108)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -327,6 +327,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Project SKY](https://projectsky-ten.vercel.app) - Project SKY is an intelligent desktop companion designed natively for Windows.
 - [Local](https://www.basecompute.co/local) - Local is a macOS app that runs fully private AI directly on your own machine.
 - [Plow Latch](https://plow.co/latch) - Safely give your agent real control of your Mac, while keeping your data local on your machine.
+- [Construct Computer](https://construct.computer) - AI workforce for solo founders and small teams.
 
 ## 💻 Coding & Developer Tools
 
@@ -617,6 +618,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Port Radar for macOS](https://portradar.devmesh.xyz) - Port Radar is a native macOS menu bar app that shows you exactly what’s running on your ports—in plain English.
 - [Agents Never Sleep](https://agentsneversleep.app) - A macOS menu bar app that keeps your agents AI awake even if with lid closed.
 - [Zero](https://zerolang.ai) - Zero is Vercel's experimental programming language designed for a world where AI agents write the code.
+- [Yatko](https://yatko.app) - Yatko (yatko.app) turns any public Github repo into clean download links that pick the right release asset for each visitor's OS and architecture. Swap the domain — one click to the right binary.
 
 ## 🎙 Audio, Voice & Music
 
@@ -700,6 +702,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Dograh](https://dograh.com) - Closed voice platforms make you rent your own agents.
 - [Suno](https://suno.com) - Suno is building a future where anyone can make great music.
 - [Vois](https://vois.so) - Vois is a desktop voice studio for turning scripts, ebooks, articles, and podcasts into natural audio with 63 voices, voice cloning, and pro editing — no uploads, no per-character fees, no usage caps.
+- [ANCBuddy for Bose QC Ultra](https://ancbuddy.com) - ANCBuddy puts ANC mode and battery status for Bose QuietComfort Ultra devices into the macOS menu bar so you can toggle modes and monitor battery without opening another app.
+- [Local Music Organizer for Mac](https://local-music-organizer-site.pages.dev) - Local Music Organizer is a native macOS toolkit built for large local music collections.
 
 ## 🎬 Video & Animation
 
@@ -1255,6 +1259,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Prompt Golf](https://jugalmistry.com/promptgolf/index.php) - Prompt Golf turns prompt engineering into a competitive puzzle game.
 - [Scrimba](https://scrimba.com/?via=producthunt) - Whether you're just starting out or levelling up your coding skills, we're here to help you shine.
 - [Skriptr](https://skriptr.ai) - Skriptr is a collaborative workbench where students can learn, research and write with an agent that keeps them in the process and in the drivers seat.
+- [KanaSensei](https://kanasensei.dev) - KanaSensei is a web app for learning to read Japanese.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1292,6 +1297,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Finch](https://finchhealth.co) - Finch is a patient-side health companion built for all — an expecting parent, or just someone navigating the health system.
 - [Hubble](https://hubble.ai) - Medical records still live behind fax lines, phone trees, and portal logins nobody remembers.
 - [Peptide Tracker](https://glp1.app) - Peptide Tracker is an iOS app for people managing a GLP-1 or peptide regimen.
+- [Plask](https://plask.info) - Plask turns your Apple Watch into a tiny aquatic theatre: pixel-art rubber ducks that dive when you do, your real depth on screen, and a duck or ten.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -1641,6 +1647,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Big Mike](https://www.bigmike.ai) - Big Mike reads MLB, NFL/CFB, and NBA/WNBA all day and texts you the play in iMessage: what to bet, at what number, and which book has it.
 - [AgentR](https://agentr.global) - AgentR is a verified candidate evaluation system built for one outcome: the confidence to make the call.
 - [Fairphone](https://fairphone.com) - Fairphone is a social enterprise that is building a movement for fairer electronics.
+- [OpenLogi](https://openlogi.org) - A native, local-first alternative to Logitech Options+, written in Rust.
 
 ## Contributing
 
