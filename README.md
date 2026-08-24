@@ -8,21 +8,21 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (121)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (176)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (287)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (82)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (178)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (291)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (83)
 - [🎬 Video & Animation](#video-animation) (64)
 - [🎨 Image, Design & 3D](#image-design-3d) (75)
 - [✍️ Writing & Content](#writing-content) (51)
-- [📊 Analytics & Data](#analytics-data) (76)
-- [🗂 Productivity & Notes](#productivity-notes) (200)
-- [🔎 Search & Discovery](#search-discovery) (36)
+- [📊 Analytics & Data](#analytics-data) (77)
+- [🗂 Productivity & Notes](#productivity-notes) (202)
+- [🔎 Search & Discovery](#search-discovery) (37)
 - [🎓 Education & Learning](#education-learning) (30)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (35)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (39)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (128)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (40)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (129)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (28)
-- [👥 Social & Community](#social-community) (15)
+- [👥 Social & Community](#social-community) (17)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
 - [✨ Everything Else](#everything-else) (108)
 
@@ -328,6 +328,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Local](https://www.basecompute.co/local) - Local is a macOS app that runs fully private AI directly on your own machine.
 - [Plow Latch](https://plow.co/latch) - Safely give your agent real control of your Mac, while keeping your data local on your machine.
 - [Construct Computer](https://construct.computer) - AI workforce for solo founders and small teams.
+- [Dropstone](https://www.dropstone.io) - Dropstone is persistent AI built to become the intelligence that runs with you.
+- [Decawork](https://decawork.ai) - Decawork is how IT teams take employee-built AI agents live and control every one of them from one place.
 
 ## 💻 Coding & Developer Tools
 
@@ -619,6 +621,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Agents Never Sleep](https://agentsneversleep.app) - A macOS menu bar app that keeps your agents AI awake even if with lid closed.
 - [Zero](https://zerolang.ai) - Zero is Vercel's experimental programming language designed for a world where AI agents write the code.
 - [Yatko](https://yatko.app) - Yatko (yatko.app) turns any public Github repo into clean download links that pick the right release asset for each visitor's OS and architecture. Swap the domain — one click to the right binary.
+- [Lucid Train](https://www.lucidtrain.com) - Lucid Train generates architecture diagrams from your codebase, then hands the diagram to a coding agent as a specification.
+- [Phoenix](https://www.phoenix.vu) - Phoenix is an AI coding agent built specifically for iOS development.
+- [Bumply](https://bumply.app) - A Mac app for keeping npm, pnpm, Yarn, and Bun projects current.
+- [Localdock](https://localdock.dev) - Localdock provides a simple solution for accessing local projects with a real HTTPS link.
 
 ## 🎙 Audio, Voice & Music
 
@@ -704,6 +710,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Vois](https://vois.so) - Vois is a desktop voice studio for turning scripts, ebooks, articles, and podcasts into natural audio with 63 voices, voice cloning, and pro editing — no uploads, no per-character fees, no usage caps.
 - [ANCBuddy for Bose QC Ultra](https://ancbuddy.com) - ANCBuddy puts ANC mode and battery status for Bose QuietComfort Ultra devices into the macOS menu bar so you can toggle modes and monitor battery without opening another app.
 - [Local Music Organizer for Mac](https://local-music-organizer-site.pages.dev) - Local Music Organizer is a native macOS toolkit built for large local music collections.
+- [IFAH](https://ifahinstruments.com) - IFAH is a new family of instruments built around a simple idea: sound can be composed as an environment.
 
 ## 🎬 Video & Animation
 
@@ -984,6 +991,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Supernova](https://supernova.ai) - Supernova connects your startup’s live data to Claude and Codex, so anyone can ask questions, investigate performance, and run complex analysis in the AI tools they already use.
 - [Open Analytics](https://getopen.so) - Open Analytics is an open-source, privacy-first alternative to Google Analytics, built for humans and AI agents.
 - [Toplify](https://toplify.app) - Toplify is a multi server service monitoring App Store charts across 175 countries, 24/7, so you never miss your next milestone.
+- [Navigara](https://navigara.com/product/ai-roi) - Navigara connects AI coding performance directly to your engineering roadmap.
 
 ## 🗂 Productivity & Notes
 
@@ -1187,6 +1195,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [VeloFiler](https://velofiler.vercel.app) - VeloFiler is a keyboard-first, dual-pane file manager for macOS, built in Rust on GPUI for instant startup and smooth rendering.
 - [Pawvis](https://pawvis.app) - PawVis turns your Mac’s webcam into a hand-tracked mouse, no extra hardware required.
 - [Maccess](https://maccess.io) - Control your Mac from iPhone with touchpad, keyboard, screen mirroring, files, and Mackie AI.
+- [Trama](https://usetrama.com) - Zapier and Shortcuts make you think like a programmer: blocks, flows, conditions.
+- [Offloop](https://offloop.org) - Offloop is a shared workspace where teammates and AI agents plan, execute, and track multi-step work together.
 
 ## 🔎 Search & Discovery
 
@@ -1226,6 +1236,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Zetik](https://www.zetik.com) - Presidents and CEOs get strategy teams.
 - [Deepmark](https://usedeepmark.com) - Your browser bookmarks, X bookmarks, Instagram saves and YouTube Watch Later, in one private library you can search in plain language.
 - [Qurify | AI-Powered Website Search](https://www.qurify.io) - Transform your website into an AI-powered knowledge engine with instant, context-aware answers.
+- [Contrive](https://contrive.app) - Contrive is a unified search and action layer for company knowledge.
 
 ## 🎓 Education & Learning
 
@@ -1340,6 +1351,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Equitybee](https://equitybee.com) - Equitybee enables startup employees own their equity by providing capital to exercise their stock options.
 - [tash](https://www.tash.cards) - tash gives investors access to professionally curated portfolios of high-end graded trading cards.
 - [Talvo](https://talvo.eu) - The European money tracker & budgeting app.
+- [PaymentKit](https://www.paymentkit.com) - PaymentKit is a multi-processor billing platform for SaaS and e-commerce.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1471,6 +1483,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Actx0](https://actx0.com) - Your agents forget everything the moment a session ends.
 - [Router by Ramp](https://router.com) - Stop overpaying for LLM inference and juggling multiple API integrations.
 - [KerasFormers](https://imvision12.github.io/KerasFormers/) - Pretrained transformer models in pure Keras 3, runnable on JAX, PyTorch and TensorFlow.
+- [Cortex by SKYNETLAB](https://skynetlab-cortex.com) - Hosted semantic memory your AI connects to over MCP.
 
 ## 💬 Chatbots & Conversational
 
@@ -1520,6 +1533,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [YourSitee](https://yoursit.ee) - YourSitee turns your scattered online presence into one visual page that feels like you, not another list of buttons.
 - [Snipplet](https://snipplet.com) - Most travel tools help you plan trips.
 - [hey postcard - digital postcards](https://heypostcard.com) - Hey Postcard is a slow messaging app for people who matter.
+- [Destiny Rings](https://yourdestinyrings.com) - Destiny Rings replaces endless swiping with real-world proximity.
+- [WorldMap.lol](https://worldmap.lol) - A public map where startups stake countries.
 
 ## 🛒 E-commerce & Retail
 
