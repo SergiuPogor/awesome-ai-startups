@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (121)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (178)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (291)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (122)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (179)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (293)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (83)
 - [🎬 Video & Animation](#video-animation) (64)
-- [🎨 Image, Design & 3D](#image-design-3d) (75)
-- [✍️ Writing & Content](#writing-content) (51)
-- [📊 Analytics & Data](#analytics-data) (77)
-- [🗂 Productivity & Notes](#productivity-notes) (202)
-- [🔎 Search & Discovery](#search-discovery) (37)
+- [🎨 Image, Design & 3D](#image-design-3d) (76)
+- [✍️ Writing & Content](#writing-content) (52)
+- [📊 Analytics & Data](#analytics-data) (78)
+- [🗂 Productivity & Notes](#productivity-notes) (204)
+- [🔎 Search & Discovery](#search-discovery) (38)
 - [🎓 Education & Learning](#education-learning) (30)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (35)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (40)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (41)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (129)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (28)
-- [👥 Social & Community](#social-community) (17)
+- [👥 Social & Community](#social-community) (18)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
-- [✨ Everything Else](#everything-else) (108)
+- [✨ Everything Else](#everything-else) (109)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -149,6 +149,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Clara AI SDR](https://clarasdr.ai) - Clara is an AI SDR that converts inbound website traffic into pipeline - engaging, qualifying, demoing, handling objections, and booking meetings in real time.
 - [Astute](https://company-app.joinastute.com) - Astute is the first B2B new media platform, starting with creator partnerships.
 - [AI growth desk that works for you](https://www.marginglow.com) - MarginGlow is a proactive AI growth desk for small businesses.
+- [Ninjō AI](https://www.ninjo.ai) - Ninjō is infrastructure for AI sales agents on Instagram, WhatsApp & every channel where you sell.
 
 ## 🤖 AI Agents & Assistants
 
@@ -330,6 +331,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Construct Computer](https://construct.computer) - AI workforce for solo founders and small teams.
 - [Dropstone](https://www.dropstone.io) - Dropstone is persistent AI built to become the intelligence that runs with you.
 - [Decawork](https://decawork.ai) - Decawork is how IT teams take employee-built AI agents live and control every one of them from one place.
+- [Nimbia](https://nimbia.ai) - Nimbia is an AI that does screen-sharing calls to onboard and train new users of software products.
 
 ## 💻 Coding & Developer Tools
 
@@ -625,6 +627,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Phoenix](https://www.phoenix.vu) - Phoenix is an AI coding agent built specifically for iOS development.
 - [Bumply](https://bumply.app) - A Mac app for keeping npm, pnpm, Yarn, and Bun projects current.
 - [Localdock](https://localdock.dev) - Localdock provides a simple solution for accessing local projects with a real HTTPS link.
+- [coolplugz](https://coolplugz.com) - An orchestration layer that guides Claude Code to deliver your coding tasks without requiring your constant supervision.
+- [Diet Claude](https://www.dietclaude.com) - Hitting Claude's limit mid-work is annoying af.
 
 ## 🎙 Audio, Voice & Music
 
@@ -857,6 +861,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SVG Editor - Vector Designer](https://www.vectordesigner.info) - SVG Editor - Vector Designer is a native vector graphics editor for Mac.
 - [Kitbitz](https://kitbitz.art) - A free CC0 library of 2,000+ hand-drawn assets across 13 themed kits.
 - [Paper Critters](https://www.papercritters.com) - Paper Critters bridges digital creativity with hands-on play.
+- [Particle Studio](https://particle-studios.vercel.app) - Particle Studio turns your images into interactive, customizable particle compositions.
 
 ## ✍️ Writing & Content
 
@@ -911,6 +916,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [StepShot](https://stepshot.app) - StepShot is an AI-powered documentation tool that turns real on-screen workflows into polished step-by-step guides as you work.
 - [Alconost Localization Lab](https://alconost.com) - Alconost is a tech-driven localization company building an ecosystem of products around localization and QA.
 - [FluidDocs](https://fluiddocs.ai) - FluidDocs are interactive HTML documents that keep working after you hit send.
+- [Marble](https://marblecms.com) - Marble is a simple way to manage your blog and media.
 
 ## 📊 Analytics & Data
 
@@ -992,6 +998,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Open Analytics](https://getopen.so) - Open Analytics is an open-source, privacy-first alternative to Google Analytics, built for humans and AI agents.
 - [Toplify](https://toplify.app) - Toplify is a multi server service monitoring App Store charts across 175 countries, 24/7, so you never miss your next milestone.
 - [Navigara](https://navigara.com/product/ai-roi) - Navigara connects AI coding performance directly to your engineering roadmap.
+- [Agnost AI](https://agnost.ai) - Agnost AI analyzes conversations between users and your production AI agents and discovers: silent failures, agent behavior drift, hallucinations, user frustration, hidden feature requests, and….
 
 ## 🗂 Productivity & Notes
 
@@ -1197,6 +1204,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Maccess](https://maccess.io) - Control your Mac from iPhone with touchpad, keyboard, screen mirroring, files, and Mackie AI.
 - [Trama](https://usetrama.com) - Zapier and Shortcuts make you think like a programmer: blocks, flows, conditions.
 - [Offloop](https://offloop.org) - Offloop is a shared workspace where teammates and AI agents plan, execute, and track multi-step work together.
+- [DockDuck](https://dockduck.app) - DockDuck is the native macOS file manager Finder should be — fast, beautiful, and 100% Swift.
+- [Keymap](https://keymap.app) - Keymap is a macOS menubar app that shows every menu shortcut in the app you're using.
 
 ## 🔎 Search & Discovery
 
@@ -1237,6 +1246,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Deepmark](https://usedeepmark.com) - Your browser bookmarks, X bookmarks, Instagram saves and YouTube Watch Later, in one private library you can search in plain language.
 - [Qurify | AI-Powered Website Search](https://www.qurify.io) - Transform your website into an AI-powered knowledge engine with instant, context-aware answers.
 - [Contrive](https://contrive.app) - Contrive is a unified search and action layer for company knowledge.
+- [Memoria](https://memoria.anasouh.fr) - Tired of endless scrolling?.
 
 ## 🎓 Education & Learning
 
@@ -1352,6 +1362,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [tash](https://www.tash.cards) - tash gives investors access to professionally curated portfolios of high-end graded trading cards.
 - [Talvo](https://talvo.eu) - The European money tracker & budgeting app.
 - [PaymentKit](https://www.paymentkit.com) - PaymentKit is a multi-processor billing platform for SaaS and e-commerce.
+- [akta.pro](https://akta.pro) - Private company data with 4x the depth and 2x the coverage of PitchBook, plus 100+ event signals and news across companies, industries, and topics.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1535,6 +1546,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [hey postcard - digital postcards](https://heypostcard.com) - Hey Postcard is a slow messaging app for people who matter.
 - [Destiny Rings](https://yourdestinyrings.com) - Destiny Rings replaces endless swiping with real-world proximity.
 - [WorldMap.lol](https://worldmap.lol) - A public map where startups stake countries.
+- [Postaway.space](https://www.postaway.space) - Postaway brings the charm of vintage postcards to the digital world.
 
 ## 🛒 E-commerce & Retail
 
@@ -1663,6 +1675,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AgentR](https://agentr.global) - AgentR is a verified candidate evaluation system built for one outcome: the confidence to make the call.
 - [Fairphone](https://fairphone.com) - Fairphone is a social enterprise that is building a movement for fairer electronics.
 - [OpenLogi](https://openlogi.org) - A native, local-first alternative to Logitech Options+, written in Rust.
+- [Electronic Materials Office®](https://electronicmaterialsoffice.com) - Beginning with Altar I, and now with Altar II, Electronic Materials Office® makes premium computer hardware.
 
 ## Contributing
 
