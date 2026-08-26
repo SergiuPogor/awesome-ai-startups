@@ -7,21 +7,21 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (122)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (179)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (293)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (83)
-- [🎬 Video & Animation](#video-animation) (64)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (123)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (180)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (295)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (84)
+- [🎬 Video & Animation](#video-animation) (65)
 - [🎨 Image, Design & 3D](#image-design-3d) (76)
-- [✍️ Writing & Content](#writing-content) (52)
-- [📊 Analytics & Data](#analytics-data) (78)
+- [✍️ Writing & Content](#writing-content) (53)
+- [📊 Analytics & Data](#analytics-data) (79)
 - [🗂 Productivity & Notes](#productivity-notes) (204)
-- [🔎 Search & Discovery](#search-discovery) (38)
-- [🎓 Education & Learning](#education-learning) (30)
+- [🔎 Search & Discovery](#search-discovery) (39)
+- [🎓 Education & Learning](#education-learning) (31)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (35)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (41)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (129)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (28)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (42)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (130)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (29)
 - [👥 Social & Community](#social-community) (18)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
 - [✨ Everything Else](#everything-else) (109)
@@ -150,6 +150,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Astute](https://company-app.joinastute.com) - Astute is the first B2B new media platform, starting with creator partnerships.
 - [AI growth desk that works for you](https://www.marginglow.com) - MarginGlow is a proactive AI growth desk for small businesses.
 - [Ninjō AI](https://www.ninjo.ai) - Ninjō is infrastructure for AI sales agents on Instagram, WhatsApp & every channel where you sell.
+- [Playcall](https://playcall.dphenomenal.com) - Playcall is the open-source alternative to Gong, built for AI-native GTM teams.
 
 ## 🤖 AI Agents & Assistants
 
@@ -332,6 +333,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Dropstone](https://www.dropstone.io) - Dropstone is persistent AI built to become the intelligence that runs with you.
 - [Decawork](https://decawork.ai) - Decawork is how IT teams take employee-built AI agents live and control every one of them from one place.
 - [Nimbia](https://nimbia.ai) - Nimbia is an AI that does screen-sharing calls to onboard and train new users of software products.
+- [Expertise AI](https://www.expertise.ai) - Expertise is a platform to build, run, share, and own AI skills.
 
 ## 💻 Coding & Developer Tools
 
@@ -629,6 +631,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Localdock](https://localdock.dev) - Localdock provides a simple solution for accessing local projects with a real HTTPS link.
 - [coolplugz](https://coolplugz.com) - An orchestration layer that guides Claude Code to deliver your coding tasks without requiring your constant supervision.
 - [Diet Claude](https://www.dietclaude.com) - Hitting Claude's limit mid-work is annoying af.
+- [LoupeKit](https://www.loupekit.com) - A developer's inspector for the page you already have open.
+- [x1](https://x1.new) - X1 is an AI app builder that takes you from an idea to an iPhone app you can publish on the App Store.
 
 ## 🎙 Audio, Voice & Music
 
@@ -715,6 +719,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ANCBuddy for Bose QC Ultra](https://ancbuddy.com) - ANCBuddy puts ANC mode and battery status for Bose QuietComfort Ultra devices into the macOS menu bar so you can toggle modes and monitor battery without opening another app.
 - [Local Music Organizer for Mac](https://local-music-organizer-site.pages.dev) - Local Music Organizer is a native macOS toolkit built for large local music collections.
 - [IFAH](https://ifahinstruments.com) - IFAH is a new family of instruments built around a simple idea: sound can be composed as an environment.
+- [Tellie](https://tellieapp.com/start?via=producthunt) - Every prompter scrolls.
 
 ## 🎬 Video & Animation
 
@@ -782,6 +787,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Clipwing](https://clipwing.pro) - Save days on producing better video content.
 - [Wizstar](https://wizstar.com) - Wizstar helps founders, creators, and makers build an expressive, accurate digital ambassador that looks and moves like you.
 - [SubtitleGenerator](https://subtitlegenerator.app) - Free: 60 one-minute videos a month, no signup.
+- [Screenify Studio](https://screenify.studio) - Screenify Studio is a Mac screen recorder that turns rough recordings into polished product demos — without the editing tax.
 
 ## 🎨 Image, Design & 3D
 
@@ -917,6 +923,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Alconost Localization Lab](https://alconost.com) - Alconost is a tech-driven localization company building an ecosystem of products around localization and QA.
 - [FluidDocs](https://fluiddocs.ai) - FluidDocs are interactive HTML documents that keep working after you hit send.
 - [Marble](https://marblecms.com) - Marble is a simple way to manage your blog and media.
+- [Lore Machine](https://www.loremachine.world) - There's a new creator in town: The World Builder.
 
 ## 📊 Analytics & Data
 
@@ -999,6 +1006,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Toplify](https://toplify.app) - Toplify is a multi server service monitoring App Store charts across 175 countries, 24/7, so you never miss your next milestone.
 - [Navigara](https://navigara.com/product/ai-roi) - Navigara connects AI coding performance directly to your engineering roadmap.
 - [Agnost AI](https://agnost.ai) - Agnost AI analyzes conversations between users and your production AI agents and discovers: silent failures, agent behavior drift, hallucinations, user frustration, hidden feature requests, and….
+- [Evidence](https://evidence.dev) - Evidence is a code-based business intelligence tool.
 
 ## 🗂 Productivity & Notes
 
@@ -1247,6 +1255,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Qurify | AI-Powered Website Search](https://www.qurify.io) - Transform your website into an AI-powered knowledge engine with instant, context-aware answers.
 - [Contrive](https://contrive.app) - Contrive is a unified search and action layer for company knowledge.
 - [Memoria](https://memoria.anasouh.fr) - Tired of endless scrolling?.
+- [IdeaHunter](https://ideahunter.today) - IdeaHunter helps solo founders, indie hackers, and AI-assisted builders discover demand-backed app and micro-SaaS ideas from public market signals before they build.
 
 ## 🎓 Education & Learning
 
@@ -1281,6 +1290,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Scrimba](https://scrimba.com/?via=producthunt) - Whether you're just starting out or levelling up your coding skills, we're here to help you shine.
 - [Skriptr](https://skriptr.ai) - Skriptr is a collaborative workbench where students can learn, research and write with an agent that keeps them in the process and in the drivers seat.
 - [KanaSensei](https://kanasensei.dev) - KanaSensei is a web app for learning to read Japanese.
+- [Termy](https://termy.ai) - Termy turns the games, videos, and websites you love into language practice.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1363,6 +1373,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Talvo](https://talvo.eu) - The European money tracker & budgeting app.
 - [PaymentKit](https://www.paymentkit.com) - PaymentKit is a multi-processor billing platform for SaaS and e-commerce.
 - [akta.pro](https://akta.pro) - Private company data with 4x the depth and 2x the coverage of PitchBook, plus 100+ event signals and news across companies, industries, and topics.
+- [HEVN U.S.](https://gethevn.com/apply) - HEVN U.S. Accounts give eligible companies in 100+ countries access to USD banking through U.S. sponsor banks. Receive USD via Fedwire, hold USD, pay U.S. counterparties locally, and settle….
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1495,6 +1506,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Router by Ramp](https://router.com) - Stop overpaying for LLM inference and juggling multiple API integrations.
 - [KerasFormers](https://imvision12.github.io/KerasFormers/) - Pretrained transformer models in pure Keras 3, runnable on JAX, PyTorch and TensorFlow.
 - [Cortex by SKYNETLAB](https://skynetlab-cortex.com) - Hosted semantic memory your AI connects to over MCP.
+- [MCP-Builder.ai](https://mcp-builder.ai) - Build a hosted and secured MCP Server in minutes.
 
 ## 💬 Chatbots & Conversational
 
@@ -1526,6 +1538,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Ticketdesk AI](https://ticketdesk.ai) - Transform your customer support with AI-powered automation.
 - [Conecto](https://conecto.chat) - Conecto brings live chat, (voice) AI, a shared inbox, CRM, bots, automation, knowledge, and analytics into one workspace.
 - [Peach Co-Pilot](https://trypeach.ai/co-pilot) - The hosted WhatsApp MCP server for standard WhatsApp Business App users.
+- [ify](https://useify.ai) - Most AI support tools ask you to rip out your helpdesk first.
 
 ## 👥 Social & Community
 
