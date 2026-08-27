@@ -8,23 +8,23 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (123)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (180)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (295)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (84)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (181)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (297)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (85)
 - [🎬 Video & Animation](#video-animation) (65)
-- [🎨 Image, Design & 3D](#image-design-3d) (76)
-- [✍️ Writing & Content](#writing-content) (53)
+- [🎨 Image, Design & 3D](#image-design-3d) (78)
+- [✍️ Writing & Content](#writing-content) (54)
 - [📊 Analytics & Data](#analytics-data) (79)
-- [🗂 Productivity & Notes](#productivity-notes) (204)
-- [🔎 Search & Discovery](#search-discovery) (39)
-- [🎓 Education & Learning](#education-learning) (31)
+- [🗂 Productivity & Notes](#productivity-notes) (205)
+- [🔎 Search & Discovery](#search-discovery) (41)
+- [🎓 Education & Learning](#education-learning) (32)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (35)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (42)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (130)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (29)
-- [👥 Social & Community](#social-community) (18)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (131)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (30)
+- [👥 Social & Community](#social-community) (19)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
-- [✨ Everything Else](#everything-else) (109)
+- [✨ Everything Else](#everything-else) (110)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -334,6 +334,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Decawork](https://decawork.ai) - Decawork is how IT teams take employee-built AI agents live and control every one of them from one place.
 - [Nimbia](https://nimbia.ai) - Nimbia is an AI that does screen-sharing calls to onboard and train new users of software products.
 - [Expertise AI](https://www.expertise.ai) - Expertise is a platform to build, run, share, and own AI skills.
+- [Skydive](https://skydive.com) - Build cloud agent coworkers that take on real, multi-step work across the tools you already use.
 
 ## 💻 Coding & Developer Tools
 
@@ -633,6 +634,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Diet Claude](https://www.dietclaude.com) - Hitting Claude's limit mid-work is annoying af.
 - [LoupeKit](https://www.loupekit.com) - A developer's inspector for the page you already have open.
 - [x1](https://x1.new) - X1 is an AI app builder that takes you from an idea to an iPhone app you can publish on the App Store.
+- [GitNexus (Akon Labs)](https://www.akonlabs.com) - GitNexus (45k Github stars) is a Knowledge Graph Kernel that unifies every codebase in your org into one source of truth your coding agents can query.
+- [Enter Pro](https://enter.converge.ai) - Building what runs a business takes more than code.
 
 ## 🎙 Audio, Voice & Music
 
@@ -720,6 +723,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Local Music Organizer for Mac](https://local-music-organizer-site.pages.dev) - Local Music Organizer is a native macOS toolkit built for large local music collections.
 - [IFAH](https://ifahinstruments.com) - IFAH is a new family of instruments built around a simple idea: sound can be composed as an environment.
 - [Tellie](https://tellieapp.com/start?via=producthunt) - Every prompter scrolls.
+- [Speko](https://speko.ai) - One API for speech-to-text, language models, and text-to-speech, with public benchmarks beside runtime availability.
 
 ## 🎬 Video & Animation
 
@@ -868,6 +872,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Kitbitz](https://kitbitz.art) - A free CC0 library of 2,000+ hand-drawn assets across 13 themed kits.
 - [Paper Critters](https://www.papercritters.com) - Paper Critters bridges digital creativity with hands-on play.
 - [Particle Studio](https://particle-studios.vercel.app) - Particle Studio turns your images into interactive, customizable particle compositions.
+- [Sendra](https://www.hellosendra.com) - Sendra is a Figma plugin that turns your email designs into clean, responsive HTML that renders in Gmail, Outlook, Apple Mail and every major inbox.
+- [Kira.art](https://kira.art) - Kira is an AI agent for creativity.
 
 ## ✍️ Writing & Content
 
@@ -924,6 +930,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [FluidDocs](https://fluiddocs.ai) - FluidDocs are interactive HTML documents that keep working after you hit send.
 - [Marble](https://marblecms.com) - Marble is a simple way to manage your blog and media.
 - [Lore Machine](https://www.loremachine.world) - There's a new creator in town: The World Builder.
+- [Kraa](https://kraa.io/about) - Kraa is for writing.
 
 ## 📊 Analytics & Data
 
@@ -1214,6 +1221,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Offloop](https://offloop.org) - Offloop is a shared workspace where teammates and AI agents plan, execute, and track multi-step work together.
 - [DockDuck](https://dockduck.app) - DockDuck is the native macOS file manager Finder should be — fast, beautiful, and 100% Swift.
 - [Keymap](https://keymap.app) - Keymap is a macOS menubar app that shows every menu shortcut in the app you're using.
+- [SpacebarX](https://spacebarx.app) - SpacebarX is a keyboard-first, local-first outliner for notes, tasks, writing, markdown, code, and projects.
 
 ## 🔎 Search & Discovery
 
@@ -1256,6 +1264,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Contrive](https://contrive.app) - Contrive is a unified search and action layer for company knowledge.
 - [Memoria](https://memoria.anasouh.fr) - Tired of endless scrolling?.
 - [IdeaHunter](https://ideahunter.today) - IdeaHunter helps solo founders, indie hackers, and AI-assisted builders discover demand-backed app and micro-SaaS ideas from public market signals before they build.
+- [Pluto](https://talentpluto.com) - Pluto is an AI voice agent that learns your story in 10 minutes and makes you discoverable to the right people and AI agents.
+- [Lenz](https://lenz.io) - Lenz is an AI fact-checking API for products that cannot afford to hallucinate.
 
 ## 🎓 Education & Learning
 
@@ -1291,6 +1301,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Skriptr](https://skriptr.ai) - Skriptr is a collaborative workbench where students can learn, research and write with an agent that keeps them in the process and in the drivers seat.
 - [KanaSensei](https://kanasensei.dev) - KanaSensei is a web app for learning to read Japanese.
 - [Termy](https://termy.ai) - Termy turns the games, videos, and websites you love into language practice.
+- [Yomi](https://www.helloyomi.com) - Yomi is a little cat who gets fed when kids read stories aloud.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1507,6 +1518,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [KerasFormers](https://imvision12.github.io/KerasFormers/) - Pretrained transformer models in pure Keras 3, runnable on JAX, PyTorch and TensorFlow.
 - [Cortex by SKYNETLAB](https://skynetlab-cortex.com) - Hosted semantic memory your AI connects to over MCP.
 - [MCP-Builder.ai](https://mcp-builder.ai) - Build a hosted and secured MCP Server in minutes.
+- [Traccia](https://traccia.ai) - Traccia is a vendor-neutral AI Agent Control Plane built for teams running autonomous agents in production.
 
 ## 💬 Chatbots & Conversational
 
@@ -1539,6 +1551,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Conecto](https://conecto.chat) - Conecto brings live chat, (voice) AI, a shared inbox, CRM, bots, automation, knowledge, and analytics into one workspace.
 - [Peach Co-Pilot](https://trypeach.ai/co-pilot) - The hosted WhatsApp MCP server for standard WhatsApp Business App users.
 - [ify](https://useify.ai) - Most AI support tools ask you to rip out your helpdesk first.
+- [Ojin](https://ojin.ai) - Human AI Agents have a real face and a real voice, and run live conversation rather than turn-based exchange.
 
 ## 👥 Social & Community
 
@@ -1560,6 +1573,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Destiny Rings](https://yourdestinyrings.com) - Destiny Rings replaces endless swiping with real-world proximity.
 - [WorldMap.lol](https://worldmap.lol) - A public map where startups stake countries.
 - [Postaway.space](https://www.postaway.space) - Postaway brings the charm of vintage postcards to the digital world.
+- [8PM SOCIAL](https://www.8pm.social) - 8PM Social is a new social network from Europe built to bring social media back to real connections with real friends.
 
 ## 🛒 E-commerce & Retail
 
@@ -1689,6 +1703,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Fairphone](https://fairphone.com) - Fairphone is a social enterprise that is building a movement for fairer electronics.
 - [OpenLogi](https://openlogi.org) - A native, local-first alternative to Logitech Options+, written in Rust.
 - [Electronic Materials Office®](https://electronicmaterialsoffice.com) - Beginning with Altar I, and now with Altar II, Electronic Materials Office® makes premium computer hardware.
+- [The Million Sad Ducks](https://makeaduckhappy.com) - Pan and zoom the whole world for free.
 
 ## Contributing
 
