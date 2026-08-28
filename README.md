@@ -7,20 +7,20 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (123)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (124)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (181)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (297)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (299)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (85)
-- [🎬 Video & Animation](#video-animation) (65)
-- [🎨 Image, Design & 3D](#image-design-3d) (78)
+- [🎬 Video & Animation](#video-animation) (66)
+- [🎨 Image, Design & 3D](#image-design-3d) (79)
 - [✍️ Writing & Content](#writing-content) (54)
-- [📊 Analytics & Data](#analytics-data) (79)
-- [🗂 Productivity & Notes](#productivity-notes) (205)
-- [🔎 Search & Discovery](#search-discovery) (41)
+- [📊 Analytics & Data](#analytics-data) (80)
+- [🗂 Productivity & Notes](#productivity-notes) (211)
+- [🔎 Search & Discovery](#search-discovery) (42)
 - [🎓 Education & Learning](#education-learning) (32)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (35)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (42)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (131)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (132)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (30)
 - [👥 Social & Community](#social-community) (19)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
@@ -151,6 +151,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AI growth desk that works for you](https://www.marginglow.com) - MarginGlow is a proactive AI growth desk for small businesses.
 - [Ninjō AI](https://www.ninjo.ai) - Ninjō is infrastructure for AI sales agents on Instagram, WhatsApp & every channel where you sell.
 - [Playcall](https://playcall.dphenomenal.com) - Playcall is the open-source alternative to Gong, built for AI-native GTM teams.
+- [SnakeRank](https://snakerank.lol) - A pay-to-rank board where the leaderboard is a self-playing snake.
 
 ## 🤖 AI Agents & Assistants
 
@@ -636,6 +637,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [x1](https://x1.new) - X1 is an AI app builder that takes you from an idea to an iPhone app you can publish on the App Store.
 - [GitNexus (Akon Labs)](https://www.akonlabs.com) - GitNexus (45k Github stars) is a Knowledge Graph Kernel that unifies every codebase in your org into one source of truth your coding agents can query.
 - [Enter Pro](https://enter.converge.ai) - Building what runs a business takes more than code.
+- [Revalvo](https://revalvo.com) - Revalvo is a local-first workbench for prompt engineering and LLM evaluation.
+- [CTRL Micro](https://ctrlmicro.com) - Codex Micro ran out of stock, so we built one for your phone using Apple Taptic Engine.
 
 ## 🎙 Audio, Voice & Music
 
@@ -792,6 +795,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Wizstar](https://wizstar.com) - Wizstar helps founders, creators, and makers build an expressive, accurate digital ambassador that looks and moves like you.
 - [SubtitleGenerator](https://subtitlegenerator.app) - Free: 60 one-minute videos a month, no signup.
 - [Screenify Studio](https://screenify.studio) - Screenify Studio is a Mac screen recorder that turns rough recordings into polished product demos — without the editing tax.
+- [Glisio](https://glisio.com) - Glisio is a native Mac app for product demos: record cinematic clips or capture styled snapshots.
 
 ## 🎨 Image, Design & 3D
 
@@ -874,6 +878,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Particle Studio](https://particle-studios.vercel.app) - Particle Studio turns your images into interactive, customizable particle compositions.
 - [Sendra](https://www.hellosendra.com) - Sendra is a Figma plugin that turns your email designs into clean, responsive HTML that renders in Gmail, Outlook, Apple Mail and every major inbox.
 - [Kira.art](https://kira.art) - Kira is an AI agent for creativity.
+- [Spline](https://spline.design) - Create and deploy 3D for the web or mobile using AI agents, MCP, or direct controls.
 
 ## ✍️ Writing & Content
 
@@ -1014,6 +1019,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Navigara](https://navigara.com/product/ai-roi) - Navigara connects AI coding performance directly to your engineering roadmap.
 - [Agnost AI](https://agnost.ai) - Agnost AI analyzes conversations between users and your production AI agents and discovers: silent failures, agent behavior drift, hallucinations, user frustration, hidden feature requests, and….
 - [Evidence](https://evidence.dev) - Evidence is a code-based business intelligence tool.
+- [PlyrPulse | Real-Time Back-Office Intell](https://plyrpulse.io) - Understand player behavior, risk, and value in real time.
 
 ## 🗂 Productivity & Notes
 
@@ -1222,6 +1228,12 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [DockDuck](https://dockduck.app) - DockDuck is the native macOS file manager Finder should be — fast, beautiful, and 100% Swift.
 - [Keymap](https://keymap.app) - Keymap is a macOS menubar app that shows every menu shortcut in the app you're using.
 - [SpacebarX](https://spacebarx.app) - SpacebarX is a keyboard-first, local-first outliner for notes, tasks, writing, markdown, code, and projects.
+- [OpenTag](https://tryopentag.com) - OpenTag is an AI coworker that lives where your team collaborates.
+- [Fide Island](https://fideisland.it.com) - Fide Island turns your MacBook notch into a compact, fluid command surface.
+- [screenpipe (YC S26)](https://screenpipe.com) - screenpipe records your screen, audio, and activity on your computer, then lets AI agents access that history through MCP.
+- [SuperIntern](https://superintern.ai) - SuperIntern is a 24/7 AI email and meeting assistant inside your daily chat apps—like Telegram, WhatsApp, WeChat, Slack, and Discord.
+- [Almanac](https://usealmanac.com) - Almanac is an AI agent that knows your company.
+- [Caddi](https://trycaddi.com) - Caddi turns narrated screenshares into production agents that run back-office work across your real tools.
 
 ## 🔎 Search & Discovery
 
@@ -1266,6 +1278,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [IdeaHunter](https://ideahunter.today) - IdeaHunter helps solo founders, indie hackers, and AI-assisted builders discover demand-backed app and micro-SaaS ideas from public market signals before they build.
 - [Pluto](https://talentpluto.com) - Pluto is an AI voice agent that learns your story in 10 minutes and makes you discoverable to the right people and AI agents.
 - [Lenz](https://lenz.io) - Lenz is an AI fact-checking API for products that cannot afford to hallucinate.
+- [PageIndex](https://pageindex.ai) - PageIndex gives you accurate, trustworthy answers across long, professional documents your work depends on.
 
 ## 🎓 Education & Learning
 
@@ -1519,6 +1532,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Cortex by SKYNETLAB](https://skynetlab-cortex.com) - Hosted semantic memory your AI connects to over MCP.
 - [MCP-Builder.ai](https://mcp-builder.ai) - Build a hosted and secured MCP Server in minutes.
 - [Traccia](https://traccia.ai) - Traccia is a vendor-neutral AI Agent Control Plane built for teams running autonomous agents in production.
+- [Aramb](https://aramb.ai) - Aramb is the operating system for AI agents.
 
 ## 💬 Chatbots & Conversational
 
