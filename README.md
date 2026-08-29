@@ -9,20 +9,20 @@ The goal: make useful indie AI products easier to find, share, and support.
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (124)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (181)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (299)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (300)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (85)
 - [🎬 Video & Animation](#video-animation) (66)
-- [🎨 Image, Design & 3D](#image-design-3d) (79)
-- [✍️ Writing & Content](#writing-content) (54)
-- [📊 Analytics & Data](#analytics-data) (80)
-- [🗂 Productivity & Notes](#productivity-notes) (211)
+- [🎨 Image, Design & 3D](#image-design-3d) (80)
+- [✍️ Writing & Content](#writing-content) (55)
+- [📊 Analytics & Data](#analytics-data) (81)
+- [🗂 Productivity & Notes](#productivity-notes) (214)
 - [🔎 Search & Discovery](#search-discovery) (42)
-- [🎓 Education & Learning](#education-learning) (32)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (35)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (42)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (132)
+- [🎓 Education & Learning](#education-learning) (33)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (43)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (133)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (30)
-- [👥 Social & Community](#social-community) (19)
+- [👥 Social & Community](#social-community) (20)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
 - [✨ Everything Else](#everything-else) (110)
 
@@ -639,6 +639,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Enter Pro](https://enter.converge.ai) - Building what runs a business takes more than code.
 - [Revalvo](https://revalvo.com) - Revalvo is a local-first workbench for prompt engineering and LLM evaluation.
 - [CTRL Micro](https://ctrlmicro.com) - Codex Micro ran out of stock, so we built one for your phone using Apple Taptic Engine.
+- [seendiff](https://seendiff.com) - Coding agent can create huge code diffs.
 
 ## 🎙 Audio, Voice & Music
 
@@ -879,6 +880,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Sendra](https://www.hellosendra.com) - Sendra is a Figma plugin that turns your email designs into clean, responsive HTML that renders in Gmail, Outlook, Apple Mail and every major inbox.
 - [Kira.art](https://kira.art) - Kira is an AI agent for creativity.
 - [Spline](https://spline.design) - Create and deploy 3D for the web or mobile using AI agents, MCP, or direct controls.
+- [Cursor Craft](https://cursor-craft.app) - Cursor Craft is a free macOS app for browsing, installing, and switching custom cursor sets in one click.
 
 ## ✍️ Writing & Content
 
@@ -936,6 +938,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Marble](https://marblecms.com) - Marble is a simple way to manage your blog and media.
 - [Lore Machine](https://www.loremachine.world) - There's a new creator in town: The World Builder.
 - [Kraa](https://kraa.io/about) - Kraa is for writing.
+- [WIT](https://wit-will-it-travel.vercel.app) - WIT is an AI communication check for founders and global teams.
 
 ## 📊 Analytics & Data
 
@@ -1020,6 +1023,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Agnost AI](https://agnost.ai) - Agnost AI analyzes conversations between users and your production AI agents and discovers: silent failures, agent behavior drift, hallucinations, user frustration, hidden feature requests, and….
 - [Evidence](https://evidence.dev) - Evidence is a code-based business intelligence tool.
 - [PlyrPulse | Real-Time Back-Office Intell](https://plyrpulse.io) - Understand player behavior, risk, and value in real time.
+- [Staats](https://www.staats.ai) - Agent-native, cookieless site analytics.
 
 ## 🗂 Productivity & Notes
 
@@ -1234,6 +1238,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SuperIntern](https://superintern.ai) - SuperIntern is a 24/7 AI email and meeting assistant inside your daily chat apps—like Telegram, WhatsApp, WeChat, Slack, and Discord.
 - [Almanac](https://usealmanac.com) - Almanac is an AI agent that knows your company.
 - [Caddi](https://trycaddi.com) - Caddi turns narrated screenshares into production agents that run back-office work across your real tools.
+- [Any Command](https://anycommand.io) - Any Command turns an Android phone into a second screen, trackpad, keyboard and gamepad for your Windows PC.
+- [Tiles](https://gettiles.vercel.app) - Streamline your daily workflow and eliminate window clutter with Tiles, the ultimate workspace manager for macOS.
+- [Einfall](https://einfall.co) - Einfall catches the fugitive thought — the one that falls into your head at the strangest times — before it's gone.
 
 ## 🔎 Search & Discovery
 
@@ -1315,6 +1322,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [KanaSensei](https://kanasensei.dev) - KanaSensei is a web app for learning to read Japanese.
 - [Termy](https://termy.ai) - Termy turns the games, videos, and websites you love into language practice.
 - [Yomi](https://www.helloyomi.com) - Yomi is a little cat who gets fed when kids read stories aloud.
+- [God’s Eye View](https://maptheworld.ai) - Mapped the world at Google.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1353,6 +1361,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Hubble](https://hubble.ai) - Medical records still live behind fax lines, phone trees, and portal logins nobody remembers.
 - [Peptide Tracker](https://glp1.app) - Peptide Tracker is an iOS app for people managing a GLP-1 or peptide regimen.
 - [Plask](https://plask.info) - Plask turns your Apple Watch into a tiny aquatic theatre: pixel-art rubber ducks that dive when you do, your real depth on screen, and a duck or ten.
+- [Lubb](https://thelubb.com) - Lubb turns an iPhone into a slow, realistic heartbeat you can place under the edge of your pillow.
+- [Mossy](https://heymossy.com) - Mossy is a small plant that lives on your Mac desktop.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -1398,6 +1408,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PaymentKit](https://www.paymentkit.com) - PaymentKit is a multi-processor billing platform for SaaS and e-commerce.
 - [akta.pro](https://akta.pro) - Private company data with 4x the depth and 2x the coverage of PitchBook, plus 100+ event signals and news across companies, industries, and topics.
 - [HEVN U.S.](https://gethevn.com/apply) - HEVN U.S. Accounts give eligible companies in 100+ countries access to USD banking through U.S. sponsor banks. Receive USD via Fedwire, hold USD, pay U.S. counterparties locally, and settle….
+- [1752vc Pitch Deck Analyzer](https://1752.ai) - The Pitch Deck Analyzer gives you investor-grade feedback in minutes — trained on 25,000+ real decks and the investor decisions that followed.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1533,6 +1544,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MCP-Builder.ai](https://mcp-builder.ai) - Build a hosted and secured MCP Server in minutes.
 - [Traccia](https://traccia.ai) - Traccia is a vendor-neutral AI Agent Control Plane built for teams running autonomous agents in production.
 - [Aramb](https://aramb.ai) - Aramb is the operating system for AI agents.
+- [Tencent Hy](https://hy.tencent.ai) - Tencent Hy (formerly Hunyuan) is Tencent’s multimodal AI model family, covering text, image, video, 3D generation, and understanding.
 
 ## 💬 Chatbots & Conversational
 
@@ -1588,6 +1600,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [WorldMap.lol](https://worldmap.lol) - A public map where startups stake countries.
 - [Postaway.space](https://www.postaway.space) - Postaway brings the charm of vintage postcards to the digital world.
 - [8PM SOCIAL](https://www.8pm.social) - 8PM Social is a new social network from Europe built to bring social media back to real connections with real friends.
+- [publicdesktop.lol](https://publicdesktop.lol) - Buy a permanent $10 icon location on the internet's public computer, or bid to control its public song.
 
 ## 🛒 E-commerce & Retail
 
