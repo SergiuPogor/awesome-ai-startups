@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (124)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (125)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (181)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (300)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (85)
-- [🎬 Video & Animation](#video-animation) (66)
-- [🎨 Image, Design & 3D](#image-design-3d) (80)
-- [✍️ Writing & Content](#writing-content) (55)
-- [📊 Analytics & Data](#analytics-data) (81)
-- [🗂 Productivity & Notes](#productivity-notes) (214)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (301)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (86)
+- [🎬 Video & Animation](#video-animation) (68)
+- [🎨 Image, Design & 3D](#image-design-3d) (81)
+- [✍️ Writing & Content](#writing-content) (56)
+- [📊 Analytics & Data](#analytics-data) (82)
+- [🗂 Productivity & Notes](#productivity-notes) (218)
 - [🔎 Search & Discovery](#search-discovery) (42)
 - [🎓 Education & Learning](#education-learning) (33)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (43)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (133)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (135)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (30)
-- [👥 Social & Community](#social-community) (20)
+- [👥 Social & Community](#social-community) (21)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (14)
-- [✨ Everything Else](#everything-else) (110)
+- [✨ Everything Else](#everything-else) (111)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -152,6 +152,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Ninjō AI](https://www.ninjo.ai) - Ninjō is infrastructure for AI sales agents on Instagram, WhatsApp & every channel where you sell.
 - [Playcall](https://playcall.dphenomenal.com) - Playcall is the open-source alternative to Gong, built for AI-native GTM teams.
 - [SnakeRank](https://snakerank.lol) - A pay-to-rank board where the leaderboard is a self-playing snake.
+- [Topview](https://topview.ai) - Topview is the Agent OS for Marketing and Filmmaking —turning ideas into high-performing ads, branded content, and cinematic stories.
 
 ## 🤖 AI Agents & Assistants
 
@@ -640,6 +641,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Revalvo](https://revalvo.com) - Revalvo is a local-first workbench for prompt engineering and LLM evaluation.
 - [CTRL Micro](https://ctrlmicro.com) - Codex Micro ran out of stock, so we built one for your phone using Apple Taptic Engine.
 - [seendiff](https://seendiff.com) - Coding agent can create huge code diffs.
+- [Superagent](https://superagent.computer) - Working with a coding agent should feel like using a good Mac app, not a terminal.
 
 ## 🎙 Audio, Voice & Music
 
@@ -728,6 +730,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [IFAH](https://ifahinstruments.com) - IFAH is a new family of instruments built around a simple idea: sound can be composed as an environment.
 - [Tellie](https://tellieapp.com/start?via=producthunt) - Every prompter scrolls.
 - [Speko](https://speko.ai) - One API for speech-to-text, language models, and text-to-speech, with public benchmarks beside runtime availability.
+- [ChordWeaver](https://chordweaver.github.io) - Chordweaver is a free music theory playground for creating, experimenting, and learning.
 
 ## 🎬 Video & Animation
 
@@ -797,6 +800,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SubtitleGenerator](https://subtitlegenerator.app) - Free: 60 one-minute videos a month, no signup.
 - [Screenify Studio](https://screenify.studio) - Screenify Studio is a Mac screen recorder that turns rough recordings into polished product demos — without the editing tax.
 - [Glisio](https://glisio.com) - Glisio is a native Mac app for product demos: record cinematic clips or capture styled snapshots.
+- [Sayscroll](https://sayscroll.com) - SAYSCROLL is an AI teleprompter that follows your voice, so you can speak naturally instead of constantly adjusting your scroll speed.
+- [Prequel](https://prequel.sh) - A macOS screen recorder that hands back a finished video.
 
 ## 🎨 Image, Design & 3D
 
@@ -881,6 +886,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Kira.art](https://kira.art) - Kira is an AI agent for creativity.
 - [Spline](https://spline.design) - Create and deploy 3D for the web or mobile using AI agents, MCP, or direct controls.
 - [Cursor Craft](https://cursor-craft.app) - Cursor Craft is a free macOS app for browsing, installing, and switching custom cursor sets in one click.
+- [Ravioli](https://raviolitool.vercel.app) - Ravioli is a tiny design tool for creating custom postage-stamp shapes.
 
 ## ✍️ Writing & Content
 
@@ -939,6 +945,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Lore Machine](https://www.loremachine.world) - There's a new creator in town: The World Builder.
 - [Kraa](https://kraa.io/about) - Kraa is for writing.
 - [WIT](https://wit-will-it-travel.vercel.app) - WIT is an AI communication check for founders and global teams.
+- [Murfy AI](https://murfy.ai/en) - Murfy is a team of AI agents for the entire research writing workflow.
 
 ## 📊 Analytics & Data
 
@@ -1024,6 +1031,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Evidence](https://evidence.dev) - Evidence is a code-based business intelligence tool.
 - [PlyrPulse | Real-Time Back-Office Intell](https://plyrpulse.io) - Understand player behavior, risk, and value in real time.
 - [Staats](https://www.staats.ai) - Agent-native, cookieless site analytics.
+- [Olostep](https://www.olostep.com) - Extract, crawl and structure web data at scale with Olostep's Web Data API.
 
 ## 🗂 Productivity & Notes
 
@@ -1241,6 +1249,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Any Command](https://anycommand.io) - Any Command turns an Android phone into a second screen, trackpad, keyboard and gamepad for your Windows PC.
 - [Tiles](https://gettiles.vercel.app) - Streamline your daily workflow and eliminate window clutter with Tiles, the ultimate workspace manager for macOS.
 - [Einfall](https://einfall.co) - Einfall catches the fugitive thought — the one that falls into your head at the strangest times — before it's gone.
+- [Edge Drop](https://www.edgedrop.app) - Win+V makes you stop working.
+- [Skud](https://skud.app) - Skud lives in your Mac menubar.
+- [Ulpaso](https://ulpaso.app) - Your meeting-notes app wants the recording, an account, and a card.
+- [Hyperfocus](https://hyperfocus.in) - Hyperfocus is a free, goals-first planner for macOS.
 
 ## 🔎 Search & Discovery
 
@@ -1545,6 +1557,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Traccia](https://traccia.ai) - Traccia is a vendor-neutral AI Agent Control Plane built for teams running autonomous agents in production.
 - [Aramb](https://aramb.ai) - Aramb is the operating system for AI agents.
 - [Tencent Hy](https://hy.tencent.ai) - Tencent Hy (formerly Hunyuan) is Tencent’s multimodal AI model family, covering text, image, video, 3D generation, and understanding.
+- [Maritime](https://maritime.sh) - Maritime is a deployment platform for AI agents that lets you run OpenClaw, ZeroClaw, and custom agents in the cloud without managing infrastructure.
+- [oMLX](https://omlx.ai) - oMLX turns your Mac into a full LLM inference server, run from the menu bar.
 
 ## 💬 Chatbots & Conversational
 
@@ -1601,6 +1615,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Postaway.space](https://www.postaway.space) - Postaway brings the charm of vintage postcards to the digital world.
 - [8PM SOCIAL](https://www.8pm.social) - 8PM Social is a new social network from Europe built to bring social media back to real connections with real friends.
 - [publicdesktop.lol](https://publicdesktop.lol) - Buy a permanent $10 icon location on the internet's public computer, or bid to control its public song.
+- [RIP MY BUILD](https://www.ripmybuild.com) - RIP MY BUILD is a side project cemetery for honest public postmortems.
 
 ## 🛒 E-commerce & Retail
 
@@ -1731,6 +1746,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [OpenLogi](https://openlogi.org) - A native, local-first alternative to Logitech Options+, written in Rust.
 - [Electronic Materials Office®](https://electronicmaterialsoffice.com) - Beginning with Altar I, and now with Altar II, Electronic Materials Office® makes premium computer hardware.
 - [The Million Sad Ducks](https://makeaduckhappy.com) - Pan and zoom the whole world for free.
+- [Referent](https://referent.law) - Referent is AI-native legal practice management software for lawyers and law firms.
 
 ## Contributing
 
