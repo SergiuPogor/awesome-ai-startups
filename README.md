@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (125)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (127)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (181)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (301)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (86)
-- [🎬 Video & Animation](#video-animation) (68)
-- [🎨 Image, Design & 3D](#image-design-3d) (81)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (302)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (87)
+- [🎬 Video & Animation](#video-animation) (69)
+- [🎨 Image, Design & 3D](#image-design-3d) (82)
 - [✍️ Writing & Content](#writing-content) (56)
-- [📊 Analytics & Data](#analytics-data) (82)
+- [📊 Analytics & Data](#analytics-data) (83)
 - [🗂 Productivity & Notes](#productivity-notes) (218)
-- [🔎 Search & Discovery](#search-discovery) (42)
-- [🎓 Education & Learning](#education-learning) (33)
+- [🔎 Search & Discovery](#search-discovery) (43)
+- [🎓 Education & Learning](#education-learning) (34)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (43)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (135)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (30)
 - [👥 Social & Community](#social-community) (21)
-- [🛒 E-commerce & Retail](#e-commerce-retail) (14)
-- [✨ Everything Else](#everything-else) (111)
+- [🛒 E-commerce & Retail](#e-commerce-retail) (15)
+- [✨ Everything Else](#everything-else) (112)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -153,6 +153,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Playcall](https://playcall.dphenomenal.com) - Playcall is the open-source alternative to Gong, built for AI-native GTM teams.
 - [SnakeRank](https://snakerank.lol) - A pay-to-rank board where the leaderboard is a self-playing snake.
 - [Topview](https://topview.ai) - Topview is the Agent OS for Marketing and Filmmaking —turning ideas into high-performing ads, branded content, and cinematic stories.
+- [BrandMyLaptop](https://brandmylaptop.com) - A marketplace where brands buy sticker spots on your laptop lid.
+- [BrandJet AI](https://brandjet.ai) - BrandJet is the mission control for outreach and brand intelligence.
 
 ## 🤖 AI Agents & Assistants
 
@@ -642,6 +644,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [CTRL Micro](https://ctrlmicro.com) - Codex Micro ran out of stock, so we built one for your phone using Apple Taptic Engine.
 - [seendiff](https://seendiff.com) - Coding agent can create huge code diffs.
 - [Superagent](https://superagent.computer) - Working with a coding agent should feel like using a good Mac app, not a terminal.
+- [WebTerm](https://www.webterm.app) - WebTerm is a browser-based terminal sandbox for the AI era.
 
 ## 🎙 Audio, Voice & Music
 
@@ -731,6 +734,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Tellie](https://tellieapp.com/start?via=producthunt) - Every prompter scrolls.
 - [Speko](https://speko.ai) - One API for speech-to-text, language models, and text-to-speech, with public benchmarks beside runtime availability.
 - [ChordWeaver](https://chordweaver.github.io) - Chordweaver is a free music theory playground for creating, experimenting, and learning.
+- [Teenage Engineering](https://teenage.engineering) - Teenage Engineering is a Swedish consumer electronics company and manufacturer founded in 2005 by Jesper Kouthoofd, David Eriksson, Jens Rudberg and David Möllerstedt and based in Stockholm.
 
 ## 🎬 Video & Animation
 
@@ -802,6 +806,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Glisio](https://glisio.com) - Glisio is a native Mac app for product demos: record cinematic clips or capture styled snapshots.
 - [Sayscroll](https://sayscroll.com) - SAYSCROLL is an AI teleprompter that follows your voice, so you can speak naturally instead of constantly adjusting your scroll speed.
 - [Prequel](https://prequel.sh) - A macOS screen recorder that hands back a finished video.
+- [FrameOS](https://tryframeos.com) - Record iPhone, iPad and Android app demos on your Mac.
 
 ## 🎨 Image, Design & 3D
 
@@ -887,6 +892,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Spline](https://spline.design) - Create and deploy 3D for the web or mobile using AI agents, MCP, or direct controls.
 - [Cursor Craft](https://cursor-craft.app) - Cursor Craft is a free macOS app for browsing, installing, and switching custom cursor sets in one click.
 - [Ravioli](https://raviolitool.vercel.app) - Ravioli is a tiny design tool for creating custom postage-stamp shapes.
+- [Fotor](https://www.fotor.com) - Powerful, user-friendly and globally accessible, Fotor is an online photo editing suite, utilizing exclusive technology to bring an unprecedented level of editing control to anyone and everyone.
 
 ## ✍️ Writing & Content
 
@@ -1032,6 +1038,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PlyrPulse | Real-Time Back-Office Intell](https://plyrpulse.io) - Understand player behavior, risk, and value in real time.
 - [Staats](https://www.staats.ai) - Agent-native, cookieless site analytics.
 - [Olostep](https://www.olostep.com) - Extract, crawl and structure web data at scale with Olostep's Web Data API.
+- [StackScope](https://stackscope.dev) - See which sites started using Stripe, Shopify or Next.js this week. Most of what we index we find ourselves: over 2.2+ million sites from public infrastructure signals, not submitted to us, across….
 
 ## 🗂 Productivity & Notes
 
@@ -1298,6 +1305,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pluto](https://talentpluto.com) - Pluto is an AI voice agent that learns your story in 10 minutes and makes you discoverable to the right people and AI agents.
 - [Lenz](https://lenz.io) - Lenz is an AI fact-checking API for products that cannot afford to hallucinate.
 - [PageIndex](https://pageindex.ai) - PageIndex gives you accurate, trustworthy answers across long, professional documents your work depends on.
+- [Particle News](https://particle.news) - It should be easier to understand what’s happening, so why does keeping up with the news feel like work?.
 
 ## 🎓 Education & Learning
 
@@ -1335,6 +1343,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Termy](https://termy.ai) - Termy turns the games, videos, and websites you love into language practice.
 - [Yomi](https://www.helloyomi.com) - Yomi is a little cat who gets fed when kids read stories aloud.
 - [God’s Eye View](https://maptheworld.ai) - Mapped the world at Google.
+- [Orato](https://orato.tepoyan.com) - Pick a drill, speak for 30 to 90 seconds, and get scored on pacing, fluency, vocabulary and coherence.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1633,6 +1642,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Basement Browser](https://basementbrowser.com/app) - Basement is a browser whose job is shopping.
 - [HonorBox](https://honorboxx.github.io/honorbox/) - Your storefront is a static site on GitHub Pages.
 - [Athena by Shoplazza](https://www.shoplaza.ai) - Athena helps you build a polished, launch-ready store with complete pages, products, and localized copy.
+- [Ask My Wardrobe](https://askmywardrobe.com) - Ask My Wardrobe is an AI outfit generator and outfit planner that makes it easier to get dressed, plan better looks, and shop with more confidence.
 
 ## ✨ Everything Else
 
@@ -1747,6 +1757,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Electronic Materials Office®](https://electronicmaterialsoffice.com) - Beginning with Altar I, and now with Altar II, Electronic Materials Office® makes premium computer hardware.
 - [The Million Sad Ducks](https://makeaduckhappy.com) - Pan and zoom the whole world for free.
 - [Referent](https://referent.law) - Referent is AI-native legal practice management software for lawyers and law firms.
+- [Tether](https://www.playtether.app) - A ball hangs from your Mac menu bar on an elastic tether.
 
 ## Contributing
 
