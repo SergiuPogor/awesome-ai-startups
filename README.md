@@ -7,20 +7,20 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (127)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (181)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (302)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (87)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (128)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (183)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (303)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (88)
 - [🎬 Video & Animation](#video-animation) (69)
-- [🎨 Image, Design & 3D](#image-design-3d) (82)
-- [✍️ Writing & Content](#writing-content) (56)
-- [📊 Analytics & Data](#analytics-data) (83)
-- [🗂 Productivity & Notes](#productivity-notes) (218)
+- [🎨 Image, Design & 3D](#image-design-3d) (85)
+- [✍️ Writing & Content](#writing-content) (57)
+- [📊 Analytics & Data](#analytics-data) (84)
+- [🗂 Productivity & Notes](#productivity-notes) (219)
 - [🔎 Search & Discovery](#search-discovery) (43)
 - [🎓 Education & Learning](#education-learning) (34)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (43)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (135)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (137)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (30)
 - [👥 Social & Community](#social-community) (21)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (15)
@@ -155,6 +155,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Topview](https://topview.ai) - Topview is the Agent OS for Marketing and Filmmaking —turning ideas into high-performing ads, branded content, and cinematic stories.
 - [BrandMyLaptop](https://brandmylaptop.com) - A marketplace where brands buy sticker spots on your laptop lid.
 - [BrandJet AI](https://brandjet.ai) - BrandJet is the mission control for outreach and brand intelligence.
+- [Articos](https://www.articos.com) - Articos helps SaaS teams, agencies, and founders test messaging, positioning, and landing pages against simulated personas matched to your ICP.
 
 ## 🤖 AI Agents & Assistants
 
@@ -339,6 +340,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Nimbia](https://nimbia.ai) - Nimbia is an AI that does screen-sharing calls to onboard and train new users of software products.
 - [Expertise AI](https://www.expertise.ai) - Expertise is a platform to build, run, share, and own AI skills.
 - [Skydive](https://skydive.com) - Build cloud agent coworkers that take on real, multi-step work across the tools you already use.
+- [Touchy](https://touchyapp.com) - The AI assistant that handles it quietly, so you can stay in the moment.
+- [OpenClaw (formerly Clawdbot)](https://openclaw.ai) - OpenClaw, the AI that actually does things.
 
 ## 💻 Coding & Developer Tools
 
@@ -645,6 +648,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [seendiff](https://seendiff.com) - Coding agent can create huge code diffs.
 - [Superagent](https://superagent.computer) - Working with a coding agent should feel like using a good Mac app, not a terminal.
 - [WebTerm](https://www.webterm.app) - WebTerm is a browser-based terminal sandbox for the AI era.
+- [Browzer](https://trybrowzer.com) - Browzer lets users connect their codebases to auto-generate docs that self heal and technical content (blogs, quickstarts, cookbooks, videos) that are human & agent friendly.
 
 ## 🎙 Audio, Voice & Music
 
@@ -735,6 +739,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Speko](https://speko.ai) - One API for speech-to-text, language models, and text-to-speech, with public benchmarks beside runtime availability.
 - [ChordWeaver](https://chordweaver.github.io) - Chordweaver is a free music theory playground for creating, experimenting, and learning.
 - [Teenage Engineering](https://teenage.engineering) - Teenage Engineering is a Swedish consumer electronics company and manufacturer founded in 2005 by Jesper Kouthoofd, David Eriksson, Jens Rudberg and David Möllerstedt and based in Stockholm.
+- [Parasocial](https://parasocial.fm) - PARASOCIAL is a fast, native podcast player for people who really love podcasts.
 
 ## 🎬 Video & Animation
 
@@ -893,6 +898,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Cursor Craft](https://cursor-craft.app) - Cursor Craft is a free macOS app for browsing, installing, and switching custom cursor sets in one click.
 - [Ravioli](https://raviolitool.vercel.app) - Ravioli is a tiny design tool for creating custom postage-stamp shapes.
 - [Fotor](https://www.fotor.com) - Powerful, user-friendly and globally accessible, Fotor is an online photo editing suite, utilizing exclusive technology to bring an unprecedented level of editing control to anyone and everyone.
+- [Doop](https://doop.design) - Doop is an infinite multiplayer canvas where AI agents design beside you.
+- [Stitch AI by Dynamic Mockups](https://dynamicmockups.com/stitch/) - Stitch reads your artwork the way a professional digitizer would - planning stitch direction, density, and pull compensation region by region.
+- [CleanShot](https://getcleanshot.com) - Discover a superior way to capture your Mac's screen with built-in annotation and amazing Quick Access Overlay.
 
 ## ✍️ Writing & Content
 
@@ -952,6 +960,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Kraa](https://kraa.io/about) - Kraa is for writing.
 - [WIT](https://wit-will-it-travel.vercel.app) - WIT is an AI communication check for founders and global teams.
 - [Murfy AI](https://murfy.ai/en) - Murfy is a team of AI agents for the entire research writing workflow.
+- [Onset.io](http://onset.io) - Write release notes in minutes, or let your AI agent draft them for you.
 
 ## 📊 Analytics & Data
 
@@ -1039,6 +1048,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Staats](https://www.staats.ai) - Agent-native, cookieless site analytics.
 - [Olostep](https://www.olostep.com) - Extract, crawl and structure web data at scale with Olostep's Web Data API.
 - [StackScope](https://stackscope.dev) - See which sites started using Stripe, Shopify or Next.js this week. Most of what we index we find ourselves: over 2.2+ million sites from public infrastructure signals, not submitted to us, across….
+- [Userlens](https://userlens.io) - Userlens helps SaaS teams turn product behavior into timely, personal guidance.
 
 ## 🗂 Productivity & Notes
 
@@ -1260,6 +1270,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Skud](https://skud.app) - Skud lives in your Mac menubar.
 - [Ulpaso](https://ulpaso.app) - Your meeting-notes app wants the recording, an account, and a card.
 - [Hyperfocus](https://hyperfocus.in) - Hyperfocus is a free, goals-first planner for macOS.
+- [RoundOS](https://roundos.ai/launch) - Stop paying for basic infrastructure.
 
 ## 🔎 Search & Discovery
 
@@ -1568,6 +1579,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Tencent Hy](https://hy.tencent.ai) - Tencent Hy (formerly Hunyuan) is Tencent’s multimodal AI model family, covering text, image, video, 3D generation, and understanding.
 - [Maritime](https://maritime.sh) - Maritime is a deployment platform for AI agents that lets you run OpenClaw, ZeroClaw, and custom agents in the cloud without managing infrastructure.
 - [oMLX](https://omlx.ai) - oMLX turns your Mac into a full LLM inference server, run from the menu bar.
+- [deepidv](https://www.deepidv.com) - deepidv is the new standard for Human + AI verification — a cryptographically secured verification engine and agentic compliance suite for risk, fraud, and continuous monitoring.
+- [Dial](https://getdial.ai) - Your agent can deploy in seconds but cannot get a phone number.
 
 ## 💬 Chatbots & Conversational
 
