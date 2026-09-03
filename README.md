@@ -7,20 +7,20 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (128)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (183)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (303)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (129)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (184)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (306)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (88)
-- [🎬 Video & Animation](#video-animation) (69)
-- [🎨 Image, Design & 3D](#image-design-3d) (85)
-- [✍️ Writing & Content](#writing-content) (57)
+- [🎬 Video & Animation](#video-animation) (71)
+- [🎨 Image, Design & 3D](#image-design-3d) (86)
+- [✍️ Writing & Content](#writing-content) (58)
 - [📊 Analytics & Data](#analytics-data) (84)
-- [🗂 Productivity & Notes](#productivity-notes) (219)
+- [🗂 Productivity & Notes](#productivity-notes) (221)
 - [🔎 Search & Discovery](#search-discovery) (43)
-- [🎓 Education & Learning](#education-learning) (34)
+- [🎓 Education & Learning](#education-learning) (35)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (37)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (43)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (137)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (139)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (30)
 - [👥 Social & Community](#social-community) (21)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (15)
@@ -156,6 +156,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [BrandMyLaptop](https://brandmylaptop.com) - A marketplace where brands buy sticker spots on your laptop lid.
 - [BrandJet AI](https://brandjet.ai) - BrandJet is the mission control for outreach and brand intelligence.
 - [Articos](https://www.articos.com) - Articos helps SaaS teams, agencies, and founders test messaging, positioning, and landing pages against simulated personas matched to your ICP.
+- [Nex](https://nex.ai) - Nex builds and runs the complex, high-volume GTM workflows that general-purpose agents struggle with.
 
 ## 🤖 AI Agents & Assistants
 
@@ -342,6 +343,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Skydive](https://skydive.com) - Build cloud agent coworkers that take on real, multi-step work across the tools you already use.
 - [Touchy](https://touchyapp.com) - The AI assistant that handles it quietly, so you can stay in the moment.
 - [OpenClaw (formerly Clawdbot)](https://openclaw.ai) - OpenClaw, the AI that actually does things.
+- [MagiCrew](https://www.magicrew.ai) - MagiCrew is an open-source AI Agent platform that gives everyone their own AI workforce.
 
 ## 💻 Coding & Developer Tools
 
@@ -649,6 +651,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Superagent](https://superagent.computer) - Working with a coding agent should feel like using a good Mac app, not a terminal.
 - [WebTerm](https://www.webterm.app) - WebTerm is a browser-based terminal sandbox for the AI era.
 - [Browzer](https://trybrowzer.com) - Browzer lets users connect their codebases to auto-generate docs that self heal and technical content (blogs, quickstarts, cookbooks, videos) that are human & agent friendly.
+- [CodeLook](https://codelook.app) - A Quick Look extension for macOS.
+- [Grove](https://grove.publishstudio.one) - Grove is an AI-native macOS script runner designed to unify your terminal experience with your AI coding agent.
+- [Blume.codes](https://blume.codes) - Blume watches your coding agent sessions locally and turns what it learns into better agent context.
 
 ## 🎙 Audio, Voice & Music
 
@@ -812,6 +817,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Sayscroll](https://sayscroll.com) - SAYSCROLL is an AI teleprompter that follows your voice, so you can speak naturally instead of constantly adjusting your scroll speed.
 - [Prequel](https://prequel.sh) - A macOS screen recorder that hands back a finished video.
 - [FrameOS](https://tryframeos.com) - Record iPhone, iPad and Android app demos on your Mac.
+- [Higgsfield](https://higgsfield.ai) - The ultimate AI-powered camera control for creators by creators.
+- [Atlas by World Labs](https://www.worldlabs.ai/blog/atlas) - Atlas is World Labs' omni world model.
 
 ## 🎨 Image, Design & 3D
 
@@ -901,6 +908,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Doop](https://doop.design) - Doop is an infinite multiplayer canvas where AI agents design beside you.
 - [Stitch AI by Dynamic Mockups](https://dynamicmockups.com/stitch/) - Stitch reads your artwork the way a professional digitizer would - planning stitch direction, density, and pull compensation region by region.
 - [CleanShot](https://getcleanshot.com) - Discover a superior way to capture your Mac's screen with built-in annotation and amazing Quick Access Overlay.
+- [Causal](https://causal.so) - Enabling designers, creators, and founders to plan visual projects on an AI canvas.
 
 ## ✍️ Writing & Content
 
@@ -961,6 +969,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [WIT](https://wit-will-it-travel.vercel.app) - WIT is an AI communication check for founders and global teams.
 - [Murfy AI](https://murfy.ai/en) - Murfy is a team of AI agents for the entire research writing workflow.
 - [Onset.io](http://onset.io) - Write release notes in minutes, or let your AI agent draft them for you.
+- [Tidy](https://greene-squares.github.io/tidy-releases/) - Fix spelling and grammar anywhere on your Mac.
 
 ## 📊 Analytics & Data
 
@@ -1271,6 +1280,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Ulpaso](https://ulpaso.app) - Your meeting-notes app wants the recording, an account, and a card.
 - [Hyperfocus](https://hyperfocus.in) - Hyperfocus is a free, goals-first planner for macOS.
 - [RoundOS](https://roundos.ai/launch) - Stop paying for basic infrastructure.
+- [Tabbit AI](https://www.tabbit.ai) - Tabbit is the AI browser that knows what you’re working on and can get the work done for you.
+- [Omi](https://omi.me) - Omi is a 2nd brain you trust more than your first.
 
 ## 🔎 Search & Discovery
 
@@ -1355,6 +1366,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Yomi](https://www.helloyomi.com) - Yomi is a little cat who gets fed when kids read stories aloud.
 - [God’s Eye View](https://maptheworld.ai) - Mapped the world at Google.
 - [Orato](https://orato.tepoyan.com) - Pick a drill, speak for 30 to 90 seconds, and get scored on pacing, fluency, vocabulary and coherence.
+- [Readr](https://readr-ai.github.io) - Readr is an ebook reader you can talk to.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1581,6 +1593,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [oMLX](https://omlx.ai) - oMLX turns your Mac into a full LLM inference server, run from the menu bar.
 - [deepidv](https://www.deepidv.com) - deepidv is the new standard for Human + AI verification — a cryptographically secured verification engine and agentic compliance suite for risk, fraud, and continuous monitoring.
 - [Dial](https://getdial.ai) - Your agent can deploy in seconds but cannot get a phone number.
+- [ARBR](https://projectarbr.org) - AI stacks are getting more complex with more models, providers, costs, and decisions.
+- [Fillo](https://fillo.so) - Build forms into your product with your coding agent.
 
 ## 💬 Chatbots & Conversational
 
