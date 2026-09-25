@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (164)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (167)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (197)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (337)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (341)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (97)
-- [🎬 Video & Animation](#video-animation) (87)
-- [🎨 Image, Design & 3D](#image-design-3d) (103)
-- [✍️ Writing & Content](#writing-content) (65)
+- [🎬 Video & Animation](#video-animation) (90)
+- [🎨 Image, Design & 3D](#image-design-3d) (105)
+- [✍️ Writing & Content](#writing-content) (66)
 - [📊 Analytics & Data](#analytics-data) (93)
-- [🗂 Productivity & Notes](#productivity-notes) (266)
+- [🗂 Productivity & Notes](#productivity-notes) (268)
 - [🔎 Search & Discovery](#search-discovery) (48)
 - [🎓 Education & Learning](#education-learning) (43)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (40)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (50)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (51)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (163)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (35)
 - [👥 Social & Community](#social-community) (29)
-- [🛒 E-commerce & Retail](#e-commerce-retail) (17)
-- [✨ Everything Else](#everything-else) (129)
+- [🛒 E-commerce & Retail](#e-commerce-retail) (18)
+- [✨ Everything Else](#everything-else) (130)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -192,6 +192,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Dub.co](https://dub.co/partners) - The modern partner growth engine.
 - [Naise AI](https://naise.ai) - Stop babysitting AI's empty text boxes.
 - [Hookest](https://hookest.com) - Hookest tracks the opening seconds of viral TikToks, Reels, and Shorts and makes them searchable with real performance data.
+- [Howseen AI](https://www.howseen.ai) - Your buyers now ask ChatGPT, Gemini and Perplexity which tool or brand to buy.
+- [Quiver GTM](https://www.quivergtm.dev) - Quiver is an agentic developer marketing system for technical founders and dev-tool teams.
+- [RankVyze](https://rankvyze.com) - RankVyze is a product discovery and launch platform with free SEO and AEO tools.
 
 ## 🤖 AI Agents & Assistants
 
@@ -733,6 +736,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Jev State](https://jev-state.vercel.app) - Build and test conversational workflows with Jev.
 - [Harness Manager](https://harnessmanager.devmesh.xyz) - Harness Manager is the App Store and control center for AI coding harnesses on Mac.
 - [Floot](https://floot.com) - Floot Connector plugs Floot into Claude and ChatGPT, so you can describe an app in the chat you already use and get a real full-stack app back with a database, user logins, and a live URL.
+- [Jango](https://usejango.com) - Jango lets you test the parts of your app that need more than one person.
+- [Promptic](https://promptic.eu) - Promptic is the optimization platform for GenAI applications, better quality at lower cost.
+- [Wand](https://wand.dance) - For builders who think faster than they type.
+- [DEV·TV](https://shouvik12.github.io/devtv/) - Most devs check GitHub, Hacker News, DEV and Hugging Face out of habit.
 
 ## 🎙 Audio, Voice & Music
 
@@ -923,6 +930,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Supacut](https://supacut.io) - Review hours of interview footage in minutes.
 - [Flicka](https://tryflicka.com) - Flicka records your screen with cinematic auto-zoom that follows your cursor, lets you polish it on a real timeline, annotate any screenshot, and export MP4, WebM or GIF.
 - [Clueso](https://clueso.io) - Clueso is the fastest and easiest way to create stunning product videos.
+- [SocialGPT](https://app.gpt.social) - Upload your footage and tell SocialGPT what to change.
+- [PixVerse R2](https://world.pixverse.video/home/) - PixVerse R2 is a real-time world model that generates continuously evolving audiovisual worlds instead of fixed video clips.
+- [MiniMax H3](https://minimaxh3.art) - Powered by the Hailuo 3.0 model, MiniMax H3 functions as a streamlined video studio for modern creators. It delivers native 2K resolution video paired with synchronized audio, ensuring high visual….
 
 ## 🎨 Image, Design & 3D
 
@@ -1030,6 +1040,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Edit Text in Image - Keep the Original L](https://edittextinimage.pro) - Edit text in image online with AI.
 - [PixelCrew](https://pixelcrew.ai) - A crew of specialized AI agents coordinates on your brief and ships production-quality design.
 - [Pactto](https://www.pactto.com) - AI generates creative assets faster than ever, but review is the bottleneck.
+- [Squints](https://squints.app) - Squints puts design tools on top of any live web page.
+- [Designeer](https://designeer.xyz) - Explore the Best of the Internet for Builders Designeer is a curated platform bringing the best of the internet together for designers, developers, and builders.
 
 ## ✍️ Writing & Content
 
@@ -1098,6 +1110,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [thestory.run](https://thestory.run) - Your team already has things to say, they just don't know how.
 - [ReWords AI](https://rewordsai.app) - ReWords AI is an AI writing assistant for rewording, rewriting, and polishing content while keeping the original meaning.
 - [ToneBird](https://tonebird.ai) - ToneBird is an AI reply assistant for Mac and Windows.
+- [ShroomPen](https://shroompen.mycelsystem.com) - ShroomPen is a privacy-first browser writing assistant that lets you instantly reply, rewrite, fix grammar, or translate text across any website without sending sensitive data to the cloud.
 
 ## 📊 Analytics & Data
 
@@ -1464,6 +1477,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Decision Script Kit](https://decision-script-kit.surge.sh) - Map mutually exclusive decision futures before you commit.
 - [Scorecard + Builder Under Hard Caps](https://constraint-portfolio-kit.surge.sh) - Free worked scorecard for allocating a fixed budget under hard caps.
 - [NotchPop](https://notchpop.com) - NotchPop turns your MacBook notch into a Dynamic Island: music, a file shelf, clipboard history, focus timer, calendar, weather, AI coding stats and revenue.
+- [Kaiku](https://kaiku.tech/en) - A task tracker and wiki built for teams whose work is increasingly done by AI agents.
+- [Donna](https://donna.shape.new) - Donna lets you combine a sequence of meetings into a single booking link.
 
 ## 🔎 Search & Discovery
 
@@ -1658,6 +1673,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pitchfire for Startups](https://pitchfire.com/startups) - Pitchfire for Startups is a new channel to reach investors.
 - [Creem](https://www.creem.io) - CREEM is the money platform for the AI building era: sell software and digital products globally, with payments, taxes, payouts, affiliates and usage billing handled for you.
 - [ApplySeed](https://applyseed.com) - Raise money from accelerators and programs that give you a clear Yes or NO, instead of another “let’s keep in touch.” Bring what you already have: a deck, your notes, or use our prompt with….
+- [Bleetz Network](https://bleetz.network) - Fundraising is broken.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1914,6 +1930,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Ask My Wardrobe](https://askmywardrobe.com) - Ask My Wardrobe is an AI outfit generator and outfit planner that makes it easier to get dressed, plan better looks, and shop with more confidence.
 - [OpenMarket](https://openmarket.m11.ai) - What if marketplaces rewarded the best product instead of the best marketing?.
 - [Minicart](https://minicart.com/?promo=PH2026) - Minicart helps makers, creators, and resellers launch and run an online store without learning ecommerce software.
+- [Fit Receipt](https://nude-virtual-showroom.vercel.app/fitting-room) - Try on lingerie virtually; every pick has an AI judgment receipt.
 
 ## ✨ Everything Else
 
@@ -2046,6 +2063,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Robot Recipes](https://robotrecipes.co) - Robot Recipes has thousands of real food recipes for humans, created by AI.
 - [Lightmeter](https://shotonlightmeter.com) - A real light meter when you carry film, and a film camera when you don't.
 - [Moxo AI - Hardware & Software Innovation](https://moxoai.com) - AI-powered workflow automation platform for teams using Moxo AI.
+- [10xJoy](https://10xjoy.com) - Meet Joy, your free AI business matchmaker.
 
 ## Contributing
 
