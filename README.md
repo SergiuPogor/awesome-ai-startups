@@ -7,23 +7,23 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (168)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (171)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (197)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (343)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (345)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (98)
-- [🎬 Video & Animation](#video-animation) (90)
-- [🎨 Image, Design & 3D](#image-design-3d) (106)
-- [✍️ Writing & Content](#writing-content) (66)
-- [📊 Analytics & Data](#analytics-data) (93)
-- [🗂 Productivity & Notes](#productivity-notes) (270)
+- [🎬 Video & Animation](#video-animation) (91)
+- [🎨 Image, Design & 3D](#image-design-3d) (110)
+- [✍️ Writing & Content](#writing-content) (67)
+- [📊 Analytics & Data](#analytics-data) (94)
+- [🗂 Productivity & Notes](#productivity-notes) (275)
 - [🔎 Search & Discovery](#search-discovery) (48)
 - [🎓 Education & Learning](#education-learning) (43)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (40)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (41)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (51)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (164)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (35)
 - [👥 Social & Community](#social-community) (30)
-- [🛒 E-commerce & Retail](#e-commerce-retail) (19)
+- [🛒 E-commerce & Retail](#e-commerce-retail) (20)
 - [✨ Everything Else](#everything-else) (131)
 
 ## 📣 Marketing, SEO & Sales
@@ -196,6 +196,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Quiver GTM](https://www.quivergtm.dev) - Quiver is an agentic developer marketing system for technical founders and dev-tool teams.
 - [RankVyze](https://rankvyze.com) - RankVyze is a product discovery and launch platform with free SEO and AEO tools.
 - [GoodSocials](https://goodsocials.co) - AI social media manager for LinkedIn.
+- [Okara](https://okara.ai) - Okara is an AI CMO.
+- [SaleSmartly](https://www.salesmartly.com/en) - SaleSmartly brings customer conversations from WhatsApp, Instagram, Messenger, TikTok, Telegram, LINE, WeChat and more into one workspace.
+- [AIProductAds](https://aiproductads.app) - Marketing managers and online store operators can turn to AIProductAds to generate commercial video ads and product visuals.
 
 ## 🤖 AI Agents & Assistants
 
@@ -743,6 +746,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [DEV·TV](https://shouvik12.github.io/devtv/) - Most devs check GitHub, Hacker News, DEV and Hugging Face out of habit.
 - [Chit](https://chit.zopcloud.zop.dev) - Chit reads the Claude Code transcripts already on your disk and prints the day back as a receipt, grouped by project and ready to paste into a standup.
 - [AI Agent Skills](https://aiagentskills.net) - Developers working in terminal environments can leverage AI Agent Skills to identify reusable skills for their assistants.
+- [Harness Router](https://harness-router.vercel.app) - Harness Router is a decision layer for AI coding agents that makes tool selection faster, cheaper, and more reliable before execution.
+- [CybeDefend](https://cybedefend.com) - CybeDefend secures the code your AI agent writes, from inside the agent.
 
 ## 🎙 Audio, Voice & Music
 
@@ -937,6 +942,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SocialGPT](https://app.gpt.social) - Upload your footage and tell SocialGPT what to change.
 - [PixVerse R2](https://world.pixverse.video/home/) - PixVerse R2 is a real-time world model that generates continuously evolving audiovisual worlds instead of fixed video clips.
 - [MiniMax H3](https://minimaxh3.art) - Powered by the Hailuo 3.0 model, MiniMax H3 functions as a streamlined video studio for modern creators. It delivers native 2K resolution video paired with synchronized audio, ensuring high visual….
+- [FlashVSR](https://flashvsr.com) - FlashVSR is an online AI video super-resolution tool.
 
 ## 🎨 Image, Design & 3D
 
@@ -1047,6 +1053,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Squints](https://squints.app) - Squints puts design tools on top of any live web page.
 - [Designeer](https://designeer.xyz) - Explore the Best of the Internet for Builders Designeer is a curated platform bringing the best of the internet together for designers, developers, and builders.
 - [PicVerb](https://ai-image-changer.com) - Free AI image changer to edit and transform photos online.
+- [Shotcandy](https://shotcandy.app) - Paste a screenshot.
+- [EditTextInImage](https://edittextinimage.com) - EditTextInImage changes text inside finished PNG, JPEG, or WebP images without Photoshop.
+- [Soutine AI](https://soutine.ai) - Soutine AI is an image and video creation workspace with large free prompt libraries.
+- [ImageSplit](https://imagesplit.net) - ImageSplit is a free online image splitter that divides any photo into equal tiles for Instagram, posters, and print.
 
 ## ✍️ Writing & Content
 
@@ -1116,6 +1126,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ReWords AI](https://rewordsai.app) - ReWords AI is an AI writing assistant for rewording, rewriting, and polishing content while keeping the original meaning.
 - [ToneBird](https://tonebird.ai) - ToneBird is an AI reply assistant for Mac and Windows.
 - [ShroomPen](https://shroompen.mycelsystem.com) - ShroomPen is a privacy-first browser writing assistant that lets you instantly reply, rewrite, fix grammar, or translate text across any website without sending sensitive data to the cloud.
+- [Lattice](https://lattice.aryy.in) - Lattice reshapes your text through multiple language paths, creating a fresh expression while preserving the original idea.
 
 ## 📊 Analytics & Data
 
@@ -1213,6 +1224,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [TinyKPI](https://tinykpi.app) - Connect the tools you already usefrom Stripe and PostHog to Google Analytics and your own database.
 - [Pinlytix · Pinterest analytics dashboard](https://pinlytix.com) - Pinterest analytics dashboard that helps creators, bloggers and digital product sellers rank, compare and understand their performance.
 - [Anomalo](https://www.anomalo.com/anomalo-analyst/) - Your data changes constantly.
+- [Statable Analytics](https://statable.com) - Statable is web analytics built for humans and AI agents.
 
 ## 🗂 Productivity & Notes
 
@@ -1486,6 +1498,11 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Donna](https://donna.shape.new) - Donna lets you combine a sequence of meetings into a single booking link.
 - [Paragraph Notes](https://paragraphnotes.md) - Paragraph Notes is a privacy-focused Markdown notes app for Mac.
 - [Hemory](https://www.hemory.com) - Hemory comes from Hear + Memory.
+- [Mochi](https://nickmorefun.itch.io/mochi) - Mochi is a little pink blob who lives on your Mac.
+- [MuM](https://mum.jiker.ai) - Your Markdown lives in a dozen folders.
+- [Ryu Journal](https://www.tryryu.com) - Ryu means "flow" in Japanese.
+- [Stash](https://stashformac.com) - Stash gives your Mac hidden controls that feel like they’ve always belonged there.
+- [Vitals ](https://vitalsmac.com) - Activity Monitor lists a thousand processes, a hundred of them called Google Chrome Helper.
 
 ## 🔎 Search & Discovery
 
@@ -1627,6 +1644,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Maaa](https://www.maaa.app) - Meet Maaa, a familiar face in your Mac’s notch.
 - [Lull](https://lullme.app) - Lull doesn't play recordings.
 - [Mantra Timer](https://mantratimer.app) - Mantra Meditation Timer rejects the bloated tracking of modern wellness apps.
+- [ADHD Reading](https://adhdreading.org) - ADHD Reading keeps things simple with transparent pricing and no hidden costs.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -1941,6 +1959,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Minicart](https://minicart.com/?promo=PH2026) - Minicart helps makers, creators, and resellers launch and run an online store without learning ecommerce software.
 - [Fit Receipt](https://nude-virtual-showroom.vercel.app/fitting-room) - Try on lingerie virtually; every pick has an AI judgment receipt.
 - [Psst](https://getpsst.app) - Psst is a shared shopping list.
+- [ProductShot AI](https://productshotai.app) - Retailers managing storefronts on Amazon, Etsy, and Shopify can deploy ProductShot AI to generate multiple listing images from a single upload.
 
 ## ✨ Everything Else
 
