@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (171)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (197)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (172)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (198)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (345)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (98)
-- [🎬 Video & Animation](#video-animation) (91)
-- [🎨 Image, Design & 3D](#image-design-3d) (110)
+- [🎬 Video & Animation](#video-animation) (93)
+- [🎨 Image, Design & 3D](#image-design-3d) (111)
 - [✍️ Writing & Content](#writing-content) (67)
-- [📊 Analytics & Data](#analytics-data) (94)
-- [🗂 Productivity & Notes](#productivity-notes) (275)
+- [📊 Analytics & Data](#analytics-data) (96)
+- [🗂 Productivity & Notes](#productivity-notes) (277)
 - [🔎 Search & Discovery](#search-discovery) (48)
-- [🎓 Education & Learning](#education-learning) (43)
+- [🎓 Education & Learning](#education-learning) (44)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (41)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (51)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (164)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (52)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (166)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (35)
 - [👥 Social & Community](#social-community) (30)
-- [🛒 E-commerce & Retail](#e-commerce-retail) (20)
-- [✨ Everything Else](#everything-else) (131)
+- [🛒 E-commerce & Retail](#e-commerce-retail) (21)
+- [✨ Everything Else](#everything-else) (133)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -199,6 +199,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Okara](https://okara.ai) - Okara is an AI CMO.
 - [SaleSmartly](https://www.salesmartly.com/en) - SaleSmartly brings customer conversations from WhatsApp, Instagram, Messenger, TikTok, Telegram, LINE, WeChat and more into one workspace.
 - [AIProductAds](https://aiproductads.app) - Marketing managers and online store operators can turn to AIProductAds to generate commercial video ads and product visuals.
+- [ZenABM](https://zenabm.com/ai) - Ditch copy-pasting into Campaign Manager!.
 
 ## 🤖 AI Agents & Assistants
 
@@ -399,6 +400,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Solid](https://solid.tech) - Solid’s AI agents build apps, automate workflows and tackle work you lack the time or expertise for.
 - [NOAN](https://getnoan.com) - Build & automate your business with NOAN's AI knowledge system.
 - [Jev AI — AI for clearer decisions](https://jevai2.com) - Jev AI turns context, constraints, and choices into a clear recommendation—with the reasoning to back it up.
+- [Timeless](https://www.timeless.day) - The first platform where your conversations build your agents.
 
 ## 💻 Coding & Developer Tools
 
@@ -943,6 +945,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PixVerse R2](https://world.pixverse.video/home/) - PixVerse R2 is a real-time world model that generates continuously evolving audiovisual worlds instead of fixed video clips.
 - [MiniMax H3](https://minimaxh3.art) - Powered by the Hailuo 3.0 model, MiniMax H3 functions as a streamlined video studio for modern creators. It delivers native 2K resolution video paired with synchronized audio, ensuring high visual….
 - [FlashVSR](https://flashvsr.com) - FlashVSR is an online AI video super-resolution tool.
+- [Arsaze](https://www.arsaze.com) - Arsaze is the AI video editor for agents and humans — think Cursor for video editing.
+- [MiniMax H3 - Create 2K AI Videos from Te](https://minimax-h3.com) - Create 4–15 second videos with MiniMax H3 from text, frames, and multimodal references.
 
 ## 🎨 Image, Design & 3D
 
@@ -1057,6 +1061,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [EditTextInImage](https://edittextinimage.com) - EditTextInImage changes text inside finished PNG, JPEG, or WebP images without Photoshop.
 - [Soutine AI](https://soutine.ai) - Soutine AI is an image and video creation workspace with large free prompt libraries.
 - [ImageSplit](https://imagesplit.net) - ImageSplit is a free online image splitter that divides any photo into equal tiles for Instagram, posters, and print.
+- [Imejis.io](https://www.imejis.io/agents) - Your AI agent writes the copy.
 
 ## ✍️ Writing & Content
 
@@ -1225,6 +1230,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pinlytix · Pinterest analytics dashboard](https://pinlytix.com) - Pinterest analytics dashboard that helps creators, bloggers and digital product sellers rank, compare and understand their performance.
 - [Anomalo](https://www.anomalo.com/anomalo-analyst/) - Your data changes constantly.
 - [Statable Analytics](https://statable.com) - Statable is web analytics built for humans and AI agents.
+- [Engine Room Media](https://engineroommedia.com) - Built for Creator growth, Engine Room brings all of your platform analytics, media kit, and rate cards together in one easy to use dashboard.
+- [Would you pay?](https://iwouldpay.dev) - Most side projects fail quietly: months of building, then nobody pays.
 
 ## 🗂 Productivity & Notes
 
@@ -1503,6 +1510,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Ryu Journal](https://www.tryryu.com) - Ryu means "flow" in Japanese.
 - [Stash](https://stashformac.com) - Stash gives your Mac hidden controls that feel like they’ve always belonged there.
 - [Vitals ](https://vitalsmac.com) - Activity Monitor lists a thousand processes, a hundred of them called Google Chrome Helper.
+- [Semos.ai Manager Agents](https://semos.ai) - Manager Agents learn from your meetings, then point you to what needs your attention next: the feedback that is overdue, the recognition you missed, the conflict you are avoiding, the growth talk….
+- [LUCI Desktop](https://luci.memories.ai) - Luci saves your screen history and meeting transcripts locally, so agents like Claude Code, Cursor and Codex can help you find a page you forgot to bookmark or recall a decision from a call.
 
 ## 🔎 Search & Discovery
 
@@ -1601,6 +1610,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [YABAI](https://yabai-app.pages.dev) - Textbooks teach Japanese that stops at the classroom door.
 - [Keet](https://trykeet.com) - Learn anything with interactive video courses on any topic.
 - [Storytailor®](https://www.storytailor.com) - Storytailor helps families, educators and care teams turn children’s ideas and original drawings into recurring characters and illustrated stories.
+- [Curie](https://www.curieai.tech) - Curie is an AI research assistant built for real scientific work, not a generalist chatbot.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1699,6 +1709,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Creem](https://www.creem.io) - CREEM is the money platform for the AI building era: sell software and digital products globally, with payments, taxes, payouts, affiliates and usage billing handled for you.
 - [ApplySeed](https://applyseed.com) - Raise money from accelerators and programs that give you a clear Yes or NO, instead of another “let’s keep in touch.” Bring what you already have: a deck, your notes, or use our prompt with….
 - [Bleetz Network](https://bleetz.network) - Fundraising is broken.
+- [Supertake](https://supertake.com) - Supertake transforms your unique takes on the world into real, shareable investment portfolios using frontier AI and trading agents.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1866,6 +1877,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Opencontroller by lyzr](https://www.lyzr.ai/opencontroller/) - AI agents are sprawling across clouds, SaaS tools, Kubernetes, and devices, with no common layer to govern them.
 - [Maximem Synap](https://maximem.ai/synap/) - Maximem Synap is memory and context infrastructure for AI agents, so every conversation does not start from zero.
 - [Eclatira](https://eclatira.com) - Plug real-time conversational video AI into any application.
+- [Hopscotch AI](https://www.hopscotchlabs.ai) - Access 500+ AI models from OpenAI, Anthropic, Google, and more through one API.
+- [iFixAi](https://www.ifixai.ai) - iFixAi is an independent auditor helping companies assess whether they can trust their AI agents.
 
 ## 💬 Chatbots & Conversational
 
@@ -1960,6 +1973,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Fit Receipt](https://nude-virtual-showroom.vercel.app/fitting-room) - Try on lingerie virtually; every pick has an AI judgment receipt.
 - [Psst](https://getpsst.app) - Psst is a shared shopping list.
 - [ProductShot AI](https://productshotai.app) - Retailers managing storefronts on Amazon, Etsy, and Shopify can deploy ProductShot AI to generate multiple listing images from a single upload.
+- [Keepp](https://keepp.link) - Keepp gives you one page at keepp.link/yourname with your links, a shop with Stripe checkout, a booking calendar and forms. Free to start, and the money from a sale goes to your own Stripe….
 
 ## ✨ Everything Else
 
@@ -2094,6 +2108,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Moxo AI - Hardware & Software Innovation](https://moxoai.com) - AI-powered workflow automation platform for teams using Moxo AI.
 - [10xJoy](https://10xjoy.com) - Meet Joy, your free AI business matchmaker.
 - [Kleanly](https://haidernawaz8.gumroad.com/l/tiyffv) - Kleanly lives in your MacBook's notch.
+- [Gladys Assistant](http://gladysassistant.com) - A privacy-first, open-source home assistant powered by a #RaspberryPi.
+- [Pokébinder](https://pokebinder.xyz) - A free binder planner for Pokémon TCG collectors.
 
 ## Contributing
 
